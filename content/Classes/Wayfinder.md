@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: LiMap
 ---
 # Overview
 The Wayfinder is all about mobility and movement and scouting.

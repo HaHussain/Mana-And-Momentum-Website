@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: RaCog
 ---
 # Overview
 Tinkers are technological minded, creating custom items and unlocking potential where there is none.

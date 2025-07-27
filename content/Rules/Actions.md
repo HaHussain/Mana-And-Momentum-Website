@@ -1,3 +1,6 @@
+---
+icon: LiLayoutList
+---
 Every player starts with 2 actions per round. This means players have 2 turns per round.
 Each action the player takes a has an tempo and that action occurs at that tempo.
 Each player has movement that they can use on each of their turns, this is called their normal move.

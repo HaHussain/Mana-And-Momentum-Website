@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: RaHood
 ---
 # Overview
 Rogues are all about stealth and often criminal networks

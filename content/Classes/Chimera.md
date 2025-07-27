@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: RaWolfHead
 ---
 # Overview
 Chimera is about partial and full animal transformations and communication with beasts.

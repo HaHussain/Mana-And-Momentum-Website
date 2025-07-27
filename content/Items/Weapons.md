@@ -1,3 +1,7 @@
+---
+tags: 
+icon: LiSwords
+---
 # Melee Weapons
 
 | Item Name    | Damage | Tags                           | Weapon Focus 1                    | Weapon Focus 2                                                      |

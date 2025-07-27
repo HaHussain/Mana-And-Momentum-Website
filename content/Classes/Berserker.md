@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: RaAxe
 ---
 # Overview
 Berserkers are offensive based, lose control to gain benefits, take penalties to gain benefits. Reckless.

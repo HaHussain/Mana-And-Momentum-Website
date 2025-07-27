@@ -1,3 +1,6 @@
+---
+icon: RiArrowGoForwardLine
+---
 Reactions are actions you can take any turn, including turns that are not yours.
 
 When a trigger occurs for a Reaction you know, 

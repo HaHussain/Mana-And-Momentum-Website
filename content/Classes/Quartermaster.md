@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: LiPickaxe
 ---
 # Overview
 Quartermaster is specialised on being armed with a lot of tools and being able to pick up items easily.

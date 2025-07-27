@@ -1,6 +1,7 @@
 ---
 tags:
   - Class
+icon: RaKnightHelmet
 ---
 # Overview
 Knight is a simple class of weapon and armour mastery and doing more with them. Knight has put more effort in practice.

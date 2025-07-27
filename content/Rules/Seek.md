@@ -1,3 +1,6 @@
+---
+icon: LiEye
+---
 Seek is the range around your character that they can effectively use their abilities.
 
 Your default Seek is:
