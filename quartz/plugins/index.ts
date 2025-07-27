@@ -42,6 +42,7 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   return staticResources
 }
 
+export { default as wikilinkIconer } from "./transformers/wikilink-iconer";
 export * from "./transformers"
 export * from "./filters"
 export * from "./emitters"
