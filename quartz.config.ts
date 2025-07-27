@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-UK",
+    locale: "en-US",
     baseUrl: "HaHussain.github.io/Mana-And-Momentum-Website",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
