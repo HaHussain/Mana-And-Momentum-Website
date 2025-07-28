@@ -30,7 +30,14 @@ function convertIconKey(key: string): string {
   return baseClass ? `${baseClass} ${baseClass}-${kebabRest}` : kebabRest;
 }
 
-const wikilinkIconer: QuartzTransformerPlugin = () => {
+function getLucideIconUrl(iconClass: string): string | null {
+  const match = iconClass.match(/lucide-([a-z-]+)/)
+  if (!match) return null
+  const iconName = match[1]
+  return `https://cdn.jsdelivr.net/npm/lucide-static@0.263.0/icons/${iconName}.svg`
+}
+
+export const wikilinkIconer: QuartzTransformerPlugin = () => {
   let slugIconMap: FileSlugMap = {}
   
   return {
@@ -150,14 +157,42 @@ const wikilinkIconer: QuartzTransformerPlugin = () => {
                   console.log(`[iconer:html] Found icon classes: '${iconClass}' via key '${matchedKey}'`)
                   
                   // Create icon element
-                  const iconNode: Element = {
-                    type: "element",
-                    tagName: "i",
-                    properties: { 
-                      className: iconClass.split(" ")
-                    },
-                    children: [],
-                  }
+const classes = iconClass.split(" ")
+const lucideUrl = classes.includes('lucide') ? getLucideIconUrl(iconClass) : null
+
+let iconNode: Element
+if (lucideUrl) {
+  // Create span with background image
+  iconNode = {
+    type: "element",
+    tagName: "span",
+    properties: { 
+      className: ["lucide-icon", "icon", ...classes],
+      style: `
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-color: currentColor;
+        mask-image: url("${lucideUrl}");
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+        vertical-align: middle;
+      `
+    },
+    children: [],
+  }
+} else {
+  // Standard icon element for other libraries
+  iconNode = {
+    type: "element",
+    tagName: "i",
+    properties: { 
+      className: classes
+    },
+    children: [],
+  }
+}
                   
                   // Create text node for spacing
                   const spaceNode = { type: "text", value: " " } as const
@@ -189,37 +224,8 @@ const wikilinkIconer: QuartzTransformerPlugin = () => {
       ]
     },
     
-    externalResources() {
-      return {
-        css: [
-          { src: "https://cdn.jsdelivr.net/npm/lucide-static@latest/dist/lucide.css" },
-          { src: "https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" },
-          { src: "https://cdn.jsdelivr.net/npm/rpg-awesome/css/rpg-awesome.min.css" },
-          { 
-            text: `
-              a.internal i {
-                display: inline-flex;
-                align-items: center;
-                margin-right: 0.25em;
-                vertical-align: middle;
-                width: 1em;
-                height: 1em;
-              }
-              
-              .ra {
-                font-size: 1.2em;
-                line-height: 1;
-              }
-            `
-          }
-        ],
-      }
-    },
-    
     afterAllPlugins() {
       slugIconMap = {}
     }
   }
 }
-
-export default wikilinkIconer

@@ -1,0 +1,57 @@
+@use "../../node_modules/rpg-awesome/scss/rpg-awesome.scss";
+@use "../../node_modules/remixicon/fonts/remixicon.scss";
+@use "../../node_modules/lucide-static/font/lucide.scss";
+
+@font-face {
+	font-family: 'RPGAwesome';
+	src: url('https://cdnjs.cloudflare.com/ajax/libs/rpg-awesome/0.2.0/fonts/rpgawesome-webfont.svg') format('svg'), 
+		 url('https://cdnjs.cloudflare.com/ajax/libs/rpg-awesome/0.2.0/fonts/rpgawesome-webfont.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'remixicon';
+	src: url('https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.ttf') format('truetype'),
+		 url('https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.woff') format('woff'),
+ 		 url('https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.woff2') format('woff2');
+}
+
+/* Lucide icon styling */
+a.internal .lucide-icon {
+  margin-right: 0.25em;
+  
+  /* Ensure proper color inheritance */
+  background-color: currentColor !important;
+  
+  /* Fallback for older browsers */
+  background-image: var(--lucide-fallback);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Modern browser support */
+@supports (mask-image: url(#)) {
+  a.internal .lucide-icon {
+    background-image: none !important;
+    background-color: currentColor;
+    mask-image: var(--lucide-mask);
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+  }
+}
+
+/* Fix link background */
+a.internal {
+  display: inline-flex;
+  align-items: center;
+  background: var(--highlight);
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
+  text-decoration: none !important;
+}
+
+/* Ensure proper spacing */
+a.internal > *:first-child {
+  margin-right: 0.25em;
+}
