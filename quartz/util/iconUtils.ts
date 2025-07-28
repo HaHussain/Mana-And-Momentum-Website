@@ -18,7 +18,7 @@ export function initIconMap(files: QuartzPluginData[]) {
             
             keys.forEach(key => {
                 if (key && !iconMap.has(key)) {
-                    iconMap.set(key, icon)
+                    iconMap.set(key, normalizeIcon(icon))
                 }
             })
         }
