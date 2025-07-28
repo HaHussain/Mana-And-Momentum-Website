@@ -20,6 +20,35 @@ type FolderState = {
   collapsed: boolean
 }
 
+const prefixMap: Record<string, string> = {
+  Ra: "ra",
+  Li: "lucide",
+  Ri: "ri",
+};
+
+// Add camelToKebab and normalizeIcon functions
+function camelToKebab(str: string): string {
+  return str
+    .replace(/([a-z0-9])([A-Z])/g, "$1-$2")
+    .replace(/([A-Z])([A-Z][a-z])/g, "$1-$2")
+    .toLowerCase();
+}
+
+function normalizeIcon(icon: string): { prefix: string; name: string } {
+  // Check colon format first (recommended)
+  if (icon.includes(':')) {
+    const [prefix, name] = icon.split(':')
+    return { prefix, name }
+  }
+  
+  // Handle legacy format (RaTargeted)
+  const prefixKey = icon.slice(0, 2)
+  const prefix = prefixMap[prefixKey] || prefixKey.toLowerCase()
+  const name = camelToKebab(icon.slice(2))
+
+  return { prefix, name }
+}
+
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
@@ -76,11 +105,13 @@ function toggleFolder(evt: MouseEvent) {
 function renderIcon(icon?: string): string {
   if (!icon) return '<i class="ri-file-line"></i>'
   
-  const [prefix, iconName] = icon.split(':')
+  const { prefix, name } = normalizeIcon(icon)
+  
   if (prefix === 'lucide') {
-    return `<svg class="lucide-icon" width="1em" height="1em"><use href="/lucide.svg#${iconName}"></use></svg>`
+    return `<svg class="lucide-icon" width="1em" height="1em"><use href="/lucide.svg#${name}"></use></svg>`
   }
-  return `<i class="${prefix} ${prefix}-${iconName}"></i>`
+  
+  return `<i class="${prefix} ${prefix}-${name}"></i>`
 }
 
 // UPDATED: Added icon rendering to file nodes
