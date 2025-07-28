@@ -5,11 +5,13 @@ interface FileTrieData {
   slug: string
   title: string
   filePath: string
+  icon?: string
 }
 
 export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   isFolder: boolean
   children: Array<FileTrieNode<T>>
+  icon: string | null
 
   private slugSegments: string[]
   // prefer showing the file path segment over the slug segment
@@ -25,6 +27,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     this.data = data ?? null
     this.isFolder = false
     this.displayNameOverride = undefined
+    this.icon = data?.icon || null;
   }
 
   get displayName(): string {
@@ -70,8 +73,10 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
       // base case, we are at the end of the path
       if (segment === "index") {
         this.data ??= file
+        this.icon = file.icon || null
       } else {
-        this.makeChild(path, file)
+        const child = this.makeChild(path, file)
+        child.icon = file.icon || null
       }
     } else if (path.length > 1) {
       // recursive case, we are not at the end of the path

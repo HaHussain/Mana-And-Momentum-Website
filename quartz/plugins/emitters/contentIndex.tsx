@@ -20,6 +20,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  icon?: string
 }
 
 interface Options {
@@ -100,9 +101,15 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
     async *emit(ctx, content) {
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
+      
+      // Collect all files for icon map initialization
+      const allFiles: QuartzPluginData[] = []
+      
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
+        allFiles.push(file)  // Collect for icon initialization
+        
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
             slug,
@@ -116,9 +123,13 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             description: file.data.description ?? "",
+            icon: file.data.frontmatter?.icon,
           })
         }
       }
+      
+      // Initialize icon map with all collected files
+      initIconMap(allFiles)
 
       if (opts?.enableSiteMap) {
         yield write({
@@ -144,13 +155,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           // remove description and from content index as nothing downstream
           // actually uses it. we only keep it in the index as we need it
           // for the RSS feed
-          delete content.description
-          delete content.date
-          return [slug, content]
+          const { description, date, ...rest } = content
+          return [slug, rest]
         }),
       )
-      
-      initIconMap(Object.values(contentIndex))
 
       yield write({
         ctx,

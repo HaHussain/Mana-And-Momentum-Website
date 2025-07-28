@@ -1,37 +1,26 @@
 import { JSX } from "preact"
 
-export function IconElement({ icon }: { icon: string }) {
-  const prefix = icon.slice(0, 2)
-  const iconName = icon.slice(2)
+export function IconElement({ icon, className }: { icon: string; className?: string }) {
+  const [prefix, iconName] = icon.split(':')
+  
+  if (prefix === 'lucide') {
+    return <LucideIcon name={iconName} className={className} />
+  }
   
   return (
-    <span class="icon-wrapper">
-      {prefix === "Li" ? (
-        <LucideIcon name={iconName} />
-      ) : (
-        <i class={`${prefix.toLowerCase()} ${prefix.toLowerCase()}-${iconName}`}></i>
-      )}
-    </span>
+    <i class={`${prefix} ${prefix}-${iconName} ${className || ''}`}></i>
   )
 }
 
-function LucideIcon({ name }: { name: string }) {
-  const url = `https://cdn.jsdelivr.net/npm/lucide-static@0.263.0/icons/${name}.svg`
-  
+function LucideIcon({ name, className }: { name: string; className?: string }) {
   return (
-    <span
-      class="lucide-icon"
-      style={`
-        display: inline-block;
-        width: 1em;
-        height: 1em;
-        background-color: currentColor;
-        mask-image: url("${url}");
-        mask-size: contain;
-        mask-repeat: no-repeat;
-        mask-position: center;
-        vertical-align: middle;
-      `}
-    ></span>
+    <svg 
+      width="1em" 
+      height="1em" 
+      class={`lucide-icon ${className || ''}`}
+      style="vertical-align: middle;"
+    >
+      <use href={`/lucide.svg#${name}`}></use>
+    </svg>
   )
 }

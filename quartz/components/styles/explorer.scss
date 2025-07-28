@@ -268,3 +268,28 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     overscroll-behavior: none;
   }
 }
+
+.explorer .file-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.5rem;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  
+  i, svg {
+    font-size: 0.95em;
+    width: 1em;
+    height: 1em;
+  }
+}
+
+// Lucide icon styling
+.explorer .lucide-icon {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

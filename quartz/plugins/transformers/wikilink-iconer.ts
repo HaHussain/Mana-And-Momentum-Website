@@ -59,15 +59,12 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
             const iconName = file.data.frontmatter.icon as string | undefined
             
             if (!iconName) {
-              console.log(`[iconer:markdown] No icon for ${filePath}`)
               return
             }
             
             // Convert icon name to CSS classes
             const iconClass = convertIconKey(iconName)
-            console.log(`[iconer:markdown] Converted '${iconName}' → '${iconClass}'`)
             
-            // Create multiple access keys
             const keys = [
               slug.toLowerCase(),
               filePath.replace(/\.md$/, "").toLowerCase(),
@@ -76,12 +73,9 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
               filePath.replace(/\.md$/, "").toLowerCase().replace(/[^a-z0-9]/g, "")
             ]
             
-            console.log(`[iconer:markdown] Adding keys: ${keys.join(", ")}`)
-            
             keys.forEach(key => {
               if (key && !slugIconMap[key]) {
                 slugIconMap[key] = iconClass
-                console.log(`[iconer:markdown] Mapped '${key}' → '${iconClass}'`)
               }
             })
           } catch (e) {
@@ -95,8 +89,6 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
       return [
         () => (tree: Root, file) => {
           try {
-            console.log(`[iconer:html] Building HTML for: ${file.data.filePath}`)
-            console.log(`[iconer:html] SlugIconMap entries: ${Object.keys(slugIconMap).length}`)
             
             visit(tree, "element", (node: Element) => {
               try {
@@ -106,11 +98,8 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                   typeof node.properties?.["href"] === "string"
                 ) {
                   const href = node.properties.href as string
-                  console.log(`[iconer:html] Processing link: ${href}`)
                   
-                  // Skip anchor links
                   if (href.startsWith("#")) {
-                    console.log(`[iconer:html] Skipping anchor link: ${href}`)
                     return
                   }
                   
@@ -135,8 +124,6 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                     path.basename(cleanHref).replace(/^-+/, "")
                   ]
                   
-                  console.log(`[iconer:html] Lookup keys: ${lookupKeys.join(", ")}`)
-                  
                   // Find first matching icon
                   let iconClass: string | undefined
                   let matchedKey: string | undefined
@@ -154,64 +141,51 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                     return
                   }
                   
-                  console.log(`[iconer:html] Found icon classes: '${iconClass}' via key '${matchedKey}'`)
-                  
                   // Create icon element
-const classes = iconClass.split(" ")
-const lucideUrl = classes.includes('lucide') ? getLucideIconUrl(iconClass) : null
+					const classes = iconClass.split(" ")
+					const lucideUrl = classes.includes('lucide') ? getLucideIconUrl(iconClass) : null
 
-let iconNode: Element
-if (lucideUrl) {
-  // Create span with background image
-  iconNode = {
-    type: "element",
-    tagName: "span",
-    properties: { 
-      className: ["lucide-icon", "icon", ...classes],
-      style: `
-        display: inline-block;
-        width: 1em;
-        height: 1em;
-        background-color: currentColor;
-        mask-image: url("${lucideUrl}");
-        mask-size: contain;
-        mask-repeat: no-repeat;
-        mask-position: center;
-        vertical-align: middle;
-      `
-    },
-    children: [],
-  }
-} else {
-  // Standard icon element for other libraries
-  iconNode = {
-    type: "element",
-    tagName: "i",
-    properties: { 
-      className: classes
-    },
-    children: [],
-  }
-}
+					let iconNode: Element
+					if (lucideUrl) {
+					  // Create span with background image
+					  iconNode = {
+						type: "element",
+						tagName: "span",
+						properties: { 
+						  className: ["lucide-icon", "icon", ...classes],
+						  style: `
+							display: inline-block;
+							width: 1em;
+							height: 1em;
+							background-color: currentColor;
+							mask-image: url("${lucideUrl}");
+							mask-size: contain;
+							mask-repeat: no-repeat;
+							mask-position: center;
+							vertical-align: middle;
+						  `
+						},
+						children: [],
+					  }
+					} else {
+					  // Standard icon element for other libraries
+					  iconNode = {
+						type: "element",
+						tagName: "i",
+						properties: { 
+						  className: classes
+						},
+						children: [],
+					  }
+					}
                   
-                  // Create text node for spacing
                   const spaceNode = { type: "text", value: " " } as const
                   
-                  // Create a copy of existing children
                   const existingChildren = [...node.children]
                   
                   // Insert icon at the beginning
                   node.children = [iconNode, spaceNode, ...existingChildren]
                   
-                  // Debug: verify insertion
-                  console.log(`[iconer:html] Updated children count: ${node.children.length}`)
-                  console.log(`[iconer:html] First child type: ${node.children[0].type}`)
-                  // Temporary debug: log the entire link node
-					console.log(`[iconer:html] Modified link node:`, JSON.stringify({
-					  tagName: node.tagName,
-					  properties: node.properties,
-					  children: node.children.slice(0, 2) // Only show first two children
-					}, null, 2))
                 }
               } catch (e) {
                 console.error(`[iconer:html] Element error:`, e)

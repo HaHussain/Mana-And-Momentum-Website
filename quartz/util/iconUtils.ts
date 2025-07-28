@@ -1,24 +1,33 @@
 import { QuartzPluginData } from "../plugins/vfile"
 
-// Global icon map cache
-let iconMap: Record<string, string> = {}
+const iconMap: Map<string, string> = new Map()
 
 export function initIconMap(files: QuartzPluginData[]) {
-  iconMap = {}
-  files.forEach(file => {
-    if (file.frontmatter?.icon) {
-      const slug = file.slug!
-      iconMap[slug] = file.frontmatter.icon
-      // Add alternative keys
-      iconMap[file.filePath!.replace(/\.md$/, "")] = file.frontmatter.icon
-      iconMap[file.filePath!.split("/").pop()!.replace(/\.md$/, "")] = file.frontmatter.icon
-    }
-  })
+    files.forEach(file => {
+        if (file.data.frontmatter?.icon) {
+            const icon = file.data.frontmatter.icon
+            const keys = [
+                file.data.slug!,
+                file.data.filePath!.replace(/\.md$/, ""),
+                file.data.filePath!.split("/").pop()!.replace(/\.md$/, ""),
+                file.data.slug!.toLowerCase(),
+                file.data.slug!.replace(/\s+/g, "-"),
+                file.data.slug!.replace(/\s+/g, "-").toLowerCase()
+            ]
+            
+            keys.forEach(key => {
+                if (key && !iconMap.has(key)) {
+                    iconMap.set(key, icon)
+                }
+            })
+        }
+    })
+    console.log("Item Map:", iconMap)
 }
 
 export function getIconForSlug(slug: string): string | undefined {
-  return iconMap[slug] || 
-         iconMap[slug.toLowerCase()] || 
-         iconMap[slug.replace(/\s+/g, "-")] ||
-         iconMap[slug.replace(/\s+/g, "-").toLowerCase()]
+    return iconMap.get(slug) || 
+           iconMap.get(slug.toLowerCase()) || 
+           iconMap.get(slug.replace(/\s+/g, "-")) ||
+           iconMap.get(slug.replace(/\s+/g, "-").toLowerCase())
 }
