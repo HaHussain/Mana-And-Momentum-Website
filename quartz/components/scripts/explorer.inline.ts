@@ -128,7 +128,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const titleSpan = a.querySelector(".file-title") as HTMLSpanElement
   
   // Render icon
-  iconContainer.innerHTML = renderIcon(normalizeIcon(node.icon))
+  iconContainer.innerHTML = renderIcon(node.icon)
   titleSpan.textContent = node.displayName
 
   if (currentSlug === node.slug) {
