@@ -1,6 +1,7 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
+import { normalizeIcon } from "../../util/iconNormalization"
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -96,7 +97,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const titleSpan = a.querySelector(".file-title") as HTMLSpanElement
   
   // Render icon
-  iconContainer.innerHTML = renderIcon(node.icon)
+  iconContainer.innerHTML = renderIcon(normalizeIcon(node.icon))
   titleSpan.textContent = node.displayName
 
   if (currentSlug === node.slug) {
