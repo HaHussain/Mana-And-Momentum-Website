@@ -1,4 +1,5 @@
 import { QuartzPluginData } from "../plugins/vfile"
+import { normalizeIcon } from "./iconNormalization"
 
 const iconMap: Map<string, string> = new Map()
 
@@ -22,7 +23,6 @@ export function initIconMap(files: QuartzPluginData[]) {
             })
         }
     })
-    console.log("Item Map:", iconMap)
 }
 
 export function getIconForSlug(slug: string): string | undefined {
