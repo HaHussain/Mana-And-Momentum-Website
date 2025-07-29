@@ -10,13 +10,13 @@
   i {
     position: relative;
     
-    &.ri::before {
+    &[class^="ri-"]::before, &[class*=" ri-"]::before {
       top: -6px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
   
-    &.icon-* {
+    &[class^="icon-"]::before {
       top: -7px;
       left: 3px
     }
