@@ -280,7 +280,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
     }
   }
-  console.log("First file icon:", trie.children[0]?.icon)
 }
 
 document.addEventListener("prenav", async () => {
