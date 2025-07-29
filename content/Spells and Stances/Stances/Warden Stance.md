@@ -4,7 +4,7 @@ icon: RaHeavyShield
 # Stance
 The Warden's Stance and Techniques are about reducing the damage you and your allies take. 
 
-| Name:         | Warden Stance                                            |
+|               | Warden Stance                                            |
 | ------------- | -------------------------------------------------------- |
 | **Passive:**  | When you take physical damage, you take # less.          |
 | **Momentum:** | When you take no damage from an attack, gain a momentum. |
@@ -12,7 +12,7 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 
 # Techniques
 
-| Name:        | Block and Deflect                                                        |
+|              | Block and Deflect                                                        |
 | ------------ | ------------------------------------------------------------------------ |
 | **Stance:**  | Warden                                                                   |
 | **Tempo:**   | [[Rules/Tags/Reaction\|Reaction]]: 4                                     |
@@ -22,7 +22,7 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Effect:**  | Reduce the damage from the attack by 1d#.                                |
 | **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                        |
 
-| Name:       | Shock Charge                                                              |
+|             | Shock Charge                                                              |
 | ----------- | ------------------------------------------------------------------------- |
 | **Stance:** | Warden                                                                    |
 | **Tempo:**  | Slow Attack                                                               |

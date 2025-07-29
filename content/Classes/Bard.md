@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-icon: LiMusic4
+icon: LiMusic
 ---
 # Overview
 
