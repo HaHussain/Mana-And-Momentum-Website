@@ -81,7 +81,7 @@ a.internal {
       vertical-align: middle;
       position: relative;
 
-      &.lucide {
+      /*&.lucide {
         top: 1px;
         left: 0px;
       }
@@ -90,7 +90,10 @@ a.internal {
         top: 1px;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
-      }
+      }*/
+      
+      top: -1px;
+      right: -4px;
     }
   }
 }
