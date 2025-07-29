@@ -23,4 +23,4 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | ----------- | ------------------------------------------------------------------------- | ---------- | ----------- | --------- | --- |
 | **Stance:** | Warden                                                                    | **Tempo:** | Slow Attack | **Cost:** | 2   |
 | **Effect:** | When you hit a character, deal damage and give the character [[Weakened]] | <          | <           | <         | <   |
-| **Tags:**   | [[- Debuff\|Debuff]]                                                      | <          | <           | <         | <   |
+| **Tags:**   |                                                                           | <          | <           | <         | <   |

@@ -10,7 +10,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | Action                       | Tempo | Description                                                               |
 | ---------------------------- | ----- | ------------------------------------------------------------------------- |
 | Scan                         | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
-| [[Actions/Lock-On\|Lock-On]] | 2     | Focus on a single target to improve attacks against them.                 |
+| [[Mark\|Lock-On]] | 2     | Focus on a single target to improve attacks against them.                 |
 | Quick Attack                 | 3     | Make a quick attack.                                                      |
 | [[Actions/Move\|Move]]       | 4     | Move your speed.                                                          |
 | Brace                        | 4     | Gain defensive buffs.                                                     |
