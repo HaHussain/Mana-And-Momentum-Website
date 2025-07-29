@@ -1,4 +1,4 @@
-.explorer .file-icon {
+.explorer-content .file-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -6,21 +6,17 @@
   width: 1em;
   height: 1em;
   vertical-align: middle;
-  
-  > * {
-    position: relative;
+  position: relative;
     
-    .ri::before {
-      top: -6px;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
-  
-    &.lucide {
-      position: relative;
-      top: -7px;
-      left: 3px
-    }
-    
+  .ri {
+    top: -6px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
+  
+  .lucide {
+    top: -7px;
+    left: 3px
+  }
+    
 }
