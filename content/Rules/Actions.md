@@ -7,17 +7,17 @@ Each player has movement that they can use on each of their turns, this is calle
 Each player has 1 [[Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
 Each reaction has a tempo that needs to be reached before the character can use this reaction.
 
-| Action                       | Tempo | Description                                                               |
-| ---------------------------- | ----- | ------------------------------------------------------------------------- |
-| Scan                         | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
-| [[Mark\|Lock-On]] | 2     | Focus on a single target to improve attacks against them.                 |
-| Quick Attack                 | 3     | Make a quick attack.                                                      |
-| [[Actions/Move\|Move]]       | 4     | Move your speed.                                                          |
-| Brace                        | 4     | Gain defensive buffs.                                                     |
-| Standard Attack              | 5     | Make a standard attack.                                                   |
-| Inventory                    | 6?    | Swap weapons or use an item in your inventory.                            |
-| Slow Attack                  | 7     | Make a slow attack.                                                       |
-| Magic                        | ?     | Cast a spell.                                                             |
+| Action                 | Tempo | Description                                                               |
+| ---------------------- | ----- | ------------------------------------------------------------------------- |
+| Scan                   | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
+| [[Mark]]               | 2     | Focus on a single target to improve attacks against them.                 |
+| Quick Attack           | 3     | Make a quick attack.                                                      |
+| [[Actions/Move\|Move]] | 4     | Move your speed.                                                          |
+| Brace                  | 4     | Gain defensive buffs.                                                     |
+| Standard Attack        | 5     | Make a standard attack.                                                   |
+| Inventory              | 6?    | Swap weapons or use an item in your inventory.                            |
+| Slow Attack            | 7     | Make a slow attack.                                                       |
+| Magic                  | ?     | Cast a spell.                                                             |
 # Actions
 
 # Tags
