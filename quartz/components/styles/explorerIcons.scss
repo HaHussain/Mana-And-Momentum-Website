@@ -10,13 +10,18 @@
   i {
     position: relative;
     
-    &[class^="ri-"]::before, &[class*=" ri-"]::before {
+    &::before {
+      position: absolute;
+      display: block;
+    }
+    
+    &[class*="ri-"]::before, &[class*=" ri-"]::before {
       top: -6px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
   
-    &[class^="icon-"]::before {
+    &[class*="icon-"]::before {
       top: -7px;
       left: 3px
     }
