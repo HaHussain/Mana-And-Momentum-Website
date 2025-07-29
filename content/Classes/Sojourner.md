@@ -4,7 +4,7 @@ tags:
 icon: RaDrill
 ---
 # Overview
-The sojourner is abou
+The sojourner is the spiritual nomad, listening to the world and letting the world speak through them.
 
 | Level | Feature |
 | ----- | ------- |
@@ -33,3 +33,5 @@ Sojourn
 - Adapted?
 - Dislikes staying in one place
 
+Spiritual
+- Possessed by spirits, creating stances.

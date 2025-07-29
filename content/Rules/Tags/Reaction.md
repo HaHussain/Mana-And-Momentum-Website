@@ -12,14 +12,3 @@ You may expend your reaction to take the action of that reaction.
 Every turn you have 1 Reaction to use.
 
 Each Reaction (unless stated otherwise) can only be used once per round.
-
-| **Name:**           |                                   | **Tempo:** |     |
-| ------------------- | --------------------------------- | ---------- | --- |
-| **Pre-Requisites:** | <                                 | <          | <   |
-|                     | <                                 | <          | <   |
-| **Trigger:**        | <                                 | <          | <   |
-|                     | <                                 | <          | <   |
-| **Action:**         | <                                 | <          | <   |
-|                     | <                                 | <          | <   |
-| Tags:               | [[Rules/Tags/Reaction\|Reaction]] | <          | <   |
-
