@@ -6,18 +6,20 @@
   width: 1em;
   height: 1em;
   vertical-align: middle;
-  position: relative;
   
-  [class^="ri-"], [class*=" ri-"] {
-    top: -6px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+  i {
+    position: relative;
+    
+    &[class^="ri-"], &[class*=" ri-"] {
+      top: -6px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
   
-  .lucide {
-    top: -7px;
-    left: 3px
+    &.lucide {
+      top: -7px;
+      left: 3px
+    }
+    
   }
 }
-
-
