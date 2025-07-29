@@ -155,7 +155,7 @@ export default ((userOpts?: Partial<Options>) => {
       </div>
     )
   }
-
+  Explorer.css = style
   Explorer.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
   return Explorer
 }) satisfies QuartzComponentConstructor

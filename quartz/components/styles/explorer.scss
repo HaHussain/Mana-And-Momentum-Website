@@ -284,12 +284,3 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     height: 1em;
   }
 }
-
-// Lucide icon styling
-.explorer .lucide-icon {
-  fill: none;
-  stroke: currentColor;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
