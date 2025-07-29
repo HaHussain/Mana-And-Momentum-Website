@@ -12,8 +12,10 @@ The Hunter's Stance and Techniques focus on targeting lone and solitary targets 
 
 # Techniques
 
-| Name:       |                             | <          | <                      | <         | <   |
-| ----------- | --------------------------- | ---------- | ---------------------- | --------- | --- |
-| **Stance:** | Hunter                      | **Tempo:** | [[Extra]]: [[Mark]] | **Cost:** | 2   |
-| **Effect:** | Take the [[Mark]] action | <          | <                      | <         | <   |
-| **Tags:**   | [[Extra]]                   | <          | <                      | <         | <   |
+| Name:       |                          |
+| ----------- | ------------------------ |
+| **Stance:** | Hunter                   |
+| **Tempo:**  | [[Extra]]: [[Mark]]      |
+| **Cost:**   | 2                        |
+| **Effect:** | Take the [[Mark]] action |
+| **Tags:**   | [[Extra]]                |
