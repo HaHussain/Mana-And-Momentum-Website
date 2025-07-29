@@ -20,6 +20,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | 10    |          |
 # Features
 ## Re-Stock
+
 The Quartermaster gets a number of Item Points equal to ((Half their Level) + Something).
 When the Quartermaster enters a town, they can expend their Item Points to buy consumables without cost.
 -
@@ -39,6 +40,7 @@ Good with lots of Equipment:
 - Consumables the Quartermaster are more potent
 - Tools the Quartermaster stocks give a bonus
 - Can figure out enemies' equipment
+- Always has a tool for the job
 
 Class Focuses:
 - Weapons

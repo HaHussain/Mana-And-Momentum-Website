@@ -39,3 +39,9 @@ Teamwork:
 - Can recruit allies,
 - More powerful with more people near them?
 - Gains more information about enemy with [[Scan]]
+- Give other people extra actions?
+
+Intelligence:
+- Scan is more powerful
+- Get some information no else can
+- Can target specific weakness
