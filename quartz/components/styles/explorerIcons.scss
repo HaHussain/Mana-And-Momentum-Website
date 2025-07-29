@@ -7,21 +7,17 @@
   height: 1em;
   vertical-align: middle;
   
-  i {
+  > * {
     position: relative;
     
-    &::before {
-      position: absolute;
-      display: block;
-    }
-    
-    &[class*="ri-"]::before, &[class*=" ri-"]::before {
+    .ri {
       top: -6px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
   
-    &[class*="icon-"]::before {
+    .lucide {
+      position: relative;
       top: -7px;
       left: 3px
     }
