@@ -68,30 +68,3 @@ a.internal {
     }
   }
 }
-
-.explorer .file-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 0.5rem;
-  width: 1em;
-  height: 1em;
-  vertical-align: middle;
-  
-  i {
-    position: relative;
-    
-    &[class^="ri-"]::before, &[class*=" ri-"]::before {
-      top: -6px;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
-  
-    &[class^="icon-"]::before {
-      top: -7px;
-      left: 3px
-    }
-    
-  }
-}
-
