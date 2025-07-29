@@ -1,6 +1,3 @@
----
-icon: LiNotebookPen
----
 Trap based class / subclass?
 
 Martial v Magic is resource up or down?
