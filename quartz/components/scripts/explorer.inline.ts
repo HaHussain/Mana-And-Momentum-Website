@@ -1,7 +1,6 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
-import { normalizeIcon } from "../../util/iconNormalization"
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -101,20 +100,14 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
-// ADDED: Icon rendering function
 function renderIcon(icon?: string): string {
-  if (!icon) return '<i class="ri-file-line"></i>'
+  if (!icon) return ''
   
   const { prefix, name } = normalizeIcon(icon)
-  
-  if (prefix === 'lucide') {
-    return `<svg class="lucide-icon" width="1em" height="1em"><use href="/lucide.svg#${name}"></use></svg>`
-  }
-  
-  return `<i class="${prefix} ${prefix}-${name}"></i>`
+  const prefix2 = prefix === 'lucide' ? 'icon' : prefix
+  return `<i class="${prefix} ${prefix2}-${name}"></i>`
 }
 
-// UPDATED: Added icon rendering to file nodes
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
   const template = document.getElementById("template-file") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment

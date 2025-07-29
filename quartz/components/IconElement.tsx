@@ -1,23 +1,10 @@
-import { JSX } from "preact"
 import { normalizeIcon } from "../util/iconNormalization"
 
 export function IconElement({ icon, className }: { icon: string; className?: string }) {
   if (!icon) return null
   
   const { prefix, name } = normalizeIcon(icon)
+  const prefix2 = prefix === 'lucide' ? 'icon' : prefix
   
-  if (prefix === 'lucide') {
-    return (
-      <svg 
-        width="1em" 
-        height="1em" 
-        class={`lucide-icon ${className || ''}`}
-        style="vertical-align: middle;"
-      >
-        <use href={`/lucide.svg#${name}`}></use>
-      </svg>
-    )
-  }
-  
-  return <i class={`${prefix} ${prefix}-${name} ${className || ''}`}></i>
+  return <i class={`${prefix} ${prefix2}-${name} ${className || ''}`}></i>
 }

@@ -29,9 +29,6 @@ ArticleTitle.css = `
 
 .article-title .title-icon {
   margin-right: 0.75rem;
-  font-size: 1.2em;
-  width: 1.2em;
-  height: 1.2em;
 }
 `
 

@@ -27,7 +27,8 @@ function convertIconKey(key: string): string {
   const baseClass = prefixMap[prefix] || "";
   const rest = key.slice(2);
   const kebabRest = camelToKebab(rest);
-  return baseClass ? `${baseClass} ${baseClass}-${kebabRest}` : kebabRest;
+  const prefix2 = baseClass === 'lucide' ? 'icon' : baseClass;
+  return baseClass ? `${baseClass} ${prefix2}-${kebabRest}` : kebabRest;
 }
 
 function getLucideIconUrl(iconClass: string): string | null {
@@ -143,33 +144,8 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                   
                   // Create icon element
 					const classes = iconClass.split(" ")
-					const lucideUrl = classes.includes('lucide') ? getLucideIconUrl(iconClass) : null
 
-					let iconNode: Element
-					if (lucideUrl) {
-					  // Create span with background image
-					  iconNode = {
-						type: "element",
-						tagName: "span",
-						properties: { 
-						  className: ["lucide-icon", "icon", ...classes],
-						  style: `
-							display: inline-block;
-							width: 1em;
-							height: 1em;
-							background-color: currentColor;
-							mask-image: url("${lucideUrl}");
-							mask-size: contain;
-							mask-repeat: no-repeat;
-							mask-position: center;
-							vertical-align: middle;
-						  `
-						},
-						children: [],
-					  }
-					} else {
-					  // Standard icon element for other libraries
-					  iconNode = {
+					let iconNode: Element = {
 						type: "element",
 						tagName: "i",
 						properties: { 
@@ -177,7 +153,6 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
 						},
 						children: [],
 					  }
-					}
                   
                   const spaceNode = { type: "text", value: " " } as const
                   
