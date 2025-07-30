@@ -6,10 +6,10 @@ icon: LiPersonStanding
 
 | Martial           | Martial - Mage | Mage |
 | ----------------- | -------------- | ---- |
-| [[Berserker]]     | [[Bard]]       |      |
-| [[Commander]]     | [[Chimera]]    |      |
-| [[Knight]]        | [[Sojourner]]  |      |
-| [[Quartermaster]] |                |      |
-| [[Rogue]]         |                |      |
-| [[Tinker]]        |                |      |
-| [[Wayfinder]]     |                |      |
+| [[Classes/Berserker]]     | [[Classes/Bard]]       |      |
+| [[Classes/Commander]]     | [[Classes/Chimera]]    |      |
+| [[Classes/Knight]]        | [[Classes/Sojourner]]  |      |
+| [[Classes/Quartermaster]] |                |      |
+| [[Classes/Rogue]]         |                |      |
+| [[Classes/Tinker]]        |                |      |
+| [[Classes/Wayfinder]]     |                |      |

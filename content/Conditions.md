@@ -16,8 +16,8 @@ Debuffs are negative conditions that can effect a character.
 
 The following debuffs exist:
 
-![[Blind]]
+![[Conditions/Blind]]
 
-![[Isolated]]
+![[Conditions/Isolated]]
 
-![[Marked]]
+![[Conditions/Marked]]

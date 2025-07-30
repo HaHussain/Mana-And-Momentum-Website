@@ -3,4 +3,4 @@ icon: RaTargeted
 ---
 Tempo: 2
 
-Apply [[Marked]] to a character within [[Seek]].
+Apply [[Conditions/Marked]] to a character within [[Rules/Seek]].
