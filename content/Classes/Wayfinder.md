@@ -37,5 +37,5 @@ Scouting
 - Get info on terrain
 - Ask questions on terrain
 - See where enemies are moving to? Get enemies movement speed?
-- Flying scout animal? Your [[Rules/Seek]] extends from your scout too.
+- Flying scout animal? Your [[Seek]] extends from your scout too.
 - Tracking and following.
