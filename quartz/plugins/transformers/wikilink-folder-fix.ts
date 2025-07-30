@@ -56,7 +56,7 @@ export const WikilinkFolderFix: QuartzTransformerPlugin = () => {
               
               const newHref = fixFolderIndexFiles(file.data.filePath, node.properties["href"]);
               console.log("[OUT]", newHref);
-              //node.properties["href"] = newHref;
+              node.properties["href"] = newHref;
             }
           })
         }
