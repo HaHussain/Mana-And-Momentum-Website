@@ -106,6 +106,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     dest,
                     transformOptions,
                   )
+                  
+                  if (dest.startsWith("./" + curSlug)) {
+                    dest = "./" + dest.substring(curSlug.length + 3);
+                  }
 
                   // url.resolve is considered legacy
                   // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
@@ -117,7 +121,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   }
 
                   // need to decodeURIComponent here as WHATWG URL percent-encodes everything
-                  const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
+                  let full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
+
                   const simple = simplifySlug(full)
                   outgoing.add(simple)
                   node.properties["data-slug"] = full
