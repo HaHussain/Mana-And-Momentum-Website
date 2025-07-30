@@ -26,12 +26,12 @@ An organisation grows by increasing these values and an organisation can be dest
 
 Size represents the number of individuals in an organisations as well as how many operations it can run simultaneously. It also serves as the health of an organisation.
 
-Size 0: This 1 to 9 people. An organisation of this size is just getting itself together, they have limited capability and always understaffed.
+Size 0: This is 1 to 9 people. An organisation of this size is just getting itself together, they have limited capability and always understaffed.
 Size 1: This is 10 to 99 people. An organisation of this size now has the capacity of influencing others and conducting operations.
 Size 2: This is 100 to 999 people. The standard organisation size in most games, they can run a couple operations and have influence.
 Size 3: This is 1,000 to 9,999 people. A larger organisation that focuses on recruitment and is very resilient. The weight of hierarchy affects them.
 Size 4: This is 10,000 to 99,999 people. An organisation that is a global conspiracy of people or a country, enormous and hard to destroy.
-Size 5: This is 100,000 to 999,999 people. 
+Size 5: This is 100,000+ people. 
 
 Increasing Size can be done by Recruitment.
 Decreasing Size can be done by Massacre or Propaganda. After which the organisation must make a Size check or decrease their Size by 1.
