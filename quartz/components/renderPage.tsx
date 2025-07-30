@@ -9,6 +9,7 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import * as path from "path";
 
 interface RenderComponents {
   head: QuartzComponent
@@ -65,58 +66,33 @@ export function pageResources(
 
 function fixFolderIndexFiles(base: string, relative: string): string {
   const [relPath, hashPart = ""] = relative.split("#");
-  const hash = hashPart ? "#" + hashPart : "";
+  const hash = hashPart ? `#${hashPart}` : "";
 
-  const basePartsRaw = base.split("/").filter(Boolean);
-  const looksLikeFile = /\.[^\/]+$/.test(basePartsRaw.at(-1)!) || basePartsRaw.at(-1)!.toLowerCase() === "index";
-  const folderParts = looksLikeFile
-    ? basePartsRaw.slice(0, -1)
-    : basePartsRaw;
+  let baseFolder = base.replace(/\/?index(\.[^/]*)?$/, "");
+  if (!baseFolder.endsWith("/")) baseFolder += "/";
 
-  const relSegs = relPath.split("/").filter(Boolean);
-  let leadingUp = 0;
-  while (relSegs[leadingUp] === "..") leadingUp++;
-  let leadingDot = 0;
-  while (relSegs[leadingUp + leadingDot] === ".") leadingDot++;
+  const joined = path.posix.join("/root", baseFolder, relPath);
+  const normalized = path.posix.normalize(joined);
 
-  const abs: string[] = [...folderParts];
-  for (const seg of relSegs) {
-    if      (seg === "..") abs.pop();
-    else if (seg === ".")  continue;
-    else                   abs.push(seg);
+  const segments = normalized.split("/").filter(Boolean);
+  const deduped: string[] = [];
+  for (const seg of segments) {
+    if (deduped.length === 0 || deduped[deduped.length - 1] !== seg) {
+      deduped.push(seg);
+    }
   }
 
-  let maxOverlap = 0;
-  while (
-    maxOverlap < folderParts.length &&
-    maxOverlap < abs.length &&
-    folderParts[maxOverlap] === abs[maxOverlap]
-  ) {
-    maxOverlap++;
-  }
-  
-  const effOverlap = looksLikeFile
-    ? maxOverlap // we'll slice from maxOverlap‑1 below
-    : maxOverlap;
+  const finalAbs = "/" + deduped.join("/");
+  const from = path.posix.join("/root", baseFolder);
+  let rel = path.posix.relative(from, finalAbs);
 
-  const down = looksLikeFile
-    ? abs.slice(effOverlap - 1)
-    : abs.slice(effOverlap);
-
-  let prefix = "";
-  if (looksLikeFile) {
-    prefix = "../";
-  } else if (leadingUp > 0) {
-    prefix = "../".repeat(leadingUp);
-  } else if (leadingDot > 0) {
-    prefix = "./";
-  }
-  
+  if (rel === "") rel = "./";
+  else if (!rel.startsWith("./") && !rel.startsWith("../")) rel = "./" + rel;
   console.log("[arg1]", base);
   console.log("[arg2]", relative);
-  console.log("[output]", prefix + down.join("/") + hash);
+  console.log("[output]", rel+hash);
 
-  return prefix + down.join("/") + hash;
+  return rel + hash;
 }
 
 function renderTranscludes(
