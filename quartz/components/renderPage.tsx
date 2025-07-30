@@ -144,7 +144,7 @@ function renderTranscludes(
             {
               type: "element",
               tagName: "a",
-              properties: { href: slug, inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
@@ -174,7 +174,7 @@ function renderTranscludes(
             {
               type: "element",
               tagName: "a",
-              properties: { href: slug, inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
