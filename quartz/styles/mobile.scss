@@ -1,0 +1,27 @@
+@media (max-width: 1000px) {
+  .page {
+    margin: 0px 0px;
+    max-width: 100%;
+  }
+  
+  .page > #quartz-body {
+    grid-template-columns: 1fr; /* Single column */
+    
+    .sidebar.right {
+      display: none;
+    }
+    .sidebar {
+      padding-top: 2rem;
+    }
+    
+    .center .page-header {
+      margin-top: 2rem;
+    }
+  }
+  .page-title {
+    font-size: 1rem;
+  }
+  .readermode {
+    display: none;
+  }
+}
