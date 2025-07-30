@@ -5,19 +5,11 @@
   margin: 0 5%;
   
   > #quartz-body {
-    grid-template-columns: 400px auto 400px;
+    grid-template-columns: 400px auto 320px;
   }
   
-  .sidebar.left {
-    padding-right: 1rem;
-    
-    // Indent Website Title slightly
-    .page-title {
-      padding: 0rem 1rem;
-    }
-  }
-  .sidebar.right {
-    padding-left: 1rem;
+  .sidebar.left .page-title {
+    padding: 0rem 1rem;
   }
 }
 
