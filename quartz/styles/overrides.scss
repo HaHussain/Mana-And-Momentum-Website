@@ -36,3 +36,12 @@
     padding: .2rem 1rem;
   }
 }
+
+.flex-component {
+  div:first-child {
+    max-width: 14rem;
+  }
+  div {
+    align-self: normal !important;
+  }
+}
