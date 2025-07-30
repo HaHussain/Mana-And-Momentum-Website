@@ -1,9 +1,38 @@
+// Page overrides
+.page {
+  // Expand page
+  max-width: 90%;
+  margin: 0 5%;
+  
+  > #quartz-body {
+    grid-template-columns: 400px auto 400px;
+  }
+  
+  .sidebar.left {
+    padding-right: 1rem
+    
+    // Indent Website Title slightly
+    .page-title {
+      padding: 0rem 1rem;
+    }
+  }
+  .sidebar.right {
+    padding-left: 1rem
+  }
+}
+
+// Table overrides
+
 .table-container > table {
+  // Remove Table indent
   margin: 0rem;
   padding: 0rem;
+  //Expand table to size of centre container.
+  width: 100%;
   
+  // Increase padding, remove auto-hypenate text over lines
   td {
     hyphens: none;
-    padding: .2rem .8rem;
+    padding: .2rem 1rem;
   }
 }
