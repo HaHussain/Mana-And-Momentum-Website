@@ -36,7 +36,7 @@ Size 5: This is 100,000+ people.
 Increasing Size can be done by Recruitment.
 Decreasing Size can be done by Massacre or Propaganda. After which the organisation must make a Size check or decrease their Size by 1.
 
-# Effectiveness
+## Effectiveness
 
 Effectiveness represents the skill and level of the individuals in an organisation on average. It is usually inversely proportional to [[#Size]].
 
@@ -50,4 +50,23 @@ Effectiveness 5: This is an organisation with some grandmasters and innovators. 
 Increasing Effectiveness can be done by Training.
 Decreasing Effectiveness can be done by Assassination.
 
-# Might
+## Might
+
+Might represents the violence this organisation is capable of including subtle Assassinations and overt Massacres.
+
+Might 0: This represents an organisation that is incapable of doing anything other than protecting themselves.
+Might 1: This is a small militia or platoon capable of protecting an organisation of Size 1 or controlling one of Size 0.
+Might 2: This is a squadron capable of protecting an organisation of Size 2 or controlling one of Size 1.
+Might 3: This is a full battalion with infantry, cavalry and artillery capable of protecting an organisation of Size 3 or controlling one of Size 2.
+Might 4: This is a full army, capable of setting up complex supply lines and protecting large amounts of territory of Size 4 or controlling one of Size 3.
+Might 5: This is an army that moves on global scales, acting interplanar and often backed with several dangerous Monsters.
+
+Increasing Might can be done by Arming and Recruitment.
+Decreasing Might can be done by
+
+## Influence
+
+Influence represents how much an organisation can convince Folk, spread Propaganda and Recruit.
+
+Influence 0: This represents an insular organisation incapable of spreading any belief.
+Influence 1: 
