@@ -64,37 +64,59 @@ export function pageResources(
 }
 
 function fixFolderIndexFiles(base: string, relative: string): string {
-  const baseUrl = new URL(base, 'http://example.com/');
-  const resolvedUrl = new URL(relative, baseUrl);
+  const [relPath, hashPart = ""] = relative.split("#");
+  const hash = hashPart ? "#" + hashPart : "";
 
-  const baseSegments = baseUrl.pathname.split('/').filter(Boolean);
-  const resolvedSegments = resolvedUrl.pathname.split('/').filter(Boolean);
+  const basePartsRaw = base.split("/").filter(Boolean);
+  const looksLikeFile = /\.[^\/]+$/.test(basePartsRaw.at(-1)!) || basePartsRaw.at(-1)!.toLowerCase() === "index";
+  const folderParts = looksLikeFile
+    ? basePartsRaw.slice(0, -1)
+    : basePartsRaw;
 
-  // Find how many segments overlap between the end of base and start of resolved
-  let overlapIndex = 0;
-  while (
-    overlapIndex < baseSegments.length &&
-    overlapIndex < resolvedSegments.length &&
-    baseSegments.slice(-1 - overlapIndex).join('/') === resolvedSegments.slice(0, 1 + overlapIndex).join('/')
-  ) {
-    overlapIndex++;
+  const relSegs = relPath.split("/").filter(Boolean);
+  let leadingUp = 0;
+  while (relSegs[leadingUp] === "..") leadingUp++;
+  let leadingDot = 0;
+  while (relSegs[leadingUp + leadingDot] === ".") leadingDot++;
+
+  const abs: string[] = [...folderParts];
+  for (const seg of relSegs) {
+    if      (seg === "..") abs.pop();
+    else if (seg === ".")  continue;
+    else                   abs.push(seg);
   }
 
-  const dedupedSegments = [
-    ...baseSegments.slice(0, baseSegments.length - overlapIndex),
-    ...resolvedSegments
-  ];
+  let maxOverlap = 0;
+  while (
+    maxOverlap < folderParts.length &&
+    maxOverlap < abs.length &&
+    folderParts[maxOverlap] === abs[maxOverlap]
+  ) {
+    maxOverlap++;
+  }
+  
+  const effOverlap = looksLikeFile
+    ? maxOverlap // we'll slice from maxOverlap‑1 below
+    : maxOverlap;
 
-  const finalPath = '/' + dedupedSegments.join('/');
-  const finalUrl = new URL(finalPath, 'http://example.com');
-  finalUrl.hash = resolvedUrl.hash;
+  const down = looksLikeFile
+    ? abs.slice(effOverlap - 1)
+    : abs.slice(effOverlap);
 
-  // Get relative path from baseUrl
-  const relativePath = finalUrl.pathname.replace(/^\/+/, '');
-  const upLevels = baseSegments.length - overlapIndex;
-  const prefix = '../'.repeat(upLevels > 0 ? upLevels : 0);
+  let prefix = "";
+  if (looksLikeFile) {
+    prefix = "../";
+  } else if (leadingUp > 0) {
+    prefix = "../".repeat(leadingUp);
+  } else if (leadingDot > 0) {
+    prefix = "./";
+  }
+  
+  console.log("[arg1]", base);
+  console.log("[arg2]", relative);
+  console.log("[output]", prefix + down.join("/") + hash);
 
-  return prefix + relativePath + finalUrl.hash;
+  return prefix + down.join("/") + hash;
 }
 
 function renderTranscludes(
