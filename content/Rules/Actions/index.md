@@ -1,10 +1,13 @@
 ---
 icon: LiLayoutList
+aliases:
+  - Actions
+title: Actions
 ---
 Every player starts with 2 actions per round. This means players have 2 turns per round.
 Each action the player takes a has an tempo and that action occurs at that tempo.
 Each player has movement that they can use on each of their turns, this is called their normal move.
-Each player has 1 [[Rules/Tags/Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
+Each player has 1 [[Rules/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
 Each reaction has a tempo that needs to be reached before the character can use this reaction.
 
 | Action                 | Tempo | Description                                                               |

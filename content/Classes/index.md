@@ -1,5 +1,8 @@
 ---
 icon: LiPersonStanding
+aliases:
+  - Classes
+title: Classes
 ---
 # Ideas
 

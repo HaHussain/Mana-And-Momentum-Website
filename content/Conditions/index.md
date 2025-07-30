@@ -3,6 +3,8 @@ icon: LiMoveVertical
 aliases:
   - Buff
   - Debuff
+  - Conditions
+title: Conditions
 ---
 # Buff
 

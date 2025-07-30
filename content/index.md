@@ -1,4 +1,4 @@
 ---
 title: Mana & Momentum Front Page
 ---
-[[Classes/]]
+[[Classes/index|Classes]]
