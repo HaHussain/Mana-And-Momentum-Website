@@ -106,10 +106,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     dest,
                     transformOptions,
                   )
-                  
-                  if (dest.startsWith("./" + curSlug)) {
-                    dest = "./" + dest.substring(curSlug.length + 3);
-                  }
 
                   // url.resolve is considered legacy
                   // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
