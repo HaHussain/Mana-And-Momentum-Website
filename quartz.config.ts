@@ -72,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.wikilinkIconer(),
-      Plugin.WikilinkFolderFix(),
+      //Plugin.WikilinkFolderFix(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -65,7 +65,7 @@ export function pageResources(
 }
 
 function fixFolderIndexFiles(base: string, relative: string): string {
-  const [relPath, hashPart = ""] = relative.split("#");
+  /*const [relPath, hashPart = ""] = relative.split("#");
   const hash = hashPart ? `#${hashPart}` : "";
 
   let baseFolder = base.replace(/\/?index(\.[^/]*)?$/, "");
@@ -89,7 +89,7 @@ function fixFolderIndexFiles(base: string, relative: string): string {
   if (rel === "") rel = "./";
   else if (!rel.startsWith("./") && !rel.startsWith("../")) rel = "./" + rel;
 
-  return rel + hash;
+  return rel + hash;*/ return relative;
 }
 
 function renderTranscludes(
