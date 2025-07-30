@@ -88,9 +88,6 @@ function fixFolderIndexFiles(base: string, relative: string): string {
 
   if (rel === "") rel = "./";
   else if (!rel.startsWith("./") && !rel.startsWith("../")) rel = "./" + rel;
-  console.log("[arg1]", base);
-  console.log("[arg2]", relative);
-  console.log("[output]", rel+hash);
 
   return rel + hash;
 }
@@ -133,7 +130,7 @@ function renderTranscludes(
               {
                 type: "element",
                 tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+                properties: { href: fixFolderIndexFiles(slug, inner.properties?.href), class: ["internal", "transclude-src"] },
                 children: [
                   { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
                 ],
