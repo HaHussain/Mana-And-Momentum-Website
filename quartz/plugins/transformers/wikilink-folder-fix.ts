@@ -5,10 +5,8 @@ import path from "path"
 import { QuartzPluginData } from "../../plugins/vfile"
 
 function fixFolderIndexFiles(base: string, relative: string): string {
-  let mdEnd = false;
   if (base.endsWith(".md")) {
     base = base.replace(".md","")
-    mdEnd = true;
   }
   const [relPath, hashPart = ""] = relative.split("#");
   const hash = hashPart ? `#${hashPart}` : "";
@@ -33,7 +31,6 @@ function fixFolderIndexFiles(base: string, relative: string): string {
 
   if (rel === "") rel = "./";
   else if (!rel.startsWith("./") && !rel.startsWith("../")) rel = "./" + rel;
-  rel = mdEnd ? rel + ".md" : rel;
   return rel + hash;
 }
 
