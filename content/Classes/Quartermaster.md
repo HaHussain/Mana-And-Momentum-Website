@@ -19,6 +19,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | 9     |          |
 | 10    |          |
 # Features
+
 ## Re-Stock
 
 The Quartermaster gets a number of Item Points equal to ((Half their Level) + Something).
