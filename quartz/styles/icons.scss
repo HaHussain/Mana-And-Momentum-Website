@@ -53,12 +53,12 @@ a.internal {
     position: relative;
 
     &.ra::before {
+      position: relative;
       top: -1.5px;
-      left: -1px;
     }
 
     &.ri::before {
-      position: absolute;
+      position: relative;
       top: -4.5px;
       left: 1px;
     }
