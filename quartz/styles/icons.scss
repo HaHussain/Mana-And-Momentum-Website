@@ -4,9 +4,9 @@
 
 @font-face {
 	font-family: 'RPGAwesome';
-	src: url('/static/icons/rpg-awesome/fonts/rpgawesome-webfont.woff') format('woff'),
+	src: /*url('/static/icons/rpg-awesome/fonts/rpgawesome-webfont.woff') format('woff'),
 		 url('/static/icons/rpg-awesome/fonts/rpgawesome-webfont.svg') format('svg'),
-		 url('/static/icons/rpg-awesome/fonts/rpgawesome-webfont.ttf') format('truetype'),
+		 url('/static/icons/rpg-awesome/fonts/rpgawesome-webfont.ttf') format('truetype'),*/
 		 url('./static/icons/rpg-awesome/fonts/rpgawesome-webfont.woff') format('woff'),
 		 url('./static/icons/rpg-awesome/fonts/rpgawesome-webfont.svg') format('svg'),
 		 url('./static/icons/rpg-awesome/fonts/rpgawesome-webfont.ttf') format('truetype');
@@ -14,9 +14,9 @@
 
 @font-face {
 	font-family: 'remixicon';
-	src: url('/static/icons/remixicon/fonts/remixicon.woff2') format('woff2'),
+	src: /*url('/static/icons/remixicon/fonts/remixicon.woff2') format('woff2'),
 		 url('/static/icons/remixicon/fonts/remixicon.woff') format('woff'),
-		 url('/static/icons/remixicon/fonts/remixicon.ttf') format('truetype'),
+		 url('/static/icons/remixicon/fonts/remixicon.ttf') format('truetype'),*/
 		 url('./static/icons/remixicon/fonts/remixicon.woff2') format('woff2'),
 		 url('./static/icons/remixicon/fonts/remixicon.woff') format('woff'),
 		 url('./static/icons/remixicon/fonts/remixicon.ttf') format('truetype');
@@ -24,9 +24,9 @@
 
 @font-face {
 	font-family: 'lucide';
-	src: url('/static/icons/lucide-static/font/lucide.woff2') format('woff2'),
+	src: /*url('/static/icons/lucide-static/font/lucide.woff2') format('woff2'),
 		 url('/static/icons/lucide-static/font/lucide.woff') format('woff'),
-		 url('/static/icons/lucide-static/font/lucide.ttf') format('truetype'),
+		 url('/static/icons/lucide-static/font/lucide.ttf') format('truetype'),*/
 		 url('./static/icons/lucide-static/font/lucide.woff2') format('woff2'),
 		 url('./static/icons/lucide-static/font/lucide.woff') format('woff'),
 		 url('./static/icons/lucide-static/font/lucide.ttf') format('truetype');
