@@ -63,6 +63,40 @@ export function pageResources(
   return resources
 }
 
+function fixFolderIndexFiles(base: string, relative: string): string {
+  const baseUrl = new URL(base, 'http://example.com/');
+  const resolvedUrl = new URL(relative, baseUrl);
+
+  const baseSegments = baseUrl.pathname.split('/').filter(Boolean);
+  const resolvedSegments = resolvedUrl.pathname.split('/').filter(Boolean);
+
+  // Find how many segments overlap between the end of base and start of resolved
+  let overlapIndex = 0;
+  while (
+    overlapIndex < baseSegments.length &&
+    overlapIndex < resolvedSegments.length &&
+    baseSegments.slice(-1 - overlapIndex).join('/') === resolvedSegments.slice(0, 1 + overlapIndex).join('/')
+  ) {
+    overlapIndex++;
+  }
+
+  const dedupedSegments = [
+    ...baseSegments.slice(0, baseSegments.length - overlapIndex),
+    ...resolvedSegments
+  ];
+
+  const finalPath = '/' + dedupedSegments.join('/');
+  const finalUrl = new URL(finalPath, 'http://example.com');
+  finalUrl.hash = resolvedUrl.hash;
+
+  // Get relative path from baseUrl
+  const relativePath = finalUrl.pathname.replace(/^\/+/, '');
+  const upLevels = baseSegments.length - overlapIndex;
+  const prefix = '../'.repeat(upLevels > 0 ? upLevels : 0);
+
+  return prefix + relativePath + finalUrl.hash;
+}
+
 function renderTranscludes(
   root: Root,
   cfg: GlobalConfiguration,
@@ -144,7 +178,7 @@ function renderTranscludes(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: fixFolderIndexFiles(slug, inner.properties?.href), class: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
@@ -174,7 +208,7 @@ function renderTranscludes(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: fixFolderIndexFiles(slug, inner.properties?.href), class: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
