@@ -1,10 +1,14 @@
-import { normalizeIcon } from "../util/iconNormalization"
+import { normalizeIcon } from '../util/icon';
 
-export function IconElement({ icon, className }: { icon: string; className?: string }) {
-  if (!icon) return null
+export function IconElement({ icon, className = '' }: { 
+  icon: string; 
+  className?: string;
+}) {
+  const { type, name } = normalizeIcon(icon);
   
-  const { prefix, name } = normalizeIcon(icon)
-  const prefix2 = prefix === 'lucide' ? 'icon' : prefix
+  if (type === 'lucide') {
+    return <i class={`lucide icon-${name} ${className}`}></i>;
+  }
   
-  return <i class={`${prefix} ${prefix2}-${name} ${className || ''}`}></i>
+  return <i class={`${type} ${type}-${name} ${className}`}></i>;
 }

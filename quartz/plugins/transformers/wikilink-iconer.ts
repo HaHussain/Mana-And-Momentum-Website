@@ -1,180 +1,73 @@
-import { QuartzTransformerPlugin } from "../../types"
-import { visit } from "unist-util-visit"
-import { Element, Root } from "hast"
-import path from "path"
-import { QuartzPluginData } from "../../plugins/vfile"
-
-interface FileSlugMap {
-  [slug: string]: string | undefined
-}
-
-// Icon conversion functions
-const prefixMap: Record<string, string> = {
-  Ra: "ra",
-  Li: "lucide",
-  Ri: "ri",
-};
-
-function camelToKebab(str: string): string {
-  return str
-    .replace(/([a-z0-9])([A-Z])/g, "$1-$2")
-    .replace(/([A-Z])([A-Z][a-z])/g, "$1-$2")
-    .toLowerCase();
-}
-
-function convertIconKey(key: string): string {
-  const prefix = key.slice(0, 2);
-  const baseClass = prefixMap[prefix] || "";
-  const rest = key.slice(2);
-  const kebabRest = camelToKebab(rest);
-  const prefix2 = baseClass === 'lucide' ? 'icon' : baseClass;
-  return baseClass ? `${baseClass} ${prefix2}-${kebabRest}` : kebabRest;
-}
-
-function getLucideIconUrl(iconClass: string): string | null {
-  const match = iconClass.match(/lucide-([a-z-]+)/)
-  if (!match) return null
-  const iconName = match[1]
-  return `https://cdn.jsdelivr.net/npm/lucide-static@0.263.0/icons/${iconName}.svg`
-}
+import { QuartzTransformerPlugin } from "../types";
+import { visit } from "unist-util-visit";
+import { Element } from "hast";
+import { renderIcon } from "../../util/icon";
 
 export const wikilinkIconer: QuartzTransformerPlugin = () => {
-  let slugIconMap: FileSlugMap = {}
+  let slugIconMap = new Map<string, string>();
   
   return {
     name: "wikilink-iconer",
-    
     markdownPlugins() {
       return [
-        () => (tree, file) => {
-          try {
-            console.log(`[iconer:markdown] Processing file: ${file.data.filePath}`)
-            
-            if (!file.data.frontmatter) {
-              console.warn(`[iconer:markdown] No frontmatter for ${file.data.filePath}`)
-              return
-            }
-            
-            const filePath = file.data.filePath!
-            const slug = file.data.slug!
-            const iconName = file.data.frontmatter.icon as string | undefined
-            
-            if (!iconName) {
-              return
-            }
-            
-            // Convert icon name to CSS classes
-            const iconClass = convertIconKey(iconName)
-            
-            const keys = [
-              slug.toLowerCase(),
-              filePath.replace(/\.md$/, "").toLowerCase(),
-              path.basename(filePath, ".md").toLowerCase(),
-              slug.toLowerCase().replace(/[^a-z0-9]/g, ""),
-              filePath.replace(/\.md$/, "").toLowerCase().replace(/[^a-z0-9]/g, "")
-            ]
-            
-            keys.forEach(key => {
-              if (key && !slugIconMap[key]) {
-                slugIconMap[key] = iconClass
-              }
-            })
-          } catch (e) {
-            console.error(`[iconer:markdown] Error:`, e)
-          }
+        () => (_, file) => {
+          const icon = file.data.frontmatter?.icon;
+          if (!icon) return;
+          
+          const slug = file.data.slug!;
+          slugIconMap.set(slug, icon);
+          
+          // Add alternative keys
+          slugIconMap.set(slug.toLowerCase(), icon);
+          slugIconMap.set(slug.replace(/\s+/g, '-'), icon);
+          slugIconMap.set(slug.replace(/\s+/g, '-').toLowerCase(), icon);
         }
-      ]
+      ];
     },
-    
     htmlPlugins() {
       return [
-        () => (tree: Root, file) => {
-          try {
-            
-            visit(tree, "element", (node: Element) => {
-              try {
-                if (
-                  node.tagName === "a" &&
-                  node.properties?.className?.includes("internal") &&
-                  typeof node.properties?.["href"] === "string"
-                ) {
-                  const href = node.properties.href as string
-                  
-                  if (href.startsWith("#")) {
-                    return
-                  }
-                  
-                  // Normalize relative paths
-                  let cleanHref = href
-                    .replace(/^\.\.\//g, "")
-                    .replace(/\.html$/, "")
-                    .toLowerCase()
-                  
-                  // Handle multiple relative levels
-                  while (cleanHref.startsWith("../")) {
-                    cleanHref = cleanHref.substring(3)
-                  }
-                  
-                  // Create lookup keys
-                  const lookupKeys = [
-                    cleanHref,
-                    path.basename(cleanHref),
-                    cleanHref.replace(/[^a-z0-9]/g, ""),
-                    path.basename(cleanHref).replace(/[^a-z0-9]/g, ""),
-                    cleanHref.replace(/^-+/, ""),
-                    path.basename(cleanHref).replace(/^-+/, "")
-                  ]
-                  
-                  // Find first matching icon
-                  let iconClass: string | undefined
-                  let matchedKey: string | undefined
-                  
-                  for (const key of lookupKeys) {
-                    iconClass = slugIconMap[key]
-                    if (iconClass) {
-                      matchedKey = key
-                      break
-                    }
-                  }
-                  
-                  if (!iconClass) {
-                    console.warn(`[iconer:html] No icon found for ${href}`)
-                    return
-                  }
-                  
-                  // Create icon element
-					const classes = iconClass.split(" ")
-
-					let iconNode: Element = {
-						type: "element",
-						tagName: "i",
-						properties: { 
-						  className: classes
-						},
-						children: [],
-					  }
-                  
-                  const spaceNode = { type: "text", value: " " } as const
-                  
-                  const existingChildren = [...node.children]
-                  
-                  // Insert icon at the beginning
-                  node.children = [iconNode, spaceNode, ...existingChildren]
-                  
-                }
-              } catch (e) {
-                console.error(`[iconer:html] Element error:`, e)
-              }
-            })
-          } catch (e) {
-            console.error(`[iconer:html] Tree error:`, e)
-          }
+        () => (tree) => {
+          visit(tree, "element", (node: Element) => {
+            if (
+              node.tagName === "a" &&
+              node.properties?.className?.includes("internal") &&
+              typeof node.properties?.href === "string"
+            ) {
+              const href = node.properties.href;
+              if (href.startsWith("#")) return;
+              
+              // Extract clean slug from href
+              const cleanHref = href
+                .replace(/\.\.\//g, "")
+                .replace(/\.html$/, "")
+                .replace(/#.*$/, "");
+              
+              // Find matching icon
+              const icon = slugIconMap.get(cleanHref) || 
+                           slugIconMap.get(cleanHref.toLowerCase()) ||
+                           slugIconMap.get(cleanHref.replace(/\s+/g, '-'));
+              
+              if (!icon) return;
+              
+              // Create icon element
+              const iconElement: Element = {
+                type: "element",
+                tagName: "i",
+                properties: {
+                  className: renderIcon(icon).match(/class="([^"]+)"/)?.[1]?.split(" ") || []
+                },
+                children: []
+              };
+              
+              // Add space text node
+              const spaceNode = { type: "text", value: " " };
+              
+              // Insert icon at beginning
+              node.children = [iconElement, spaceNode, ...node.children];
+            }
+          });
         }
-      ]
-    },
-    
-    afterAllPlugins() {
-      slugIconMap = {}
+      ];
     }
   }
 }

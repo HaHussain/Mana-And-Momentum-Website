@@ -1,6 +1,7 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
+import { renderIcon } from '../../util/icon'
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -19,7 +20,7 @@ type FolderState = {
   collapsed: boolean
 }
 
-const prefixMap: Record<string, string> = {
+/*const prefixMap: Record<string, string> = {
   Ra: "ra",
   Li: "lucide",
   Ri: "ri",
@@ -46,7 +47,7 @@ function normalizeIcon(icon: string): { prefix: string; name: string } {
   const name = camelToKebab(icon.slice(2))
 
   return { prefix, name }
-}
+}*/
 
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
@@ -100,13 +101,13 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
-function renderIcon(icon?: string): string {
+/*function renderIcon(icon?: string): string {
   if (!icon) return ''
   
   const { prefix, name } = normalizeIcon(icon)
   const prefix2 = prefix === 'lucide' ? 'icon' : prefix
   return `<i class="${prefix} ${prefix2}-${name}"></i>`
-}
+}*/
 
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
   const template = document.getElementById("template-file") as HTMLTemplateElement
@@ -121,8 +122,11 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const titleSpan = a.querySelector(".file-title") as HTMLSpanElement
   
   // Render icon
-  iconContainer.innerHTML = renderIcon(node.icon)
-  titleSpan.textContent = node.displayName
+  // iconContainer.innerHTML = renderIcon(node.icon)
+  // titleSpan.textContent = node.displayName
+  iconContainer.innerHTML = node.icon ? renderIcon(node.icon) : '';
+  titleSpan.textContent = node.displayName;
+  
 
   if (currentSlug === node.slug) {
     a.classList.add("active")

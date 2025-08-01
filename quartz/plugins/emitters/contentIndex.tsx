@@ -7,7 +7,7 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
-import { initIconMap } from "../../util/iconUtils"
+import { initIconMap } from "../../util/icon"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {

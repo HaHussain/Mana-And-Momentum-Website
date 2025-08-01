@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { getIconForSlug } from "../util/iconUtils" // Import icon helper
+import { getIconForSlug } from "../util/icon" // Import icon helper
 import { IconElement } from "./IconElement" // Import icon component
 
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
