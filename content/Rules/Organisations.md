@@ -17,8 +17,8 @@ Each organisation has the following traits and represents their capabilities. Ea
 [[#Secrets]]: Informational power. Information and Magical organisations often have high values.
 
 An organisation grows by increasing these values and an organisation can be destroyed by either 
-	Reducing its [[#Size]] to 0 or
-	Reducing 2 or more of its traits to 0 and removing the [[#Leader]].
+- Reducing its [[#Size]] to 0 or
+- Reducing 2 or more of its traits to 0 and removing the [[#Leader]].
 
 # Traits
 

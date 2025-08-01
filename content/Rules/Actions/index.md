@@ -18,7 +18,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Actions/Move\|Move]] | 4     | Move your speed.                                                          |
 | Brace                  | 4     | Gain defensive buffs.                                                     |
 | Standard Attack        | 5     | Make a standard attack.                                                   |
-| Inventory              | 6?    | Swap weapons or use an item in your inventory.                            |
+| [[Inventory]]          | 6     | Swap weapons or use an item in your inventory.                            |
 | Slow Attack            | 7     | Make a slow attack.                                                       |
 | Magic                  | ?     | Cast a spell.                                                             |
 # Actions
