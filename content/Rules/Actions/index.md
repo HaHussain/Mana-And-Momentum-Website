@@ -28,3 +28,5 @@ Each reaction has a tempo that needs to be reached before the character can use 
 ![[Extra]]
 
 ![[Rules/Tags/Reaction]]
+
+[[Test Note]]
