@@ -32,6 +32,7 @@ Sojourn
 - Travel around well suited to the environment
 - Adapted?
 - Dislikes staying in one place
+- Gain extra Item Points during travelling
 
 Spiritual
 - Possessed by spirits, creating stances.

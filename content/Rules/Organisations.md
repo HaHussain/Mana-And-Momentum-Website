@@ -20,6 +20,10 @@ An organisation grows by increasing these values and an organisation can be dest
 - Reducing its [[#Size]] to 0 or
 - Reducing 2 or more of its traits to 0 and removing the [[#Leader]].
 
+# Folk
+
+Folk are a specific type of Organisation, they have no Goal nor Effectiveness and represent the average civilians of a region.
+
 # Traits
 
 ## Size
@@ -55,10 +59,10 @@ Decreasing Effectiveness can be done by Assassination.
 Might represents the violence this organisation is capable of including subtle Assassinations and overt Massacres.
 
 Might 0: This represents an organisation that is incapable of doing anything other than protecting themselves.
-Might 1: This is a small militia or platoon capable of protecting an organisation of Size 1 or controlling one of Size 0.
-Might 2: This is a squadron capable of protecting an organisation of Size 2 or controlling one of Size 1.
-Might 3: This is a full battalion with infantry, cavalry and artillery capable of protecting an organisation of Size 3 or controlling one of Size 2.
-Might 4: This is a full army, capable of setting up complex supply lines and protecting large amounts of territory of Size 4 or controlling one of Size 3.
+Might 1: This is a militia or platoon capable of protecting an organisation of Size 1 or controlling one of Size 0.
+Might 2: This is a trained squadron capable of protecting an organisation of Size 2 or controlling one of Size 1.
+Might 3: This is a full army with infantry, cavalry and artillery capable of protecting an organisation of Size 3 or controlling one of Size 2.
+Might 4: This is an organisation capable of fighting armies and protecting large amounts of territory of Size 4 or controlling one of Size 3.
 Might 5: This is an army that moves on global scales, acting interplanar and often backed with several dangerous Monsters.
 
 Increasing Might can be done by Arming and Recruitment.
@@ -69,4 +73,11 @@ Decreasing Might can be done by
 Influence represents how much an organisation can convince Folk, spread Propaganda and Recruit.
 
 Influence 0: This represents an insular organisation incapable of spreading any belief.
-Influence 1: 
+Influence 1: This is an unpopular group that is able to recruit the vulnerable and isolated.
+
+# Composite Organisations
+
+Composite organisations are a way of combining multiple organisations together to represent a greater whole like a Country.
+For example, the Leader of an country is likely its ruler(s).
+Its Size is equal to the Size of its Folk
+Its Might is equal

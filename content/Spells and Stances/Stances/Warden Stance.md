@@ -20,7 +20,7 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **---**      | **---**                                                                  |
 | **Trigger:** | When a character hits you with an attack while you are holding a shield. |
 | **Effect:**  | Reduce the damage from the attack by 1d#.                                |
-| **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                        |
+| **Tags**     | [[Rules/Tags/Reaction\|]]                                                |
 
 |             | Shock Charge                                                              |
 | ----------- | ------------------------------------------------------------------------- |

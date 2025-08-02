@@ -1,4 +1,4 @@
 ---
 icon: LiRewind
 ---
-[[Rules/Actions/index|Actions]] using this item have a +2 to their [[Tempo]].
+[[Attack]]s using this item have a +2 to their [[Tempo]].

@@ -5,4 +5,4 @@ The Extra Tempo tag means you can take this action as an extra action in additio
 
 You take the extra action at the tempo listed or the usual tempo for that action if an action is listed.
 
-There is no limit to the number of Extra actions you can take in a round.
+There is no limit to the number of Extra actions you can take in a round, however Extra actions are still under the unique actions restriction.
