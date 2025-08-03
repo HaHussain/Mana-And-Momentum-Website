@@ -1,3 +1,5 @@
+import { getSvg } from "./svgLoader";
+
 type IconType = 'lucide' | 'ri' | 'ra' | 'gi';
 
 interface NormalizedIcon {
@@ -42,7 +44,7 @@ export function normalizeIcon(iconString: string): NormalizedIcon {
 export function renderIcon(iconString: string): string {
   const icon : NormalizedIcon = normalizeIcon(iconString);
   if (icon.type === "gi") {
-    return icon.className;
+    return getSvg(icon.className) ?? '<i>missing-icon</i>';
   }
   return `<i class="${icon.className}"></i>`;
 }
