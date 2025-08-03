@@ -51,7 +51,7 @@ export function renderIcon(iconString: string): string {
   }
   const icon : NormalizedIcon = normalizeIcon(iconString);
   if (icon.type === "gi") {
-    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name}</i>`;
+    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name} ${iconRender}</i>`;
   }
   const iconRendered = `<i class="${icon.className}"></i>`
   iconRender.set(iconString, iconRendered);
