@@ -52,11 +52,7 @@ export function renderIcon(iconString: string): string {
   const icon : NormalizedIcon = normalizeIcon(iconString);
   console.log();
   if (icon.type === "gi") {
-    const str = Array.from(iconRender.entries())
-    .map(([key, value]) => `${key}: ${value}`)
-    .join(", ");
-    console.log("TEST")
-    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name} ${str}</i>`;
+    return iconRender.get(icon.name) ?? `<svg class="${icon.className}"><use href="/public/static/icons/game-icons/${icon.name}.svg"></use></svg>`;
   }
   const iconRendered = `<i class="${icon.className}"></i>`
   iconRender.set(iconString, iconRendered);

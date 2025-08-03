@@ -131,7 +131,6 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       
       // Initialize icon map with all collected files
       initIconMap(allFiles)
-      loadEverySVG();
 
       if (opts?.enableSiteMap) {
         yield write({
