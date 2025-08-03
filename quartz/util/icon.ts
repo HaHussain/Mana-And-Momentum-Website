@@ -50,8 +50,12 @@ export function renderIcon(iconString: string): string {
     return cachedIconRender;
   }
   const icon : NormalizedIcon = normalizeIcon(iconString);
+  console.log();
   if (icon.type === "gi") {
-    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name} ${iconRender}</i>`;
+    const str = Array.from(iconRender.entries())
+  .map(([key, value]) => `${key}: ${value}`)
+  .join(", ");
+    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name} ${str}</i>`;
   }
   const iconRendered = `<i class="${icon.className}"></i>`
   iconRender.set(iconString, iconRendered);
