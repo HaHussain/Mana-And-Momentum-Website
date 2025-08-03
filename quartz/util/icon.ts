@@ -53,8 +53,9 @@ export function renderIcon(iconString: string): string {
   console.log();
   if (icon.type === "gi") {
     const str = Array.from(iconRender.entries())
-  .map(([key, value]) => `${key}: ${value}`)
-  .join(", ");
+    .map(([key, value]) => `${key}: ${value}`)
+    .join(", ");
+    console.log("TEST")
     return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name} ${str}</i>`;
   }
   const iconRendered = `<i class="${icon.className}"></i>`
