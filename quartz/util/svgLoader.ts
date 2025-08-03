@@ -1,10 +1,22 @@
 import path from "path";
 import fs from 'fs';
 import { JSDOM } from "jsdom";
-import { addToRenderCache } from "./icon";
 
 let svgCache = new Map<string, string>();
 const iconsDir = path.join(process.cwd(), 'quartz', 'static', 'icons', 'game-icons');
+
+export function loadEverySVG() {
+    try {
+        if (fs.existsSync(iconsDir)) {
+            const files = fs.readdirSync(iconsDir)
+            for (const file of files) {
+                svgCache.set(file, fs.readFileSync(path.join(iconsDir, file), 'utf-8'))
+            }
+        }
+    } catch (e) {
+        console.error(e);
+    }
+}
 
 function loadSVG(svgFileName: string) : string | undefined {
     try {
@@ -12,7 +24,6 @@ function loadSVG(svgFileName: string) : string | undefined {
         if (fs.existsSync(iconFile) ) {
             const data = fs.readFileSync(iconFile, 'utf-8');
             svgCache.set(svgFileName, data);
-            addToRenderCache(svgFileName, data);
             return data;
         }
         else {

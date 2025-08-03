@@ -7,7 +7,8 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
-import { initIconMap } from "../../util/icon"
+import { addToRenderCache, initIconMap, normalizeIcon } from "../../util/icon"
+import { getSvg } from "../../util/svgLoader"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -126,6 +127,12 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             icon: file.data.frontmatter?.icon,
           })
         }
+        // Inititialize svg icons for explorer
+        const icon = file.data.frontmatter?.icon;
+        if (icon && icon.slice(0,2) === 'Gi') {
+          addToRenderCache(icon, getSvg(normalizeIcon(icon).name) ?? '');
+        }
+
       }
       
       // Initialize icon map with all collected files
