@@ -51,9 +51,11 @@ export function renderIcon(iconString: string): string {
   }
   const icon : NormalizedIcon = normalizeIcon(iconString);
   if (icon.type === "gi") {
-    return iconRender.get(icon.className) ?? '<i>missing-icon</i>';
+    return iconRender.get(icon.name) ?? `<i>missing-icon ${icon.name}</i>`;
   }
-  return `<i class="${icon.className}"></i>`;
+  const iconRendered = `<i class="${icon.className}"></i>`
+  iconRender.set(iconString, iconRendered);
+  return iconRendered;
 }
 
 function camelToKebab(str: string): string {
