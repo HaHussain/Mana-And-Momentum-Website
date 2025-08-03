@@ -1,5 +1,3 @@
-import { getSvg } from "./svgLoader";
-
 type IconType = 'lucide' | 'ri' | 'ra' | 'gi';
 
 interface NormalizedIcon {
@@ -16,6 +14,11 @@ const ICON_PREFIX_MAP: Record<string, IconType> = {
 };
 
 let iconCache = new Map<string, NormalizedIcon>();
+let iconRender = new Map<string, string>();
+
+export function addToRenderCache(key: string, value: string) {
+  iconRender.set(key, value);
+}
 
 export function normalizeIcon(iconString: string): NormalizedIcon {
   const cachedIcon = iconCache.get(iconString)
@@ -42,9 +45,13 @@ export function normalizeIcon(iconString: string): NormalizedIcon {
 }
 
 export function renderIcon(iconString: string): string {
+  const cachedIconRender = iconRender.get(iconString)
+  if (cachedIconRender) {
+    return cachedIconRender;
+  }
   const icon : NormalizedIcon = normalizeIcon(iconString);
   if (icon.type === "gi") {
-    return getSvg(icon.className) ?? '<i>missing-icon</i>';
+    return iconRender.get(icon.className) ?? '<i>missing-icon</i>';
   }
   return `<i class="${icon.className}"></i>`;
 }
