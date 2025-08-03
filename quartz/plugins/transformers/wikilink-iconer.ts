@@ -1,10 +1,13 @@
 import { QuartzTransformerPlugin } from "../types";
 import { visit } from "unist-util-visit";
 import { Element } from "hast";
-import { renderIcon } from "../../util/icon";
+import { normalizeIcon, renderIcon } from "../../util/icon";
+import { getSvg, transformSvgToDom } from "../../util/svgLoader";
+import { convertDomToHast } from "../../components/IconElement";
 
 export const wikilinkIconer: QuartzTransformerPlugin = () => {
   let slugIconMap = new Map<string, string>();
+  let iconElementMap = new Map<string, Element>();
   
   return {
     name: "wikilink-iconer",
@@ -16,8 +19,6 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
           
           const slug = file.data.slug!;
           slugIconMap.set(slug, icon);
-          
-          // Add alternative keys
           slugIconMap.set(slug.toLowerCase(), icon);
           slugIconMap.set(slug.replace(/\s+/g, '-'), icon);
           slugIconMap.set(slug.replace(/\s+/g, '-').toLowerCase(), icon);
@@ -48,22 +49,28 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                            slugIconMap.get(cleanHref.replace(/\s+/g, '-'));
               
               if (!icon) return;
-              
-              // Create icon element
-              const iconElement: Element = {
-                type: "element",
-                tagName: "i",
-                properties: {
-                  className: renderIcon(icon).match(/class="([^"]+)"/)?.[1]?.split(" ") || []
-                },
-                children: []
-              };
-              
-              // Add space text node
               const spaceNode = { type: "text", value: " " };
-              
-              // Insert icon at beginning
-              node.children = [iconElement, spaceNode, ...node.children];
+
+              const cachedElement = iconElementMap.get(icon);
+              if (cachedElement) {
+                node.children = [cachedElement, spaceNode, ...node.children];
+              } else {
+                const NormalisedIcon = normalizeIcon(icon);
+                
+                const iconElement: Element = NormalisedIcon.type === 'gi' ? 
+                convertDomToHast(transformSvgToDom(getSvg(NormalisedIcon.name))) :
+                {
+                  type: "element",
+                  tagName: "i",
+                  properties: {
+                    className: renderIcon(icon).match(/class="([^"]+)"/)?.[1]?.split(" ") || []
+                  },
+                  children: []
+                };
+                iconElementMap.set(icon, iconElement);
+
+                node.children = [iconElement, spaceNode, ...node.children];
+              }
             }
           });
         }

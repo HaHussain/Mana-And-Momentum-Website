@@ -40,6 +40,11 @@ a.internal {
   > *:first-child {
     margin-right: 0.25em;
   }
+  
+  .gi {
+    position: relative;
+    top: 2px;
+  }
 
   i {
     display: inline-block !important;

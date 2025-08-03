@@ -1,4 +1,4 @@
-type IconType = 'lucide' | 'ri' | 'ra' | 'custom';
+type IconType = 'lucide' | 'ri' | 'ra' | 'gi';
 
 interface NormalizedIcon {
   type: IconType;
@@ -10,41 +10,41 @@ const ICON_PREFIX_MAP: Record<string, IconType> = {
   'ri': 'ri',
   'ra': 'ra',
   'li': 'lucide',
-  'lucide': 'lucide'
+  'gi' : 'gi',
 };
 
+let iconCache = new Map<string, NormalizedIcon>();
+
 export function normalizeIcon(iconString: string): NormalizedIcon {
-  // Handle colon format (ri:article-line)
-  if (iconString.includes(':')) {
-    const [prefix, name] = iconString.split(':');
-    const type = ICON_PREFIX_MAP[prefix] || 'custom';
-    
-    return {
-      type,
-      name,
-      className: type === 'lucide' 
-        ? `lucide icon-${name}` 
-        : `${prefix} ${prefix}-${name}`
-    };
+  const cachedIcon = iconCache.get(iconString)
+  if (cachedIcon) {
+    return cachedIcon
   }
-  
-  // Handle legacy format (RiArticleLine)
   const prefixKey = iconString.slice(0, 2).toLowerCase();
   const type = ICON_PREFIX_MAP[prefixKey] || 'custom';
   const name = camelToKebab(iconString.slice(2));
-  
-  return {
+  let value;
+
+  switch (type) {
+    case 'lucide': value = `lucide icon-${name}`; break;
+    default: value = `${prefixKey} ${prefixKey}-${name}`
+  }
+
+  const normalisedIcon : NormalizedIcon = {
     type,
     name,
-    className: type === 'lucide' 
-      ? `lucide icon-${name}` 
-      : `${prefixKey} ${prefixKey}-${name}`
-  };
+    className: value
+  }
+  iconCache.set(iconString, normalisedIcon);
+  return normalisedIcon;
 }
 
 export function renderIcon(iconString: string): string {
-  const { className } = normalizeIcon(iconString);
-  return `<i class="${className}"></i>`;
+  const icon : NormalizedIcon = normalizeIcon(iconString);
+  if (icon.type === "gi") {
+    return icon.className;
+  }
+  return `<i class="${icon.className}"></i>`;
 }
 
 function camelToKebab(str: string): string {
