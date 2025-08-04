@@ -13,6 +13,6 @@ title: Classes
 | [[Commander]]     | [[Chimera]]    |            |
 | [[Knight]]        | [[Oathsworn]]  |            |
 | [[Quartermaster]] | [[Sojourner]]  |            |
-| [[Rogue]]         |                |            |
+| [[Rogue]]         | [[Spellblade]] |            |
 | [[Tinker]]        |                | [[Witch]]  |
 | [[Wayfinder]]     |                | [[Wizard]] |
