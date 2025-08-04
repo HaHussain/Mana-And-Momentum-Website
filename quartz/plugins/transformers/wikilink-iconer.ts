@@ -3,7 +3,7 @@ import { visit } from "unist-util-visit";
 import { Element } from "hast";
 import { normalizeIcon, renderIcon } from "../../util/icon";
 import { getSvg, transformSvgToDom } from "../../util/svgLoader";
-import { convertDomToHast } from "../../components/IconElement";
+import { convertDomToHast, IconElement } from "../../components/IconElement";
 
 export const wikilinkIconer: QuartzTransformerPlugin = () => {
   let slugIconMap = new Map<string, string>();
@@ -49,11 +49,16 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                            slugIconMap.get(cleanHref.replace(/\s+/g, '-'));
               
               if (!icon) return;
+              
               const spaceNode = { type: "text", value: " " };
 
               const cachedElement = iconElementMap.get(icon);
               if (cachedElement) {
-                node.children = [cachedElement, spaceNode, ...node.children];
+                if (node.children[0]?.value === '') {
+                  node.children = [cachedElement]
+                } else {
+                  node.children = [cachedElement, spaceNode, ...node.children];
+                }
               } else {
                 const NormalisedIcon = normalizeIcon(icon);
                 
@@ -68,8 +73,11 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                   children: []
                 };
                 iconElementMap.set(icon, iconElement);
-
-                node.children = [iconElement, spaceNode, ...node.children];
+                if (node.children[0]?.value === '') {
+                  node.children = [iconElement]
+                } else {
+                  node.children = [iconElement, spaceNode, ...node.children];
+                }
               }
             }
           });
