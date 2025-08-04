@@ -1,7 +1,7 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
-import { renderIcon } from '../../util/icon'
+import { renderIcon, normalizeIcon } from '../../util/icon'
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -83,7 +83,14 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const iconContainer = a.querySelector(".file-icon") as HTMLSpanElement
   const titleSpan = a.querySelector(".file-title") as HTMLSpanElement
 
-  iconContainer.innerHTML = node.icon ? renderIcon(node.icon) : '';
+  if (node.icon) {
+    const icon = normalizeIcon(node.icon)
+    if (icon.type === 'gi') {
+      iconContainer.innerHTML = `<svg class="${icon.className}"><use href="https://${document.querySelector('meta[property="twitter:domain"]')?.getAttribute("content")}/static/icons/game-icons-svgsheet.svg#icon-${icon.name}"></use></svg>`
+    } else {
+      iconContainer.innerHTML = renderIcon(node.icon);
+    }
+  }
   titleSpan.textContent = node.displayName;
   
 

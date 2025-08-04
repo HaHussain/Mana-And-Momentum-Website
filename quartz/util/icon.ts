@@ -50,10 +50,6 @@ export function renderIcon(iconString: string): string {
     return cachedIconRender;
   }
   const icon : NormalizedIcon = normalizeIcon(iconString);
-  console.log();
-  if (icon.type === "gi") {
-    return iconRender.get(icon.name) ?? `<svg class="svg-icon" data-icon="${iconString}"></svg>`;
-  }
   const iconRendered = `<i class="${icon.className}"></i>`
   iconRender.set(iconString, iconRendered);
   return iconRendered;

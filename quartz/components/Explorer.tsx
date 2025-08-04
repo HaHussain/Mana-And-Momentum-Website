@@ -8,7 +8,6 @@ import { i18n } from "../i18n"
 import { FileTrieNode } from "../util/fileTrie"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
-import IconElement from "./IconElement" // Import icon component
 
 type OrderEntries = "sort" | "filter" | "map"
 
