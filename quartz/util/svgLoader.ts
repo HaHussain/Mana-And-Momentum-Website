@@ -4,7 +4,7 @@ import { JSDOM } from "jsdom";
 import { addToRenderCache } from "./icon";
 
 let svgCache = new Map<string, string>();
-const iconsDir = path.join(process.cwd(), 'quartz', 'static', 'icons', 'game-icons');
+const iconsDir = path.join(process.cwd(), 'quartz', 'assets', 'icons', 'game-icons');
 
 export function loadEverySVG() {
     try {
