@@ -71,6 +71,11 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
 
                 node.children = [iconElement, spaceNode, ...node.children];
               }
+            } else if (node.tagName === 'svg' && node.properties?.["data-icon"]) {
+              const iconName = node.properties["data-icon"] as string
+              const NormalisedIcon = normalizeIcon(iconName);
+              const iconElement = convertDomToHast(transformSvgToDom(getSvg(NormalisedIcon.name)));
+              Object.assign(node, iconElement)
             }
           });
         }

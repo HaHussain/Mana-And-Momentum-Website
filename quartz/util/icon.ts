@@ -52,7 +52,7 @@ export function renderIcon(iconString: string): string {
   const icon : NormalizedIcon = normalizeIcon(iconString);
   console.log();
   if (icon.type === "gi") {
-    return iconRender.get(icon.name) ?? `<svg class="${icon.className}"><use href="/static/icons/game-icons-svgsheet.svg#icon-${icon.name}"></use></svg>`;
+    return iconRender.get(icon.name) ?? `<svg class="svg-icon" data-icon="${iconString}"></svg>`;
   }
   const iconRendered = `<i class="${icon.className}"></i>`
   iconRender.set(iconString, iconRendered);
