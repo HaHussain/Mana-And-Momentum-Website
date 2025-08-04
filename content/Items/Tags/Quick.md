@@ -1,4 +1,4 @@
 ---
 icon: LiFastForward
 ---
-[[Attack]]s using this item have a -2 to their [[Tempo]].
+This weapon can make a Quick [[Attack]] instead of a Standard [[Attack]].

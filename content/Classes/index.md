@@ -11,8 +11,8 @@ title: Classes
 | ----------------- | -------------- | ---------- |
 | [[Berserker]]     | [[Bard]]       |            |
 | [[Commander]]     | [[Chimera]]    |            |
-| [[Knight]]        | [[Sojourner]]  |            |
-| [[Quartermaster]] |                |            |
+| [[Knight]]        | [[Oathsworn]]  |            |
+| [[Quartermaster]] | [[Sojourner]]  |            |
 | [[Rogue]]         |                |            |
 | [[Tinker]]        |                | [[Witch]]  |
 | [[Wayfinder]]     |                | [[Wizard]] |
