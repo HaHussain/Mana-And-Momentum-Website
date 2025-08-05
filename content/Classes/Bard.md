@@ -43,3 +43,5 @@ Charisma
 Bard should support class fantasies on 2 axis,
 Talky and Not Talky. What replaces Talky or is it talky is automatic?
 Cunning Subterfuge and Cheerleader
+
+DOOT DOOT MAGIC FLUTE WEAPON

@@ -14,5 +14,5 @@ title: Classes
 | [[Knight]]        | [[Oathsworn]]  |            |
 | [[Quartermaster]] | [[Sojourner]]  |            |
 | [[Rogue]]         | [[Spellblade]] |            |
-| [[Tinker]]        |                | [[Witch]]  |
+| [[Tinker]]        | [[Synarch]]    | [[Witch]]  |
 | [[Wayfinder]]     |                | [[Wizard]] |

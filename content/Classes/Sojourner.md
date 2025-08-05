@@ -34,5 +34,13 @@ Sojourn
 - Dislikes staying in one place
 - Gain extra Item Points during travelling
 
-Spiritual
+Elementalist
 - Possessed by spirits, creating stances.
+- Imbue self with elemental power
+- Speak to the spirits of the land
+
+Monk
+- Unarmed options
+- Unarmoured options
+- Non-elemental options
+- Cast spells with momentum
