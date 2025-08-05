@@ -91,12 +91,11 @@ a.internal {
       vertical-align: middle;
       position: relative;
 
-      /*&.lucide {
-        top: 1px;
-        left: 0px;
+      .lucide {
+        top: 0px;
       }
 
-      &.ri {
+      /*&.ri {
         top: 1px;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
