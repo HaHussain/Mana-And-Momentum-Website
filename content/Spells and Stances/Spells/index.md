@@ -16,6 +16,7 @@ Each spell will have a [[Tempo]] and a Mana cost, and the duration for that cost
 | ---------- | --------------------------------- |
 | **Tempo**  | [[Magic]]: 7                      |
 | **Effect** | Commit 1 mana for the scene to... |
+
 Committed mana stays on the spell until the [[Reclaim]] action is taken, and there are generally three durations for committed mana, that can effect how the [[Reclaim]] action works.
 
 Committing Mana for a day: 
