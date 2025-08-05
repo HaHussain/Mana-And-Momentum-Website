@@ -20,13 +20,16 @@
   margin: 0rem;
   padding: 0rem;
   //Expand table to size of centre container.
-  width: 100%;
+  max-width: 100%;
   
   // Increase padding, remove auto-hypenate text over lines
   td {
     hyphens: none;
-    padding: .2rem 1rem;
+    padding: .2rem 1.4rem;
     min-width: 1rem;
+  }
+  th {
+    padding-left: 1rem;
   }
 }
 
