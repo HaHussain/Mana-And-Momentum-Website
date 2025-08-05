@@ -41,3 +41,8 @@
     align-self: normal !important;
   }
 }
+
+// Hide the Link Icon of headers if they are in transcludes as theyre broken
+.transclude a.internal[role="anchor"] {
+  visibility: hidden;
+}
