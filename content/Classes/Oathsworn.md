@@ -1,5 +1,5 @@
 ---
-icon: RaChain
+icon: GiCrossedChains
 tags:
   - Class
 ---

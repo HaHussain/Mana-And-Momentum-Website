@@ -2,6 +2,7 @@
 icon: LiLayoutList
 aliases:
   - Actions
+  - Unique Action Restriction
 title: Actions
 ---
 Every player starts with 2 actions per round. This means players have 2 turns per round. 
@@ -15,7 +16,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 
 | Action               | Tempo | Description                                                               |
 | -------------------- | ----- | ------------------------------------------------------------------------- |
-| Scan                 | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
+| [[Scan]]             | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
 | [[Mark]]             | 2     | Focus on a single target to improve attacks against them.                 |
 | [[Quick]] [[Attack]] | 3     | Make a quick attack.                                                      |
 | [[Move]]             | 4     | Move your speed.                                                          |
@@ -23,9 +24,23 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | Standard [[Attack]]  | 5     | Make a standard attack.                                                   |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
 | [[Slow]] [[Attack]]  | 7     | Make a slow attack.                                                       |
-| Magic                | ?     | Cast a spell.                                                             |
+| [[Magic]]            | ?     | Cast a spell.                                                             |
 # Actions
 
+![[Mark]]
+
+![[Move]]
+
+![[Attack]]
+
+![[Inventory]]
+
+![[Magic]]
+
+## Unique Action Restriction
+
+When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
+If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action.
 # Tags
 
 ![[Extra]]
