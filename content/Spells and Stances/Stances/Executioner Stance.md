@@ -10,6 +10,7 @@ icon: GiBatteredAxe
 | **Tags:**     |                                                                                                                          |
 
 # Techniques
+## Execute
 
 |             | Execute                                                                                                                                        |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,6 +21,7 @@ icon: GiBatteredAxe
 | **Effect:** | [[Slow]] [[Attack]] a creature, If you hit, it deals critical damage.<br>If that damage does not kill the creature, you instead deal 0 damage. |
 | **Tags:**   | [[Attack]]                                                                                                                                     |
 
+## Kill Zone
 
 |              | Kill Zone                                                                                                                  |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -31,6 +33,7 @@ icon: GiBatteredAxe
 | **Effect:**  | Immediately make a [[Slow]] [[Attack]] against another creature.<br>This Reaction can be used any number of times a round. |
 | **Tags:**    | [[Rules/Tags/Reaction\|Reaction]] [[Attack]]                                                                               |
 
+## The Executioner Approaches
 
 |             | The Executioner Approaches                                           |
 | ----------- | -------------------------------------------------------------------- |
@@ -41,8 +44,9 @@ icon: GiBatteredAxe
 | **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Impaired]]. |
 | **Tags:**   |                                                                      |
 
+## Instrument of Death
 
-|             | Avatar of Death                                                                               |
+|             | Instrument of Death                                                                           |
 | ----------- | --------------------------------------------------------------------------------------------- |
 | **Stance:** | Executioner                                                                                   |
 | **Tempo:**  | 1                                                                                             |
