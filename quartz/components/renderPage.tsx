@@ -111,6 +111,7 @@ function renderTranscludes(
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
           // header transclude
           blockRef = blockRef.slice(1)
+          blockRef = blockRef.toLowerCase().replaceAll(' ', '-')
           let startIdx = undefined
           let startDepth = undefined
           let endIdx = undefined
