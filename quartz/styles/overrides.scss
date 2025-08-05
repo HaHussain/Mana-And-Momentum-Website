@@ -46,3 +46,8 @@
 .transclude a.internal[role="anchor"] {
   visibility: hidden;
 }
+
+// Add colour to empty table rows to look more dividery
+tbody tr:not(:has(td:not(:empty))) {
+  background-color: #202020;
+}
