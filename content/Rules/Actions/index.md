@@ -24,6 +24,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | Standard [[Attack]]  | 5     | Make a standard attack.                                                   |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
 | [[Slow]] [[Attack]]  | 7     | Make a slow attack.                                                       |
+| [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
 | [[Magic]]            | ?     | Cast a spell.                                                             |
 # Actions
 
@@ -34,6 +35,8 @@ Each reaction has a tempo that needs to be reached before the character can use 
 ![[Attack]]
 
 ![[Inventory]]
+
+![[Reclaim]]
 
 ![[Magic]]
 
@@ -46,5 +49,3 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 ![[Extra]]
 
 ![[Rules/Tags/Reaction]]
-
-[[Test Note]]

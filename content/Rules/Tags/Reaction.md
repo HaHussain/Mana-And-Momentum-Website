@@ -12,3 +12,4 @@ You may expend your reaction to take the action of that reaction.
 Every turn you have 1 Reaction to use.
 
 Each Reaction (unless stated otherwise) can only be used once per round.
+Reactions ignore the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].

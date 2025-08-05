@@ -5,6 +5,7 @@ aliases:
   - Spells
 tags:
   - Overview
+title: Spells
 ---
 # Mana
 
@@ -20,14 +21,14 @@ Each spell will have a [[Tempo]] and a Mana cost, and the duration for that cost
 Committed mana stays on the spell until the [[Reclaim]] action is taken, and there are generally three durations for committed mana, that can effect how the [[Reclaim]] action works.
 
 Committing Mana for a day: 
-Mana committed for a day can only be [[Reclaim]]ed duration a [[Long Rest?]]. When that occurs you regain all your mana back to your mana pool.
+Mana committed for a day can only be [[Reclaim]]ed during a [[Long Rest?]]. When that occurs you regain all your mana back to your mana pool.
 
 Committing Mana for a scene:
 Mana committed for a scene can only be [[Reclaim]]ed at the end of a scene.
 - First - If you have committed mana for this scene, from that mana, commit one for the day.
 - Second - Reclaim the rest of your mana that was committed for the scene.
 
-While you are committing Mana:
+Committing Mana indefinitely:
 Mana committed this way is committed indefinitely or until you take a [[Long Rest?]].
 You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - If you have committed mana indefinitely, commit one mana for the scene.
