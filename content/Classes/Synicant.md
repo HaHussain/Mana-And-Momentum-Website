@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-Synarch's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users.
+Synicant's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users.
 
 | Level | Feature |
 | ----- | ------- |
@@ -25,9 +25,13 @@ Synarch's hold the domain over connection and minds, they use their psychic abil
 
 # Ideas
 
+Sylas from league
+
 Minds
 - Able to pull thoughts out of other people by Scan
 - Connect to other allies, share senses, share pain?
+- Buff all mental spells
+- Make certain spells (illusions?) into mental spells
 
 Psychic:
 - Telepathy, Telekinesis, Teleport? Television
@@ -43,3 +47,4 @@ Martial
 - Steal momentum?
 
 Maybe stealing momentum is the core idea.
+Connection to take or give to other players?

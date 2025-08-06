@@ -6,9 +6,10 @@ aliases:
 title: Actions
 ---
 Every player starts with 2 actions per round. This means players have 2 turns per round. 
-At the start of the round, there is the Planning phase, each player picks two unique actions they wish to take.
-Then the GM counts from 1 to 7, and players can inform the GM they are taking an action at that Tempo. Players are free to change their upcoming action choices from the Planning phase.
+At the start of the round, there is the Planning phase, each player picks two [[#Unique Action Restriction|unique]] actions they wish to take.
+Then the GM counts from 1 to 7, and players can inform the GM they are taking an action at that Tempo. 
 Each action the player takes a has an tempo and that action occurs at that tempo.
+Players are free to change their upcoming action choices from the Planning phase.
 
 Each player has movement that they can use on each of their turns, this is called their normal move.
 Each player has 1 [[Rules/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.

@@ -8,7 +8,7 @@ title: Conditions
 ---
 # Status
 
-A status is a tag on a character that generally does nothing but describe the character's current state.
+A status is a tag on a character that generally does nothing but describes the character's current state.
 Many abilities interact with Statuses.
 
 ![[Bloodied]]

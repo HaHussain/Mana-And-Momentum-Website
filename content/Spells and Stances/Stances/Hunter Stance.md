@@ -6,7 +6,7 @@ The Hunter's Stance and Techniques focus on targeting lone and solitary targets 
 
 |               | Hunter Stance                                         |
 | ------------- | ----------------------------------------------------- |
-| **Passive:**  |                                                       |
+| **Passive:**  | When you hit a [[Marked]] creature,                   |
 | **Momentum:** | When you hit an [[Isolated]] target, gain a momentum. |
 | **Tags:**     | [[Isolated]]                                          |
 
@@ -15,8 +15,8 @@ The Hunter's Stance and Techniques focus on targeting lone and solitary targets 
 |             | Take Aim                 |
 | ----------- | ------------------------ |
 | **Stance:** | Hunter                   |
-| **Tempo:**  | [[Extra\|]]: [[Mark\|]]  |
+| **Tempo:**  | [[Extra]]: [[Mark]]      |
 | **Cost:**   | 2                        |
-| **---**     | **---**                  |
+|             |                          |
 | **Effect:** | Take the [[Mark]] action |
-| **Tags:**   | [[Extra\|]]              |
+| **Tags:**   | [[Extra]]                |

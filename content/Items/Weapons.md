@@ -20,12 +20,20 @@ icon: LiSwords
 | Longspear    | Large  | Melee,<br>Two-Handed,<br>[[Slow]]  | Same as Spear                     | Same as Spear                                         |
 # Ranged Weapons
 
-| Item Name   | Damage | Tags                                               | Weapon Focus 1 | Weapon Focus 2 |
-| ----------- | ------ | -------------------------------------------------- | -------------- | -------------- |
-| Boomerang   | Small  | Ranged,<br>One-Handed                              | Ricochet       | Double Attack? |
-| Shortbow    | Small  | Ranged,<br>Two-Handed                              |                |                |
-| Pistol      | Medium | Ranged,<br>One-Handed,<br>[[Quick]],<br>[[Reload]] |                |                |
-| Longbow     | Medium | Ranged,<br>Two-Handed                              |                |                |
-| Rifle       | High   | Ranged,<br>Two-Handed,<br>[[Reload]]               | Same as Pistol | Same as Pistol |
-| Crossbow    | Medium | Ranged,<br>Two-Handed                              | Armour Pierce  |                |
-| Hand-Cannon | Large  | Ranged,<br>Two-Handed,<br>[[Slow]],<br>[[Reload]]  |                | Splash Damage  |
+| Item Name   | Damage | Tags                                               | Weapon Focus 1                    | Weapon Focus 2 |
+| ----------- | ------ | -------------------------------------------------- | --------------------------------- | -------------- |
+| Boomerang   | Small  | Ranged,<br>One-Handed                              | Ricochet                          | Double Attack? |
+| Shortbow    | Small  | Ranged,<br>Two-Handed,<br>[[Arching]]              |                                   |                |
+| Pistol      | Medium | Ranged,<br>One-Handed,<br>[[Quick]],<br>[[Reload]] | Quick Draw?<br>Close combat shot? |                |
+| Longbow     | Medium | Ranged,<br>Two-Handed,<br>[[Arching]]              |                                   |                |
+| Rifle       | High   | Ranged,<br>Two-Handed,<br>[[Reload]]               |                                   | Same as Pistol |
+| Crossbow    | Medium | Ranged,<br>Two-Handed                              | Armour Pierce                     |                |
+| Hand-Cannon | Large  | Ranged,<br>Two-Handed,<br>[[Slow]],<br>[[Reload]]  |                                   | Splash Damage  |
+# Magic Weapons
+
+| Item Name | Damage | Tags                                            | Weapon Focus 1                           | Weapon Focus 2 |
+| --------- | ------ | ----------------------------------------------- | ---------------------------------------- | -------------- |
+| Wand      |        | Focus,<br>One-Handed,<br>Ranged,<br>            |                                          |                |
+| Tome      |        | Focus,<br>One-Handed,<br>Ranged,                | Get access to a spell you didn't bring?  |                |
+| Staff     |        | Focus,<br>Two-Handed,<br>Ranged,                | Increased range?                         |                |
+| Orb       |        | Focus, <br>Two-Handed,<br>Ranged,<br>[[Reload]] | Concentrate a spell to be more effective |                |

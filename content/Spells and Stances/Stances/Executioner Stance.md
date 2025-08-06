@@ -3,11 +3,11 @@ icon: GiBatteredAxe
 ---
 # Stance
 
-|               | Executioner's Stance                                                                                                     |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Passive:**  | Your [[Attack]]s against a character with [[Slowed]] / [[Impaired]] / [[Frightened]] / [[Prone]] do # additional damage. |
-| **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                  |
-| **Tags:**     |                                                                                                                          |
+|               | Executioner's Stance                                                                                                    |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | Your [[Attack]]s against a character with [[Slowed]] / [[Hobbled]] / [[Frightened]] / [[Prone]] do # additional damage. |
+| **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                 |
+| **Tags:**     |                                                                                                                         |
 
 # Techniques
 ## Execute
@@ -35,14 +35,14 @@ icon: GiBatteredAxe
 
 ## The Executioner Approaches
 
-|             | The Executioner Approaches                                           |
-| ----------- | -------------------------------------------------------------------- |
-| **Stance:** | Executioner                                                          |
-| **Tempo:**  | 2                                                                    |
-| **Cost:**   | 1                                                                    |
-|             |                                                                      |
-| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Impaired]]. |
-| **Tags:**   |                                                                      |
+|             | The Executioner Approaches                                          |
+| ----------- | ------------------------------------------------------------------- |
+| **Stance:** | Executioner                                                         |
+| **Tempo:**  | 2                                                                   |
+| **Cost:**   | 1                                                                   |
+|             |                                                                     |
+| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Hobbled]]. |
+| **Tags:**   |                                                                     |
 
 ## Instrument of Death
 
