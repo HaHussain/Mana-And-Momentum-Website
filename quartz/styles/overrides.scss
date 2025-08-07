@@ -27,6 +27,9 @@
     hyphens: none;
     padding: .2rem 1.4rem;
     min-width: 1rem;
+    :has(.transclude) {
+      padding: 0;
+    }
   }
   th {
     padding-left: 1rem;
