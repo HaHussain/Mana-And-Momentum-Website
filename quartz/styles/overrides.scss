@@ -48,6 +48,18 @@
 }
 
 // Add colour to empty table rows to look more dividery
-tbody tr:not(:has(td:not(:empty))) {
+tbody > tr:not(:has(td:not(:empty))) {
   background-color: #202020;
+}
+
+.transclude {
+  margin-left: 1rem;
+
+  h1 {
+    display: none;
+  }
+}
+
+table .transclude-src {
+  display: none;
 }
