@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-Synicant's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users.
+Synic's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users.
 
 | Level | Feature |
 | ----- | ------- |

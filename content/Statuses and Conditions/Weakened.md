@@ -3,4 +3,4 @@ icon: GiForearm
 tags:
   - Debuff
 ---
-The next [[Attack]] from this character does half damage.
+The [[Attack]]s from this character deal half damage.

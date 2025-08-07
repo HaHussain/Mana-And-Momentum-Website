@@ -50,7 +50,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 ## Unique Action Restriction
 
 When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
-If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action.
+If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action even if it occurs at a different Tempo than usual.
 # Tags
 
 ## Extra

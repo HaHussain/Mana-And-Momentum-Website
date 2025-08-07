@@ -4,11 +4,11 @@ icon: RaHeavyShield
 # Stance
 The Warden's Stance and Techniques are about reducing the damage you and your allies take. 
 
-|               | Warden Stance                                            |
-| ------------- | -------------------------------------------------------- |
-| **Passive:**  | When you take physical damage, you take # less.          |
-| **Momentum:** | When you take no damage from an attack, gain a momentum. |
-| **Tags:**     |                                                          |
+|               | Warden Stance                                                        |
+| ------------- | -------------------------------------------------------------------- |
+| **Passive:**  | When you take physical damage, you take # less.                      |
+| **Momentum:** | When you take no damage from an attack against you, gain a momentum. |
+| **Tags:**     |                                                                      |
 
 # Techniques
 ## Block and Deflect
@@ -24,14 +24,14 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                        |
 ## Shock Charge
 
-|             | Shock Charge                                            |
-| ----------- | ------------------------------------------------------- |
-| **Stance:** | Warden                                                  |
-| **Tempo:**  | [[Slow]] [[Attack]]                                     |
-| **Cost:**   | 2                                                       |
-|             |                                                         |
-| **Effect:** | [[Slow]] [[Attack]] and give the character [[Weakened]] |
-| **Tags:**   | [[Attack]]                                              |
+|             | Shock Charge                                                                             |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| **Stance:** | Warden                                                                                   |
+| **Tempo:**  | [[Slow]] [[Attack]]                                                                      |
+| **Cost:**   | 2                                                                                        |
+|             |                                                                                          |
+| **Effect:** | [[Slow]] [[Attack]] and give the character [[Weakened]] until the end of the next round. |
+| **Tags:**   | [[Attack]]                                                                               |
 ## Eyes on me
 
 |             | Eyes on me                                                                  |
@@ -44,11 +44,11 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Tags:**   | [[Immobilised]]                                                             |
 ## Break Weapon
 
-|             | Break Weapon                                                                                                                                                                            |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stance:** | Warden                                                                                                                                                                                  |
-| **Tempo:**  | [[Attack]]                                                                                                                                                                              |
-| **Cost:**   | 8                                                                                                                                                                                       |
-|             |                                                                                                                                                                                         |
-| **Effect:** | [[Attack]] and if the enemy is holding an item, permanently destroy one of your choice. <br>If the enemy uses Natural Weapons, destroy one that prevents at least one enemy [[Attack]]. |
-| **Tags:**   | [[Attack]]                                                                                                                                                                              |
+|             | Break Weapon                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Stance:** | Warden                                                                                                                                                                               |
+| **Tempo:**  | [[Attack]]                                                                                                                                                                           |
+| **Cost:**   | 8                                                                                                                                                                                    |
+|             |                                                                                                                                                                                      |
+| **Effect:** | [[Attack]] and if the enemy is holding an item, permanently destroy one of your choice. <br>If they are not, destroy one natural weapon that prevents at least one enemy [[Attack]]. |
+| **Tags:**   | [[Attack]]                                                                                                                                                                           |

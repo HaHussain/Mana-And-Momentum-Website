@@ -7,12 +7,12 @@ title: Classes
 # Ideas
 
 
-| Martial           | Martial - Mage | Mage       |
-| ----------------- | -------------- | ---------- |
-| [[Berserker]]     | [[Bard]]       |            |
-| [[Commander]]     | [[Chimera]]    |            |
-| [[Knight]]        | [[Oathsworn]]  |            |
-| [[Quartermaster]] | [[Sojourner]]  |            |
-| [[Rogue]]         | [[Spellblade]] |            |
-| [[Tinker]]        | [[Synicant]]    | [[Witch]]  |
-| [[Wayfinder]]     |                | [[Wizard]] |
+| Martial           | Martial - Mage | Mage            |
+| ----------------- | -------------- | --------------- |
+| [[Berserker]]     | [[Bard]]       | [[Diviner]]     |
+| [[Commander]]     | [[Chimera]]    | [[Druid]]       |
+| [[Knight]]        | [[Oathsworn]]  | [[Etcher]]      |
+| [[Pathfinder]]    | [[Sojourner]]  | [[Necromancer]] |
+| [[Quartermaster]] | [[Spellblade]] | [[Theurge]]     |
+| [[Rogue]]         | [[Synic]]      | [[Witch]]       |
+| [[Tinker]]        |                | [[Wizard]]      |
