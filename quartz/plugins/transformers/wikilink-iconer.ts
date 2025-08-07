@@ -49,7 +49,7 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
                            slugIconMap.get(cleanHref.replace(/\s+/g, '-'));
               
               if (!icon) return;
-              node.properties.className += " ref-icon";
+              node.properties.className.push("ref-icon");
               
               const spaceNode = { type: "text", value: " " };
 
