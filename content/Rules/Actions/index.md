@@ -29,16 +29,22 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Magic]]            | ?     | Cast a spell.                                                             |
 # Actions
 
+## Mark
 ![[Mark]]
 
+## Move
 ![[Move]]
 
+## Attack
 ![[Attack]]
 
+## Inventory
 ![[Inventory]]
 
+## Reclaim
 ![[Reclaim]]
 
+## Magic
 ![[Magic]]
 
 ## Unique Action Restriction
@@ -47,6 +53,8 @@ When you perform your actions in a round, each action must be a different action
 If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action.
 # Tags
 
+## Extra
 ![[Extra]]
 
+## Reaction
 ![[Rules/Tags/Reaction]]

@@ -2,12 +2,13 @@
 icon: GiBatteredAxe
 ---
 # Stance
+The Executioner's Stance aims to target weakened and hurt enemies and crush them with overwhelming power, eventually automatically killing any foe.
 
-|               | Executioner's Stance                                                                                                    |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | Your [[Attack]]s against a character with [[Slowed]] / [[Hobbled]] / [[Frightened]] / [[Prone]] do # additional damage. |
-| **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                 |
-| **Tags:**     |                                                                                                                         |
+|               | Executioner's Stance                                                                                                                            |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | Your [[Attack]]s against a character with [[Bloodied]] / [[Slowed]] / [[Hobbled]] / [[Frightened]] / [[Prone]] do # additional damage for each. |
+| **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                                         |
+| **Tags:**     |                                                                                                                                                 |
 
 # Techniques
 ## Execute
