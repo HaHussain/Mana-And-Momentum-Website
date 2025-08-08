@@ -1,4 +1,4 @@
 ---
 icon: LiRewind
 ---
-This weapon can only make Slow [[Attack]]s.
+This weapon makes Slow [[Attack]]s instead of Standard [[Attack]]s.

@@ -4,36 +4,36 @@ icon: LiSwords
 ---
 # Melee Weapons
 
-| Item Name    | Damage | Tags                               | Weapon Focus 1                    | Weapon Focus 2                                        |
-| ------------ | ------ | ---------------------------------- | --------------------------------- | ----------------------------------------------------- |
-| Dagger       | Small  | Melee,<br>One-Handed,<br>[[Quick]] | Can use in grapple without issues | Apply a Debuff from a list?<br>Increased crit chance? |
-| Gauntlets    | Small  | Melee,<br>One-Handed,<br>[[Quick]] | Extra attack                      |                                                       |
-| Sword        | Medium | Melee,<br>One-Handed               | Quick                             | Ignore Physical damage resistances                    |
-| Axe          | Medium | Melee,<br>One-Handed               | Hook in and grapple?              |                                                       |
-| Hammer       | Medium | Melee,<br>One-Handed               | Sweep Attack                      |                                                       |
-| Spear        | Medium | Melee,<br>One-Handed               | Reaching attack                   |                                                       |
-|              |        |                                    |                                   |                                                       |
-| Quarterstaff | Medium | Melee,<br>Two-Handed               | Knock prone                       |                                                       |
-| Great-Sword  | Large  | Melee,<br>Two-Handed, <br>[[Slow]] | Same as Sword                     | Same as Sword                                         |
-| Great-Axe    | Large  | Melee,<br>Two-Handed,<br>[[Slow]]  | Same as Axe                       | Same as Axe                                           |
-| Great-Hammer | Large  | Melee,<br>Two-Handed,<br>[[Slow]]  | Same as Hammer                    | Same as Hammer                                        |
-| Longspear    | Large  | Melee,<br>Two-Handed,<br>[[Slow]]  | Same as Spear                     | Same as Spear                                         |
+| Item Name    | Damage | Tags                                                   | Weapon Focus 1                    | Weapon Focus 2                                        |
+| ------------ | ------ | ------------------------------------------------------ | --------------------------------- | ----------------------------------------------------- |
+| Dagger       | Small  | [[Melee]] 1,<br>One-Handed,<br>[[Quick]]               | Can use in grapple without issues | Apply a Debuff from a list?<br>Increased crit chance? |
+| Gauntlets    | Small  | [[Melee]] 1,<br>Two-Handed,<br>[[Quick]]               | Extra attack                      |                                                       |
+| Sword        | Medium | [[Melee]] 1,<br>One-Handed                             | Quick                             | Ignore Physical damage resistances                    |
+| Axe          | Medium | [[Melee]] 1,<br>One-Handed                             | Hook in and grapple?              |                                                       |
+| Hammer       | Medium | [[Melee]] 1,<br>One-Handed<br>[[Push]] 1               | Sweep Attack                      |                                                       |
+| Spear        | Medium | [[Melee]] 2,<br>One-Handed                             | Reaching attack                   | Line 2                                                |
+|              |        |                                                        |                                   |                                                       |
+| Quarterstaff | Medium | [[Melee]] 1,<br>Two-Handed                             | Knock prone                       |                                                       |
+| Great-Sword  | Large  | [[Melee]] 2,<br>Two-Handed, <br>[[Slow]]               | Same as Sword                     | Same as Sword                                         |
+| Great-Axe    | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Pull]] 1 | Same as Axe                       | Same as Axe                                           |
+| Great-Hammer | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Push]] 2 | Same as Hammer                    | Same as Hammer                                        |
+| Longspear    | Large  | [[Melee]] 3,<br>Two-Handed,<br>[[Slow]]                | Same as Spear                     | Same as Spear                                         |
 # Ranged Weapons
 
-| Item Name   | Damage | Tags                                               | Weapon Focus 1                    | Weapon Focus 2 |
-| ----------- | ------ | -------------------------------------------------- | --------------------------------- | -------------- |
-| Boomerang   | Small  | Ranged,<br>One-Handed                              | Ricochet                          | Double Attack? |
-| Shortbow    | Small  | Ranged,<br>Two-Handed,<br>[[Arching]]              |                                   |                |
-| Pistol      | Medium | Ranged,<br>One-Handed,<br>[[Quick]],<br>[[Reload]] | Quick Draw?<br>Close combat shot? |                |
-| Longbow     | Medium | Ranged,<br>Two-Handed,<br>[[Arching]]              |                                   |                |
-| Rifle       | High   | Ranged,<br>Two-Handed,<br>[[Reload]]               |                                   | Same as Pistol |
-| Crossbow    | Medium | Ranged,<br>Two-Handed                              | Armour Pierce                     |                |
-| Hand-Cannon | Large  | Ranged,<br>Two-Handed,<br>[[Slow]],<br>[[Reload]]  |                                   | Splash Damage  |
+| Item Name   | Damage | Tags                                                   | Weapon Focus 1                    | Weapon Focus 2 |
+| ----------- | ------ | ------------------------------------------------------ | --------------------------------- | -------------- |
+| Boomerang   | Small  | [[Ranged]],<br>One-Handed                              | Ricochet                          | Double Attack? |
+| Shortbow    | Small  | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]              |                                   |                |
+| Pistol      | Medium | [[Ranged]],<br>One-Handed,<br>[[Quick]],<br>[[Reload]] | Quick Draw?<br>Close combat shot? |                |
+| Longbow     | Medium | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]              |                                   |                |
+| Rifle       | High   | [[Ranged]],<br>Two-Handed,<br>[[Reload]]               |                                   | Same as Pistol |
+| Crossbow    | Medium | [[Ranged]],<br>Two-Handed                              | Armour Pierce                     |                |
+| Hand-Cannon | Large  | [[Ranged]],<br>Two-Handed,<br>[[Slow]],<br>[[Reload]]  |                                   | Splash Damage  |
 # Magic Weapons
 
-| Item Name | Damage | Tags                                            | Weapon Focus 1                           | Weapon Focus 2 |
-| --------- | ------ | ----------------------------------------------- | ---------------------------------------- | -------------- |
-| Wand      |        | Focus,<br>One-Handed,<br>Ranged,<br>            |                                          |                |
-| Tome      |        | Focus,<br>One-Handed,<br>Ranged,                | Get access to a spell you didn't bring?  |                |
-| Staff     |        | Focus,<br>Two-Handed,<br>Ranged,                | Increased range?                         |                |
-| Orb       |        | Focus, <br>Two-Handed,<br>Ranged,<br>[[Reload]] | Concentrate a spell to be more effective |                |
+| Item Name | Damage | Tags                                                | Weapon Focus 1                           | Weapon Focus 2 |
+| --------- | ------ | --------------------------------------------------- | ---------------------------------------- | -------------- |
+| Wand      |        | Focus,<br>One-Handed,<br>[[Ranged]],<br>            | Faster?                                  |                |
+| Tome      |        | Focus,<br>One-Handed,<br>[[Ranged]],                | Get access to a spell you didn't bring?  |                |
+| Staff     |        | Focus,<br>Two-Handed,<br>[[Ranged]],                | Increased range? Extended Seek?          |                |
+| Orb       |        | Focus, <br>Two-Handed,<br>[[Ranged]],<br>[[Reload]] | Concentrate a spell to be more effective |                |

@@ -34,10 +34,15 @@ You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - If you have committed mana indefinitely, commit one mana for the scene.
 - Second - Reclaim the rest of your mana that was committed indefinitely.
 
+
 These are also the tier's of Mana Commitment.
+## Tier Down
+
 If an ability reduces the Mana Commitment of a spell, 
 - If you would commit for a day, commit for a scene. 
 - If you would commit for a scene, commit indefinitely.
+
+## Tier Up
 
 If an ability increases the Mana commitment of a spell,
 - If you would commit indefinitely, commit for a scene.

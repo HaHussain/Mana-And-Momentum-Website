@@ -6,7 +6,7 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 
 |               | Executioner's Stance                                                                                                                            |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | Your [[Attack]]s against a character with [[Bloodied]] / [[Slowed]] / [[Hobbled]] / [[Frightened]] / [[Prone]] do # additional damage for each. |
+| **Passive:**  | Your [[Attack]]s against a character with [[Bloodied]] / [[Slowed]] / [[Chilled]] / [[Frightened]] / [[Prone]] do # additional damage for each. |
 | **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                                         |
 | **Tags:**     |                                                                                                                                                 |
 
@@ -42,7 +42,7 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 | **Tempo:**  | 2                                                                   |
 | **Cost:**   | 1                                                                   |
 |             |                                                                     |
-| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Hobbled]]. |
+| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Chilled]]. |
 | **Tags:**   |                                                                     |
 
 ## Instrument of Death

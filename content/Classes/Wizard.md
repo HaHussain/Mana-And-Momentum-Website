@@ -21,6 +21,23 @@ Science and Study will figure out the mysteries of the universe. The wizard bend
 
 # Features
 
+## Study
+You gain the following reaction
+
+|                     | Study                                                                     |
+| ------------------- | ------------------------------------------------------------------------- |
+| **Tempo:**          | 4                                                                         |
+| **Pre-Requisites:** | You have [[Scan]]ned the creature that triggered this reaction this round |
+| **Trigger:**        | A creature in your [[Seek]] performs the [[Magic]] action.                |
+|                     |                                                                           |
+| **Action:**         | [[Ask]] what the spell's name is. Collect it.                             |
+| Tags:               | [[Rules/Tags/Reaction\|Reaction]]                                         |
+If you collect three of the same spell in a scene, you gain the ability to cast that spell once this scene.
+Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a clock to learn that spell school.
+
+## Quick Study
+Tempo of Study is reduced to 2.
+
 # Class Focuses
 
 # Ideas
