@@ -7,11 +7,11 @@ icon: LiSwords
 | Item Name    | Damage | Tags                                                   | Weapon Focus 1                    | Weapon Focus 2                                        |
 | ------------ | ------ | ------------------------------------------------------ | --------------------------------- | ----------------------------------------------------- |
 | Dagger       | Small  | [[Melee]] 1,<br>One-Handed,<br>[[Quick]]               | Can use in grapple without issues | Apply a Debuff from a list?<br>Increased crit chance? |
-| Gauntlets    | Small  | [[Melee]] 1,<br>Two-Handed,<br>[[Quick]]               | Extra attack                      |                                                       |
-| Sword        | Medium | [[Melee]] 1,<br>One-Handed                             | Quick                             | Ignore Physical damage resistances                    |
-| Axe          | Medium | [[Melee]] 1,<br>One-Handed                             | Hook in and grapple?              |                                                       |
-| Hammer       | Medium | [[Melee]] 1,<br>One-Handed<br>[[Push]] 1               | Sweep Attack                      |                                                       |
-| Spear        | Medium | [[Melee]] 2,<br>One-Handed                             | Reaching attack                   | Line 2                                                |
+| Gauntlets    | Small  | [[Melee]] 1,<br>Two-Handed,<br>[[Quick]]               | Extra attack                      | Free Grapple                                          |
+| Sword        | Medium | [[Melee]] 1,<br>One-Handed                             | Quick                             | Ignore Physical damage resistances<br>Reliable        |
+| Axe          | Medium | [[Melee]] 1,<br>One-Handed                             | Hook in and grapple?              | Sweep Attack                                          |
+| Hammer       | Medium | [[Melee]] 1,<br>One-Handed<br>[[Push]] 1               |                                   |                                                       |
+| Spear        | Medium | [[Melee]] 2,<br>One-Handed                             | Reaching attack<br>Set attack?    | Line strike                                           |
 |              |        |                                                        |                                   |                                                       |
 | Quarterstaff | Medium | [[Melee]] 1,<br>Two-Handed                             | Knock prone                       |                                                       |
 | Great-Sword  | Large  | [[Melee]] 2,<br>Two-Handed, <br>[[Slow]]               | Same as Sword                     | Same as Sword                                         |

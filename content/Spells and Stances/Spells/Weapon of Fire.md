@@ -13,5 +13,5 @@
 |             |                                                                                                                    |
 | 3           | **Inferno Point Strike**                                                                                           |
 | **Tempo:**  | [[Extra]]: 3                                                                                                       |
-| **Effect:** | Commit mana indefinitely, one weapon in your hands does # fire damage in [[Burst]] 1 as long as mana is committed. |
+| **Effect:** | Commit mana indefinitely, one weapon in your hands does # fire damage in [[Blast]] 1 as long as mana is committed. |
 | **Tags:**   | [[Elemental]]: Fire                                                                                                |
