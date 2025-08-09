@@ -12,3 +12,5 @@ A full Magic has ? more spells?
 
 Spells work like a column, you must learn the bottom tier to get the tier above.
 Sorcerer (if we have one) can ignore this
+
+Mob rules: https://ninesides.substack.com/p/mob-rules-for-d-and-d-5e ?

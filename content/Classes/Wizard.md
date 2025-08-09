@@ -31,7 +31,7 @@ You gain the following reaction
 | **Trigger:**        | A creature in your [[Seek]] performs the [[Magic]] action.                |
 |                     |                                                                           |
 | **Action:**         | [[Ask]] what the spell's name is. Collect it.                             |
-| Tags:               | [[Rules/Tags/Reaction\|Reaction]]                                         |
+| **Tags:**           | [[Rules/Tags/Reaction\|Reaction]]                                         |
 
 If you collect three of the same spell in a [[Scenes|Scene]], for the scene you gain the ability to cast that spell once this scene.
 Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a clock to learn that spell school.
