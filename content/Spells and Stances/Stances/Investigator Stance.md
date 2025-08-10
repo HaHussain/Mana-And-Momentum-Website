@@ -50,14 +50,14 @@ The Investigator's Stance aims to determine truth from lie by reading body langu
 |             |                                                                                |
 | **Effect:** | Get a lead on a question of your choice relating to this current conversation. |
 | **Tags:**   |                                                                                |
-## Tell me now!
+## Reading subtle tells
 
-|              | Discover Truth                                            |
+|              | Reading subtle tells                                     |
 | ------------ | -------------------------------------------------------- |
-| **Stance:**  | Investigat                                                |
-| **Tempo:**                                                               |
-| **Cost:**                                                                |
-|                                                                          |
-| **Trigger:** | A character lies                                          |
-| **Effec They must either tell you the truth or give up a secret. uth or  |
-| **Tags:                                                                  |
+| **Stance:**  | Investigator                                             |
+| **Tempo:**   | 7                                                        |
+| **Cost:**    | 5                                                        |
+|              |                                                          |
+| **Trigger:** | A character lies to you                                  |
+| **Effect:**  | They must either tell you the truth or give up a secret. |
+| **Tags:**    |                                                          |
