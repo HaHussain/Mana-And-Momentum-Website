@@ -39,3 +39,8 @@ Scouting
 - See where enemies are moving to? Get enemies movement speed?
 - Flying scout animal? Your [[Seek]] extends from your scout too.
 - Tracking and following.
+
+Class Focus:
+- Blade dancer?
+- Make animal companion your main fighter
+- Texas Range

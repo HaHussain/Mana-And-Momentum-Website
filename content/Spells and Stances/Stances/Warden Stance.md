@@ -13,15 +13,15 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 # Techniques
 ## Block and Deflect
 
-|              | Block and Deflect                                                        |
-| ------------ | ------------------------------------------------------------------------ |
-| **Stance:**  | Warden                                                                   |
-| **Tempo:**   | [[Rules/Tags/Reaction\|Reaction]]: 4                                     |
-| **Cost:**    | 1                                                                        |
-|              |                                                                          |
-| **Trigger:** | When a character hits you with an attack while you are holding a shield. |
-| **Effect:**  | Reduce the damage from the attack by 1d#.                                |
-| **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                        |
+|              | Interpose                                                               |
+| ------------ | ----------------------------------------------------------------------- |
+| **Stance:**  | Warden                                                                  |
+| **Tempo:**   | [[Rules/Tags/Reaction\|Reaction]]: 4                                    |
+| **Cost:**    | 2                                                                       |
+|              |                                                                         |
+| **Trigger:** | When a character chooses to attack an ally while you are also in Range. |
+| **Effect:**  | That character must target you with that attack.                        |
+| **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                       |
 ## Shock Charge
 
 |             | Shock Charge                                                                             |

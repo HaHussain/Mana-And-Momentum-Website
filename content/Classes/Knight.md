@@ -39,7 +39,7 @@ Effort:
 - Retry things
 - Add an additional dice to things
 
-Steed
+Steed!!!!
 
 Well-Liked:
 - Folk Hero popular with the people?
@@ -48,4 +48,4 @@ Well-Liked:
 Class Focuses:
 - Weapons
 - Armours
-- Steed gets additional powers
+- Dragon Knight, turns Steed into a dragon.
