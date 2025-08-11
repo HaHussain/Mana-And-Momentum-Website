@@ -12,11 +12,11 @@ The Hunter's Stance and Techniques focus on targeting lone and solitary targets 
 
 # Techniques
 
-|             | Take Aim                 |
-| ----------- | ------------------------ |
-| **Stance:** | Hunter                   |
-| **Tempo:**  | [[Extra]]: [[Mark]]      |
-| **Cost:**   | 2                        |
-|             |                          |
-| **Effect:** | Take the [[Mark]] action |
-| **Tags:**   | [[Extra]]                |
+|             | Take Aim            |
+| ----------- | ------------------- |
+| **Stance:** | Hunter              |
+| **Tempo:**  | [[Extra]]: [[Mark]] |
+| **Cost:**   | 2                   |
+|             |                     |
+| **Effect:** | [[Mark]]            |
+| **Tags:**   | [[Extra]]           |

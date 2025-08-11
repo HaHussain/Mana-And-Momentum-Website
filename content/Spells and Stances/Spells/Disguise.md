@@ -17,5 +17,5 @@ icon: GiDominoMask
 |             |                                                                                                                                                    |
 | 3           | **Disguise Terrain**                                                                                                                               |
 | **Tempo:**  | [[Magic]]: 5                                                                                                                                       |
-| **Effect:** | Commit mana for the day,<br>Select a [[Blast]] 5 area, disguise it as another terrain type.                                                        |
+| **Effect:** | Commit mana for the day,<br>Select a [[Circle]] 10 area, disguise it as another terrain type.                                                      |
 | **Tags:**   | [[Illusion]]                                                                                                                                       |

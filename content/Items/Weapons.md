@@ -4,28 +4,29 @@ icon: LiSwords
 ---
 # Melee Weapons
 
-| Item Name    | Damage | Tags                                                   | Weapon Focus 1                    | Weapon Focus 2                                        |
-| ------------ | ------ | ------------------------------------------------------ | --------------------------------- | ----------------------------------------------------- |
-| Dagger       | Small  | [[Melee]] 1,<br>One-Handed,<br>[[Quick]]               | Can use in grapple without issues | Apply a Debuff from a list?<br>Increased crit chance? |
-| Gauntlets    | Small  | [[Melee]] 1,<br>Two-Handed,<br>[[Quick]]               | Extra attack                      | Free Grapple                                          |
-| Sword        | Medium | [[Melee]] 1,<br>One-Handed                             | Quick                             | Ignore Physical damage resistances<br>Reliable        |
-| Axe          | Medium | [[Melee]] 1,<br>One-Handed                             | Hook in and grapple?              | Sweep Attack                                          |
-| Hammer       | Medium | [[Melee]] 1,<br>One-Handed<br>[[Push]] 1               |                                   |                                                       |
-| Spear        | Medium | [[Melee]] 2,<br>One-Handed                             | Reaching attack<br>Set attack?    | Line strike                                           |
-|              |        |                                                        |                                   |                                                       |
-| Quarterstaff | Medium | [[Melee]] 1,<br>Two-Handed                             | Knock prone                       |                                                       |
-| Great-Sword  | Large  | [[Melee]] 2,<br>Two-Handed, <br>[[Slow]]               | Same as Sword                     | Same as Sword                                         |
-| Great-Axe    | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Pull]] 1 | Same as Axe                       | Same as Axe                                           |
-| Great-Hammer | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Push]] 2 | Same as Hammer                    | Same as Hammer                                        |
-| Longspear    | Large  | [[Melee]] 3,<br>Two-Handed,<br>[[Slow]]                | Same as Spear                     | Same as Spear                                         |
+| Item Name      | Damage | Tags                                                   | Weapon Focus 1                     | Weapon Focus 2                                                              |
+| -------------- | ------ | ------------------------------------------------------ | ---------------------------------- | --------------------------------------------------------------------------- |
+| Dagger         | Small  | [[Melee]] 1,<br>One-Handed,<br>[[Quick]]               | Can use in grapple without issues  | Apply a Debuff from a list?<br>Increased crit chance?                       |
+| Gauntlets      | Small  | [[Melee]] 1,<br>Two-Handed,<br>[[Quick]]               | Extra attack                       | Free Grapple                                                                |
+| Sword          | Medium | [[Melee]] 1,<br>One-Handed                             | Quick                              | Ignore Physical damage resistances<br>Reliable                              |
+| Axe            | Medium | [[Melee]] 1,<br>One-Handed                             | Hook in and grapple?               | Sweep Attack                                                                |
+| Hammer         | Medium | [[Melee]] 1,<br>One-Handed<br>[[Push]] 1               | Greater push                       | When you push someone into an object, they take remaining knockback damage. |
+| Spear          | Medium | [[Melee]] 2,<br>One-Handed                             | Reaching attack<br>Set attack?     | Line strike                                                                 |
+|                |        |                                                        |                                    |                                                                             |
+| Hook and Chain | Small  | [[Melee]] 5,<br>Two-Handed,<br>[[Pull]] 2              | Grappling Hook swing and pull self | Restrain                                                                    |
+| Quarterstaff   | Medium | [[Melee]] 1,<br>Two-Handed                             | Knock prone                        |                                                                             |
+| Great-Sword    | Large  | [[Melee]] 2,<br>Two-Handed, <br>[[Slow]]               | Same as Sword                      | Same as Sword                                                               |
+| Great-Axe      | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Pull]] 1 | Same as Axe                        | Same as Axe                                                                 |
+| Great-Hammer   | Large  | [[Melee]] 2,<br>Two-Handed,<br>[[Slow]],<br>[[Push]] 2 | Same as Hammer                     | Same as Hammer                                                              |
+| Longspear      | Large  | [[Melee]] 3,<br>Two-Handed,<br>[[Slow]]                | Same as Spear                      | Same as Spear                                                               |
 # Ranged Weapons
 
 | Item Name   | Damage | Tags                                                   | Weapon Focus 1                    | Weapon Focus 2 |
 | ----------- | ------ | ------------------------------------------------------ | --------------------------------- | -------------- |
 | Boomerang   | Small  | [[Ranged]],<br>One-Handed                              | Ricochet                          | Double Attack? |
-| Shortbow    | Small  | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]              |                                   |                |
+| Shortbow    | Small  | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]               | Stealth Shot                      | Double Shot    |
 | Pistol      | Medium | [[Ranged]],<br>One-Handed,<br>[[Quick]],<br>[[Reload]] | Quick Draw?<br>Close combat shot? |                |
-| Longbow     | Medium | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]              |                                   |                |
+| Longbow     | Medium | [[Ranged]],<br>Two-Handed,<br>[[Arcing]]               |                                   |                |
 | Rifle       | High   | [[Ranged]],<br>Two-Handed,<br>[[Reload]]               |                                   | Same as Pistol |
 | Crossbow    | Medium | [[Ranged]],<br>Two-Handed                              | Armour Pierce                     |                |
 | Hand-Cannon | Large  | [[Ranged]],<br>Two-Handed,<br>[[Slow]],<br>[[Reload]]  |                                   | Splash Damage  |

@@ -9,7 +9,7 @@ The Investigator's Stance aims to determine truth from lie by reading body langu
 
 # Techniques
 
-## An Understanding Node
+## An Understanding Nod
 
 |              | An Understanding Nod                |
 | ------------ | ----------------------------------- |
@@ -22,14 +22,14 @@ The Investigator's Stance aims to determine truth from lie by reading body langu
 | **Tags:**    |                                     |
 ## Read the Room
 
-|             | Read the Room                                                                        |
-| ----------- | ------------------------------------------------------------------------------------ |
-| **Stance:** | Investigator                                                                         |
-| **Tempo:**  | 7                                                                                    |
-| **Cost:**   | 2                                                                                    |
-|             |                                                                                      |
-| **Effect:** | Choose an emotion and determine the people in a crowd feeling that emotion strongly. |
-| **Tags:**   |                                                                                      |
+|             | Read the Room                                                                       |
+| ----------- | ----------------------------------------------------------------------------------- |
+| **Stance:** | Investigator                                                                        |
+| **Tempo:**  | [[Mark]]                                                                            |
+| **Cost:**   | 2                                                                                   |
+|             |                                                                                     |
+| **Effect:** | Choose an emotion and [[Mark]] the people in a crowd feeling that emotion strongly. |
+| **Tags:**   |                                                                                     |
 ## Seek Motive
 
 |             | Seek Motive                                                 |
