@@ -72,3 +72,30 @@ Might, Deft, Grit, Insight, Aura
 
 This is essentially Strength, Dex, Con, Wis, Cha. Really dont like this.
 
+---
+
+What do you want to do:
+
+Exploration: 
+- Physical Strength - Push down a tree, leap a chasm, climb
+- Perception - Find another route
+- Build a bridge
+- Throw and tie a rope, cross using that
+
+Combat:
+- Tank - Disabler / Tough
+- DPS - Skirmisher / Ranged
+- Controller - Debuff / Terrain
+- Support - Buffs / Actions / Heals
+
+Social:
+- Intimidation (Fear)
+- Persuasion (Happiness)
+- Deception (Anything else)
+- Logic (Understanding)
+- Bribery (Fulfilled)
+- Guilt
+- Authority (Weak)
+- Flirt (Infatuation)
+- 
+

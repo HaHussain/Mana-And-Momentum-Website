@@ -1,5 +1,5 @@
 ---
-icon: GiKevlar
+icon: GiPlastron
 ---
 
 | Item Name | AC  | Deflection | Weight Penalty | Tags                                          | Armour Focus 1       | Armour Focus 2 |

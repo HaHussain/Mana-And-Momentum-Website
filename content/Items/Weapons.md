@@ -1,6 +1,8 @@
 ---
 tags: 
 icon: LiSwords
+aliases:
+  - Weapon
 ---
 # Melee Weapons
 
