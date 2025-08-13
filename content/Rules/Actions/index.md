@@ -3,6 +3,7 @@ icon: LiLayoutList
 aliases:
   - Actions
   - Unique Action Restriction
+  - Action
 title: Actions
 ---
 Every player starts with 2 actions per round. This means players have 2 turns per round. 
@@ -27,6 +28,14 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Slow]] [[Attack]]  | 7     | Make a slow attack.                                                       |
 | [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
 | [[Magic]]            | ?     | Cast a spell.                                                             |
+# Unique Action Restriction
+
+When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
+If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action even if it occurs at a different Tempo than usual.
+
+# Exert
+![[Exert]]
+
 # Actions
 
 ## Mark
@@ -47,10 +56,6 @@ Each reaction has a tempo that needs to be reached before the character can use 
 ## Magic
 ![[Magic]]
 
-## Unique Action Restriction
-
-When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
-If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action even if it occurs at a different Tempo than usual.
 # Tags
 
 ## Extra

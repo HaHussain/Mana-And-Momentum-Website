@@ -99,3 +99,10 @@ Social:
 - Flirt (Infatuation)
 - 
 
+If we do
+Strength - Force
+Dexterity - Precision
+Fortitude - Overexerting
+Awareness - Perception, survival
+Intelligence - Logic and recall
+Intuition - Focus, Insight, Animal Handling  

@@ -9,7 +9,7 @@ title: Spells
 ---
 # Mana
 
-Mana is the resource that fuels spellcasting. In general spellcasting will start the day with a stockpile of mana and a number of spells.
+Mana is the resource that fuels spellcasting. In general spellcasters will start the day with a stockpile of mana and a number of spells.
 
 Each spell will have a [[Tempo]] and a Mana cost, and the duration for that cost. Eg.
 
@@ -17,8 +17,14 @@ Each spell will have a [[Tempo]] and a Mana cost, and the duration for that cost
 | ---------- | --------------------------------- |
 | **Tempo**  | [[Magic]]: 7                      |
 | **Effect** | Commit 1 mana for the scene to... |
+There are generally three tiers of committed mana, in descending order they are:
+- Mana committed for a day.
+- Mana committed for a scene.
+- Mana committed indefinitely.
 
-Committed mana stays on the spell until the [[Reclaim]] action is taken, and there are generally three durations for committed mana, that can effect how the [[Reclaim]] action works.
+## Reclaiming
+
+Committed mana stays on the spell until the [[Reclaim]] action is taken, the tier it is committed at effects how to [[Reclaim]] that mana.
 
 Committing Mana for a day: 
 Mana committed for a day can only be [[Reclaim]]ed during a [[Long Rest?]]. When that occurs you regain all your mana back to your mana pool.
@@ -34,8 +40,6 @@ You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - If you have committed mana indefinitely, commit one mana for the scene.
 - Second - Reclaim the rest of your mana that was committed indefinitely.
 
-
-These are also the tier's of Mana Commitment.
 ## Tier Down
 
 If an ability reduces the Mana Commitment of a spell, 

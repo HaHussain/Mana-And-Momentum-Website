@@ -26,3 +26,5 @@ Upgradable
 - MECH MODE!!!
 
 Howl's moving castle vibes
+
+Living Room: Size 1: Your Social stance triggers can be triggered by any Member.
