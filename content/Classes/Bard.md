@@ -45,3 +45,11 @@ Talky and Not Talky. What replaces Talky or is it talky is automatic?
 Cunning Subterfuge and Cheerleader
 
 DOOT DOOT MAGIC FLUTE WEAPON
+
+Relentando:
+x is the number of momentum on this.
+Gain momentum when you use an action that is Tempo x+1
+If you don't gain any momentum on this stance during a round, lose all momentum on this stance.
+
+Accelerando:
+the opposite.
