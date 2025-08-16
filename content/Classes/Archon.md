@@ -36,4 +36,6 @@ Blood and Body
 
 Inheritance / power
 - Some form of rule breaking theme or rule making theme?
-- presence?
+- presence? Authority?
+- Dominion over enemies? Take them over?
+- Debuff enemies/ opposite of bard?

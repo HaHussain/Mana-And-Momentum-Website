@@ -3,6 +3,6 @@ icon: LiEye
 ---
 Seek is the range around your character that they can effectively use their abilities.
 
-Your default Seek is:
+Your default Seek is: [[Awareness]] * 2 * 2m
 
 Many abilities will use your Seek or 2x Seek.

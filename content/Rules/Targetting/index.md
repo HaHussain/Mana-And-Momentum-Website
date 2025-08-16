@@ -2,9 +2,10 @@
 
 All abilities target the squares on a grid of the battlemap, however the majority of abilities will only effect the contents of those squares.
 ## Characters
-Characters are the majority of what you will be targeting, monsters, people, spirits, all of these are characters.
+![[Character]]
 ## Objects
-Everything that is non-sentient, (other than the terrain), from rocks, to balconies, to gazebos.
+![[Object]]
+
 ## Terrain
 The ground itself and the air itself. These things have no HP, but are often changed into various interesting substances to change how the battlefield works.
 

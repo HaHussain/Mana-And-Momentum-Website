@@ -37,7 +37,7 @@ If you collect three of the same spell in a [[Scenes|Scene]], for the scene you 
 Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a clock to learn that spell school.
 
 ## Quick Study
-Tempo of Study is reduced to 2.
+The [[Tempo]] of [[#Study]] is reduced to 2.
 
 # Class Focuses
 
