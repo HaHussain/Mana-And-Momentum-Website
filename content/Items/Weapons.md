@@ -49,6 +49,6 @@ In this case a weapon will list:
 \[The First Weapon Focus / The Second Weapon Focus], The damage, Any tags
 
 For example:
->A scythe may be:
+A scythe may be:
 [[Weapons#Custom Weapons|[Spear / Axe]]], Large, [[Melee]] 2, [[Slow]], [[Pull]] 1
 Which means it uses the first weapon focus from Spear and the second from Axe. Does Large damage, and has those tags.
