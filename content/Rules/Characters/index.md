@@ -1,4 +1,6 @@
-
+---
+title: Characters
+---
 # Stats
 This game uses 6 stats to frame your character's qualities.
 ## Physical Stats

@@ -24,16 +24,16 @@ aliases:
 | Epee         | Large  | [[Melee]] 2<br>Two-Handed<br>[[Orthogonal]]                           | Parry                             | Riposte                                               |
 # Ranged Weapons
 
-| Item Name      | Damage | Tags                                                                      | Weapon Focus 1                     | Weapon Focus 2        |
-| -------------- | ------ | ------------------------------------------------------------------------- | ---------------------------------- | --------------------- |
-| Boomerang      | Small  | [[Ranged]]<br>One-Handed                                                  | Ricochet                           | Double Attack?        |
-| Hook and Chain | Small  | [[Melee]] 5<br>[[Ranged]] 5<br>Two-Handed<br>[[Pull]] 2<br>[[Orthogonal]] | Grappling Hook swing and pull self | Restrain              |
-| Shortbow       | Small  | [[Ranged]]<br>Two-Handed<br>[[Arcing]]                                    | Stealth Shot                       | Double Shot           |
-| Pistol         | Medium | [[Ranged]]<br>One-Handed<br>[[Quick]]<br>[[Reload]]                       | Quick Stow                         | Quick Fire at Tempo 1 |
-| Longbow        | Medium | [[Ranged]]<br>Two-Handed<br>[[Arcing]]                                    |                                    |                       |
-| Rifle          | High   | [[Ranged]]<br>Two-Handed<br>[[Reload]]                                    |                                    | Same as Pistol        |
-| Crossbow       | Medium | [[Ranged]]<br>Two-Handed                                                  | Armour Pierce                      |                       |
-| Hand-Cannon    | Large  | [[Ranged]]<br>Two-Handed<br>[[Slow]]<br>[[Reload]]                        |                                    | Splash Damage         |
+| Item Name      | Damage | Tags                                                                      | Weapon Focus 1                                                                                          | Weapon Focus 2                                                                            |
+| -------------- | ------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Boomerang      | Small  | [[Ranged]]<br>One-Handed                                                  | Ricochet                                                                                                | Double Attack?                                                                            |
+| Hook and Chain | Small  | [[Melee]] 5<br>[[Ranged]] 5<br>Two-Handed<br>[[Pull]] 2<br>[[Orthogonal]] | Grappling Hook swing and pull self                                                                      | Restrain                                                                                  |
+| Shortbow       | Small  | [[Ranged]]<br>Two-Handed<br>[[Arcing]]                                    | Stealth Shot                                                                                            | Double Shot                                                                               |
+| Pistol         | Medium | [[Ranged]]<br>One-Handed<br>[[Quick]]<br>[[Reload]]                       | In the first round of combat, if you fire this weapon, you can take an [[Extra]]: [[Inventory]] action. | In the first round of combat, you can take an [[Attack]] with this weapon at [[Tempo]] 1. |
+| Longbow        | Medium | [[Ranged]]<br>Two-Handed<br>[[Arcing]]                                    |                                                                                                         |                                                                                           |
+| Rifle          | High   | [[Ranged]]<br>Two-Handed<br>[[Reload]]                                    |                                                                                                         | Same as Pistol                                                                            |
+| Crossbow       | Medium | [[Ranged]]<br>Two-Handed                                                  | Armour Pierce                                                                                           |                                                                                           |
+| Hand-Cannon    | Large  | [[Ranged]]<br>Two-Handed<br>[[Slow]]<br>[[Reload]]                        |                                                                                                         | Splash Damage                                                                             |
 # Magic Weapons
 
 | Item Name | Damage | Tags                                            | Weapon Focus 1                           | Weapon Focus 2 |
