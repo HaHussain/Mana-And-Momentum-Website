@@ -53,7 +53,7 @@ Any tags
 For example:
 >**Scythe:**
 >Damage: Large
->Focus: [[Weapons#Custom Weapons|Spear / Axe]]
+>Focus: [[Weapons#Custom Weapons|Spear + Axe]]
 >Tags: [[Melee]] 2, [[Slow]], [[Pull]] 1
 
 Which means it uses the first weapon focus from Spear and the second from Axe. Does Large damage, and has those tags.
