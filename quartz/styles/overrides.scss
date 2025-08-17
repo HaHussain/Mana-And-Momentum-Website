@@ -1,15 +1,16 @@
 // Page overrides
 .page {
   // Expand page
-  max-width: 90%;
-  margin: 0 5%;
+  margin: 0 4%;
   
   > #quartz-body {
-    grid-template-columns: 400px auto 320px;
+    grid-template-columns: 380px auto 320px;
   }
   
-  .sidebar.left .page-title {
-    padding: 0rem 1rem;
+  .sidebar.left {
+    .page-title {
+      padding: 0rem 1rem;
+    }
   }
 }
 
@@ -33,15 +34,6 @@
   }
   th {
     padding-left: 1rem;
-  }
-}
-
-.flex-component {
-  div:first-child {
-    max-width: 14rem;
-  }
-  div {
-    align-self: normal !important;
   }
 }
 
