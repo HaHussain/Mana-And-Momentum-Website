@@ -1,5 +1,5 @@
 ---
-icon: LiPersonStanding
+icon: 
 aliases:
   - Classes
 title: Classes

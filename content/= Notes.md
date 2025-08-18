@@ -97,7 +97,6 @@ Social:
 - Guilt
 - Authority (Weak)
 - Flirt (Infatuation)
-- 
 
 If we do
 Strength - Force
