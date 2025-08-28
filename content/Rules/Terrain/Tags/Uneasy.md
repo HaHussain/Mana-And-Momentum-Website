@@ -1,0 +1,1 @@
+Uneasy terrain takes twice as much movement to move into or out of.

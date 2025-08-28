@@ -24,7 +24,7 @@ tags:
 
 # Ideas
 
-The Archon is the Sorceror of this ttrpg
+~~The Archon is the Sorceror of this ttrpg~~
 
 Magical
 - Ignores the concept of Spell Schools, just grabs spells willynilly
@@ -39,3 +39,7 @@ Inheritance / power
 - presence? Authority?
 - Dominion over enemies? Take them over?
 - Debuff enemies/ opposite of bard?
+
+Judge
+- Put down judgements or decrees that if enemies violate, they get to do something
+- Tanky.

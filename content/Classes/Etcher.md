@@ -32,4 +32,14 @@ Traps
 
 Enchanting items?
 - Put a rune on an item to store a spell in it?
-- Some fuckery with item points would be cool
+- Some fuckery with item points would be cool,
+
+Artist:
+- Create small objects, weapons and armour, large objects, terrain and buildings
+- Objects are physical but look like blueprints.
+- Large scale building
+
+Class Focuses
+- Illusory
+- Terrain focus?
+- Trap focus?

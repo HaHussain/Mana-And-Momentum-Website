@@ -1,0 +1,1 @@
+If a character moving on Slippery terrain attempts to change direction from the straight line they are travelling, they might slip and fall.

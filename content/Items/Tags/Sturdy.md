@@ -1,4 +1,4 @@
 ---
 icon: RiWeightFill
 ---
-When you are [[Push]]ed or [[Pull]]ed, you are [[Push]]ed or [[Pull]]ed this much less.
+When you are [[Push|Pushed]] or [[Pull|Pulled]], you are [[Push|Pushed]] or [[Pull|Pulled]] this much less.

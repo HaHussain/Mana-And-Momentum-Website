@@ -4,7 +4,7 @@ tags:
 icon: RaDrill
 ---
 # Overview
-The sojourner is the spiritual nomad, listening to the world and letting the world speak through them.
+The vessel is the spiritual nomad, listening to the world and letting the world speak through them as it allows entities to enter them.
 
 | Level | Feature |
 | ----- | ------- |
@@ -44,3 +44,12 @@ Monk
 - Unarmoured options
 - Non-elemental options
 - Cast spells with momentum
+
+Class Focus:
+- Chromatic - Fire / Water / Air / Earth
+- Umbral - Light / Dark
+- Empty - Pure Monk
+or
+- Single Focus?
+- Multi Focus?
+- Empty.

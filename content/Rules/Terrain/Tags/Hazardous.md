@@ -1,0 +1,1 @@
+Hazardous terrain does # damage to a character for every square the character walks through it.
