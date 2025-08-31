@@ -14,6 +14,11 @@
   }
 }
 
+// Dont break links everywhere
+a.internal {
+  overflow-wrap: normal;
+}
+
 // Table overrides
 
 .table-container > table {
