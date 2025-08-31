@@ -12,8 +12,8 @@ Then the GM counts from 1 to 7, and players can inform the GM they are taking an
 Each action the player takes a has an tempo and that action occurs at that tempo.
 Players are free to change their upcoming action choices from the Planning phase.
 
-Each player has movement that they can use on each of their turns, this is called their normal move.
-Each player has 1 [[Rules/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
+Each player has movement that they can use on each of their turns, this is called their [[normal move]].
+Each player has 1 [[Rules/Actions/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
 Each reaction has a tempo that needs to be reached before the character can use this reaction.
 
 | Action               | Tempo | Description                                                               |
@@ -33,6 +33,11 @@ Each reaction has a tempo that needs to be reached before the character can use 
 When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
 If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action even if it occurs at a different Tempo than usual.
 
+[[Free]] actions ignore this rule.
+
+# Normal Move
+
+![[Normal Move]]
 # Exert
 ![[Exert]]
 
@@ -43,6 +48,9 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 
 ## Move
 ![[Move]]
+
+## Brace
+![[Brace]]
 
 ## Attack
 ![[Attack]]
@@ -62,4 +70,4 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 ![[Extra]]
 
 ## Reaction
-![[Rules/Tags/Reaction]]
+![[Rules/Actions/Tags/Reaction]]

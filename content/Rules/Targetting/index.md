@@ -5,9 +5,8 @@ All abilities target the squares on a grid of the battlemap, however the majorit
 ![[Character]]
 ## Objects
 ![[Object]]
-
 ## Terrain
-The ground itself and the air itself. These things have no HP, but are often changed into various interesting substances to change how the battlefield works.
+![[Terrain]]
 
 # Ranges and AOEs
 

@@ -1,11 +1,11 @@
 # Stance
 The Investigator's Stance aims to determine truth from lie by reading body language and calculating subtle clues
 
-|               | Investigator's Stance                                                                   |
-| ------------- | --------------------------------------------------------------------------------------- |
-| **Passive:**  |                                                                                         |
-| **Momentum:** | When you discover a lie or uncover vital information in a conversation, gain a momentum |
-| **Tags:**     |                                                                                         |
+|               | Investigator's Stance                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| **Passive:**  |                                                                                             |
+| **Momentum:** | When you discover a lie or uncover vital information in a conversation, gain a [[Momentum]] |
+| **Tags:**     |                                                                                             |
 
 # Techniques
 

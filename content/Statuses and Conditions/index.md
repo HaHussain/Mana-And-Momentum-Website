@@ -32,6 +32,8 @@ The following debuffs exist:
 ![[Blind]]
 ## Chilled
 ![[Chilled]]
+## Deafened
+![[Deafened]]
 ## Immobilised
 ![[Immobilised]]
 ## Marked

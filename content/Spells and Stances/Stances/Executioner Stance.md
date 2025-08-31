@@ -7,7 +7,7 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 |               | Executioner's Stance                                                                                                                            |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | Your [[Attack]]s against a character with [[Bloodied]] / [[Slowed]] / [[Chilled]] / [[Frightened]] / [[Prone]] do # additional damage for each. |
-| **Momentum:** | When you kill a character, gain 2 momentum for normals, 4 for elites and 10 for bosses.                                                         |
+| **Momentum:** | When you kill a character, gain 2 [[Momentum]] for normals, 4 for elites and 10 for bosses.                                                     |
 | **Tags:**     |                                                                                                                                                 |
 
 # Techniques
@@ -27,12 +27,12 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 |              | Kill Zone                                                                                                                  |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | **Stance:**  | Executioner                                                                                                                |
-| **Tempo:**   | [[Rules/Tags/Reaction\|Reaction]]: 5                                                                                       |
+| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: 5                                                                                       |
 | **Cost:**    | 2                                                                                                                          |
 |              |                                                                                                                            |
 | **Trigger:** | You killed a creature.                                                                                                     |
 | **Effect:**  | Immediately make a [[Slow]] [[Attack]] against another creature.<br>This Reaction can be used any number of times a round. |
-| **Tags:**    | [[Rules/Tags/Reaction\|Reaction]] [[Attack]]                                                                               |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Attack]]                                                                               |
 
 ## The Executioner Approaches
 
@@ -47,11 +47,11 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 
 ## Instrument of Death
 
-|             | Instrument of Death                                                                           |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| **Stance:** | Executioner                                                                                   |
-| **Tempo:**  | 1                                                                                             |
-| **Cost:**   | 10                                                                                            |
-|             |                                                                                               |
-| **Effect:** | Make an [[Attack]] against a non boss-creature.<br>If this attack hits, kill target creature. |
-| **Tags:**   | [[Attack]]                                                                                    |
+|             | Instrument of Death                                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Stance:** | Executioner                                                                                                             |
+| **Tempo:**  | [[Slow]] [[Attack]]                                                                                                     |
+| **Cost:**   | 5+                                                                                                                      |
+|             |                                                                                                                         |
+| **Effect:** | [[Attack]] a creature, this attack deals 1 dice of extra damage for every Momentum spent, and then deals double damage. |
+| **Tags:**   | [[Attack]]                                                                                                              |

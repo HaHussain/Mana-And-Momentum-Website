@@ -75,9 +75,15 @@ Influence represents how much an organisation can convince Folk, spread Propagan
 Influence 0: This represents an insular organisation incapable of spreading any belief.
 Influence 1: This is an unpopular group that is able to recruit the vulnerable and isolated.
 
+## Assets
+## Secrets
 # Composite Organisations
 
 Composite organisations are a way of combining multiple organisations together to represent a greater whole like a Country.
 For example, the Leader of an country is likely its ruler(s).
 Its Size is equal to the Size of its Folk
 Its Might is equal
+
+# Reputation
+
+As a party, the players have gain or lose Reputation with an organisation as they interact with them.

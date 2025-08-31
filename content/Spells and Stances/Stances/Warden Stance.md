@@ -4,11 +4,11 @@ icon: RaHeavyShield
 # Stance
 The Warden's Stance and Techniques are about reducing the damage you and your allies take. 
 
-|               | Warden Stance                                                        |
-| ------------- | -------------------------------------------------------------------- |
-| **Passive:**  | When you take physical damage, you take # less.                      |
-| **Momentum:** | When you take no damage from an attack against you, gain a momentum. |
-| **Tags:**     |                                                                      |
+|               | Warden Stance                                                            |
+| ------------- | ------------------------------------------------------------------------ |
+| **Passive:**  | When you take physical damage, you take # less.                          |
+| **Momentum:** | When you take no damage from an attack against you, gain a [[Momentum]]. |
+| **Tags:**     |                                                                          |
 
 # Techniques
 ## Block and Deflect
@@ -16,12 +16,12 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 |              | Interpose                                                                   |
 | ------------ | --------------------------------------------------------------------------- |
 | **Stance:**  | Warden                                                                      |
-| **Tempo:**   | [[Rules/Tags/Reaction\|Reaction]]: 4                                        |
+| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: 4                                        |
 | **Cost:**    | 2                                                                           |
 |              |                                                                             |
 | **Trigger:** | When a character chooses to attack an ally while you are also in [[Range]]. |
 | **Effect:**  | That character must target you with that attack.                            |
-| **Tags**     | [[Rules/Tags/Reaction\|Reaction]]                                           |
+| **Tags**     | [[Rules/Actions/Tags/Reaction\|Reaction]]                                           |
 ## Shock Charge
 
 |             | Shock Charge                                                                             |
@@ -32,16 +32,16 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 |             |                                                                                          |
 | **Effect:** | [[Slow]] [[Attack]] and give the character [[Weakened]] until the end of the next round. |
 | **Tags:**   | [[Attack]]                                                                               |
-## Eyes on me
+## Chilling Presence
 
-|             | Eyes on me                                                                  |
-| ----------- | --------------------------------------------------------------------------- |
-| **Stance:** | Warden                                                                      |
-| **Tempo:**  | [[Extra]]: 3                                                                |
-| **Cost:**   | 2                                                                           |
-|             |                                                                             |
-| **Effect:** | Your next successful [[Attack]] this round gives the target [[Immobilised]] |
-| **Tags:**   | [[Immobilised]]                                                             |
+|             | Chilling Presence                                                                  |
+| ----------- | ---------------------------------------------------------------------------------- |
+| **Stance:** | Warden                                                                             |
+| **Tempo:**  | 3                                                                                  |
+| **Cost:**   | 2                                                                                  |
+|             |                                                                                    |
+| **Effect:** | Apply [[Chilled]] to all [[Marked]] [[Character\|Characters]] within [[Circle]] 5. |
+| **Tags:**   | [[Rules/Actions/index\|Action]]                                                    |
 ## Break Weapon
 
 |             | Break Weapon                                                                                                                                                                         |

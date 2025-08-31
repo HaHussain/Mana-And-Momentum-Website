@@ -39,7 +39,12 @@ Artist:
 - Objects are physical but look like blueprints.
 - Large scale building
 
+Spell to create small objects with increasing complexity, keys, weapons, armour, compass, tools
+Spell to create large objects, minecraft cubes, buildings.
+Spell to create fake static people?
+
 Class Focuses
 - Illusory
+- Architect?
 - Terrain focus?
 - Trap focus?
