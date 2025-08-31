@@ -5,6 +5,46 @@ import { fetchCanonical } from "./util"
 const p = new DOMParser()
 let activeAnchor: HTMLAnchorElement | null = null
 
+// --- new helper ---
+function cssEscapeOrRaw(id: string) {
+  if (typeof (window as any).CSS !== "undefined" && (window as any).CSS.escape) {
+    return (window as any).CSS.escape(id)
+  }
+  return id.replace(/"/g, '\\"')
+}
+
+function extractSectionHtml(doc: Document, hash: string | null): HTMLElement[] | null {
+  if (!hash) return null
+  const raw = hash.replace(/^#/, "")
+  const decoded = decodeURIComponent(raw)
+  let target: Element | null = doc.getElementById(decoded)
+  if (!target) {
+    const escaped = cssEscapeOrRaw(decoded)
+    target = doc.querySelector(`#${escaped}`)
+  }
+  if (!target) return null
+
+  const results: HTMLElement[] = []
+  const tag = target.tagName.toLowerCase()
+  if (/^h[1-6]$/.test(tag)) {
+    const level = parseInt(tag[1], 10)
+    results.push(target.cloneNode(true) as HTMLElement)
+    let sib = (target as HTMLElement).nextElementSibling
+    while (sib) {
+      if (/^h[1-6]$/.test(sib.tagName.toLowerCase())) {
+        const sibLevel = parseInt(sib.tagName[1], 10)
+        if (sibLevel <= level) break
+      }
+      results.push(sib.cloneNode(true) as HTMLElement)
+      sib = sib.nextElementSibling
+    }
+    return results
+  } else {
+    results.push(target.cloneNode(true) as HTMLElement)
+    return results
+  }
+}
+
 async function mouseEnterHandler(
   this: HTMLAnchorElement,
   { clientX, clientY }: { clientX: number; clientY: number },
@@ -28,26 +68,16 @@ async function mouseEnterHandler(
     clearActivePopover()
     popoverElement.classList.add("active-popover")
     setPosition(popoverElement as HTMLElement)
-
-    if (hash !== "") {
-      const targetAnchor = `#popover-internal-${hash.slice(1)}`
-      const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
-      if (heading) {
-        // leave ~12px of buffer when scrolling to a heading
-        popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
-      }
-    }
   }
 
   const targetUrl = new URL(link.href)
   const hash = decodeURIComponent(targetUrl.hash)
   targetUrl.hash = ""
   targetUrl.search = ""
-  const popoverId = `popover-${link.pathname}`
+  const popoverId = `popover-${link.pathname}${hash}`
   const prevPopoverElement = document.getElementById(popoverId)
 
-  // dont refetch if there's already a popover
-  if (!!document.getElementById(popoverId)) {
+  if (!!prevPopoverElement) {
     showPopover(prevPopoverElement as HTMLElement)
     return
   }
@@ -55,8 +85,8 @@ async function mouseEnterHandler(
   const response = await fetchCanonical(targetUrl).catch((err) => {
     console.error(err)
   })
-
   if (!response) return
+
   const [contentType] = response.headers.get("Content-Type")!.split(";")
   const [contentTypeCategory, typeInfo] = contentType.split("/")
 
@@ -73,7 +103,6 @@ async function mouseEnterHandler(
       const img = document.createElement("img")
       img.src = targetUrl.toString()
       img.alt = targetUrl.pathname
-
       popoverInner.appendChild(img)
       break
     case "application":
@@ -83,34 +112,40 @@ async function mouseEnterHandler(
           pdf.src = targetUrl.toString()
           popoverInner.appendChild(pdf)
           break
-        default:
-          break
       }
       break
     default:
       const contents = await response.text()
       const html = p.parseFromString(contents, "text/html")
       normalizeRelativeURLs(html, targetUrl)
-      // prepend all IDs inside popovers to prevent duplicates
-      html.querySelectorAll("[id]").forEach((el) => {
-        const targetID = `popover-internal-${el.id}`
-        el.id = targetID
-      })
-      const elts = [...html.getElementsByClassName("popover-hint")]
-      if (elts.length === 0) return
 
-      elts.forEach((elt) => popoverInner.appendChild(elt))
+      html.querySelectorAll("[id]").forEach((el) => {
+        el.id = `popover-internal-${el.id}`
+      })
+
+      let added = false
+      if (hash !== "") {
+        const section = extractSectionHtml(html, hash)
+        if (section) {
+          section.forEach((elt) => popoverInner.appendChild(elt))
+          added = true
+        }
+      }
+
+      if (!added) {
+        const elts = [...html.getElementsByClassName("popover-hint")]
+        if (elts.length === 0) return
+        elts.forEach((elt) => popoverInner.appendChild(elt))
+      }
   }
 
   if (!!document.getElementById(popoverId)) {
     return
   }
-
   document.body.appendChild(popoverElement)
   if (activeAnchor !== this) {
     return
   }
-
   showPopover(popoverElement)
 }
 
