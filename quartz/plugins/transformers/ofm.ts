@@ -298,7 +298,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   children: [
                     {
                       type: "text",
-                      value: alias ?? fp,
+                      value: alias ?? (fp || anchor.slice(1)),
                     },
                   ],
                 }
