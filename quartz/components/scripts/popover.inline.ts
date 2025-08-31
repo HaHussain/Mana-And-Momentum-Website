@@ -5,23 +5,26 @@ import { fetchCanonical } from "./util"
 const p = new DOMParser()
 let activeAnchor: HTMLAnchorElement | null = null
 
-// --- new helper ---
-function cssEscapeOrRaw(id: string) {
-  if (typeof (window as any).CSS !== "undefined" && (window as any).CSS.escape) {
-    return (window as any).CSS.escape(id)
-  }
-  return id.replace(/"/g, '\\"')
+function slugify(str: string): string {
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
 }
 
 function extractSectionHtml(doc: Document, hash: string | null): HTMLElement[] | null {
   if (!hash) return null
   const raw = hash.replace(/^#/, "")
   const decoded = decodeURIComponent(raw)
-  let target: Element | null = doc.getElementById(decoded)
-  if (!target) {
-    const escaped = cssEscapeOrRaw(decoded)
-    target = doc.querySelector(`#${escaped}`)
-  }
+  const slug = slugify(decoded)
+
+  let target: Element | null =
+    doc.getElementById(`popover-internal-${slug}`) ||
+    doc.getElementById(decoded) ||
+    doc.getElementById(slug)
+
   if (!target) return null
 
   const results: HTMLElement[] = []
@@ -50,9 +53,7 @@ async function mouseEnterHandler(
   { clientX, clientY }: { clientX: number; clientY: number },
 ) {
   const link = (activeAnchor = this)
-  if (link.dataset.noPopover === "true") {
-    return
-  }
+  if (link.dataset.noPopover === "true") return
 
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
@@ -77,14 +78,12 @@ async function mouseEnterHandler(
   const popoverId = `popover-${link.pathname}${hash}`
   const prevPopoverElement = document.getElementById(popoverId)
 
-  if (!!prevPopoverElement) {
+  if (prevPopoverElement) {
     showPopover(prevPopoverElement as HTMLElement)
     return
   }
 
-  const response = await fetchCanonical(targetUrl).catch((err) => {
-    console.error(err)
-  })
+  const response = await fetchCanonical(targetUrl).catch((err) => console.error(err))
   if (!response) return
 
   const [contentType] = response.headers.get("Content-Type")!.split(";")
@@ -106,12 +105,10 @@ async function mouseEnterHandler(
       popoverInner.appendChild(img)
       break
     case "application":
-      switch (typeInfo) {
-        case "pdf":
-          const pdf = document.createElement("iframe")
-          pdf.src = targetUrl.toString()
-          popoverInner.appendChild(pdf)
-          break
+      if (typeInfo === "pdf") {
+        const pdf = document.createElement("iframe")
+        pdf.src = targetUrl.toString()
+        popoverInner.appendChild(pdf)
       }
       break
     default:
@@ -139,13 +136,9 @@ async function mouseEnterHandler(
       }
   }
 
-  if (!!document.getElementById(popoverId)) {
-    return
-  }
+  if (!!document.getElementById(popoverId)) return
   document.body.appendChild(popoverElement)
-  if (activeAnchor !== this) {
-    return
-  }
+  if (activeAnchor !== this) return
   showPopover(popoverElement)
 }
 
