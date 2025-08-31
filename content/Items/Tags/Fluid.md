@@ -1,0 +1,4 @@
+---
+icon:
+---
+This item can be donned or doffed with one [[Inventory]] action.

@@ -6,21 +6,21 @@ icon: LiPickaxe
 # Overview
 Quartermaster is specialised on being armed with a lot of tools and being able to pick up items easily.
 
-| Level | Class Abilities           | Martial Abilities                                                                                                             |
-| ----- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Quick Toss]]           | [[#Custom Trigger]], [[Spells and Stances/Stances/index\|Combat Stance]], [[Spells and Stances/Stances/index\|Social Stance]] |
-| 2     | [[#Class Focus]] 1        |                                                                                                                               |
-| 3     | [[#Re-Stock]]             |                                                                                                                               |
-| 4     | [[#Class Focus]] 2        |                                                                                                                               |
-| 5     | [[#Eye for Value]]        |                                                                                                                               |
-| 6     | [[#Class Focus]] 3        | [[Spells and Stances/Stances/index\|Combat Stance]]                                                                           |
-| 7     | [[#Experience]]           |                                                                                                                               |
-| 8     | [[#Class Focus]] 4        |                                                                                                                               |
-| 9     | [[#Quality and Quantity]] |                                                                                                                               |
-| 10    |                           |                                                                                                                               |
+| Level | Class Abilities          | Martial Abilities                                                                                                             |
+| ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Stances/Stances/index\|Combat Stance]], [[Spells and Stances/Stances/index\|Social Stance]] |
+| 2     | [[#Class Focus]] 1       |                                                                                                                               |
+| 3     | [[#Re-Stock]]            |                                                                                                                               |
+| 4     | [[#Class Focus]] 2       |                                                                                                                               |
+| 5     | [[#Experience]]          |                                                                                                                               |
+| 6     | [[#Class Focus]] 3       | [[Spells and Stances/Stances/index\|Combat Stance]]                                                                           |
+| 7     | [[#Eye for Value]]       |                                                                                                                               |
+| 8     | [[#Class Focus]] 4       |                                                                                                                               |
+| 9     | [[#Quantity of Quality]] |                                                                                                                               |
+| 10    |                          |                                                                                                                               |
 
 # Health
-When you gain Level in Quartermaster, you gain +1 [[Health Points|HP]] and an additional +1 [[Health Points|HP]] every 2 levels (2, 4, 6, 8, 10).
+When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
 
 # Custom Trigger
 - When the Quartermaster buys, sells, or gifts a specific Item, they gain a [[Momentum]].
@@ -35,11 +35,19 @@ That character gains [[Advantage]] on their first roll with this item this [[Sce
 - If the Item is a [[Consumable]] then the Character can immediately consume it.
 - If the Item is a [[Tool]] then the Character may add the Quartermaster's [[Intelligence|INT]] to the first roll using that tool this [[Scenes|Scene]].
 
+
 ## Re-Stock
-The Quartermaster gets an additional number of [[Item Points]] equal to (Half their Level) rounded up and [[Item Points]] weigh 0.
+The Quartermaster gains an additional number of [[Item Points]] equal to (Half their Level) rounded up and [[Item Points]] weigh 0.
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.
 When the Quartermaster attempts to sell an item, they can mark it up by 25% of usual sale price.
+
+
+## Experience
+When the Quartermaster uses [[#Quick Toss]], that ally gains the benefits of any abilities that the Quartermaster would have if they were using that item.
+
+When the Quartermaster enters a new [[Locations|Location]] they may create a Merchant [[Contact]] and gain a [[Bond]] with them.
+
 
 ## Eye for Value
 When the Quartermaster takes the [[Scan]] action, they may ask one of the following questions in addition:
@@ -49,32 +57,43 @@ When the Quartermaster takes the [[Scan]] action, they may ask one of the follow
 - What is an item that that character is hiding and where is it hidden.
 - What are the traits of a specific item that you can see the target carrying.
 
-## Experience
-When the Quartermaster uses [[#Quick Toss]], that ally gains the benefits of any abilities that the Quartermaster would have if they were using that item.
+If you take a minute to analyse an item, you can accurately determine its value and whether it is a mundane fake.
 
-When the Quartermaster enters a new [[Locations|Location]] they may create a Merchant [[Contact]].
 
-## Quality and Quantity
+## Quantity of Quality
 When the Quartermaster expends [[Item Points]] for an Item, that Item is a +1 Item.
 
 The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Merchant [[Organisations]] and +1 [[Affection]] with Merchants.
 
-This applies retroactively to all [[Organisations]] and [[Character|Characters]] that the Quartermaster is currently on at least Neutral terms with.
+When this ability is gained it applies retroactively to all [[Organisations]] and [[Character|Characters]] that the Quartermaster is currently on at least Neutral terms with.
+
 
 # Class Focus
 
-|     | Weapons | Consumables |
-| --- | ------- | ----------- |
-| 2   |         |             |
-| 4   |         |             |
-| 6   |         |             |
-| 8   |         |             |
+|     | [[#Weapon Master]] | [[#Armourer]]          | Consumables |
+| --- | ------------------ | ---------------------- | ----------- |
+| 2   | [[#Many Blades]]   | [[#Easy Equip Armour]] |             |
+| 4   |                    | [[#Many Armours]]      |             |
+| 6   |                    |                        |             |
+| 8   |                    |                        |             |
 
 
-## Equipmentalier
+## Weapon Master
 
 ### Many Blades
-The Quartermaster gains Focus 1 with all [[Weapons]], [[Armour]] and [[Shields]].
+The Quartermaster gains Weapon Focus 1 with all [[Weapons]].
+
+### Cool thing
+
+## Armourer
+
+### Easy Equip Armour
+When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first attack roll.
+
+The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Character]], that Character gets [[Advantage]] on their next social, crafting, or exploration roll. If that outfit is fitting for the tone of the scene, the target character may also add the Armourer's [[Intelligence|INT]] to their next social, crafting, or exploration roll.
+
+### Many Armours
+The Quartermaster gains Armour Focus 1 with all [[Armour]] and Shield Focus 1 with all [[Shields]].
 
 # Ideas
 Good at shopping:

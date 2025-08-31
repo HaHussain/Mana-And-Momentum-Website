@@ -4,6 +4,8 @@ aliases:
   - Buff
   - Debuff
   - Conditions
+  - Condition
+  - Status
 title: Conditions
 ---
 # Status
@@ -15,32 +17,35 @@ Many abilities interact with Statuses.
 ## Isolated
 ![[Isolated]]
 
-# Buff
+# Conditions
+
+
+## Buffs
 
 Buffs are positive conditions that can effect a character.
 
 The following buffs exist:
-## Hasted
+### Hasted
 ![[Hasted]]
 
-# Debuff
+## Debuffs
 
 Debuffs are negative conditions that can effect a character.
 
 The following debuffs exist:
-## Blind
+### Blind
 ![[Blind]]
-## Chilled
+### Chilled
 ![[Chilled]]
-## Deafened
+### Deafened
 ![[Deafened]]
-## Immobilised
+### Immobilised
 ![[Immobilised]]
-## Marked
+### Marked
 ![[Marked]]
-## Shocked
+### Shocked
 ![[Shocked]]
-## Slowed
+### Slowed
 ![[Slowed]]
-## Weakened
+### Weakened
 ![[Weakened]]

@@ -18,6 +18,62 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 | 8     |         |
 | 9     |         |
 | 10    |         |
+
+# Health 
+When you gain Level in Berserker, you gain +2 [[Health Points|Max HP]].
+
+# Custom Triggers
+- When the Berserker breaks something of value, they gain a [[Momentum]].
+- When the Berserker hurts someone they didn't intend to, they gain a [[Momentum]].
+- When the Berserker hurts themselves, they gain a [[Momentum]].
+
+# Abilities
+
+## Unbreaking Form
+The Berserker gains a minimum [[Armour#Deflection|Deflection]] of 2.
+
+The Berserker has [[Advantage]] against all [[Terrain]] effects that do not have the [[Mental]] tag.
+
+## Strength beyond Strength
+When the Berserker [[Exert|Exerts]] they ignore the first...
+When the Berserker [[Exert|Exerts]] they can choose one of the following options:
+- As an [[Attack]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage.
+- Double their [[Strength]] for this round. %%Reword this to not be stackable%%
+
+## Surrounded by blood
+The Berserker gains the following reaction that can be used 2/Round and must be used if it is triggered.
+
+|              |                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------- |
+| **Tempo:**   | 5                                                                                     |
+| **Trigger:** | A [[Character]] moves in your Melee Range                                             |
+| **Action:**  | [[Attack]] that Character.                                                            |
+| **Special:** | If this Reaction is triggered, it must be used.<br>This Reaction can be used 2/Round. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                             |
+
+## Initiate Violence
+When the Berserker enters combat, they gain [[Momentum]] equal to (Half their Berserker Level) rounded down.
+
+## Weapon Focus 1
+Gain a Weapon Focus 1
+
+## Weapon Focus 2
+Gain a Weapon Focus 2
+
+## Exploding
+Your damage dice explode.
+
+## Great Jump
+When the Berserker Jumps, they can spend [[Momentum]] to increase the distance of their jump
+For every [[Momentum]] spent, their jump distance increases by 2m.
+For every 2 [[Momentum]] spent, their jump height increases by 2m.
+
+## Shatter and Break
+The Berserker ignores the [[Armour#Deflection|Deflection]] of [[Object|Objects]].
+
+## Incite Rage
+The Berserker can lower a [[Character]]'s [[Affection]] and make them angy.
+
 # Ideas
 
 High damage:

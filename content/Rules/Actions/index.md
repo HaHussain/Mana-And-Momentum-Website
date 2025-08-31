@@ -25,6 +25,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Brace]]            | 4     | Gain defensive buffs.                                                     |
 | Standard [[Attack]]  | 5     | Make a standard attack.                                                   |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
+| [[Switch Stance]]    | 6     | Switch stance from one to another.                                        |
 | [[Slow]] [[Attack]]  | 7     | Make a slow attack.                                                       |
 | [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
 | [[Magic]]            | ?     | Cast a spell.                                                             |
@@ -57,6 +58,9 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 
 ## Inventory
 ![[Inventory]]
+
+## Switch Stance
+![[Switch Stance]]
 
 ## Reclaim
 ![[Reclaim]]
