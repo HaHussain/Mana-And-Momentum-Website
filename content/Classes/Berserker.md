@@ -64,7 +64,7 @@ Gain a Weapon Focus 2
 Your damage dice explode.
 
 ## Great Jump
-When the Berserker Jumps, they can spend [[Momentum]] to increase the distance of their jump
+When the Berserker [[Jump|Jumps]], they can spend [[Momentum]] to increase the distance of their jump
 For every [[Momentum]] spent, their jump distance increases by 2m.
 For every 2 [[Momentum]] spent, their jump height increases by 2m.
 
@@ -73,6 +73,20 @@ The Berserker ignores the [[Armour#Deflection|Deflection]] of [[Object|Objects]]
 
 ## Incite Rage
 The Berserker can lower a [[Character]]'s [[Affection]] and make them angy.
+
+## Class Focuses
+
+
+|     | Feral | Fury | Terror |
+| --- | ----- | ---- | ------ |
+| 2   |       |      |        |
+| 4   |       |      |        |
+| 6   |       |      |        |
+| 8   |       |      |        |
+
+## Feral
+
+### 
 
 # Ideas
 
