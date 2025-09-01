@@ -36,6 +36,7 @@ a.internal {
     hyphens: none;
     padding: .2rem 1.4rem;
     min-width: 4rem;
+    font-size: 14px;
     :has(.transclude) {
       padding: 0;
     }
