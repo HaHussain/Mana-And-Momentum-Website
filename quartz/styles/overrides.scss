@@ -14,8 +14,15 @@
   }
   .sidebar.right {
     padding-right: 0;
+    
+    // Force graph square
     .graph > .graph-outer {
       aspect-ratio: 1;
+    }
+    
+    // Force backlinks on the right from being too small
+    .backlinks {
+      min-height: 20%;
     }
   }
 }
