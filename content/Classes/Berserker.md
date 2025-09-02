@@ -25,14 +25,13 @@ When you gain Level in Berserker, you gain +2 [[Health Points|Max HP]].
 # Custom Triggers
 Choose 1 of:
 - When the Berserker breaks something of value, they gain a [[Momentum]].
-- When the Berserker hurts someone they didn't intend to, they gain a [[Momentum]].
-- When the Berserker hurts themselves, they gain a [[Momentum]].
+- When the Berserker hurts someone or themselves when they didn't want to, they gain a [[Momentum]].
 - When the Berserker solves a problem with brute strength or endurance, they gain a [[Momentum]].
 
 # Abilities
 
 ## Unbreaking Form
-The Berserker gains a minimum [[Armour#Deflection|Deflection]] of 2.
+While not wearing [[Armour]], the Berserker's body is considered [[Armour#Chain Mail|Chain Mail]] but without the [[Armour#Weight Penalty|Weight Penalty]].
 
 The Berserker has [[Advantage]] against all [[Terrain]] effects that do not have the [[Mental]] tag.
 
@@ -46,31 +45,36 @@ When the Berserker [[Exert|Exerts]] they can choose one of the following options
 When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
 When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
 
-## Weapon Focus 1
-Gain a Weapon Focus 1
-
-## Weapon Focus 2
-Gain a Weapon Focus 2
-
 ## Excessive
-The Berserker gains Weapon Focus 1 for a [[Weapons|Weapon]] of their choice and when the Berserker rolls maximum on damage dice, it explodes.
+The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice and when the Berserker rolls maximum on damage dice, it explodes.
 When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many damage dice.
 
-When the Berserker increases or decreases a [[Clock]], increase or decrease by an additional tick. 
+When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
 
-## 
+## Violence
+The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice and when the Berserker takes an [[Attack]] action, they make an additional [[Attack]].
+## Enduring
 At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
+
+## All Consuming
+
+|             | Rage                                                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                                                                                                                          |
+| **Action:** | Become [[Enraged]] until the Berserker chooses not to take the Rage action.<br>If they are [[Bloodied]], this automatically triggers. |
+| **Tags:**   | [[Mental]]                                                                                                                            |
+
 
 
 ## Class Focuses
 
 
-|     | [[#Feral]]             | [[#Terror]]       |
-| --- | ---------------------- | ----------------- |
-| 2   | [[#Shatter and Break]] | [[#Walking Wall]] |
-| 4   | [[#Blind Rage]]        |                   |
-| 6   | [[#Overflow]]          |                   |
-| 8   |                        |                   |
+|     | [[#Feral]]             | [[#Fury]]              | [[#Terror]]       |
+| --- | ---------------------- | ---------------------- | ----------------- |
+| 2   | [[#Shatter and Break]] | [[#Unstoppable Force]] | [[#Walking Wall]] |
+| 4   | [[#Blind Rage]]        |                        |                   |
+| 6   | [[#Overflow]]          |                        |                   |
+| 8   |                        |                        |                   |
 
 ## Feral
 
@@ -82,23 +86,34 @@ The Feral can [[Exert]] to reduce the [[Rules/Exploration/index#Scouting|Monster
 ### Blind Rage
 The Feral gains the following actions:
 
-|             | Excite Blood                                                                                                                                                                                                                                                                                              |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                         |
-| **Effect:** | The Fury may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Character]] triggers Attack of Opportunity even if it did not start its turn in the Fury's Melee range.<br>If Attack of Opportunity is triggered, the Fury must use it. |
-| **Tags:**   |                                                                                                                                                                                                                                                                                                           |
+|             | Excite Blood                                                                                                                                                                                                                                                                                                                      |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                 |
+| **Effect:** | The Fury may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Fury's Melee range.<br>If Attack of Opportunity is triggered, the Fury must use it. |
+| **Tags:**   |                                                                                                                                                                                                                                                                                                                                   |
 
-|             | Incite Rage                                                                                                                                                                                                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 5                                                                                                                                                                                                                                                                                           |
-| **Effect:** | The Fury fans the flame of anger of a [[Character]] they are speaking to, that character must make an [[Intelligence\|INT]] check.<br>On a success, the character becomes aware of the reason why the Fury is trying to influence them.<br>On a failure, the character acts on their anger. |
-| **Tags:**   | [[Mental]]                                                                                                                                                                                                                                                                                  |
+|             | Incite Rage                                                                                                                                                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 5                                                                                                                                                                                                                                                                                                                   |
+| **Effect:** | The Fury fans the flame of anger of a [[Rules/Characters/index\|Character]] they are speaking to, that character must make an [[Intelligence\|INT]] check.<br>On a success, the character becomes aware of the reason why the Fury is trying to influence them.<br>On a failure, the character acts on their anger. |
+| **Tags:**   | [[Mental]]                                                                                                                                                                                                                                                                                                          |
 
 ### Overflow
-When the Feral kills a [[Character]] with a Melee [[Attack]], another character in [[Melee]] takes any excess damage.
+When the Feral kills a [[Rules/Characters/index|Character]] with a Melee [[Attack]], another character in [[Melee]] takes any excess damage.
 
-When the Feral applies a [[Mood]] to a [[Character]] that already has that Mood, apply it to another character in [[Seek]].
+When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that already has that Mood, apply it to another character in [[Seek]].
 
+### Bestial Mind
+
+
+## Fury
+
+### Unstoppable Force
+When the Fury attacks, they can spend a [[Momentum]] to deal damage equal to their current [[Momentum]] + any [[Momentum]] they spent this turn.
+
+When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by the Fury, the Fury can spend a [[Momentum]] to reduce that [[Rules/Characters/index|Character]]'s roll by their current [[Momentum]] (not including the [[Momentum]] they spent on this ability).
+
+##
 ## Terror
 
 ### Walking Wall
@@ -106,21 +121,23 @@ The Terror gains Armour Focus 1 with an [[Armour]] of their choice, and gains a 
 
 The Terror gains the following [[Rules/Actions/Tags/Reaction|Reaction]]:
 
-|              | Unyielding Will                                                                                                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**   | 3                                                                                                                                                                                          |
-| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                            |
-| **Action:**  | The [[Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Chilled]]<br>On a failure, they become [[Frightened]]. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                      |
+|              | Unyielding Will                                                                                                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**   | 3                                                                                                                                                                                                                  |
+| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                                                    |
+| **Action:**  | The [[Rules/Characters/index\|Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Chilled]]<br>On a failure, they become [[Frightened]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                                              |
+### Taunt
+When the Terror [[Mark|Marks]] a [[Rules/Characters/index|Character]], that character is [[Weak]] against all other characters until end of the next round.
 
 ### Charge
 The Terror , and they gain the following Action
 
-|             | Charge                                                                                                                                                                                                          |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Move]]                                                                                                                                                                                                        |
-| **Action:** | Pick a point in [[Range]] [[Speed]], Move in a direct line to that point. <br>If you collide with a [[Character]] or [[Object]], [[Push]] it equal the number of squares you have moved as part of this action. |
-| **Tags:**   | [[Move]]                                                                                                                                                                                                        |
+|             | Charge                                                                                                                                                                                                                                  |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Move]]                                                                                                                                                                                                                                |
+| **Action:** | Pick a point in [[Range]] [[Speed]], Move in a direct line to that point. <br>If you collide with a [[Rules/Characters/index\|Character]] or [[Object]], [[Push]] it equal the number of squares you have moved as part of this action. |
+| **Tags:**   | [[Move]]                                                                                                                                                                                                                                |
 
 
 # Ideas

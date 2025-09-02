@@ -47,5 +47,5 @@ The following debuffs exist:
 ![[Shocked]]
 ### Slowed
 ![[Slowed]]
-### Weakened
-![[Weakened]]
+### Weak
+![[Weak]]

@@ -2,7 +2,7 @@
 
 All abilities target the squares on a grid of the battlemap, however the majority of abilities will only effect the contents of those squares.
 ## Characters
-![[Character]]
+![[Rules/Characters/index#Overview]]
 ## Objects
 ![[Object]]
 ## Terrain

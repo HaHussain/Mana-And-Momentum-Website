@@ -58,6 +58,6 @@ Every # levels you may gain a [[Rules/Characters/Feats/index|Feat]] from the lis
 
 # Dual Class Feat
 
-Every 10 levels you may choose a Dual Class Feat, which is a unique Feat that you requires you to have two classes each at level 5 or greater. You may choose to save this choice until a later Level Up.
+Every 10 levels you may choose a [[Dual Class Feat]], which is a unique Feat that you requires you to have two classes each at level 5 or greater. You may choose to save this choice until a later Level Up.
 
 The Feats you may choose depend on which classes you have at level 5.

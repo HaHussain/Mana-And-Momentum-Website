@@ -30,7 +30,7 @@ Choose 1 of:
 # Abilities
 
 ## Quick Toss
-When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Character]] in [[Range]] [[Strength|STR]]. 
+When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]]. 
 That character gains [[Advantage]] on their first roll with this item this [[Scenes|Scene]].
 - If the Item is a [[Weapons|Weapon]] then the Character can immediately stow any number of Weapons and equip the tossed Weapon.
 - If the Item is a [[Consumable]] then the Character can immediately consume it.
@@ -38,7 +38,7 @@ That character gains [[Advantage]] on their first roll with this item this [[Sce
 
 
 ## Re-Stock
-The Quartermaster gains an additional number of [[Item Points]] equal to (Half their Level) rounded up and [[Item Points]] weigh 0.
+The Quartermaster gains an additional number of Maximum [[Item Points]] equal to (Half their Level) rounded up and [[Item Points]] weigh 0.
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.
 When the Quartermaster attempts to sell an item, they can mark it up by 25% of usual sale price.
@@ -66,7 +66,7 @@ When the Quartermaster expends [[Item Points]] for an Item, that Item is a +1 It
 
 The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Merchant [[Organisations]] and +1 [[Affection]] with Merchants.
 
-When this ability is gained it applies retroactively to all [[Organisations]] and [[Character|Characters]] that the Quartermaster is currently on at least Neutral terms with.
+When this ability is gained it applies retroactively to all [[Organisations]] and [[Rules/Characters/index|Characters]] that the Quartermaster is currently on at least Neutral terms with.
 
 
 # Class Focus
@@ -91,12 +91,12 @@ The Quartermaster gains Weapon Focus 1 with all [[Weapons]].
 ### Easy Equip Armour
 When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first attack roll.
 
-The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Character]], that Character gets [[Advantage]] on their next social roll. 
+The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Rules/Characters/index|Character]], that Character gets [[Advantage]] on their next social roll and one character that can see them and is in your [[Seek]] is [[Shocked]] until they fail to take a [[Rules/Actions/Tags/Reaction|Reaction]]. 
 
 ### Many Armours
 The Quartermaster gains Armour Focus 1 with all [[Armour]] and Shield Focus 1 with all [[Shields]].
 
-If that outfit is fitting for the tone of the scene, pick a [[Character]] also in your [[Seek]], then as a [[Mental]] ability, 
+If that outfit is fitting for the tone of the scene, pick a [[Rules/Characters/index|Character]] also in your [[Seek]], then as a [[Mental]] ability, 
 
 ### Fit for Measure
 

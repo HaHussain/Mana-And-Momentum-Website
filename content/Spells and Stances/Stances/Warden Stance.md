@@ -30,7 +30,7 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Tempo:**  | [[Slow]] [[Attack]]                                                                      |
 | **Cost:**   | 2                                                                                        |
 |             |                                                                                          |
-| **Effect:** | [[Slow]] [[Attack]] and give the character [[Weakened]] until the end of the next round. |
+| **Effect:** | [[Slow]] [[Attack]] and give the character [[Weak]] until the end of the next round. |
 | **Tags:**   | [[Attack]]                                                                               |
 ## Chilling Presence
 
@@ -40,7 +40,7 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Tempo:**  | 3                                                                                  |
 | **Cost:**   | 2                                                                                  |
 |             |                                                                                    |
-| **Effect:** | Apply [[Chilled]] to all [[Marked]] [[Character\|Characters]] within [[Circle]] 5. |
+| **Effect:** | Apply [[Chilled]] to all [[Marked]] [[Rules/Characters/index\|Characters]] within [[Circle]] 5. |
 | **Tags:**   | [[Rules/Actions/index\|Action]]                                                    |
 ## Break Weapon
 

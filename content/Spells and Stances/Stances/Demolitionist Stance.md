@@ -9,14 +9,14 @@
 # Techniques
 ## Crush!
 
-|             | Crush!                                                                                                                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Stance:** | Demolitionist                                                                                                                                                                                          |
-| **Tempo:**  | 5                                                                                                                                                                                                      |
-| **Cost:**   |                                                                                                                                                                                                        |
-|             |                                                                                                                                                                                                        |
-| **Effect:** | [[Push]] 5 an [[Object]] adjacent to you, if the [[Object]] is pushed into a square of a [[Character]] with another [[Object]] behind them, that Character is [[Grappled]] by the Objects and takes #. |
-| **Tags:**   |                                                                                                                                                                                                        |
+|             | Crush!                                                                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Stance:** | Demolitionist                                                                                                                                                                                                                  |
+| **Tempo:**  | 5                                                                                                                                                                                                                              |
+| **Cost:**   |                                                                                                                                                                                                                                |
+|             |                                                                                                                                                                                                                                |
+| **Effect:** | [[Push]] 5 an [[Object]] adjacent to you, if the [[Object]] is pushed into a square of a [[Rules/Characters/index\|Character]] with another [[Object]] behind them, that Character is [[Grappled]] by the Objects and takes #. |
+| **Tags:**   |                                                                                                                                                                                                                                |
 ## Explosive Strike
 
 |             | Explosive Strike                                                                                                                                                      |
