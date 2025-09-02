@@ -22,7 +22,7 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Mark]]             | 2     | Focus on a single target to improve attacks against them.                 |
 | [[Quick]] [[Attack]] | 3     | Make a quick attack.                                                      |
 | [[Move]]             | 4     | Move your speed.                                                          |
-| [[Brace]]            | 4     | Gain defensive buffs.                                                     |
+| [[Guard]]            | 4     | Protect someone else.                                                     |
 | Standard [[Attack]]  | 5     | Make a standard attack.                                                   |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
 | [[Switch Stance]]    | 6     | Switch stance from one to another.                                        |
@@ -51,7 +51,7 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 ![[Move]]
 
 ## Brace
-![[Brace]]
+![[Guard]]
 
 ## Attack
 ![[Attack]]

@@ -6,7 +6,6 @@ title: Classes
 ---
 # Ideas
 
-
 | Martial           | Martial - Mage | Mage            |
 | ----------------- | -------------- | --------------- |
 | [[Berserker]]     | [[Archon]]     | [[Diviner]]     |

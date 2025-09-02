@@ -66,7 +66,7 @@ At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[
 
 
 
-## Class Focuses
+# Class Focuses
 
 
 |     | [[#Feral]]             | [[#Fury]]              | [[#Terror]]       |
@@ -113,7 +113,6 @@ When the Fury attacks, they can spend a [[Momentum]] to deal damage equal to the
 
 When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by the Fury, the Fury can spend a [[Momentum]] to reduce that [[Rules/Characters/index|Character]]'s roll by their current [[Momentum]] (not including the [[Momentum]] they spent on this ability).
 
-##
 ## Terror
 
 ### Walking Wall
