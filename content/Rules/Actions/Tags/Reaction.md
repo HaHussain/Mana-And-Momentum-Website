@@ -1,7 +1,7 @@
 ---
 icon: RiArrowGoForwardLine
 ---
-Reactions are actions you can take any turn, including turns that are not yours.
+Reactions are actions you can take on any turn, including turns that are not yours.
 Every turn you have 1 Reaction to use.
 
 When a trigger occurs for a Reaction you know, 

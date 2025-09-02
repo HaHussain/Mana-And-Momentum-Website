@@ -23,6 +23,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
 
 # Custom Trigger
+Choose 1 of:
 - When the Quartermaster buys, sells, or gifts a specific Item, they gain a [[Momentum]].
 - When the Quartermaster has the perfect item for the tone or the problem, they gain a [[Momentum]].
 
@@ -46,7 +47,7 @@ When the Quartermaster attempts to sell an item, they can mark it up by 25% of u
 ## Experience
 When the Quartermaster uses [[#Quick Toss]], that ally gains the benefits of any abilities that the Quartermaster would have if they were using that item.
 
-When the Quartermaster enters a new [[Locations|Location]] they may create a Merchant [[Contact]] and gain a [[Bond]] with them.
+When the Quartermaster enters a new [[Locations|Location]] they may create a Merchant [[Contact]] and [[Exert]] to gain a [[Bond]] with them.
 
 
 ## Eye for Value
@@ -90,10 +91,15 @@ The Quartermaster gains Weapon Focus 1 with all [[Weapons]].
 ### Easy Equip Armour
 When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first attack roll.
 
-The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Character]], that Character gets [[Advantage]] on their next social, crafting, or exploration roll. If that outfit is fitting for the tone of the scene, the target character may also add the Armourer's [[Intelligence|INT]] to their next social, crafting, or exploration roll.
+The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Character]], that Character gets [[Advantage]] on their next social roll. 
 
 ### Many Armours
 The Quartermaster gains Armour Focus 1 with all [[Armour]] and Shield Focus 1 with all [[Shields]].
+
+If that outfit is fitting for the tone of the scene, pick a [[Character]] also in your [[Seek]], then as a [[Mental]] ability, 
+
+### Fit for Measure
+
 
 # Ideas
 Good at shopping:

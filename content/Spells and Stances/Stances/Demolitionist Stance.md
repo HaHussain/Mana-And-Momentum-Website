@@ -2,7 +2,7 @@
 
 |               | Demolitionist Stance                               |
 | ------------- | -------------------------------------------------- |
-| **Passive:**  | You ignore [[Armour#Deflection\|Deflection]]       |
+| **Passive:**  |                                                    |
 | **Momentum:** | When you destroy an [[Object]] gain a [[Momentum]] |
 | **Tags:**     |                                                    |
 
