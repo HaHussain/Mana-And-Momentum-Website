@@ -50,7 +50,7 @@ If you gain an action from an ability, it is a unique action if it doesn't list 
 ## Move
 ![[Move]]
 
-## Brace
+## Guard
 ![[Guard]]
 
 ## Attack
