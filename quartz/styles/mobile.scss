@@ -28,7 +28,8 @@
   
   table-container > table {
   // Remove min-width on mobile
-  td {
-    min-width: 0; !important
+    td {
+      min-width: 0; !important
+    }
   }
 }
