@@ -26,10 +26,8 @@
     display: none;
   }
   
-  table-container > table {
-  // Remove min-width on mobile
-    td {
-      min-width: 0; !important
-    }
+  // Remove min-width on mobile 
+  table-container > table td {
+    min-width: 0 !important;
   }
 }
