@@ -25,4 +25,10 @@
   .readermode {
     display: none;
   }
+  
+  table-container > table {
+  // Remove min-width on mobile
+  td {
+    min-width: 0; !important
+  }
 }
