@@ -1,5 +1,7 @@
 ---
 icon: RiGroupLine
+aliases:
+  - Organisation
 ---
 An organisation represents a collection of people and not necessarily an organised one.
 There are multiple types of organisations that represent how they act, an organisation can be more than one type if they are influential in more than one sphere.

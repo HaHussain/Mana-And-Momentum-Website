@@ -17,7 +17,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 | 7     |                                   |
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     |                                   |
-| 10    |                                   |
+| 10    | [[#Violence]]                     |
 
 # Health 
 When you gain Level in Berserker, you gain +2 [[Health Points|Max HP]].
@@ -46,23 +46,26 @@ When the Berserker enters combat, they gain [[Momentum]] equal to (Third of thei
 When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
 
 ## Excessive
-The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice and when the Berserker rolls maximum on damage dice, it explodes.
+The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice.
+When the Berserker rolls maximum on damage dice, it explodes.
 When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many damage dice.
 
 When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
 
 ## Violence
-The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice and when the Berserker takes an [[Attack]] action, they make an additional [[Attack]].
+The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice.
+
+When the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] take a [[Free]]: [[Attack]] action immediately after.
 ## Enduring
 At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
 
 ## All Consuming
 
-|             | Rage                                                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                                                                                                                          |
-| **Action:** | Become [[Enraged]] until the Berserker chooses not to take the Rage action.<br>If they are [[Bloodied]], this automatically triggers. |
-| **Tags:**   | [[Mental]]                                                                                                                            |
+|             | Rage                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Extra]]: 1                                                                                           |
+| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If they are [[Bloodied]], this automatically triggers. |
+| **Tags:**   | [[Mental]]                                                                                             |
 
 
 

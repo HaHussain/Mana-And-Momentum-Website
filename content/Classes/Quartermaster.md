@@ -17,7 +17,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | 7     | [[#Eye for Value]]       |                                                                                                                               |
 | 8     | [[#Class Focus]] 4       |                                                                                                                               |
 | 9     | [[#Quantity of Quality]] |                                                                                                                               |
-| 10    |                          |                                                                                                                               |
+| 10    | [[#Quick Access]]        |                                                                                                                               |
 
 # Health
 When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
@@ -26,6 +26,9 @@ When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and a
 Choose 1 of:
 - When the Quartermaster buys, sells, or gifts a specific Item, they gain a [[Momentum]].
 - When the Quartermaster has the perfect item for the tone or the problem, they gain a [[Momentum]].
+
+# Fortress Bonus
+The [[Fortress]] gains an additional +2 [[Max Weight]].
 
 # Abilities
 
@@ -69,14 +72,17 @@ The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Me
 When this ability is gained it applies retroactively to all [[Organisations]] and [[Rules/Characters/index|Characters]] that the Quartermaster is currently on at least Neutral terms with.
 
 
+## Quick Access
+The Quartermaster can spend 2 [[Momentum]] to perform a [[Free]]: [[Inventory]] action.
+
 # Class Focus
 
-|     | [[#Weapon Master]] | [[#Armourer]]          | Consumables |
-| --- | ------------------ | ---------------------- | ----------- |
-| 2   | [[#Many Blades]]   | [[#Easy Equip Armour]] |             |
-| 4   |                    | [[#Many Armours]]      |             |
-| 6   |                    |                        |             |
-| 8   |                    |                        |             |
+|     | [[#Weapon Master]] | [[#Armourer]]           | Consumables |
+| --- | ------------------ | ----------------------- | ----------- |
+| 2   | [[#Many Blades]]   | [[#Quick Change]]       |             |
+| 4   |                    | [[#Many Armours]]       |             |
+| 6   |                    | [[#Disguised Fittings]] |             |
+| 8   |                    |                         |             |
 
 
 ## Weapon Master
@@ -84,21 +90,44 @@ When this ability is gained it applies retroactively to all [[Organisations]] an
 ### Many Blades
 The Quartermaster gains Weapon Focus 1 with all [[Weapons]].
 
-### Cool thing
+### Fuel the Assault
+Gain the following Reaction:
+
+|              | Fuel the Assault                                                                                                                                      |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 5                                                                                                                                                     |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] in [[Seek]] [[Attack\|Attacks]] with a [[Ranged]] weapon that can use [[Ammo]] or [[Throw\|Throws]] a weapon. |
+| **Action:**  | Use [[#Quick Toss]] to provide an [[Ammo]] for the [[Ranged]] weapon or provide a replacement weapon.                                                 |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                             |
+
+When 
 
 ## Armourer
 
-### Easy Equip Armour
+### Quick Change
 When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first attack roll.
 
-The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Rules/Characters/index|Character]], that Character gets [[Advantage]] on their next social roll and one character that can see them and is in your [[Seek]] is [[Shocked]] until they fail to take a [[Rules/Actions/Tags/Reaction|Reaction]]. 
+The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Rules/Characters/index|Character]], that Character gets [[Advantage]] on their next social roll and one character that can see them and is in your [[Seek]] gains one [[Mood]] of your choice.
 
 ### Many Armours
 The Quartermaster gains Armour Focus 1 with all [[Armour]] and Shield Focus 1 with all [[Shields]].
 
-If that outfit is fitting for the tone of the scene, pick a [[Rules/Characters/index|Character]] also in your [[Seek]], then as a [[Mental]] ability, 
+If the outfit from [[#Quick Change]] fits the tone of the scene, pick a [[Rules/Characters/index|Character]] also in your [[Seek]], then as a [[Mental]] ability, 
 
-### Fit for Measure
+### Disguised Fittings
+When the Quartermaster outfits someone in an outfit, they manage to hide armour beneath it, this outfit is considered [[Armour#Studded Leather|Studded Leather]].
+
+The Quartermaster may [[Exert]] during a [[#Easy Equip Armour]] to produce an outfit that matches the uniform of a specific [[Organisations|Organisation]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the organisation from a cursory glance.
+
+### Distance Block
+The Quartermaster gains the following reaction:
+
+|              | Distance Block                                                                                                               |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 4                                                                                                                            |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] is [[Attack\|Attacked]] in your [[Seek]]                                             |
+| **Action:**  | Expend 1 [[Item Points\|Item Point]] to toss a shield in between the attack, reducing the damage by your [[Awareness\|AWR]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                    |
 
 
 # Ideas
