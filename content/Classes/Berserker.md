@@ -8,7 +8,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
-| 1     | [[#Strength beyond Strength]]     |
+| 1     | [[#All Consuming]]                |
 | 2     | [[#Class Focuses\|Class Focus]] 1 |
 | 3     |                                   |
 | 4     | [[#Class Focuses\|Class Focus]] 2 |
@@ -30,10 +30,14 @@ Choose 1 of:
 
 # Abilities
 
-## Unbreaking Form
-While not wearing [[Armour]], the Berserker's body is considered [[Armour#Chain Mail|Chain Mail]] but without the [[Armour#Weight Penalty|Weight Penalty]].
+## All Consuming
 
-The Berserker has [[Advantage]] against all [[Terrain]] effects that do not have the [[Mental]] tag.
+|             | Rage                                                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                                                                                                                          |
+| **Action:** | Become [[Enraged]] until the Berserker chooses not to take the Rage action.<br>If they are [[Bloodied]], this automatically triggers. |
+| **Tags:**   | [[Mental]]                                                                                                                            |
+
 
 ## Strength beyond Strength
 When the Berserker [[Exert|Exerts]] they ignore the first...
@@ -74,12 +78,19 @@ At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[
 
 |     | [[#Feral]]             | [[#Fury]]              | [[#Terror]]       |
 | --- | ---------------------- | ---------------------- | ----------------- |
-| 2   | [[#Shatter and Break]] | [[#Unstoppable Force]] | [[#Walking Wall]] |
-| 4   | [[#Blind Rage]]        |                        |                   |
-| 6   | [[#Overflow]]          |                        |                   |
-| 8   |                        |                        |                   |
+| 2   | [[#Bestial Body]]      | [[#Unstoppable Force]] | [[#Walking Wall]] |
+| 4   | [[#Shatter and Break]] |                        |                   |
+| 6   | [[#Blind Rage]]        |                        |                   |
+| 8   | [[#Overflow]]          |                        |                   |
 
 ## Feral
+
+### Bestial Body
+While not wearing [[Armour]], the Feral's body is considered [[Armour#Studded Leather|Studded Leather]].
+While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Armour#Deflection|Deflection]] equal to their [[Fortitude|FOR]].
+
+The Feral has [[Advantage]] against all [[Terrain]] effects that do not have the [[Mental]] tag.
+%%A Feral animal is always on edge and can sense danger / hostility? conniving plans? instinctual%%
 
 ### Shatter and Break
 The Feral ignores the [[Armour#Deflection|Deflection]] and [[Sturdy]] of [[Object|Objects]].
@@ -106,8 +117,6 @@ When the Feral kills a [[Rules/Characters/index|Character]] with a Melee [[Attac
 
 When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that already has that Mood, apply it to another character in [[Seek]].
 
-### Bestial Mind
-
 
 ## Fury
 
@@ -119,7 +128,7 @@ When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by 
 ## Terror
 
 ### Walking Wall
-The Terror gains Armour Focus 1 with an [[Armour]] of their choice, and gains a minimum [[Sturdy]] of 2.
+The Terror gains Armour Focus 1 with an [[Armour]] of their choice, and may set their [[Sturdy]] to ([[Fortitude|FOR]] / 2) rounded up.
 
 The Terror gains the following [[Rules/Actions/Tags/Reaction|Reaction]]:
 

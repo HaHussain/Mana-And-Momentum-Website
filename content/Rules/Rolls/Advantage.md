@@ -1,0 +1,1 @@
+Roll the dice roll twice and use the higher of the two results.

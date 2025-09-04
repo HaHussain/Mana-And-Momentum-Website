@@ -5,8 +5,8 @@ icon: GiPlastron
 
 | Item Name        | AC  | [[#Deflection]] | Weight Penalty              | Tags                           | Armour Focus 1       | Armour Focus 2     |
 | ---------------- | --- | --------------- | --------------------------- | ------------------------------ | -------------------- | ------------------ |
-| Studded Leathers | 12  | 0               | -                           |                                | Move through enemies |                    |
-| Breeze Leathers  | 13  | 1               | [[Orthogonal]]              | [[Retaliate]]: [[Push]]: 1<br> |                      |                    |
+| Studded Leather  | 12  | 0               | -                           |                                | Move through enemies |                    |
+| Breeze Leather   | 13  | 1               | [[Orthogonal]]              | [[Retaliate]]: [[Push]]: 1<br> |                      |                    |
 | Chain Mail       | 14  | 3               | -2m Speed<br>[[Orthogonal]] |                                |                      |                    |
 | Scale Mail       | 16  | 0               | -2m Speed                   | [[Sturdy]] 1                   |                      |                    |
 | Titan Plate      | 17  | 0               | [[Orthogonal]]              |                                |                      |                    |
@@ -55,4 +55,6 @@ Armour Focus 1:
 Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Characters/index|Characters]] and perform [[Push]] 1.
 
 # Deflection
-When you are hit by an attack, you can reduce it by your armour's Deflection before taking it to your hitpoints.
+When you are hit by an attack, you can reduce it by your Deflection before taking it to your hitpoints.
+
+When you are hit by a [[Mob]], you apply Deflection for each member of that [[Mob]].
