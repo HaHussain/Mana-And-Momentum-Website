@@ -96,11 +96,11 @@ The Feral can [[Exert]] to reduce the [[Rules/Exploration/index#Scouting|Monster
 ### Blind Rage
 The Feral gains the following actions:
 
-|             | Excite Blood                                                                                                                                                                                                                                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                    |
-| **Effect:** | The Feral may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Feral's Melee range.<br>If Attack of Opportunity is triggered, the Feral must use it. |
-| **Tags:**   |                                                                                                                                                                                                                                                                                                                                      |
+|             | Excite Blood                                                                                                                                                                                                                                                                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                               |
+| **Effect:** | The Feral may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Feral's [[Melee\|Melee Range]].<br>If Attack of Opportunity is triggered, the Feral must use it. |
+| **Tags:**   |                                                                                                                                                                                                                                                                                                                                                 |
 
 |             | Incite Suspicion                                                                                                                                                                                                                                                                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,14 +128,14 @@ The Terror gains Armour Focus 1 with an [[Armour]] of their choice, and may set 
 
 The Terror gains the following [[Rules/Actions/Tags/Reaction|Reaction]]:
 
-|              | Unyielding Will                                                                                                                                                                                                    |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**   | 3                                                                                                                                                                                                                  |
-| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                                                    |
-| **Action:**  | The [[Rules/Characters/index\|Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Chilled]]<br>On a failure, they become [[Frightened]]. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                                              |
+|              | Unyielding Will                                                                                                                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 3                                                                                                                                                                                                                   |
+| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                                                     |
+| **Action:**  | The [[Rules/Characters/index\|Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Chilled]].<br>On a failure, they become [[Frightened]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                                               |
 ### Taunt
-When the Terror [[Mark|Marks]] a [[Rules/Characters/index|Character]], that character is [[Weak]] against all other characters until end of the next round.
+While [[Enraged]] when the Terror [[Mark|Marks]] a [[Rules/Characters/index|Character]], that character is [[Weak]] against all other characters until end of the next round.
 
 ### Charge
 The Terror , and they gain the following Action
@@ -145,7 +145,8 @@ The Terror , and they gain the following Action
 | **Tempo:**  | [[Move]]                                                                                                                                                                                                                                |
 | **Action:** | Pick a point in [[Range]] [[Speed]], Move in a direct line to that point. <br>If you collide with a [[Rules/Characters/index\|Character]] or [[Object]], [[Push]] it equal the number of squares you have moved as part of this action. |
 | **Tags:**   | [[Move]]                                                                                                                                                                                                                                |
-
+### Thorns
+The [[Armour]] you wield gains [[Retaliate]]: [[Armour#Deflection|Deflection]] Damage, [[Melee|Melee Range]].
 
 # Ideas
 

@@ -13,7 +13,7 @@ There are three Attack actions per round, each corresponding to a different [[#W
 There are three Weapons Speeds:
 [[Slow]], Standard, [[Quick]].
 
-When you take an [[Attack]] action, you can only [[Strike]] with a [[Weapons|Weapon]] of that Weapon Speed.
+When you take an Attack action, you can only [[Strike]] with a [[Weapons|Weapon]] with a matching Weapon Speed.
 
 
 # Dual Wielding

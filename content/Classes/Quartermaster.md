@@ -105,7 +105,7 @@ When
 ## Armourer
 
 ### Quick Change
-When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first attack roll.
+When the Armourer uses [[#Quick Toss]] on [[Armour]], it gains the [[Fluid]] tag and the targeted character may immediately doff their current armour and don this armour. The first character to attack that character has [[Disadvantage]] on its first [[Hit]] roll.
 
 The Armourer can use [[#Quick Toss]] to throw a different outfit to a [[Rules/Characters/index|Character]], that Character gets [[Advantage]] on their next social roll and one character that can see them and is in your [[Seek]] gains one [[Mood]] of your choice.
 
@@ -125,7 +125,7 @@ The Quartermaster gains the following reaction:
 |              | Distance Block                                                                                                               |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Tempo:**   | 4                                                                                                                            |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] is [[Attack\|Attacked]] in your [[Seek]]                                             |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] is [[Strike\|Struck]] in your [[Seek]]                                               |
 | **Action:**  | Expend 1 [[Item Points\|Item Point]] to toss a shield in between the attack, reducing the damage by your [[Awareness\|AWR]]. |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                    |
 

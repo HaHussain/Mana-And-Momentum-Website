@@ -1,10 +1,10 @@
 # Stance
 
-|               | Flurry Stance                                                              |
-| ------------- | -------------------------------------------------------------------------- |
-| **Passive:**  |                                                                            |
-| **Momentum:** | When you hit the same target as your previous attack, gain a [[Momentum]]. |
-| **Tags:**     |                                                                            |
+|               | Flurry Stance                                                                  |
+| ------------- | ------------------------------------------------------------------------------ |
+| **Passive:**  |                                                                                |
+| **Momentum:** | When you hit the same target as your previous [[Strike]], gain a [[Momentum]]. |
+| **Tags:**     |                                                                                |
 
 # Techniques
 

@@ -6,21 +6,21 @@ icon: LiMap
 # Overview
 The Wayfinder is all about mobility and movement and scouting.
 
-| Level | Class Abilities |
-| ----- | --------------- |
-| 1     |                 |
-| 2     |                 |
-| 3     |                 |
-| 4     |                 |
-| 5     |                 |
-| 6     |                 |
-| 7     |                 |
-| 8     |                 |
-| 9     |                 |
-| 10    |                 |
+| Level | Class Abilities        |
+| ----- | ---------------------- |
+| 1     | [[#Seeking Companion]] |
+| 2     |                        |
+| 3     |                        |
+| 4     |                        |
+| 5     |                        |
+| 6     |                        |
+| 7     |                        |
+| 8     |                        |
+| 9     |                        |
+| 10    |                        |
 
 # Health
-When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
+When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
@@ -56,16 +56,16 @@ The Pathfinder gains the following action:
 
 |             | Mark of the Hunter                                                                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  |                                                                                                                                                               |
+| **Tempo:**  | [[Mark]]                                                                                                                                                      |
 | **Action:** | [[Exert]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
-| **Tags:**   |                                                                                                                                                               |
+| **Tags:**   | [[Mark]]                                                                                                                                                      |
 
 ## Companion Buff
 The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
 The Pathfinder's [[Animal Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
 
 ## Stuff
-While [[Rules/Exploration/index#Navigating|Navigating]] 
+The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and 
 
 ## Weapon Focus 1
 Gain Weapon Focus 1.
@@ -73,13 +73,17 @@ Gain Weapon Focus 1.
 ## Speed Again?
 Gain +2m [[Speed]].
 
+## Weapon Focus 1 Again?
+Gain Weapon Focus 1.
+
 ## Traversal Speed
-While [[Rules/Exploration/index|Exploring]], speed up?
+While [[Rules/Exploration/index|Exploring]], speed up? The group can use your speed?
 
 ## Scan buff
 When the Pathfinders takes the [[Scan]] action, they may ask one of the following questions in addition:
 - What Movement Types, [[Speed|Speeds]], and [[Armour#Weight Penalty|Restrictions]] does the Character have?
-- What is the size of the Character's [[Seek]].
+- What senses does the Character have?
+- What is the size of the Character's [[Seek]]?
 
 # Class Focuses
 
@@ -98,6 +102,7 @@ When the Pathfinders takes the [[Scan]] action, they may ask one of the followin
 
 ### The Blade Dance
 After the Blade Dancer makes a [[Strike]] with a [[Melee]] weapon, they may move 1 square without provoking [[Rules/Actions/Tags/Reaction|Reactions]].
+
 # Ideas
 
  Movement

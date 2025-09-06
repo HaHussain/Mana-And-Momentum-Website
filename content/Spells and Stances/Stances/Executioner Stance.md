@@ -53,5 +53,5 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 | **Tempo:**  | [[Slow]] [[Attack]]                                                                                                     |
 | **Cost:**   | 5+                                                                                                                      |
 |             |                                                                                                                         |
-| **Effect:** | [[Strike]] a creature, this attack deals 1 dice of extra damage for every Momentum spent, and then deals double damage. |
+| **Effect:** | [[Strike]] a creature, this strike deals 1 dice of extra damage for every Momentum spent, and then deals double damage. |
 | **Tags:**   | [[Strike]]                                                                                                              |

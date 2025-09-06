@@ -1,5 +1,7 @@
 ---
 icon: LiSword
+aliases:
+  - Melee Range
 ---
 A Melee weapon is used in close combat and has some amount of [[Range]] from you that it can hit targets from.
 
