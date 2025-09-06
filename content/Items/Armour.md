@@ -5,20 +5,20 @@ icon: GiPlastron
 
 | Item Name        | AC  | [[#Deflection]] | Weight Penalty              | Tags                           | Armour Focus 1       | Armour Focus 2     |
 | ---------------- | --- | --------------- | --------------------------- | ------------------------------ | -------------------- | ------------------ |
-| Studded Leather  | 12  | 0               | -                           |                                | Move through enemies |                    |
+| Studded Leather  | 11  | 0               | -                           |                                | Move through enemies |                    |
 | Breeze Leather   | 13  | 1               | [[Orthogonal]]              | [[Retaliate]]: [[Push]]: 1<br> |                      |                    |
 | Chain Mail       | 14  | 3               | -2m Speed<br>[[Orthogonal]] |                                |                      |                    |
 | Scale Mail       | 16  | 0               | -2m Speed                   | [[Sturdy]] 1                   |                      |                    |
 | Titan Plate      | 17  | 0               | [[Orthogonal]]              |                                |                      |                    |
 | Juggernaut Plate | 18  | 2               | -2m Speed<br>[[Orthogonal]] | [[Sturdy]] 2                   |                      | Push aside enemies |
 ## Studded Leather
-AC: 12 + DEX (Max +4)
+AC: 11 + DEX (Max +5)
 Deflection: 0
 Armour Focus 1: You may move through squares occupied by non-allied [[Rules/Characters/index|Characters]] but cannot end your turn in them.
 Armour Focus 2: 
 
 ## Breeze Leather
-AC: 13 + DEX (Max +4)
+AC: 12 + DEX (Max +5)
 Deflection: 1
 Weight Penalty: [[Orthogonal]]
 Tags: [[Retaliate]]: [[Push]] 1

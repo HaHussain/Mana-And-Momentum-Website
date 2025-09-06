@@ -32,22 +32,24 @@ Choose 1 of:
 
 ## All Consuming
 
-|             | Rage                                                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                                                                                                                          |
-| **Action:** | Become [[Enraged]] until the Berserker chooses not to take the Rage action.<br>If they are [[Bloodied]], this automatically triggers. |
-| **Tags:**   | [[Mental]]                                                                                                                            |
+|             | Rage                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Extra]]: 1                                                                                           |
+| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If they are [[Bloodied]], this automatically triggers. |
+| **Tags:**   | [[Mental]]                                                                                             |
 
 
 ## Strength beyond Strength
 When the Berserker [[Exert|Exerts]] they ignore the first...
 When the Berserker [[Exert|Exerts]] they can choose one of the following options:
-- As an [[Attack]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage.
-- Double their [[Strength]] for this round. %%Reword this to not be stackable%%
+- As a [[Strike]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage.
+- The Berserker's [[Strength|STR]] is considered double for their next [[Skill]] roll.
+
 
 ## Initiate Violence
 When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
 When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
+
 
 ## Excessive
 The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice.
@@ -56,21 +58,15 @@ When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many
 
 When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
 
+
 ## Violence
 The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice.
 
-When the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] take a [[Free]]: [[Attack]] action immediately after.
+When the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] to make +1 [[Strike|Strikes]] (following [[Attack#Weapon Speed|Weapon Speed]]).
+
+
 ## Enduring
 At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
-
-## All Consuming
-
-|             | Rage                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Extra]]: 1                                                                                           |
-| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If they are [[Bloodied]], this automatically triggers. |
-| **Tags:**   | [[Mental]]                                                                                             |
-
 
 
 # Class Focuses
@@ -100,20 +96,20 @@ The Feral can [[Exert]] to reduce the [[Rules/Exploration/index#Scouting|Monster
 ### Blind Rage
 The Feral gains the following actions:
 
-|             | Excite Blood                                                                                                                                                                                                                                                                                                                      |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                 |
-| **Effect:** | The Fury may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Fury's Melee range.<br>If Attack of Opportunity is triggered, the Fury must use it. |
-| **Tags:**   |                                                                                                                                                                                                                                                                                                                                   |
+|             | Excite Blood                                                                                                                                                                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                    |
+| **Effect:** | The Feral may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Feral's Melee range.<br>If Attack of Opportunity is triggered, the Feral must use it. |
+| **Tags:**   |                                                                                                                                                                                                                                                                                                                                      |
 
-|             | Incite Rage                                                                                                                                                                                                                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 5                                                                                                                                                                                                                                                                                                                   |
-| **Effect:** | The Fury fans the flame of anger of a [[Rules/Characters/index\|Character]] they are speaking to, that character must make an [[Intelligence\|INT]] check.<br>On a success, the character becomes aware of the reason why the Fury is trying to influence them.<br>On a failure, the character acts on their anger. |
-| **Tags:**   | [[Mental]]                                                                                                                                                                                                                                                                                                          |
+|             | Incite Suspicion                                                                                                                                                                                                                                                                                                                                           |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 5                                                                                                                                                                                                                                                                                                                                                          |
+| **Effect:** | The Feral fans the flame of distrust of a [[Rules/Characters/index\|Character]] they are speaking to, that character must make an [[Instinct\|INS]] check.<br>On a success, the character becomes aware of the reason the Feral is trying to influence them.<br>On a failure, gains the [[Mood]] distrust towards a [[Rules/Characters/index\|Character]]. |
+| **Tags:**   | [[Mental]]                                                                                                                                                                                                                                                                                                                                                 |
 
 ### Overflow
-When the Feral kills a [[Rules/Characters/index|Character]] with a Melee [[Attack]], another character in [[Melee]] takes any excess damage.
+When the Feral kills a [[Rules/Characters/index|Character]] with a Melee [[Strike]], another character in [[Melee]] takes any excess damage.
 
 When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that already has that Mood, apply it to another character in [[Seek]].
 
@@ -121,7 +117,7 @@ When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that
 ## Fury
 
 ### Unstoppable Force
-When the Fury attacks, they can spend a [[Momentum]] to deal damage equal to their current [[Momentum]] + any [[Momentum]] they spent this turn.
+When the Fury [[Strike|Strikes]], they can spend a [[Momentum]] to deal damage equal to their current [[Momentum]] + any [[Momentum]] they spent this turn.
 
 When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by the Fury, the Fury can spend a [[Momentum]] to reduce that [[Rules/Characters/index|Character]]'s roll by their current [[Momentum]] (not including the [[Momentum]] they spent on this ability).
 

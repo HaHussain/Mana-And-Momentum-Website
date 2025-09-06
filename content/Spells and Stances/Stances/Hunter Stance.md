@@ -21,8 +21,8 @@ The Hunter's Stance and Techniques focus on targeting lone and solitary targets 
 | **Tempo:**  | [[Attack]]                                                                                                                   |
 | **Cost:**   | 2                                                                                                                            |
 |             |                                                                                                                              |
-| **Effect:** | [[Attack]] and [[Push]] 3 and do not deal Push Damage. <br>If the target is pushed into an [[Object]], apply [[Immobilised]] |
-| **Tags:**   | [[Attack]], [[Immobilised]]                                                                                                  |
+| **Effect:** | [[Strike]] and [[Push]] 3 and do not deal Push Damage. <br>If the target is pushed into an [[Object]], apply [[Immobilised]] |
+| **Tags:**   | [[Strike]], [[Immobilised]]                                                                                                  |
 
 
 |             | Take Aim            |

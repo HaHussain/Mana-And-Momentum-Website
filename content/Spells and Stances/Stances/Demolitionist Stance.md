@@ -25,8 +25,8 @@
 | **Tempo:**  | [[Attack]]                                                                                                                                                            |
 | **Cost:**   |                                                                                                                                                                       |
 |             |                                                                                                                                                                       |
-| **Effect:** | [[Attack]] an [[Object]], if you destroy it, roll damage against every character within [[Circle]] 3 of the Object and create [[Uneasy]] [[Terrain]] in [[Circle]] 3. |
-| **Tags:**   |                                                                                                                                                                       |
+| **Effect:** | [[Strike]] an [[Object]], if you destroy it, roll damage against every character within [[Circle]] 3 of the Object and create [[Uneasy]] [[Terrain]] in [[Circle]] 3. |
+| **Tags:**   | [[Strike]]                                                                                                                                                            |
 ## Fragmenting Stomp
 
 |             | Fragmenting Stomp                                                                                       |

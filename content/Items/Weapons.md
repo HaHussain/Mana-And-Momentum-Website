@@ -5,6 +5,7 @@ aliases:
   - Weapon
 ---
 # Melee Weapons
+## Table
 
 | Item Name    | Damage | Tags                                                                  | Weapon Focus 1                 | Weapon Focus 2                                         |
 | ------------ | ------ | --------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------ |
@@ -22,6 +23,15 @@ aliases:
 | Great-Hammer | Large  | [[Melee]] 2<br>Two-Handed<br>[[Slow]]<br>[[Orthogonal]]<br>[[Push]] 2 | Same as Hammer                 | Same as Hammer                                         |
 | Longspear    | Large  | [[Melee]] 2<br>Two-Handed<br>[[Slow]]                                 | Same as Spear                  | Same as Spear                                          |
 | Epee         | Large  | [[Melee]] 2<br>Two-Handed<br>[[Orthogonal]]                           | Same as Foil                   | Same as Foil                                           |
+
+## Stats
+
+### Sword
+Damage: Medium
+Weapon Focus 1: This weapon can be [[Quick]] at any time.
+Weapon Focus 2: This weapon ignores [[Armour#Deflection|Deflection]].
+Tags: [[Melee]] 1, [[One-Handed]]
+
 # Ranged Weapons
 
 | Item Name      | Damage | Tags                                                                      | Weapon Focus 1                                                                                                            | Weapon Focus 2                                                                            |
