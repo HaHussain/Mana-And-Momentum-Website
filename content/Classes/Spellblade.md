@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-The spellblade cleanly melds martial and magic together, imbuing their weapons with magic to fight and solve issues.
+The spellblade cleanly melds martial and magic together, imbuing their weapons and tools with magic to fight and solve issues.
 
 | Level | Feature |
 | ----- | ------- |

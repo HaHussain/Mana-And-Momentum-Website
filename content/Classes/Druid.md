@@ -4,6 +4,7 @@ tags:
   - Class
 ---
 # Overview
+The druid is the listens and speaks for the planet, manipulating plant life and imbuing the terrain with power to control large swathes of area.
 
 | Level | Feature |
 | ----- | ------- |

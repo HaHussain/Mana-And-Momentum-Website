@@ -4,7 +4,7 @@ tags:
 icon: RaDrill
 ---
 # Overview
-The vessel is the spiritual nomad, listening to the world and letting the world speak through them as it allows entities to enter them.
+The vessel is the spiritual nomad, listening to the world and letting the world speak through them as it allows spirits to enter them giving them elemental power.
 
 | Level | Feature |
 | ----- | ------- |

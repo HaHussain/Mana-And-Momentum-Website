@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-The Etcher bides their time, setting their glyphs into the environment, their patience resulting in perfect mana control.
+The Etcher bides their time, setting their glyphs into the environment, to create small traps or enormous structures their patience resulting in perfect mana control.
 
 | Level | Feature |
 | ----- | ------- |

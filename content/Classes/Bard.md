@@ -4,6 +4,7 @@ tags:
 icon: LiMusic
 ---
 # Overview
+The Bard is a support class that focuses on mentally influencing allies and enemies. Keeping up the Tempo to gain an every increasing cascading of buffs to cause an avalanche at the right time.
 
 | Level | Feature |
 | ----- | ------- |

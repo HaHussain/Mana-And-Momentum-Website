@@ -4,6 +4,7 @@ tags:
   - Class
 ---
 # Overview
+The Archon is an elementalist controller, setting rules on the battlefield and restricting enemies with debuffs and gaining the power to blast their opponents when they break those rules.
 
 | Level | Feature |
 | ----- | ------- |
