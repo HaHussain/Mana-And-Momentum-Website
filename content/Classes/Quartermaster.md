@@ -67,7 +67,7 @@ If you take a minute to analyse an item, you can accurately determine its value 
 ## Quantity of Quality
 When the Quartermaster expends [[Item Points]] for an Item, that Item is a +1 Item.
 
-The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Merchant [[Organisations]] and +1 [[Affection]] with Merchants.
+The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Merchant [[Organisations]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with Merchants.
 
 When this ability is gained it applies retroactively to all [[Organisations]] and [[Rules/Characters/index|Characters]] that the Quartermaster is currently on at least Neutral terms with.
 

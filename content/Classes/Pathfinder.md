@@ -6,18 +6,18 @@ icon: LiMap
 # Overview
 The Wayfinder is all about mobility and movement and scouting.
 
-| Level | Class Abilities        |
-| ----- | ---------------------- |
-| 1     | [[#Seeking Companion]] |
-| 2     |                        |
-| 3     |                        |
-| 4     |                        |
-| 5     |                        |
-| 6     |                        |
-| 7     |                        |
-| 8     |                        |
-| 9     |                        |
-| 10    |                        |
+| Level | Class Abilities                   |
+| ----- | --------------------------------- |
+| 1     | [[#Seeking Companion]]            |
+| 2     | [[#Class Focuses\|Class Focus]] 1 |
+| 3     | [[#Scan buff]]                    |
+| 4     | [[#Class Focuses\|Class Focus]] 2 |
+| 5     | [[#Marky]]                        |
+| 6     | [[#Class Focuses\|Class Focus]] 3 |
+| 7     | [[#Companion Buff]]               |
+| 8     | [[#Class Focuses\|Class Focus]] 4 |
+| 9     | [[#Speed Again?]]                 |
+| 10    |                                   |
 
 # Health
 When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
@@ -35,59 +35,65 @@ The [[Fortress]] gains +2m [[Speed]].
 The Pathfinder gains an [[Animal Companion]].
 The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
 The Pathfinder's Animal Companion's [[Seek]] is considered the Pathfinder's [[Seek]].
+If the Pathfinder's Animal Companion has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
+
+
+## Scan buff
+When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:
+- What Movement Types, [[Speed|Speeds]], and [[Armour#Weight Penalty|Restrictions]] does the Character have?
+- What senses does the Character have?
+- What is the size of the Character's [[Seek]]?
+- Where is that Character going to move next?
+
+The Pathfinder may instead [[Ask]] 'Where does that Character want to be on its turn', and spend a [[Momentum]] to specify how the Character will move in order to reach that goal. The [[Rules/Characters/index|Character]] will not knowingly put itself in additional / unnecessary danger with this ability.
+
+When the Pathfinder takes the [[Scan]] action and targets [[Terrain]] or an [[Object]], they may [[Ask]] one of the following questions in addition:
+- How difficult is this to traverse?
+- What are the targets non-magical effects and tags.
+
 
 ## Step Back
-The Pathfinder gains the following reaction:
+The Pathfinder gains +2m [[Speed]] and the following reaction:
 
-|              | Step Back                                                                                            |
-| ------------ | ---------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 4                                                                                                    |
-| **Trigger:** | When a [[Rules/Characters/index\|Character]] moves next to you.                                      |
-| **Action:**  | Move 1 square directly away from them without triggering [[Rules/Actions/Tags/Reaction\|Reactions]]. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                            |
+|              | Backroll                                                                                                        |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 4                                                                                                               |
+| **Trigger:** | When a [[Rules/Characters/index\|Character]] moves adjacent to you.                                             |
+| **Action:**  | Move half your [[Speed]] directly away from them without triggering [[Rules/Actions/Tags/Reaction\|Reactions]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                       |
 
-## Speed
-Gain +2m [[Speed]].
+The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and suffers no penalty for [[Rules/Exploration/index#Navigating|Navigating]] without a [[Rules/Exploration/index#Guide|Guide]].
+When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Rules/Exploration/index#Guide|Guide]], their group and [[Fortress]] can use the Pathfinder's [[Speed]] instead of their own.
+
 
 ## Marky
-When the Pathfinder consumes [[Marked]], they add +1d6 to the [[Hit]] roll.
+Gain Weapon Focus 1 with a [[Weapons|Weapon]] of your choice. 
+When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
+The Pathfinder's [[Marked]] lasts for an hour.
 
 The Pathfinder gains the following action:
 
-|             | Mark of the Hunter                                                                                                                                            |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Mark]]                                                                                                                                                      |
-| **Action:** | [[Exert]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
-| **Tags:**   | [[Mark]]                                                                                                                                                      |
+|             | Mark of the Hunter                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Mark]]                                                                                                                                                                 |
+| **Action:** | Spend 3 [[Momentum]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
+| **Tags:**   | [[Mark]]                                                                                                                                                                 |
 
 ## Companion Buff
 The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
 The Pathfinder's [[Animal Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
 
-## Stuff
-The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and 
-
-## Weapon Focus 1
-Gain Weapon Focus 1.
 
 ## Speed Again?
-Gain +2m [[Speed]].
+The Pathfinder gains +2m [[Speed]] and they automatically succeed on any [[Strength|STR]] checks to [[Climb]].
+While [[Rules/Exploration/index#Navigating|Navigating]], the Pathfinder, their group, and their [[Fortress]] ignore the penalty for traversing through [[Rules/Exploration/index#Mountains|Mountains]] and can travel through [[Rules/Exploration/index#High Mountains|High Mountains]] with the penalty of [[Rules/Exploration/index#Mountains|Mountains]].
 
 ## Weapon Focus 1 Again?
 Gain Weapon Focus 1.
 
-## Traversal Speed
-While [[Rules/Exploration/index|Exploring]], speed up? The group can use your speed?
 
-## Scan buff
-When the Pathfinders takes the [[Scan]] action, they may ask one of the following questions in addition:
-- What Movement Types, [[Speed|Speeds]], and [[Armour#Weight Penalty|Restrictions]] does the Character have?
-- What senses does the Character have?
-- What is the size of the Character's [[Seek]]?
 
 # Class Focuses
-
-
 
 |     | [[#Sharpshooter]] | [[#Blade Dancer]] | [[#Beast]] |
 | --- | ----------------- | ----------------- | ---------- |
@@ -97,6 +103,26 @@ When the Pathfinders takes the [[Scan]] action, they may ask one of the followin
 | 8   |                   |                   |            |
 
 ## Sharpshooter
+
+### Marky
+When the Sharpshooter deals a [[Critical Strike]], they can apply one of the following [[Statuses and Conditions/index|Conditions]]:
+- [[Blind]]
+- [[Numb]]
+- [[Shocked]]
+- [[Chilled]]
+
+The Sharpshooter gains the following action
+
+### Aim And Fire
+
+|             | Deep Breath                          |
+| ----------- | ------------------------------------ |
+| **Tempo:**  | 2                                    |
+| **Action:** | Double your [[Seek]] until you move. |
+| **Tags:**   |                                      |
+
+### Sharpshooter's Focus
+When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].
 
 ## Blade Dancer
 

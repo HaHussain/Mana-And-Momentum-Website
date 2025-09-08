@@ -10,13 +10,13 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 | ----- | --------------------------------- |
 | 1     | [[#All Consuming]]                |
 | 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     |                                   |
+| 3     | [[#Strength beyond Strength]]     |
 | 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     |                                   |
+| 5     | [[#Excessive]]                    |
 | 6     | [[#Class Focuses\|Class Focus]] 3 |
-| 7     |                                   |
+| 7     | [[#Enduring]]                     |
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
-| 9     |                                   |
+| 9     | [[#Initiate Violence]]            |
 | 10    | [[#Violence]]                     |
 
 # Health 
@@ -40,15 +40,11 @@ Choose 1 of:
 
 
 ## Strength beyond Strength
+As a [[Strike]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage.
+
 When the Berserker [[Exert|Exerts]] they ignore the first...
 When the Berserker [[Exert|Exerts]] they can choose one of the following options:
-- As a [[Strike]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage.
 - The Berserker's [[Strength|STR]] is considered double for their next [[Skill]] roll.
-
-
-## Initiate Violence
-When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
-When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
 
 
 ## Excessive
@@ -59,14 +55,20 @@ When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many
 When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
 
 
+## Enduring
+When the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
+
+
+## Initiate Violence
+When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
+When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
+
+
 ## Violence
 The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice.
 
 When the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] to make +1 [[Strike|Strikes]] (following [[Attack#Weapon Speed|Weapon Speed]]).
 
-
-## Enduring
-At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
 
 
 # Class Focuses
@@ -74,24 +76,28 @@ At the end of a turn when the Berserker hits 0 [[Health Points|HP]], they can [[
 
 |     | [[#Feral]]             | [[#Fury]]              | [[#Terror]]       |
 | --- | ---------------------- | ---------------------- | ----------------- |
-| 2   | [[#Bestial Body]]      | [[#Unstoppable Force]] | [[#Walking Wall]] |
+| 2   | [[#Bestial Instinct]]  | [[#Unstoppable Force]] | [[#Walking Wall]] |
 | 4   | [[#Shatter and Break]] |                        |                   |
 | 6   | [[#Blind Rage]]        |                        |                   |
 | 8   | [[#Overflow]]          |                        |                   |
 
 ## Feral
 
-### Bestial Body
+### Bestial Instinct
 While not wearing [[Armour]], the Feral's body is considered [[Armour#Studded Leather|Studded Leather]].
 While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Armour#Deflection|Deflection]] equal to their [[Fortitude|FOR]].
 
-The Feral has [[Advantage]] against all [[Terrain]] effects that do not have the [[Mental]] tag.
-%%A Feral animal is always on edge and can sense danger / hostility? conniving plans? instinctual%%
+When the Feral takes the [[Scan]] action on a [[Rules/Characters/index|Character]], they can make [[Instinct|INS]] vs ?? to ask one of the following questions:
+- Is this Character tougher (higher level than me).
+- What is the biggest [[Mood]] this Character is experiencing.
+- Does this Character feel Fear or Hostility towards me.
+
 
 ### Shatter and Break
 The Feral ignores the [[Armour#Deflection|Deflection]] and [[Sturdy]] of [[Object|Objects]].
 
 The Feral can [[Exert]] to reduce the [[Rules/Exploration/index#Scouting|Monster Clock]] by #.
+
 
 ### Blind Rage
 The Feral gains the following actions:
@@ -120,6 +126,10 @@ When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that
 When the Fury [[Strike|Strikes]], they can spend a [[Momentum]] to deal damage equal to their current [[Momentum]] + any [[Momentum]] they spent this turn.
 
 When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by the Fury, the Fury can spend a [[Momentum]] to reduce that [[Rules/Characters/index|Character]]'s roll by their current [[Momentum]] (not including the [[Momentum]] they spent on this ability).
+
+### Something
+While [[Enraged]], the Fury can choose to be considered one size larger at any time.
+
 
 ## Terror
 

@@ -14,7 +14,7 @@ All other characters (NPCs) are played by the GM.
 
 # Attitude
 All NPCs have some amount of attitude to other characters that showcases their general affection towards players.
-Depending on the context, an NPCs attitude can be towards specific characters or the players as a whole. It does not need to be tracked strictly in-between [[Scenes]] but many abilities can alter the attitude of an NPC and it should be tracked generally during a Scene.
+Depending on the context, an NPCs attitude can be towards specific player characters or the players as a whole. It does not need to be tracked strictly in-between [[Scenes]] but many abilities can alter the attitude of an NPC and it should be tracked generally during a Scene.
 
 |  -3  |   -2    |    -1    |    0    |    1     |  2   |  3   |
 | :--: | :-----: | :------: | :-----: | :------: | :--: | :--: |
