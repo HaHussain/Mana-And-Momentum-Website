@@ -28,6 +28,9 @@ Choose 1 of:
 - When the Berserker hurts someone or themselves when they didn't want to, they gain a [[Momentum]].
 - When the Berserker solves a problem with brute strength or endurance, they gain a [[Momentum]].
 
+# Fortress Bonus
+
+
 # Abilities
 
 ## All Consuming

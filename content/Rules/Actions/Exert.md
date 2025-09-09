@@ -11,7 +11,10 @@ You may Exert yourself to do one of the following:
 - Clear a [[Statuses and Conditions/index#Conditions|Condition]].
 - Change the [[Tempo]] of an action to any Tempo.
 - Reclaim 1 [[Spells and Stances/Spells/index|Mana]] from the lowest committed tier.
+- Retry any [[Skill]] roll.
 
-When you Exert yourself, first %%SOMETHING%%, then you gain 1 Exertion until you [[Long Rest?]].
+When you Exert yourself, first %%SOMETHING%%, then you gain 1 [[#Exertion]] until you [[Long Rest?]].
 At the end of each scene in which you Exerted yourself, %%SOMETHING%%.
 %%One of these should be take damage%%
+
+# Exertion

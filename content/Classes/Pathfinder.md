@@ -69,7 +69,7 @@ When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Ru
 
 
 ## Marky
-Gain Weapon Focus 1 with a [[Weapons|Weapon]] of your choice. 
+Gain Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
 When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
 The Pathfinder's [[Marked]] lasts for an hour.
 
@@ -127,6 +127,7 @@ The Sharpshooter gains the following action
 When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].
 
 ## Trapper
+The Trapper 
 
 # Ideas
 
