@@ -24,7 +24,9 @@ When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Pathfinder 
+- When the Pathfinder provides information by scouting ahead, gain a [[Momentum]].
+- When the Pathfinder moves or leads through a route that only they can navigate, gain a [[Momentum]].
+- When the Pathfinder plans, sets, or performs an ambush, gain a [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +2m [[Speed]].
@@ -95,12 +97,12 @@ Gain Weapon Focus 1.
 
 # Class Focuses
 
-|     | [[#Sharpshooter]] | [[#Blade Dancer]] | [[#Beast]] |
-| --- | ----------------- | ----------------- | ---------- |
-| 2   |                   |                   |            |
-| 4   |                   |                   |            |
-| 6   |                   |                   |            |
-| 8   |                   |                   |            |
+|     | [[#Sharpshooter]] | [[#Trapper]] | [[#Beast]] |
+| --- | ----------------- | ------------ | ---------- |
+| 2   |                   |              |            |
+| 4   |                   |              |            |
+| 6   |                   |              |            |
+| 8   |                   |              |            |
 
 ## Sharpshooter
 
@@ -124,10 +126,7 @@ The Sharpshooter gains the following action
 ### Sharpshooter's Focus
 When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].
 
-## Blade Dancer
-
-### The Blade Dance
-After the Blade Dancer makes a [[Strike]] with a [[Melee]] weapon, they may move 1 square without provoking [[Rules/Actions/Tags/Reaction|Reactions]].
+## Trapper
 
 # Ideas
 
