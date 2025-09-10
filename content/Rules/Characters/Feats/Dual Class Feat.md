@@ -1,14 +1,24 @@
 
-|                   |               |
-| ----------------- | ------------- |
-|                   | [[Berserker]] |
-| [[Berserker]]     |               |
-| [[Quartermaster]] | [[#Scrapper]] |
+|                   |               |               |                |                   |
+| ----------------- | ------------- | ------------- | -------------- | ----------------- |
+|                   | [[Berserker]] | [[Knight]]    | [[Pathfinder]] | [[Quartermaster]] |
+| [[Berserker]]     | -             | [[#Champion]] |                | [[#Scrapper]]     |
+| [[Knight]]        |               | -             |                | [[#?]]            |
+| [[Pathfinder]]    |               |               | -              |                   |
+| [[Quartermaster]] |               |               |                | -                 |
 # Scrapper
+When the Scrapper destroys an [[Item]], they regain 1 [[Item Points|Item Point]].
 
-|             | Tear Apart                                                                                                                                                                                                                                                                                                      |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Slow]] [[Attack]]                                                                                                                                                                                                                                                                                             |
-| **Action:** | Target a piece of equipment worn by a [[Rules/Characters/index\|Character]] adjacent to you that you have [[Grappled]] and [[Marked]]. <br>That character must make a [[Dexterity\|DEX]] or [[Strength\|STR]] check.<br>On a failure, destroy that piece of equipment and regain 1 [[Item Points\|Item Point]]. |
-| **Tags:**   | [[Strike]]                                                                                                                                                                                                                                                                                                      |
+|             | Tear Apart                                                                                                                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Slow]] [[Attack]]                                                                                                                                                                                                  |
+| **Action:** | Target a piece of equipment worn by a [[Rules/Characters/index\|Character]] adjacent to you that you have [[Grappled]] and [[Marked]]. <br>That character must make a [[Dexterity\|DEX]] or [[Strength\|STR]] check. |
+| **Tags:**   | [[Strike]]                                                                                                                                                                                                           |
 For each negative [[Mood]] on a [[Rules/Characters/index|Character]], the Scrapper can reduce their [[Rules/Characters/index#Attitude|Attitude]] by 1 and gain a 10% discount on an item for each Attitude lost.
+
+
+# Champion
+Whenever the Champion [[Exert|Exerts]] they make take two options.
+
+# ?
+The ? gains Focus 2 with every [[Item]] they have Focus 1 with.

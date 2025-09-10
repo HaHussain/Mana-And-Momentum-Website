@@ -10,9 +10,9 @@ The Wayfinder is all about mobility and movement and scouting.
 | ----- | --------------------------------- |
 | 1     | [[#Seeking Companion]]            |
 | 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     | [[#Scan buff]]                    |
+| 3     | [[#Marky]]                        |
 | 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     | [[#Marky]]                        |
+| 5     | [[#Scan buff]]                    |
 | 6     | [[#Class Focuses\|Class Focus]] 3 |
 | 7     | [[#Companion Buff]]               |
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
@@ -27,6 +27,7 @@ Choose 1 of:
 - When the Pathfinder provides information by scouting ahead, gain a [[Momentum]].
 - When the Pathfinder moves or leads through a route that only they can navigate, gain a [[Momentum]].
 - When the Pathfinder plans, sets, or performs an ambush, gain a [[Momentum]].
+- When the Pathfinder discovers a new location or route or travels through un-tread ground, gain a [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +2m [[Speed]].
@@ -117,11 +118,13 @@ The Sharpshooter gains the following action
 
 ### Aim And Fire
 
-|             | Deep Breath                          |
-| ----------- | ------------------------------------ |
-| **Tempo:**  | 2                                    |
-| **Action:** | Double your [[Seek]] until you move. |
-| **Tags:**   |                                      |
+|               | Deep Breath                          |
+| ------------- | ------------------------------------ |
+| **Tempo:**    | 2                                    |
+| **Target:**   | Self                                 |
+| **Duration:** | Indefinite                           |
+| **Action:**   | Double your [[Seek]] until you move. |
+| **Tags:**     | [[Seek]]                             |
 
 ### Sharpshooter's Focus
 When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].

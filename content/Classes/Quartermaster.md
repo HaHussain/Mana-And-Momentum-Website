@@ -26,6 +26,7 @@ When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and a
 Choose 1 of:
 - When the Quartermaster buys, sells, or gifts a specific Item, they gain a [[Momentum]].
 - When the Quartermaster has the perfect item for the tone or the problem, they gain a [[Momentum]].
+- When the Quartermaster uses money to solve a problem, they gain a [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains an additional +2 [[Max Weight]].

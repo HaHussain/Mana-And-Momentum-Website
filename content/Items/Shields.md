@@ -1,5 +1,7 @@
 ---
 icon: GiBorderedShield
+aliases:
+  - Shield
 ---
 
 | Item Name     | Effect | Tags                        | Shield Focus 1                   | Shield Focus 2 |

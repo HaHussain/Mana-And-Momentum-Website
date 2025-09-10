@@ -3,7 +3,9 @@ icon: LiShield
 ---
 Tempo: 4
 
-Pick a [[Rules/Characters/index|Character]] adjacent to you, while you are adjacent to them [[Strike|Strikes]] against that [[Rules/Characters/index|Character]] have [[Disadvantage]] to hit and they may use your [[Armour#Deflection|Deflection]] instead of theirs. Additionally you gain the Intercept reaction until the end of the round:
+Pick a [[Rules/Characters/index|Character]] adjacent to you, while you are adjacent to them [[Strike|Strikes]] against that [[Rules/Characters/index|Character]] have [[Disadvantage]] to hit and they may use your [[Armour#Deflection|Deflection]] instead of theirs. 
+
+Additionally you gain the Intercept reaction until the end of the round:
 # Intercept
 
 |                     | Intercept                                                                                                  |
