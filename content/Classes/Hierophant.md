@@ -1,9 +1,10 @@
 ---
 tags:
   - Class
+icon: RaMoonSun
 ---
 # Overview
-The Hierophant is a support mage that ???
+The Hierophant is a support mage that extends themselves to their allies, acting on their behalf, buffing them in unique ways. The Hierophant is religiously motifed but this can be pagan.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -32,3 +33,17 @@ The [[Fortress]]
 # Class Focuses
 
 # Ideas
+
+Cast a spell from one of their allies location.
+Cast a spell using one of their allies traits?
+Use metamagic on allies spells.
+
+Healer
+- Healing spell
+- Cleanse conditions
+- Resurrection
+
+Teacher
+
+Guardian from a distance?
+Censer
