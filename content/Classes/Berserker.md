@@ -135,6 +135,18 @@ When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by 
 ### Something
 While [[Enraged]], the Fury can choose to be considered one size larger at any time.
 
+### Cage Match
+The Fury hits better guys [[Orthogonal]]ly adjacent to them.
+Gain the following Reaction:
+
+|              | Counter Grapple                                                                                                        |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 3                                                                                                                      |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] adjacent to you [[Grapple\|Grapples]] a [[Rules/Characters/index\|Character]]. |
+| **Action:**  | Attempt to [[Grapple]] the triggering [[Rules/Characters/index\|Character]].                                           |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Grapple]]                                                                 |
+While a [[Rules/Characters/index|Character]] is [[Isolated]] with the Fury...
+
 
 ## Terror
 
