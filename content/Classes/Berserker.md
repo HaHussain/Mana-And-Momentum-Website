@@ -72,7 +72,7 @@ When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Thir
 
 
 ## Violence
-When the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] to make +1 [[Strike|Strikes]] (following [[Attack#Weapon Speed|Weapon Speed]]).
+Each time the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] to make +1 [[Strike|Strikes]] (following [[Attack#Weapon Speed|Weapon Speed]]).
 
 
 

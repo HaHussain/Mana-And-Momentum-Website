@@ -55,7 +55,7 @@ The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same 
 The Knight gains Weapon Focus 2 with a [[Weapons|Weapon]] of their choice.
 The Knight gains Armour Focus 2 with an [[Armour]] of their choice. 
 
-
+When the Knight [[Switch Stance|Switches Stances]], they may spend 1 [[Momentum]] to conserve [[Momentum]] between [[Spells and Stances/Stances/index|Stances]].
 # Class Focuses
 
 |     | Duelist | Guardian | Dragoon |
@@ -64,27 +64,53 @@ The Knight gains Armour Focus 2 with an [[Armour]] of their choice.
 | 4   |         |          |         |
 | 6   |         |          |         |
 | 8   |         |          |         |
-# Duelist
+## Duelist
 
-|               | Duelist's Challenge                                                                                                                                                                                                                                   |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Mark]]                                                                                                                                                                                                                                              |
-| **Target:**   | 1 [[Rules/Characters/index\|Character]] in [[Seek]]                                                                                                                                                                                                   |
-| **Duration:** | Up to 1 minute                                                                                                                                                                                                                                        |
-| **Action:**   | Apply [[Marked]] to target [[Rules/Characters/index\|Character]], force the [[Rules/Characters/index\|Character]] to apply [[Marked]] to you.<br>While you are both [[Marked]], <br><br>This [[Marked]] is consumed if your allies effect the target. |
-| **Tags:**     | [[Mark]]                                                                                                                                                                                                                                              |
+### Challenger
+
+When the Duelist beats a [[Rules/Characters/index|Character]] in a challenge, competition, or duel fairly, they gain +1 [[Rules/Characters/index#Attitude|Attitude]] towards the Duelist.
+Additionally you gain the following action:
+
+|               | Duelist's Challenge                                                                                                                                                                                                                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Mark]]                                                                                                                                                                                                                                                                                                                                                  |
+| **Target:**   | 1 [[Rules/Characters/index\|Character]] in [[Seek]]                                                                                                                                                                                                                                                                                                       |
+| **Duration:** | Up to 1 minute                                                                                                                                                                                                                                                                                                                                            |
+| **Action:**   | Apply [[Marked]] to target [[Rules/Characters/index\|Character]], force the [[Rules/Characters/index\|Character]] to apply [[Marked]] to you.<br>While you are both [[Marked]], that Character must include you as a target in all offensive abilities.<br><br>This [[Marked]] is consumed if your allies effect the target or you attack another target. |
+| **Tags:**     | [[Mark]]                                                                                                                                                                                                                                                                                                                                                  |
+
+
+### Sentinel at the Gates
 
 When the Duelist hits a [[Rules/Characters/index|Character]] with an [[Melee#Attack of Opportunity|Attack of Opportunity]], that [[Rules/Characters/index|Character]] becomes [[Immobilised]] for that turn. 
 
+
+
+After each [[Strike]] the Duelist makes, they can move one square without provoking [[Melee#Attack of Opportunity|Attacks of Opportunity]].
+
 ## Guardian
 
-The Knight gains Shield Focus 1 with a [[Shields|Shield]] of their choice. When the [[Rules/Characters/index|Character]] you are [[Guard|Guarding]] moves, you may move with them.
+The Knight gains Shield Focus 1 with a [[Shields|Shield]] of their choice and gains the following Reaction:
 
-The Knight gains Shield Focus 2 with a [[Shields|Shield]] of their choice. 
+|                     | Shield Wall                                                                        |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| **Tempo:**          | 4                                                                                  |
+| **Pre-Requisites:** | You are adjacent to a [[Rules/Characters/index\|Character]] you [[Guard\|Guarded]] |
+| **Trigger:**        | The Character you are [[Guard\|Guarding]] moves.                                   |
+| **Action:**         | Move with them, maintaining adjacency.                                             |
+| **Tags:**           | [[Rules/Actions/Tags/Reaction\|Reaction]]                                          |
 
-While , move with ally.
 
-Jump to an ally to [[Guard#Intercept]]
+The Knight gains Shield Focus 2 with a [[Shields|Shield]] of their choice.
+The [[Guard#Intercept|Intercept]] Reaction is replaced by this version:
+
+|              | Intercept                                                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 4                                                                                                                                 |
+| **Trigger:** | When a [[Rules/Characters/index\|Character]] in your [[Seek]] is [[Hit]] by a [[Strike]].                                         |
+| **Action:**  | Immediately move adjacent to that character and take the damage from the [[Strike]] instead of them.<br>[[Guard]] that character. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                         |
+
 
 ## Dragoon
 

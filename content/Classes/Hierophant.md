@@ -47,3 +47,5 @@ Teacher
 
 Guardian from a distance?
 Censer
+
+Could replace this with Font - a pure elementalist blaster?

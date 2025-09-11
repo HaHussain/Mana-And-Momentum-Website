@@ -9,7 +9,7 @@ You may Exert yourself to do one of the following:
 - Take another [[Rules/Actions/index|Action]] this round. This action ignores the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].
 - Gain # [[Momentum]].
 - Clear a [[Statuses and Conditions/index#Conditions|Condition]].
-- Change the [[Tempo]] of an action to any Tempo.
+- Take an [[Rules/Actions/index|Action]] out of [[Tempo]] order.
 - Reclaim 1 [[Spells and Stances/Spells/index|Mana]] from the lowest committed tier.
 - Retry any [[Skill]] roll.
 

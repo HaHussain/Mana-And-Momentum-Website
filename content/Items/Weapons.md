@@ -10,7 +10,7 @@ aliases:
 | Item Name    | Damage | Tags                                                                  | Weapon Focus 1                 | Weapon Focus 2                                         |
 | ------------ | ------ | --------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------ |
 | Dagger       | Small  | [[Melee]] 1<br>One-Handed<br>[[Quick]]<br>[[Orthogonal]]              | Apply a debuff                 | Increased crit chance                                  |
-| Gauntlets    | Small  | [[Melee]] 1<br>Two-Handed<br>[[Quick]]<br>[[Orthogonal]]              | Triple Attack                  | Free Grapple                                           |
+| Gauntlets    | Small  | [[Melee]] 1<br>One-Handed<br>[[Quick]]<br>[[Orthogonal]]              | Dual Wielding +1 Strikes       | Free Grapple                                           |
 | Sword        | Medium | [[Melee]] 1<br>One-Handed                                             | Quick                          | Ignore [[Armour#Deflection\|Deflection]]?<br>Reliable? |
 | Axe          | Medium | [[Melee]] 1<br>One-Handed                                             | Hook in and grapple?           | Sweep Attack                                           |
 | Hammer       | Medium | [[Melee]] 1<br>One-Handed<br>[[Push]] 1                               | Greater push                   | Knockback into objects does increased damage           |
@@ -25,6 +25,12 @@ aliases:
 | Epee         | Large  | [[Melee]] 2<br>Two-Handed<br>[[Orthogonal]]                           | Same as Foil                   | Same as Foil                                           |
 
 ## Stats
+
+### Gauntlets
+Damage: Small
+Weapon Focus 1: While [[Attack#Dual Wielding|Dual Wielding]] 2 Gauntlets, the Dual Wield reaction makes +1 [[Strike|Strikes]] with Gauntlets.
+Weapon Focus 2: When you [[Hit]] the same [[Rules/Characters/index|Character]] twice in one turn, you may [[Grapple]] them.
+Tags: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]]
 
 ### Sword
 Damage: Medium
