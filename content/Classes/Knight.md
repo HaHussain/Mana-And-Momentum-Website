@@ -59,12 +59,12 @@ The Knight gains Armour Focus 2 with an [[Armour]] of their choice.
 When the Knight [[Switch Stance|Switches Stances]], they can spend a [[Momentum]] to conserve the rest of their [[Momentum]] between [[Spells and Stances/Stances/index|Stances]].
 # Class Focuses
 
-|     | Duelist | Guardian | Dragoon |
-| --- | ------- | -------- | ------- |
-| 2   |         |          |         |
-| 4   |         |          |         |
-| 6   |         |          |         |
-| 8   |         |          |         |
+|     | Duelist         | Guardian | Dragoon |
+| --- | --------------- | -------- | ------- |
+| 2   | [[#Challenger]] |          |         |
+| 4   |                 |          |         |
+| 6   |                 |          |         |
+| 8   |                 |          |         |
 ## Duelist
 
 ### Challenger

@@ -38,7 +38,6 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 That character gains [[Advantage]] on their first roll with this item this [[Scenes|Scene]].
 - If the Item is a [[Weapons|Weapon]] then the Character can immediately stow any number of Weapons and equip the tossed Weapon.
 - If the Item is a [[Consumable]] then the Character can immediately consume it.
-- If the Item is a [[Tool]] then the Character may add the Quartermaster's [[Intelligence|INT]] to the first roll using that tool this [[Scenes|Scene]].
 
 
 ## Re-Stock
@@ -51,7 +50,7 @@ When the Quartermaster attempts to sell an item, they can mark it up by 25% of u
 ## Experience
 When the Quartermaster uses [[#Quick Toss]], that ally gains the benefits of any abilities that the Quartermaster would have if they were using that item.
 
-When the Quartermaster enters a new [[Locations|Location]] they may create a Merchant [[Contact]] and [[Exert]] to gain a [[Bond]] with them.
+When the Quartermaster enters a new [[Locations|Location]] they may [[Exert]] to create a Merchant [[Contact]] gain a [[Bond]] with them.
 
 
 ## Eye for Value
@@ -78,30 +77,32 @@ The Quartermaster can spend 2 [[Momentum]] to perform a [[Free]]: [[Inventory]] 
 
 # Class Focus
 
-|     | [[#Weapon Master]] | [[#Armourer]]           | Consumables |
-| --- | ------------------ | ----------------------- | ----------- |
-| 2   | [[#Many Blades]]   | [[#Quick Change]]       |             |
-| 4   |                    | [[#Many Armours]]       |             |
-| 6   |                    | [[#Disguised Fittings]] |             |
-| 8   |                    |                         |             |
+|     | [[#Weapon Master]]    | [[#Armourer]]           | Consumables |
+| --- | --------------------- | ----------------------- | ----------- |
+| 2   | [[#Fuel the Assault]] | [[#Quick Change]]       |             |
+| 4   | [[#Many Blades]]      | [[#Many Armours]]       |             |
+| 6   |                       | [[#Disguised Fittings]] |             |
+| 8   |                       |                         |             |
 
 
 ## Weapon Master
 
+### Fuel the Assault
+When the Weapon Master uses [[#Quick Toss]] on a [[Weapons|Weapon]] or [[Ammo]], the target gains the following reaction for this turn:
+
+|              | ???                                                        |
+| ------------ | ---------------------------------------------------------- |
+| **Tempo:**   | [[Weapon Speed]]                                           |
+| **Trigger:** | [[#Quick Toss]]                                            |
+| **Action:**  | [[Strike]] with the tossed [[Weapons\|Weapon]] or [[Ammo]] |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                  |
+When a [[Rules/Characters/index|Character]] in the Weapon Master's [[Seek]], fails a roll with a [[Tool]], they can break the Tool and use [[#Quick Toss]] as a [[Rules/Actions/Tags/Reaction|Reaction]] to supply a new [[Tool]] to allow the target to retry the roll.
+
+
 ### Many Blades
 The Quartermaster gains Weapon Focus 1 with all [[Weapons]].
 
-### Fuel the Assault
-Gain the following Reaction:
 
-|              | Fuel the Assault                                                                                                                                      |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 5                                                                                                                                                     |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] in [[Seek]] [[Attack\|Attacks]] with a [[Ranged]] weapon that can use [[Ammo]] or [[Throw\|Throws]] a weapon. |
-| **Action:**  | Use [[#Quick Toss]] to provide an [[Ammo]] for the [[Ranged]] weapon or provide a replacement weapon.                                                 |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                             |
-
-When 
 
 ## Armourer
 
