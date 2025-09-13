@@ -10,13 +10,13 @@
 
 ## Knock Down
 
-|             | Knock Down                                                  |
-| ----------- | ----------------------------------------------------------- |
-| **Tempo:**  | 4                                                           |
-| **Cost:**   | 2                                                           |
-|             |                                                             |
-| **Action:** | Roll to [[Grapple]] and instead apply [[Prone]] on success. |
-| **Tags:**   | [[Grapple]]                                                 |
+|             | Knock Down                                                     |
+| ----------- | -------------------------------------------------------------- |
+| **Tempo:**  | 4                                                              |
+| **Cost:**   | 2                                                              |
+|             |                                                                |
+| **Action:** | Attempt to [[Grapple]] and instead apply [[Prone]] on success. |
+| **Tags:**   | [[Grapple]]                                                    |
 
 ## Battering Blows
 

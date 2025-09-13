@@ -41,7 +41,7 @@ When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] their choice.
 The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
-When the Knight enters combat they may immediately [[Free]]: [[Switch Stance]] at Tempo 0.
+At the start of a [[Scenes|Scene]] the Knight may immediately [[Free]]: [[Switch Stance]] at Tempo 0.
 
 The Knight starts with +1 [[Organisations#Reputation|Reputation]] with [[Organisations#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.
 When this ability is gained, it is applied retroactively to all that have at least neutral Reputation/Attitude.
