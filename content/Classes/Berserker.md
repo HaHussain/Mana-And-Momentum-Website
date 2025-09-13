@@ -29,7 +29,7 @@ Choose 1 of:
 - When the Berserker solves a problem with brute strength or endurance, they gain a [[Momentum]].
 
 # Fortress Bonus
-
+The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 # Abilities
 
@@ -111,7 +111,7 @@ The Feral gains the following actions:
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tempo:**  | 4                                                                                                                                                                                                                                                                                                                                               |
 | **Effect:** | The Feral may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] an unlimited number of times per round this round.<br>A [[Rules/Characters/index\|Character]] triggers Attack of Opportunity even if it did not start its turn in the Feral's [[Melee\|Melee Range]].<br>If Attack of Opportunity is triggered, the Feral must use it. |
-| **Tags:**   |                                                                                                                                                                                                                                                                                                                                                 |
+| **Tags:**   | [[Statuses and Conditions/index\|Buff]]                                                                                                                                                                                                                                                                                                         |
 
 |             | Incite Suspicion                                                                                                                                                                                                                                                                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -145,8 +145,7 @@ Gain the following Reaction:
 | **Trigger:** | A [[Rules/Characters/index\|Character]] adjacent to you [[Grapple\|Grapples]] a [[Rules/Characters/index\|Character]]. |
 | **Action:**  | Attempt to [[Grapple]] the triggering [[Rules/Characters/index\|Character]].                                           |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Grapple]]                                                                 |
-While a [[Rules/Characters/index|Character]] is [[Isolated]] with the Fury...
-
+While a [[Rules/Characters/index|Character]] is [[Isolated]] with the Fury they take a 
 
 ## Terror
 

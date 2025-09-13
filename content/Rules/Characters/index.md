@@ -25,13 +25,23 @@ Depending on the context, an NPCs attitude can be towards specific player charac
 NPCs have Moods that are tags for their current emotional state. Moods clear between [[Scenes]].
 
 # Bonds
-Player characters have Bonds, which are aimed towards another character.
-A character can have up to 3 Bonds towards the same character, each being represented by one keyword (generally an adjective) that the player character feels intensely and represent their relationship with that character. Each Bond is an intense feeling, so a Bond of 'Conflicted' and two Bonds of 'Love' and 'Hate', represent different things.
+Player characters have Bonds, which are aimed towards another character or group.
 
-Bonds are hard to form and a player character can maintain a Bonds with up to 5 NPCs and every player character.
+A character can have up to 3 Bonds towards the same thing, each being represented by one keyword (generally an adjective) that the player character feels intensely and represent their relationship with the target. Each Bond is an intense feeling, so a Bond of 'Conflicted' and two Bonds of 'Love' and 'Hate', represent different magnitudes.
+
+Bonds are hard to form and a player character can maintain Bonds with up to 3 [[Rules/Characters/index|Characters]] and [[Organisations]]. (For a total of 9 Bonds)
+
+## Creating Bonds
+Over the course of a [[Long Rest?]] a [[PC]] can create (or replace) a bond relating to what has happened since they last [[Long Rest?]]ed.
 
 ## Invoking Bonds
+Bonds can be Invoked once each per [[Long Rest?]].
+
 When the character that a player has a Bond with triggers a [[Class Trigger]], the player can invoke the bond to double the effect.
+When a character attempts to perform a [[Rules/Rolls/index|roll]] that relates to one of their [[Class Keywords]], they can invoke a bond to gain a bonus to that roll.
+
+## Destroying Bonds
+When a character attempts to perform a [[Rules/Rolls/index|roll]], they make destroy a bond to gain a bonus to that roll.
 
 # Stats
 This game uses 6 stats to frame your character's qualities.

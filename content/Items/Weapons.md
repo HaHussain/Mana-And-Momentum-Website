@@ -27,10 +27,10 @@ aliases:
 ## Stats
 
 ### Gauntlets
-Damage: Small
-Weapon Focus 1: While [[Attack#Dual Wielding|Dual Wielding]] 2 Gauntlets, the Dual Wield reaction makes +1 [[Strike|Strikes]] with Gauntlets.
-Weapon Focus 2: When you [[Hit]] the same [[Rules/Characters/index|Character]] twice in one turn, you may [[Grapple]] them.
-Tags: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]]
+**Damage**: Small
+**Weapon Focus 1**: While [[Attack#Dual Wielding|Dual Wielding]] 2 Gauntlets, the Dual Wield reaction makes +1 [[Strike|Strikes]] with Gauntlets.
+**Weapon Focus 2**: When you [[Hit]] the same [[Rules/Characters/index|Character]] twice in one turn, you may [[Grapple]] them.
+**Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]]
 
 ### Sword
 Damage: Medium

@@ -105,3 +105,28 @@ Fortitude - Overexerting
 Awareness - Perception, survival
 Intelligence - Logic and recall
 Intuition - Focus, Insight, Animal Handling  
+
+---
+# Keyword:
+
+    Archon - JUDGE
+    Bard - INFLUENCE
+    Berserker - DESTROY
+    Chimera - CONSUME?
+    Commander - DIRECT? LEAD?
+    Diviner - WARP
+    Druid - NURTURE
+    Etcher - DESIGN
+	Hierophant - TEACH
+    Knight - PROTECT
+    Necromancer - SACRIFICE?
+    Oathsworn - VOW
+    Pathfinder - NAVIGATE
+    Quartermaster - SUPPLY
+    Rogue - STEAL
+    Spellblade - ENCHANT
+    Synic - CONNECT
+    Tinker - ENGINEER? IMPROVE?
+    Vessel - BRIDGE
+    Witch - REPAY
+    Wizard - LEARN
