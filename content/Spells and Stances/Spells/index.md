@@ -27,7 +27,7 @@ There are generally three tiers of committed mana, in descending order they are:
 Committed mana stays on the spell until the [[Reclaim]] action is taken, the tier it is committed at effects how to [[Reclaim]] that mana.
 
 Committing Mana for a day: 
-Mana committed for a day can only be [[Reclaim]]ed during a [[Long Rest?]]. When that occurs you regain all your mana back to your mana pool.
+Mana committed for a day can only be [[Reclaim|Reclaimed]] during a [[Rules/Resting/index|Rest]].
 
 Committing Mana for a scene:
 Mana committed for a scene can only be [[Reclaim]]ed at the end of a scene.
@@ -35,7 +35,7 @@ Mana committed for a scene can only be [[Reclaim]]ed at the end of a scene.
 - Second - Reclaim the rest of your mana that was committed for the scene.
 
 Committing Mana indefinitely:
-Mana committed this way is committed indefinitely or until you take a [[Long Rest?]].
+Mana committed this way is committed indefinitely or until you take a [[Deep Rest]].
 You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - If you have committed mana indefinitely, commit one mana for the scene.
 - Second - Reclaim the rest of your mana that was committed indefinitely.

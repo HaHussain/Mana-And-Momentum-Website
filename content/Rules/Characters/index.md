@@ -32,10 +32,10 @@ A character can have up to 3 Bonds towards the same thing, each being represente
 Bonds are hard to form and a player character can maintain Bonds with up to 3 [[Rules/Characters/index|Characters]] and [[Organisations]]. (For a total of 9 Bonds)
 
 ## Creating Bonds
-Over the course of a [[Long Rest?]] a [[PC]] can create (or replace) a bond relating to what has happened since they last [[Long Rest?]]ed.
+Over the course of a [[Deep Rest]] a [[PC]] can create (or replace) a bond relating to what has happened since they last [[Deep Rest]]ed.
 
 ## Invoking Bonds
-Bonds can be Invoked once each per [[Long Rest?]].
+Bonds can be Invoked once each per [[Deep Rest]].
 
 When the character that a player has a Bond with triggers a [[Class Trigger]], the player can invoke the bond to double the effect.
 When a character attempts to perform a [[Rules/Rolls/index|roll]] that relates to one of their [[Class Keywords]], they can invoke a bond to gain a bonus to that roll.
