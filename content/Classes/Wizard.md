@@ -24,14 +24,14 @@ Science and Study will figure out the mysteries of the universe. The wizard bend
 ## Study
 You gain the following reaction
 
-|                     | Study                                                                     |
-| ------------------- | ------------------------------------------------------------------------- |
-| **Tempo:**          | 4                                                                         |
-| **Pre-Requisites:** | You have [[Scan]]ned the creature that triggered this reaction this round |
-| **Trigger:**        | A creature in your [[Seek]] performs the [[Magic]] action.                |
-|                     |                                                                           |
-| **Action:**         | [[Ask]] what the spell's name is. Collect it for the [[Scenes\|Scene]].   |
-| **Tags:**           | [[Rules/Actions/Tags/Reaction\|Reaction]]                                         |
+|                     | Study                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------- |
+| **Tempo:**          | 4                                                                                       |
+| **Pre-Requisites:** | You have [[Scan\|Scanned]] the target that triggered this reaction this round           |
+| **Trigger:**        | A [[Rules/Characters/index\|Character]] in your [[Seek]] performs the [[Magic]] action. |
+|                     |                                                                                         |
+| **Action:**         | [[Ask]] what the spell's name is. Collect it for the [[Scenes\|Scene]].                 |
+| **Tags:**           | [[Rules/Actions/Tags/Reaction\|Reaction]]                                               |
 
 If you collect three of the same spell in a [[Scenes|Scene]], for the scene you gain the ability to cast that spell once this scene.
 Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a clock to learn that spell school.

@@ -108,7 +108,7 @@ The [[Guard#Intercept|Intercept]] Reaction is replaced by this version:
 |              | Intercept                                                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Tempo:**   | 4                                                                                                                                 |
-| **Trigger:** | When a [[Rules/Characters/index\|Character]] in your [[Seek]] is [[Hit]] by a [[Strike]].                                         |
+| **Trigger:** | When a [[Rules/Characters/index\|Character]] in your [[Speed]] is [[Hit]] by a [[Strike]].                                        |
 | **Action:**  | Immediately move adjacent to that character and take the damage from the [[Strike]] instead of them.<br>[[Guard]] that character. |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                         |
 

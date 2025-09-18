@@ -25,6 +25,7 @@ An organisation grows by increasing these values and an organisation can be dest
 # Folk
 
 Folk are a specific type of Organisation, they have no Goal nor Effectiveness and represent the average civilians of a region.
+The Leader of a Folk is not necessarily its Government as depending on the authoritarian nature of the governing system, it may be difficult to command a Folk to do anything.
 
 # Traits
 
@@ -75,17 +76,43 @@ Decreasing Might can be done by
 Influence represents how much an organisation can convince Folk, spread Propaganda and Recruit.
 
 Influence 0: This represents an insular organisation incapable of spreading any belief.
-Influence 1: This is an unpopular group that is able to recruit the vulnerable and isolated.
+Influence 1: This is an unpopular group that is able to recruit the vulnerable, isolated, or needy.
+
+Increasing Influence can be done by 
+Decreasing Influence can be done by Propaganda and Assassinations.
 
 ## Assets
+
+Assets represents the monetary capabilities of an organisation, whether that be raw money or items.
+
+Assets 0: This represents an organisation that is barely capable of meeting their own living standards.
+Assets 1: This is an small group that has enough wealth to invest, set up industry, and employ people. They may own some common treasures.
+Assets 2: This is a large business with money to be a known name in an industry. They own dozens treasures, some of them prohibitively expensive.
+Assets 3: This is a mercantile organisation that trades on industries, with several priceless treasures.
+Assets 4: This is the wealth of an Empire, they have enough wealth to manipulate many Folk, and have unique treasures that will never be seen before.
+Assets 5: These are the wealthiest individuals, they have treasures uncountable and some unknowable and enough liquid money to buy up kingdoms.
+
+Increasing Assets can be done by Investment and Procurement.
+Decreasing Assets can be done by Stealing.
+
 ## Secrets
+
+Secrets represent knowledge that can turn the tide in favour of the Organisation. 
+Whether it be a magical spell only they know, a spy in the midst of their enemies, or a powerful artefact.
+
+Unlike the other stats, Secrets are a linear scale, and each Secret can be spent to succeed on a Faction Action without rolling.
+Secrets can also be used to hide an organisation from being known or found.
+
 # Composite Organisations
 
 Composite organisations are a way of combining multiple organisations together to represent a greater whole like a Country.
 For example, the Leader of an country is likely its ruler(s).
 Its Size is equal to the Size of its Folk
-Its Might is equal
+Its Might is equal to its Military
+Its Influence is equal to its Media
+Its Assets is equal to its Industry
+Its Secrets are calculated separately.
 
 # Reputation
 
-As a party, the players have gain or lose Reputation with an organisation as they interact with them.
+As a party, the players can gain or lose Reputation with an organisation as they interact with them.
