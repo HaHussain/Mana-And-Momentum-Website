@@ -1,19 +1,17 @@
 # Stance
 
-|               | Flurry Stance                                                                  |
-| ------------- | ------------------------------------------------------------------------------ |
-| **Passive:**  |                                                                                |
-| **Momentum:** | When you hit the same target as your previous [[Strike]], gain a [[Momentum]]. |
-| **Tags:**     |                                                                                |
+|               | Flurry Stance                                                                      |
+| ------------- | ---------------------------------------------------------------------------------- |
+| **Passive:**  |                                                                                    |
+| **Momentum:** | When you [[Hit]] the same target as your previous [[Strike]], gain a [[Momentum]]. |
+| **Tags:**     |                                                                                    |
 
 # Techniques
 
-|              |     |
-| ------------ | --- |
-| **Stance:**  |     |
-| **Tempo:**   |     |
-| **Cost:**    |     |
-|              |     |
-| **Trigger:** |     |
-| **Effect:**  |     |
-| **Tags:**    |     |
+|             | Whirlwind                                                                              |
+| ----------- | -------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Attack]]                                                                             |
+| **Cost:**   | 3                                                                                      |
+|             |                                                                                        |
+| **Effect:** | Choose a [[Melee]] weapon and [[Strike]] all targets in that [[Melee]] weapon's Range. |
+| **Tags:**   | [[Attack]]                                                                             |

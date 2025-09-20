@@ -1,0 +1,1 @@
+This Item can be used effectively with  just one hand.

@@ -24,12 +24,12 @@ Rogues are all about stealth and often criminal networks
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
 
 
-|             | Pilfer                                                                                          |
-| ----------- | ----------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 7                                                                                               |
-| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Range]] 1                                          |
-| **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]] and you regain 1. |
-| **Tags:**   | [[Rules/Actions/index\|Action]]                                                                 |
+|             | Pilfer                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 7                                                                                                       |
+| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Range]] 1                                                  |
+| **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]], if they do you regain 1. |
+| **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
 
 Flurry? While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
 When the Rogue hits an [[Isolated]] [[Rules/Characters/index|Character]], deal (Rogue Level / 2)d6 Damage.

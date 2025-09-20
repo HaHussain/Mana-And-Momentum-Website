@@ -12,7 +12,7 @@ Then the GM counts from 1 to 7, and players can inform the GM they are taking an
 Each action the player takes a has an tempo and that action occurs at that tempo.
 Players are free to change their upcoming action choices from the Planning phase.
 
-Each player has movement that they can use on each of their turns, this is called their [[normal move]].
+Each player has movement that they can use on each of their turns, this is called their [[Normal Move]].
 Each player has 1 [[Rules/Actions/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
 Each reaction has a tempo that needs to be reached before the character can use this reaction.
 

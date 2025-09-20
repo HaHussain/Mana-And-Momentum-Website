@@ -22,7 +22,7 @@
 |             | Explosive Strike                                                                                                                                                      |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stance:** | Demolitionist                                                                                                                                                         |
-| **Tempo:**  | [[Attack]]                                                                                                                                                            |
+| **Tempo:**  | [[Strike]]                                                                                                                                                            |
 | **Cost:**   |                                                                                                                                                                       |
 |             |                                                                                                                                                                       |
 | **Effect:** | [[Strike]] an [[Object]], if you destroy it, roll damage against every character within [[Circle]] 3 of the Object and create [[Uneasy]] [[Terrain]] in [[Circle]] 3. |
@@ -39,11 +39,11 @@
 | **Tags:**   |                                                                                                         |
 ## Cascade Failure
 
-|             | Cascade Failure                                                                                                                                                                                                |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stance:** | Demolitionist                                                                                                                                                                                                  |
-| **Tempo:**  | [[Extra]]: 1                                                                                                                                                                                                   |
-| **Cost:**   | 0                                                                                                                                                                                                              |
-|             |                                                                                                                                                                                                                |
-| **Effect:** | This turn:<br>You cannot gain momentum from the Demolitionist Stance Trigger.<br>When you destroy an [[Object]], expend one momentum to have it explode, dealing the same damage to everything adjacent to it. |
-| **Tags:**   |                                                                                                                                                                                                                |
+|             | Cascade Failure                                                                                                                                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stance:** | Demolitionist                                                                                                                                                                                                   |
+| **Tempo:**  | [[Extra]]: 1                                                                                                                                                                                                    |
+| **Cost:**   | 0                                                                                                                                                                                                               |
+|             |                                                                                                                                                                                                                 |
+| **Effect:** | This Round:<br>You cannot gain momentum from the Demolitionist Stance Trigger.<br>When you destroy an [[Object]], expend one momentum to have it explode, dealing the same damage to everything adjacent to it. |
+| **Tags:**   |                                                                                                                                                                                                                 |

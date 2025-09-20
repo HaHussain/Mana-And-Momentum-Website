@@ -34,7 +34,10 @@ You gain the following reaction
 | **Tags:**           | [[Rules/Actions/Tags/Reaction\|Reaction]]                                               |
 
 If you collect three of the same spell in a [[Scenes|Scene]], for the scene you gain the ability to cast that spell once this scene.
-Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a clock to learn that spell school.
+Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a [[Clock]] to learn that spell school.
+
+When you complete the [[Clock]] if it is the first spell in the spell school, you learn that spell school and the first spell.
+Otherwise if you know all the lower level spells in that spell school, you learn that spell.   
 
 ## Quick Study
 The [[Tempo]] of [[#Study]] is reduced to 2.

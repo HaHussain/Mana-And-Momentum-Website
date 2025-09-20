@@ -15,6 +15,6 @@ HP is regained by [[Rules/Resting/index|Resting]].
 # Taking Damage
 When you take damage, reduce your Health Points by that number. 
 
-If a player reaches 0 HP, they lose all [[Momentum]] and gain +1 [[Exert#Exertion|Exertion]].
-If a player is not at Max Exertion, they gain the [[Dying]] Condition. 
-If a player is now at Max [[Exert#Exertion|Exertion]] they instead [[Die]].
+If a player reaches 0 HP, they lose all [[Momentum]].
+If a player is not at Max Exertion, they gain +1 [[Exert#Exertion|Exertion]] and the [[Dying]] Condition. 
+If a player is at Max [[Exert#Exertion|Exertion]] they instead [[Die]].

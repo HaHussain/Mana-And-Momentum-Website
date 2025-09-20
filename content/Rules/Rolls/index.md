@@ -1,5 +1,5 @@
 ---
-title: rolls
+title: Rolls
 aliases:
   - rolls
   - roll

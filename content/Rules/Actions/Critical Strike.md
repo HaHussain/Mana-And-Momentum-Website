@@ -1,5 +1,7 @@
 ---
 icon: GiCrossedSlashes
+aliases:
+  - Crit
 ---
 A Critical Strike is [[Strike]] that either rolled a Natural 20 on the [[Hit]] roll or a [[Hit]] roll that exceeds the targets AC by 10.
 

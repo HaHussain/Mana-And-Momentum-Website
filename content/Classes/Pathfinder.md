@@ -4,7 +4,7 @@ tags:
 icon: LiMap
 ---
 # Overview
-The Wayfinder is all about mobility and movement and scouting.
+The Pathfinder is all about mobility and movement and scouting.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -36,9 +36,9 @@ The [[Fortress]] gains +2m [[Speed]].
 
 ## Seeking Companion
 The Pathfinder gains an [[Animal Companion]].
-The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
-While in The Pathfinder's [[Seek]] their Animal Companion's [[Seek]] is considered their own.
-If the Pathfinder's Animal Companion has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
+- The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
+- While in The Pathfinder's [[Seek]] their Animal Companion's [[Seek]] is considered their own.
+- If the Pathfinder's Animal Companion has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
 
 
 ## Scan buff
@@ -98,39 +98,39 @@ Gain Weapon Focus 1.
 
 # Class Focuses
 
-|     | [[#Sharpshooter]] | [[#Trapper]] | [[#Beast]] |
-| --- | ----------------- | ------------ | ---------- |
-| 2   |                   |              |            |
-| 4   |                   |              |            |
-| 6   |                   |              |            |
-| 8   |                   |              |            |
+|     | [[#Sharpshooter]]       | [[#Trapper]]            | [[#Beast]]             |
+| --- | ----------------------- | ----------------------- | ---------------------- |
+| 2   | [[#Scouting Companion]] | [[#Charging Companion]] | [[#Focused Companion]] |
+| 4   |                         |                         |                        |
+| 6   |                         |                         |                        |
+| 8   |                         |                         |                        |
 
 ## Sharpshooter
 
-### Marky
-When the Sharpshooter deals a [[Critical Strike]], they can apply one of the following [[Statuses and Conditions/index|Conditions]]:
-- [[Blind]]
-- [[Numb]]
-- [[Shocked]]
-- [[Chilled]]
-
-The Sharpshooter gains the following action
-
+### Scouting Companion
+When the Sharpshooter consumes [[Marked]], If the Sharpshooter's [[Animal Companion]] can draw [[Line of Sight]] to a target, the Sharpshooter's [[Ranged|Ranged Weapons]] gain [[Arcing]] for that [[Strike]] if they don't have it already, or ignores the penalty of [[Arcing]] for that [[Strike]] if they do.
 ### Aim And Fire
 
-|               | Deep Breath                          |
-| ------------- | ------------------------------------ |
-| **Tempo:**    | 2                                    |
-| **Target:**   | Self                                 |
-| **Duration:** | Indefinite                           |
-| **Action:**   | Double your [[Seek]] until you move. |
-| **Tags:**     | [[Seek]]                             |
+|               | Deep Breath                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| **Tempo:**    | 2                                                                         |
+| **Target:**   | Self                                                                      |
+| **Duration:** | Indefinite                                                                |
+| **Action:**   | Do not take your [[Normal Move]].<br>Double your [[Seek]] until you move. |
+| **Tags:**     | [[Statuses and Conditions/index\|Buff]]                                   |
 
 ### Sharpshooter's Focus
 When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].
 
 ## Trapper
-The Trapper 
+
+### Charging Companion
+When the Trapper's [[Animal Companion]] consumes [[Marked]], they ignore [[Sturdy]] on that [[Strike]].
+
+## Beast
+
+### Focused Companion
+When the Beast's [[Animal Companion]] consumes [[Marked]], they may spend 1 [[Momentum]] to reapply to the same target.
 
 # Ideas
 

@@ -18,8 +18,17 @@ Chimera is about partial and full animal transformations and communication with 
 | 8     |         |
 | 9     |         |
 | 10    |         |
+# Health
+When you gain Level in Chimera, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
 
-# Features
+# Custom Trigger
+Choose 1 of:
+- When the Chimera 
+
+# Fortress Bonus
+
+
+# Abilities
 
 # Class Focuses
 
@@ -44,24 +53,24 @@ Class Focuses:
 Could be renamed Shifter?
 
 
-|     | **Wolf**     |                                                                                                                                                                                                                                           |
-| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   |              | **Fangs of the Wolf**                                                                                                                                                                                                                     |
-|     | **Ability:** | Commit mana indefinitely to gain the following trait and reaction:<br><br>Your hand turns into a weapon with the following traits<br>Axe, Medium, [[Melee]], [[Quick]], [[One-Handed]]                                                    |
-|     | **Tempo:**   | 5                                                                                                                                                                                                                                         |
-|     | **Trigger:** | An ally attacks an enemy adjacent to you                                                                                                                                                                                                  |
-|     | **Action:**  | Make a [[Quick\|]][[Attack\|]] with this weapon.                                                                                                                                                                                          |
-|     | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Attack]]                                                                                                                                                                                              |
-|     |              |                                                                                                                                                                                                                                           |
-| 2   |              | **Hunt Down Prey**                                                                                                                                                                                                                        |
-|     | **Ability:** | Commit mana indefinitely to gain the following trait and reaction:<br><br>You gain +2m to your speed.                                                                                                                                     |
-|     | **Tempo:**   | 4                                                                                                                                                                                                                                         |
-|     | **Trigger:** | A [[Marked]] enemy in your [[Seek]] moves away from you                                                                                                                                                                                   |
-|     | **Action:**  | [[Move]] your speed directly towards them.                                                                                                                                                                                                |
-|     | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Move]]                                                                                                                                                                                                |
-|     |              |                                                                                                                                                                                                                                           |
-| 3   |              | **Alone and Afraid**                                                                                                                                                                                                                      |
-|     | **Ability:** | Commit mana indefinitely to gain the following trait:<br><br>Gain Weapon Focus 1 with Fangs of the Wolf<br>Against [[Isolated]] targets, your critical hit chance increases by #<br>Against [[Frightened]] targets, you deal Large damage |
-|     |              |                                                                                                                                                                                                                                           |
-| 4   |              | **Lead the Pack**                                                                                                                                                                                                                         |
-|     | **Ability:** | Become Werewolf                                                                                                                                                                                                                           |
+|     | **Wolf**     |                                                                                                                                                                                                                                                                |
+| --- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   |              | **Fangs of the Wolf**                                                                                                                                                                                                                                          |
+|     | **Ability:** | Commit mana indefinitely to gain the following trait and reaction:<br><br>Your hand turns into a [[Weapons#Custom Weapons\|Weapon]] with the following traits<br><br>Damage: Medium<br>Focus: Axe<br>Tags: [[Melee]], [[Quick]], [[One-Handed]], [[Grappling]] |
+|     | **Tempo:**   | 5                                                                                                                                                                                                                                                              |
+|     | **Trigger:** | An ally attacks an enemy adjacent to you                                                                                                                                                                                                                       |
+|     | **Action:**  | Make a [[Quick\|]][[Attack\|]] with this weapon.                                                                                                                                                                                                               |
+|     | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Attack]]                                                                                                                                                                                                           |
+|     |              |                                                                                                                                                                                                                                                                |
+| 2   |              | **Hunt Down Prey**                                                                                                                                                                                                                                             |
+|     | **Ability:** | Commit mana indefinitely to gain the following trait and reaction:<br><br>You gain +2m to your speed.                                                                                                                                                          |
+|     | **Tempo:**   | 4                                                                                                                                                                                                                                                              |
+|     | **Trigger:** | A [[Marked]] enemy in your [[Seek]] moves away from you                                                                                                                                                                                                        |
+|     | **Action:**  | [[Move]] your speed directly towards them.                                                                                                                                                                                                                     |
+|     | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Move]]                                                                                                                                                                                                             |
+|     |              |                                                                                                                                                                                                                                                                |
+| 3   |              | **Alone and Afraid**                                                                                                                                                                                                                                           |
+|     | **Ability:** | Commit mana indefinitely to gain the following trait:<br><br>Gain Weapon Focus 1 with Fangs of the Wolf<br>Against [[Isolated]] targets, your critical hit chance increases by #<br>Against [[Frightened]] targets, you deal Large damage                      |
+|     |              |                                                                                                                                                                                                                                                                |
+| 4   |              | **Lead the Pack**                                                                                                                                                                                                                                              |
+|     | **Ability:** | Become Werewolf                                                                                                                                                                                                                                                |
