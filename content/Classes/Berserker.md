@@ -45,6 +45,14 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 ## Strength beyond Strength
 The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice.
 
+The Berserker gains the following action:
+
+|             | Great Throw                             |
+| ----------- | --------------------------------------- |
+| **Tempo:**  | [[Strike]]                              |
+| **Target:** | 1 [[Size]] 1 target in [[Range]] 1      |
+| **Action:** | [[Arcing]] [[Push]] 2x[[Strength\|STR]] |
+| **Tags:**   | [[Strike]]                              |
 
 
 When the Berserker [[Exert|Exerts]] they ignore the first...
@@ -53,8 +61,6 @@ When the Berserker [[Exert|Exerts]] they can choose one of the following options
 
 
 ## Excessive
-As a [[Strike]] grab a Size 1 [[Object]] adjacent to you, and throw it [[Arcing]] [[Range]] 5, dealing # damage in a [[Circle]] 3.
-
 When the Berserker rolls maximum on damage dice, it explodes.
 When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many damage dice.
 
@@ -63,6 +69,7 @@ When the Berserker increases or decreases a [[Clock]], increase or decrease it b
 
 ## Enduring
 The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice.
+While the Berserker is [[Enraged]], Great Throw can now target [[Size]] (Berserker's [[Size]] + 1) instead of [[Size]] 1.
 When the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
 
 
@@ -206,3 +213,4 @@ Class Focus:
 - juggernaut (slow but unkillable)
 
 Note: Range and AoE
+
