@@ -37,8 +37,8 @@ The [[Fortress]] gains +2m [[Speed]].
 ## Seeking Companion
 The Pathfinder gains an [[Animal Companion]].
 - The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
-- While in The Pathfinder's [[Seek]] their Animal Companion's [[Seek]] is considered their own.
-- If the Pathfinder's Animal Companion has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
+- While the Pathfinder's [[Animal Companion]] is in their [[Seek]], they are considered also in the same place as their [[Animal Companion]] for calculating [[Seek]].
+- If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
 
 
 ## Scan buff

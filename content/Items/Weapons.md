@@ -98,12 +98,12 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | Hand-Cannon    | Large  | [[Ranged]]<br>[[Two-Handed]]<br>[[Slow]]<br>[[Reload]]                        | **1:** [[Push]] 5<br>**2:** Splash Damage                                                                                                                                                                                            |
 # Magic Weapons
 
-| Item Name | Damage | Tags                                                | Focus                                                     |
-| --------- | ------ | --------------------------------------------------- | --------------------------------------------------------- |
-| Wand      |        | Focus<br>[[One-Handed]]<br>[[Ranged]]               | **1:** Faster?<br>**2:**                                  |
-| Tome      |        | Focus<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Get access to a spell you didn't bring?<br>**2:**  |
-| Staff     |        | Focus<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Increased range? Extended Seek?<br>**2:**          |
-| Orb       |        | Focus<br>[[Two-Handed]]<br>[[Ranged]]<br>[[Reload]] | **1:** Concentrate a spell to be more effective<br>**2:** |
+| Item Name | Damage | Tags                                                    | Focus                                                     |
+| --------- | ------ | ------------------------------------------------------- | --------------------------------------------------------- |
+| Wand      |        | [[Focus]]<br>[[One-Handed]]<br>[[Ranged]]               | **1:** Faster?<br>**2:**                                  |
+| Tome      |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Get access to a spell you didn't bring?<br>**2:**  |
+| Staff     |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Increased range? Extended Seek?<br>**2:**          |
+| Orb       |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]<br>[[Reload]] | **1:** Concentrate a spell to be more effective<br>**2:** |
 # Custom Weapons
 
 Many custom weapons exist across this rule set.

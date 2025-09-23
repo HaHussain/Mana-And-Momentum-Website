@@ -47,17 +47,18 @@ The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their c
 
 The Berserker gains the following action:
 
-|             | Great Throw                             |
-| ----------- | --------------------------------------- |
-| **Tempo:**  | [[Strike]]                              |
-| **Target:** | 1 [[Size]] 1 target in [[Range]] 1      |
-| **Action:** | [[Arcing]] [[Push]] 2x[[Strength\|STR]] |
-| **Tags:**   | [[Strike]]                              |
+|             | Great Throw                                                                                                                                                                                                                                                                                                                     |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Strike                                                                                                                                                                                                                                                                                                                        |
+| **Target:** | 1 target at most 1 [[Size]] smaller than you in [[Range]                                                                                                                                                                                                                                                                        |
+| **Action: Roll to [[Grapple]],<br>On success [[Arcing]] [[Push]] 2x[[Strength\|STR]]<br>If the spot pushed to has an [[Object]], do full [[Push]] damage.<br>If the spot pushed to has a [[Rules/Characters/index\|Character]], roll a [[Strength\|STR]] [[Ranged]] [[Strike]], dealing full [[Push]] damage to both targets on [[Hit]]. oll  |
+| **Tags:**   | [[Strike]], [[Grap                                                                                                                                                                                                                                                                                                              |
 
 
-When the Berserker [[Exert|Exerts]] they ignore the first...
+While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...
 When the Berserker [[Exert|Exerts]] they can choose one of the following options:
-- The Berserker's [[Strength|STR]] is considered double for their next [[Skill]] roll.
+- When making a [[Strength|STR]] [[Rules/Rolls/index|roll]], your [[Strength|STR]] is considered 2x[[Strength|STR]] for any [[Skill]] [[Rules/Rolls/index|roll]] for that turn.
+- When making a [[Strength|STR]] or [[Strike]] [[Rules/Rolls/index|roll]], be considered 1 [[Size]] larger for any [[Strength|STR]] related effects for that turn.
 
 
 ## Excessive
@@ -69,7 +70,7 @@ When the Berserker increases or decreases a [[Clock]], increase or decrease it b
 
 ## Enduring
 The Berserker gains Weapon Focus 2 for a [[Melee]] [[Weapons|Weapon]] of their choice.
-While the Berserker is [[Enraged]], Great Throw can now target [[Size]] (Berserker's [[Size]] + 1) instead of [[Size]] 1.
+While the Berserker is [[Enraged]], Great Throw now targets '1 target at most your [[Size]] in [[Range]] 1'.
 When the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their [[Health Points|HP]] to 1.
 
 
@@ -138,9 +139,6 @@ When the Feral applies a [[Mood]] to a [[Rules/Characters/index|Character]] that
 When the Fury [[Strike|Strikes]], they can spend a [[Momentum]] to deal damage equal to their current [[Momentum]] + any [[Momentum]] they spent this turn.
 
 When a [[Rules/Characters/index|Character]] succeeds on a [[Mental]] ability by the Fury, the Fury can spend a [[Momentum]] to reduce that [[Rules/Characters/index|Character]]'s roll by their current [[Momentum]] (not including the [[Momentum]] they spent on this ability).
-
-### Something
-While [[Enraged]], the Fury can choose to be considered one size larger at any time.
 
 ### Cage Match
 The Fury hits better guys [[Orthogonal]]ly adjacent to them.
