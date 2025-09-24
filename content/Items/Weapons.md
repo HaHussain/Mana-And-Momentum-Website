@@ -28,14 +28,14 @@ aliases:
 
 ### Dagger
 **Damage**: Small
-**Weapon Focus 1**: On a [[Critical Strike]], 
+**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Immobilised]], [[Numb]], [[Shocked]]
 **Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Natural]] 19
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
 ### Gauntlets
 **Damage**: Small
 **Weapon Focus 1**: While [[Attack#Dual Wielding|Dual Wielding]] 2 Gauntlets, the Dual Wield reaction makes +1 [[Strike|Strikes]] with Gauntlets.
-**Weapon Focus 2**: When you [[Hit]] the same [[Rules/Characters/index|Character]] twice in one turn, you may [[Grapple]] them.
+**Weapon Focus 2**: Once per [[Attack]], when you [[Hit]] a [[Rules/Characters/index|Character]], you may [[Grapple]] as an additional [[Strike]].
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
 ### Sword

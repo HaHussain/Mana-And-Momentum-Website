@@ -12,6 +12,7 @@ You may Exert yourself to do one of the following:
 - Take an [[Rules/Actions/index|Action]] out of [[Tempo]] order.
 - Reclaim 1 [[Spells and Stances/Spells/index|Mana]] from the lowest committed tier.
 - Retry any [[Skill]] roll.
+- Say you have done something in the past to prepare yourself for the current event, the [[GM]] may say this results in 1-3 [[#Exertion]].
 
 When you Exert yourself, first %%SOMETHING%%, then you gain 1 [[#Exertion]] until you [[Deep Rest]].
 At the end of each scene in which you Exerted yourself, %%SOMETHING%%.

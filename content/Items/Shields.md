@@ -9,7 +9,7 @@ aliases:
 | Buckler       | Gain AC as a reaction                   | [[One-Handed]] | **1:** Disarm<br>**2:** Shield punch?                                                     |
 | Heater Shield | +1 AC                                   |                | **1:** Knock away a Strike to make an attack<br>**2:**                                    |
 | Kite Shield   | +1 AC<br>+1 Deflection                  |                | **1:** Effect section also effects your mount<br>**2:**                                   |
-| Hoplon Shield | +2 AC                                   | [[Orthogonal]] | **1:** Shield Charge<br>**2:** Block a bunch of strikes?                                  |
+| Hoplon Shield | +2 AC                                   | [[Orthogonal]] | **1:** [[Extra]]: [[Guard]] for 1 [[Momentum]]<br>**2:** Shield Charge                    |
 | Tower Shield  | +2 AC<br>+1 Deflection<br>-2m [[Speed]] |                | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]] |
 
 

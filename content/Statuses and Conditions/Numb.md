@@ -3,7 +3,6 @@ icon: RaHeatHaze
 tags:
   - Debuff
 ---
-This Character takes a -1d6 penalty to [[Hit]] rolls.
-This Character takes a -1d6 penalty to all Social rolls.
+All of this Character's [[Momentum]] costs increase by 1.
 
 [[Mood]]: Numb, uncaring, and unfocused.
