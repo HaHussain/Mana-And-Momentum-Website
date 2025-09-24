@@ -14,9 +14,10 @@ You may Exert yourself to do one of the following:
 - Retry any [[Skill]] roll.
 - Say you have done something in the past to prepare yourself for the current event, the [[GM]] may say this results in 1-3 [[#Exertion]].
 
-When you Exert yourself, first %%SOMETHING%%, then you gain 1 [[#Exertion]] until you [[Deep Rest]].
+When you Exert yourself, first %%SOMETHING%%, then you gain 1 [[#Exertion]].
 At the end of each scene in which you Exerted yourself, %%SOMETHING%%.
 %%One of these should be take damage%%
+[[Rules/Resting/index|Resting]] can remove [[#Exertion]].
 
 # Exertion
 A character builds up Exertion as it represents how hard they've pushed themselves to their physical and mental breaking point.
