@@ -127,7 +127,7 @@ The Quartermaster gains the following reaction:
 |              | Distance Block                                                                                                               |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Tempo:**   | 4                                                                                                                            |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] is [[Strike\|Struck]] in your [[Seek]]                                               |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] is [[Hit]] by a [[Strike]] in your [[Seek]]                                          |
 | **Action:**  | Expend 1 [[Item Points\|Item Point]] to toss a shield in between the attack, reducing the damage by your [[Awareness\|AWR]]. |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                    |
 

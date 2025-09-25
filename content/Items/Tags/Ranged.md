@@ -11,7 +11,7 @@ However when target next to u, it no worky good :(
 | ------------- | ----------------------------------------------------------------------------------------- |
 | **Tempo:**    | 5                                                                                         |
 | **Target:**   | If [[One-Handed]]: [[Ranged]] [[Circle]] 3,<br>If [[Two-Handed]]: [[Ranged]] [[Circle]] 5 |
-| **Duration:** | Start of next Round                                                                       |
+| **Duration:** | Until Tempo 5 next Round.                                                                 |
 | **Action:**   | Choose a [[Ranged]] weapon you are holding and gain:<br>![[#Reaction]]                    |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                           |
 ## Reaction

@@ -1,10 +1,10 @@
 # Stance
 
-|               | Brawler's Stance                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------ |
-| **Passive:**  | A [[Grappled]] target in your hand counts as an Unarmed [[Weapons#Gauntlets\|Guantlet]]    |
-| **Momentum:** | When you [[Hit]] a [[Grappled]] [[Rules/Characters/index\|Character]], gain a [[Momentum]] |
-| **Tags:**     |                                                                                            |
+|               | Brawler's Stance                                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Passive:**  | A [[Grappled]] target in your hand counts as an Unarmed [[Weapons#Gauntlets\|Guantlet]].<br>You are considered 1 [[Size]] Larger for [[Grapple\|Grappling]]. |
+| **Momentum:** | When you [[Hit]] a [[Grappled]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]                                                                   |
+| **Tags:**     |                                                                                                                                                              |
 
 # Techniques
 

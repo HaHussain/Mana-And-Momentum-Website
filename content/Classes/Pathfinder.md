@@ -58,13 +58,6 @@ When the Pathfinder takes the [[Scan]] action and targets [[Terrain]] or an [[Ob
 ## Step Back
 The Pathfinder gains +2m [[Speed]] and the following reaction:
 
-|              | Backroll                                                                                                        |
-| ------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 4                                                                                                               |
-| **Trigger:** | When a [[Rules/Characters/index\|Character]] moves adjacent to you.                                             |
-| **Action:**  | Move half your [[Speed]] directly away from them without triggering [[Rules/Actions/Tags/Reaction\|Reactions]]. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                       |
-
 The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and suffers no penalty for [[Rules/Exploration/index#Navigating|Navigating]] without a [[Rules/Exploration/index#Guide|Guide]].
 When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Rules/Exploration/index#Guide|Guide]], their group and [[Fortress]] can use the Pathfinder's [[Speed]] instead of their own.
 

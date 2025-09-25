@@ -1,0 +1,1 @@
+This Ability is locked to a particular [[Class]], and you must be a member of that [[Class]] to choose it as an option.

@@ -32,8 +32,11 @@ When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momen
 | **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
 
 Flurry? While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
-When the Rogue hits an [[Isolated]] [[Rules/Characters/index|Character]], deal (Rogue Level / 2)d6 Damage.
-When the Rogue hits a [[Rules/Characters/index|Character]], deal # additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]]
+
+## Strike Weakness
+When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]].
+
+
 
 # Class Focuses
 

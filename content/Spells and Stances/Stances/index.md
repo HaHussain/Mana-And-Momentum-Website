@@ -6,8 +6,6 @@ aliases:
   - Stances
   - Stance
 ---
-# Momentum
-![[Momentum]]
 # Stances
 Stances are specific methods of combating a problem.
 They have a passive ability, which while the character is in that Stance, they gain the benefit from.
@@ -28,3 +26,5 @@ Techniques are specific actions that can be taken by expending [[Momentum]] whil
 | [[Executioner Stance\|Executioner]]     | ![[Executioner Stance#Stance]]   |
 | [[Hunter Stance\|Hunter]]               | ![[Hunter Stance#Stance]]        |
 | [[Warden Stance\|Warden]]               | ![[Warden Stance#Stance]]        |
+# Momentum
+![[Momentum]]
