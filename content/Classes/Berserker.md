@@ -75,12 +75,12 @@ When the Berserker hits 0 [[Health Points|HP]], they can [[Exert]] to set their 
 
 
 ## Initiate Violence
-When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
-When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded down.
+When the Berserker enters combat, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded up.
+When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Third of their Berserker Level) rounded up.
 
 
 ## Violence
-Each time the Berserker takes an [[Attack]] action, they may spend a [[Momentum]] to make +1 [[Strike|Strikes]] (following [[Attack#Weapon Speed|Weapon Speed]]).
+While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make +1 [[Strike|Strikes]].
 
 
 

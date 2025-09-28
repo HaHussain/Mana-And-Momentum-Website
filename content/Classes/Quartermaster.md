@@ -120,7 +120,7 @@ If the outfit from [[#Quick Change]] fits the tone of the scene, pick a [[Rules/
 ### Disguised Fittings
 When the Quartermaster outfits someone in an outfit, they manage to hide armour beneath it, this outfit is considered [[Armour#Studded Leather|Studded Leather]].
 
-The Quartermaster may [[Exert]] during a [[#Easy Equip Armour]] to produce an outfit that matches the uniform of a specific [[Factions|Organisation]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the organisation from a cursory glance.
+The Quartermaster may [[Exert]] during a [[#Quick Change]] to produce an outfit that matches the uniform of a specific [[Factions|Faction]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the faction from a cursory glance.
 
 ### Distance Block
 The Quartermaster gains the following reaction:

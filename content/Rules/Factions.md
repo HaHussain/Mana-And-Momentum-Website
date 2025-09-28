@@ -17,9 +17,16 @@ Each faction has the following traits and represents their capabilities. Each tr
 [[#Secrets]]: Informational power. Information and Magical factions often have high values.
 
 A faction grows by increasing these values and a faction can be destroyed by either 
-- Reducing its [[#Size]] to 0 and removing all [[#Leader|Leaders]].
+- Reducing its [[#Size]] to 0.
 - Cause a faction to [[#Tier Down]] to Tier 0.
 - When it fails on a disband roll.
+
+
+# Leader
+
+Leaders are notable and major figures in a faction that lead parts of that faction, most Leaders will have some abilities that either strengthen a Faction's Traits or give it some unique abilities.
+
+When a Leader leaves a faction, the faction must make a disband roll to survive the schism.
 
 # Folk
 
@@ -62,15 +69,15 @@ If they have more than their new maximum number of [[#Leader|Leaders]], one of t
 
 Size represents the number of individuals in a factions as well as how many operations it can run simultaneously. It also serves as the health of a faction.
 
-Size 0: This is 1 to 9 people. A faction of this size is just getting itself together, they have limited capability and always understaffed.
-Size 1: This is 10 to 99 people. A faction of this size now has the capacity of influencing others and conducting operations.
-Size 2: This is 100 to 999 people. The standard faction size in most games, they can run a couple operations and have influence.
-Size 3: This is 1,000 to 9,999 people. A larger faction that focuses on recruitment and is very resilient. The weight of hierarchy affects them.
-Size 4: This is 10,000 to 99,999 people. A faction that is a global conspiracy of people or a country, enormous and hard to destroy.
-Size 5: This is 100,000+ people. 
+Size 0: This is a faction with only a couple people, potentially only its [[#Leader]].
+Size 1: This is a small faction that is able to run an operation and hold some power.
+Size 2: The standard faction size in most games, they can run a couple operations and have influence.
+Size 3: A larger faction that focuses on recruitment and is very resilient. The weight of hierarchy affects them.
+Size 4: A faction contains a massive number of people, enormous and hard to destroy.
+Size 5: This is a faction that contains all the people in its region.
 
 Increasing Size can be done by Recruitment.
-Decreasing Size can be done by Massacre or Propaganda. After which the faction must make a Size check or decrease their Size by 1.
+Decreasing Size can be done by Massacre or Propaganda.
 
 
 ## Might

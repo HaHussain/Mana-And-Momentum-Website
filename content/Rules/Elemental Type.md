@@ -10,12 +10,14 @@ aliases:
   - Acid
   - Ice
 ---
-# Fire
-# Water
-## Ice
-# Air
-## Lightning
-# Earth
-## Acid
-# Light
-# Dark
+# Physical
+## Fire
+## Water
+### Ice
+## Air
+### Lightning
+## Earth
+### Acid
+# Mental
+## Light
+## Dark

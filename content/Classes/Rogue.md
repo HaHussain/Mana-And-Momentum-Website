@@ -6,36 +6,29 @@ icon: RaHood
 # Overview
 Rogues are all about stealth and often criminal networks
 
-| Level | Class Abilities |
-| ----- | --------------- |
-| 1     |                 |
-| 2     |                 |
-| 3     |                 |
-| 4     |                 |
-| 5     |                 |
-| 6     |                 |
-| 7     |                 |
-| 8     |                 |
-| 9     |                 |
-| 10    |                 |
+| Level | Class Abilities      |
+| ----- | -------------------- |
+| 1     | [[#Strike Weakness]] |
+| 2     |                      |
+| 3     | [[#Tempo]]           |
+| 4     |                      |
+| 5     | [[#Sneaki Neaki]]    |
+| 6     |                      |
+| 7     | [[#Flurry]]          |
+| 8     |                      |
+| 9     |                      |
+| 10    |                      |
 
 # Abilities
-
-When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
-
-
-|             | Pilfer                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 7                                                                                                       |
-| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Range]] 1                                                  |
-| **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]], if they do you regain 1. |
-| **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
-
-Flurry? While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
 
 ## Strike Weakness
 When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]].
 
+## Tempo
+When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
+
+# Flurry
+While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
 
 ## Sneaki Neaki
 You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
@@ -45,6 +38,25 @@ For every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] o
 When you hide inside of a [[Rules/Characters/index|Characters]] [[Seek]] they do not know where you are.
 
 # Class Focuses
+
+|     | Assassin | Thief |     |
+| --- | -------- | ----- | --- |
+| 2   |          |       |     |
+| 4   |          |       |     |
+| 6   |          |       |     |
+| 8   |          |       |     |
+
+## Assassin
+Big damage to Isolated targets.
+
+### Thief
+
+|             | Pilfer                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 7                                                                                                       |
+| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Range]] 1                                                  |
+| **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]], if they do you regain 1. |
+| **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
 
 # Ideas
 

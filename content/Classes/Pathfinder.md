@@ -44,16 +44,8 @@ The Pathfinder gains an [[Animal Companion]].
 ## Marky
 The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
 When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
-The Pathfinder's [[Marked]] lasts for an hour.
 
-The Pathfinder gains the following action:
-
-|             | Mark of the Hunter                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Mark]]                                                                                                                                                                 |
-| **Action:** | Spend 3 [[Momentum]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
-| **Tags:**   | [[Mark]]                                                                                                                                                                 |
-
+When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend 3 [[Momentum]] per target, if they do, they know the exact location of the target they have [[Marked]] whilst they remain [[Marked]].
 
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:
@@ -86,6 +78,9 @@ While [[Rules/Exploration/index#Navigating|Navigating]], the Pathfinder, their g
 
 
 ## Final
+The Pathfinder's [[Marked]] lasts for 1 day.
+The Pathfinder can spend 3 [[Momentum]] per target when taking the [[Mark]] action to instead target a [[Rules/Characters/index|Character]] they have seen this day.
+
 When the Pathfinder takes the [[Mark]] action, they may target 2 [[Rules/Characters/index|Characters]] instead.
 The Pathfinder may target an additional any number of additional [[Rules/Characters/index|Characters]] for 2 [[Momentum]] each.
 
@@ -123,7 +118,7 @@ When the Trapper's [[Animal Companion]] consumes [[Marked]], they ignore [[Sturd
 ## Beast
 
 ### Focused Companion
-When the Beast's [[Animal Companion]] consumes [[Marked]], 
+When the Beast's [[Animal Companion]] gains an 1 [[Animal Companion#Traits|Trait]].
 
 # Ideas
 
