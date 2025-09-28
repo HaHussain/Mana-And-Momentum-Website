@@ -24,7 +24,7 @@ When you gain Level in Knight, you gain +2 [[Health Points|Max HP]].
 # Custom Triggers
 Choose 1 of:
 - When the Knight protects someone that cannot protect themselves, gain a [[Momentum]].
-- When the Knight protects or fights for the common [[Organisations#Folk|Folk]], gain a [[Momentum]].
+- When the Knight protects or fights for the common [[Factions#Folk|Folk]], gain a [[Momentum]].
 - When the Knight chooses to persevere after a set-back, gain a [[Momentum]].
 
 # Fortress Bonus
@@ -43,7 +43,7 @@ The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
 At the start of a [[Scenes|Scene]] the Knight may immediately [[Free]]: [[Switch Stance]] at Tempo 0.
 
-The Knight starts with +1 [[Organisations#Reputation|Reputation]] with [[Organisations#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.
+The Knight starts with +1 [[Factions#Reputation|Reputation]] with [[Factions#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.
 When this ability is gained, it is applied retroactively to all that have at least neutral Reputation/Attitude.
 
 ## B

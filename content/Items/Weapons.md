@@ -29,13 +29,13 @@ aliases:
 ### Dagger
 **Damage**: Small
 **Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Immobilised]], [[Numb]], [[Shocked]]
-**Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Natural]] 19
+**Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Rules/Rolls/index#Nat|Nat]] 19
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
 ### Gauntlets
 **Damage**: Small
 **Weapon Focus 1**: While [[Attack#Dual Wielding|Dual Wielding]] 2 Gauntlets, the Dual Wield reaction makes +1 [[Strike|Strikes]] with Gauntlets.
-**Weapon Focus 2**: Once per [[Attack]], when you [[Hit]] a [[Rules/Characters/index|Character]], you may [[Grapple]] as an additional [[Strike]].
+**Weapon Focus 2**: Once per [[Rules/Characters/index|Character]] per [[Attack]], when you [[Hit]] a [[Rules/Characters/index|Character]], you may [[Grapple]] as an additional [[Strike]].
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
 ### Sword
@@ -53,8 +53,14 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ### Hammer
 **Damage**: Medium
 **Weapon Focus 1**: Double the [[Push]] dealt by this weapon.
-**Weapon Focus 2**: The [[Push]]/[[Pull]] damage dealt by this weapon is doubled.
+**Weapon Focus 2**: The [[Push]] / [[Pull]] damage dealt by this weapon is doubled.
 **Tags**: [[Melee]] 1, [[One-Handed]], [[Push]] 1
+
+### Spear
+**Damage**: Medium
+**Weapon Focus 1**: The Spear's [[Strike|Strikes]] targets all targets in a straight line from you to its [[Melee|Melee Range]].
+**Weapon Focus 2**: +1 [[Melee|Melee Range]].
+**Tags**: [[Melee]] 2 [[Orthogonal]], [[One-Handed]]
 
 ### Foil
 **Damage**: Medium
@@ -108,14 +114,23 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 Many custom weapons exist across this rule set.
 In this case a weapon will list:
-The damage, 
-The First Weapon Focus + The Second Weapon Focus, 
-Any tags
+**Damage**: 
+**Weapon Focus 1**: 
+**Weapon Focus 2**: 
+**Tags**: 
 
-For example:
->**Scythe:**
->Damage: Large
->Focus: [[Weapons#Custom Weapons|Spear + Axe]]
->Tags: [[Melee]] 2, [[Slow]], [[Pull]] 1
+If a custom weapon uses a Weapon Focus from another weapon, then the wielder can use that Weapon Focus if they have learnt it from the original weapon or the custom weapon.
+The wielder can also use the Weapon Focus on the original weapon if they chose it from the original weapon unless they way they learnt it does not apply to the original weapon.
 
-Which means it uses the first weapon focus from Spear and the second from Axe. Does Large damage, and has those tags.
+For example this a custom weapon from the Chimera's [[Ant Form]].
+**Spitter Ant Head:**
+>**Damage**: Small [[Elemental Type#Acid|Acid]]
+>**Special:** Applies [[Corroded]] on [[Hit]].
+>**Weapon Focus 1**: [[Weapons#Dagger|Dagger 1]]
+>**Weapon Focus 2**: [[Weapons#Hand Cannon|Hand Cannon 2]]
+>**Tags**: [[Ranged]] #, [[Arcing]], [[One-Handed]], [[Elemental Type#Acid|Acid]]
+
+This weapon deals # damage, applies [[Corroded]] on all hits and has those tags.
+The Chimera also gains Weapon Focus 1 with all weapons from its Forms
+The Chimera can thus use the Dagger 1 focus from the above ability. However they cannot use the Dagger 1 focus on a Dagger or anything else that uses the Dagger 1 focus, because the above ability only grants Weapon Focus 1 for the Chimera's Form weapons. %%If the Chimera gained Dagger 1 through another ability such as "Gain Weapon Focus 1 with a weapon of your choice", they would be use that for all cases.%%
+The Chimera would not be able to use Weapon Focus 2 for this weapon until they gained Weapon Focus 2 with Hand Cannon.

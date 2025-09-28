@@ -1,1 +1,1 @@
-This Item can be used effectively with  just one hand.
+This item needs to be held in one hand to be used effectively.

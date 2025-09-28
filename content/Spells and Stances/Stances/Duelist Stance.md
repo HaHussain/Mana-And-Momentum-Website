@@ -47,3 +47,14 @@
 | **Trigger:** | When a [[Rules/Characters/index\|Character]] stops a enemy [[Rules/Characters/index\|Character]] from being [[Isolated]].                                                                                   |
 | **Action:**  | Move your [[Speed]] directly towards the triggering [[Rules/Characters/index\|Character]] and if they are in [[Melee\|Melee Range]], [[Push]] 2x <br>(Where x is the [[Momentum]] spent on this technique.) |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                                                                                                                                       |
+
+## Steel Wind Strike
+
+|             | Steel Wind Strike                                                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Attack]]                                                                                                                                                    |
+| **Cost:**   | x [[Momentum]]                                                                                                                                                |
+|             |                                                                                                                                                               |
+| **Target:** | x [[Rules/Characters/index\|Characters]] within [[Circle]] 6                                                                                                  |
+| **Action:** | In any order of targets, move to a target without provoking [[Rules/Actions/Tags/Reaction\|Reactions]] and [[Strike]], dealing an additional # damage on hit. |
+| **Tags:**   | [[Attack]]                                                                                                                                                    |

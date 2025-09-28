@@ -44,11 +44,11 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 | **Tags:**   | [[Rules/Actions/index\|Action]]                                                    |
 ## Break Weapon
 
-|             | Break Weapon                                                                                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Stance:** | Warden                                                                                                                                                                               |
-| **Tempo:**  | [[Attack]]                                                                                                                                                                           |
-| **Cost:**   | 8                                                                                                                                                                                    |
-|             |                                                                                                                                                                                      |
-| **Effect:** | [[Strike]] and if the enemy is holding an item, permanently destroy one of your choice. <br>If they are not, destroy one natural weapon that prevents at least one enemy [[Attack]]. |
-| **Tags:**   | [[Strike]]                                                                                                                                                                           |
+|             | Break Weapon                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Stance:** | Warden                                                                                                                    |
+| **Tempo:**  | [[Attack]]                                                                                                                |
+| **Cost:**   | 8                                                                                                                         |
+|             |                                                                                                                           |
+| **Effect:** | [[Strike]] and if the enemy is holding an item, permanently destroy one of your choice or destroy one [[Natural]] weapon. |
+| **Tags:**   | [[Strike]]                                                                                                                |

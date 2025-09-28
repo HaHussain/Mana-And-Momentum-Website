@@ -29,7 +29,7 @@ Choose 1 of:
 - When the Quartermaster uses money to solve a problem, they gain a [[Momentum]].
 
 # Fortress Bonus
-The [[Fortress]] gains an additional +2 [[Max Weight]].
+The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 
 # Abilities
 
@@ -67,9 +67,9 @@ If you take a minute to analyse an item, you can accurately determine its value 
 ## Quantity of Quality
 When the Quartermaster expends [[Item Points]] for an Item, that Item is a +1 Item.
 
-The Quartermaster starts with +1 [[Organisations#Reputation|Reputation]] with Merchant [[Organisations]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with Merchants.
+The Quartermaster starts with +1 [[Factions#Reputation|Reputation]] with Merchant [[Factions]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with Merchants.
 
-When this ability is gained it applies retroactively to all [[Organisations]] and [[Rules/Characters/index|Characters]] that the Quartermaster is currently on at least Neutral terms with.
+When this ability is gained it applies retroactively to all [[Factions]] and [[Rules/Characters/index|Characters]] that the Quartermaster is currently on at least Neutral terms with.
 
 
 ## Quick Access
@@ -96,6 +96,7 @@ When the Weapon Master uses [[#Quick Toss]] on a [[Weapons|Weapon]] or [[Ammo]],
 | **Trigger:** | [[#Quick Toss]]                                            |
 | **Action:**  | [[Strike]] with the tossed [[Weapons\|Weapon]] or [[Ammo]] |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                  |
+
 When a [[Rules/Characters/index|Character]] in the Weapon Master's [[Seek]], fails a roll with a [[Tool]], they can break the Tool and use [[#Quick Toss]] as a [[Rules/Actions/Tags/Reaction|Reaction]] to supply a new [[Tool]] to allow the target to retry the roll.
 
 
@@ -119,7 +120,7 @@ If the outfit from [[#Quick Change]] fits the tone of the scene, pick a [[Rules/
 ### Disguised Fittings
 When the Quartermaster outfits someone in an outfit, they manage to hide armour beneath it, this outfit is considered [[Armour#Studded Leather|Studded Leather]].
 
-The Quartermaster may [[Exert]] during a [[#Easy Equip Armour]] to produce an outfit that matches the uniform of a specific [[Organisations|Organisation]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the organisation from a cursory glance.
+The Quartermaster may [[Exert]] during a [[#Easy Equip Armour]] to produce an outfit that matches the uniform of a specific [[Factions|Organisation]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the organisation from a cursory glance.
 
 ### Distance Block
 The Quartermaster gains the following reaction:

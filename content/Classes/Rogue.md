@@ -37,6 +37,12 @@ Flurry? While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Stri
 When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]].
 
 
+## Sneaki Neaki
+You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
+For every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].
+
+## Sneaki Neaki 2
+When you hide inside of a [[Rules/Characters/index|Characters]] [[Seek]] they do not know where you are.
 
 # Class Focuses
 

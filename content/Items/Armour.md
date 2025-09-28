@@ -5,21 +5,21 @@ icon: GiPlastron
 
 | Armour                | Defenses                                                      | Weight Penalty              | Tags                       | Focus                                                   |
 | --------------------- | ------------------------------------------------------------- | --------------------------- | -------------------------- | ------------------------------------------------------- |
-| [[#Studded Leather]]  | **AC:** 11 + [[Dexterity\|DEX]] (Max +5)<br>**Deflection:** 0 | -                           |                            | **1:** Move through enemies<br>**2:**                   |
-| [[#Breeze Leather]]   | **AC:** 12 + [[Dexterity\|DEX]] (Max +5)<br>**Deflection:** 1 | [[Orthogonal]]              | [[Retaliate]]: [[Push]]: 1 | **1:** <br>**2:**                                       |
+| [[#Studded Leather]]  | **AC:** 11 + [[Dexterity\|DEX]]<br>**Deflection:** 0          | -                           |                            | **1:** Move through enemies<br>**2:**                   |
+| [[#Breeze Leather]]   | **AC:** 12 + [[Dexterity\|DEX]]<br>**Deflection:** 1          | [[Orthogonal]]              | [[Retaliate]]: [[Push]]: 1 | **1:** <br>**2:**                                       |
 | [[#Chain Mail]]       | **AC:** 14 + [[Dexterity\|DEX]] (Max +2)<br>**Deflection:** 3 | -2m Speed<br>[[Orthogonal]] |                            | **1:** <br>**2:**                                       |
 | [[#Scale Mail]]       | **AC:** 16 + [[Dexterity\|DEX]] (Max +2)<br>**Deflection:** 0 | -2m Speed                   | [[Sturdy]] 1               | **1:** <br>**2:**                                       |
 | [[#Titan Plate]]      | **AC:** 17<br>**Deflection:** 0                               | [[Orthogonal]]              |                            | **1:** <br>**2:**                                       |
 | [[#Juggernaut Plate]] | **AC:** 18<br>**Deflection:** 2                               | -2m Speed<br>[[Orthogonal]] | [[Sturdy]] 2               | **1:** <br>**2:** Push aside enemies by walking through |
 
 ## Studded Leather
-AC: 11 + [[Dexterity|DEX]] (Max +5)
+AC: 11 + [[Dexterity|DEX]]
 Deflection: 0
 Armour Focus 1: You may move through squares occupied by non-allied [[Rules/Characters/index|Characters]] but cannot end your turn in them.
 Armour Focus 2: 
 
 ## Breeze Leather
-AC: 12 + [[Dexterity|DEX]] (Max +5)
+AC: 12 + [[Dexterity|DEX]]
 Deflection: 1
 Weight Penalty: [[Orthogonal]]
 Tags: [[Retaliate]]: [[Push]] 1

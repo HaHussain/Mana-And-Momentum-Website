@@ -17,7 +17,7 @@ The Pathfinder is all about mobility and movement and scouting.
 | 7     | [[#Companion Buff]]               |
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     | [[#Speed Again?]]                 |
-| 10    |                                   |
+| 10    | [[#Final]]                        |
 
 # Health
 When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
@@ -41,6 +41,20 @@ The Pathfinder gains an [[Animal Companion]].
 - If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
 
 
+## Marky
+The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
+When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
+The Pathfinder's [[Marked]] lasts for an hour.
+
+The Pathfinder gains the following action:
+
+|             | Mark of the Hunter                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Mark]]                                                                                                                                                                 |
+| **Action:** | Spend 3 [[Momentum]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
+| **Tags:**   | [[Mark]]                                                                                                                                                                 |
+
+
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:
 - What Movement Types, [[Speed|Speeds]], and [[Armour#Weight Penalty|Restrictions]] does the Character have?
@@ -55,39 +69,25 @@ When the Pathfinder takes the [[Scan]] action and targets [[Terrain]] or an [[Ob
 - What are the targets non-magical effects and tags.
 
 
-## Step Back
-The Pathfinder gains +2m [[Speed]] and the following reaction:
+## Companion Buff
+The Pathfinder gains Weapon Focus 2 with a [[Ranged]] [[Weapons|Weapon]] of their choice and they automatically succeed on any [[Strength|STR]] checks to [[Climb]].
+
+The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
+The Pathfinder's [[Animal Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
 
 The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and suffers no penalty for [[Rules/Exploration/index#Navigating|Navigating]] without a [[Rules/Exploration/index#Guide|Guide]].
 When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Rules/Exploration/index#Guide|Guide]], their group and [[Fortress]] can use the Pathfinder's [[Speed]] instead of their own.
 
 
-## Marky
-Gain Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
-When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
-The Pathfinder's [[Marked]] lasts for an hour.
-
-The Pathfinder gains the following action:
-
-|             | Mark of the Hunter                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Mark]]                                                                                                                                                                 |
-| **Action:** | Spend 3 [[Momentum]] and Consume [[Marked]] on a [[Rules/Characters/index\|Character]] in [[Seek]].<br>For the next next hour, you know exactly where that character is. |
-| **Tags:**   | [[Mark]]                                                                                                                                                                 |
-
-## Companion Buff
-The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
-The Pathfinder's [[Animal Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
-
-
 ## Speed Again?
-The Pathfinder gains +2m [[Speed]] and they automatically succeed on any [[Strength|STR]] checks to [[Climb]].
+The Pathfinder gains +2m [[Speed]].
+
 While [[Rules/Exploration/index#Navigating|Navigating]], the Pathfinder, their group, and their [[Fortress]] ignore the penalty for traversing through [[Rules/Exploration/index#Mountains|Mountains]] and can travel through [[Rules/Exploration/index#High Mountains|High Mountains]] with the penalty of [[Rules/Exploration/index#Mountains|Mountains]].
 
-## Weapon Focus 1 Again?
-Gain Weapon Focus 1.
 
-
+## Final
+When the Pathfinder takes the [[Mark]] action, they may target 2 [[Rules/Characters/index|Characters]] instead.
+The Pathfinder may target an additional any number of additional [[Rules/Characters/index|Characters]] for 2 [[Momentum]] each.
 
 # Class Focuses
 
@@ -113,7 +113,7 @@ When the Sharpshooter consumes [[Marked]], If the Sharpshooter's [[Animal Compan
 | **Tags:**     | [[Statuses and Conditions/index\|Buff]]                                   |
 
 ### Sharpshooter's Focus
-When the Sharpshooter consumes [[Marked]], they consider the [[Rules/Characters/index|Character]] as [[Isolated]].
+When the Sharpshooter consumes [[Marked]], they roll 1d10 instead of 1d6 for their [[Marked]] bonus.
 
 ## Trapper
 
@@ -123,7 +123,7 @@ When the Trapper's [[Animal Companion]] consumes [[Marked]], they ignore [[Sturd
 ## Beast
 
 ### Focused Companion
-When the Beast's [[Animal Companion]] consumes [[Marked]], they may spend 1 [[Momentum]] to reapply to the same target.
+When the Beast's [[Animal Companion]] consumes [[Marked]], 
 
 # Ideas
 

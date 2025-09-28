@@ -29,7 +29,7 @@ Player characters have Bonds, which are aimed towards another character or group
 
 A character can have up to 3 Bonds towards the same thing, each being represented by one keyword (generally an adjective) that the player character feels intensely and represent their relationship with the target. Each Bond is an intense feeling, so a Bond of 'Conflicted' and two Bonds of 'Love' and 'Hate', represent different magnitudes.
 
-Bonds are hard to form and a player character can maintain Bonds with up to 3 [[Rules/Characters/index|Characters]] and [[Organisations]]. (For a total of 9 Bonds)
+Bonds are hard to form and a player character can maintain Bonds with up to 3 [[Rules/Characters/index|Characters]] and [[Factions]]. (For a total of 9 Bonds)
 
 ## Creating Bonds
 Over the course of a [[Deep Rest]] a [[PC]] can create (or replace) a bond relating to what has happened since they last [[Deep Rest]]ed.
