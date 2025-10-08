@@ -98,7 +98,7 @@ While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make
 
 ### Bestial Instinct
 While not wearing [[Armour]], the Feral's body is considered [[Armour#Studded Leather|Studded Leather]].
-While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Armour#Deflection|Deflection]] equal to their [[Fortitude|FOR]].
+While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Deflection]] equal to their [[Fortitude|FOR]].
 
 When the Feral takes the [[Scan]] action on a [[Rules/Characters/index|Character]], they can make [[Instinct|INS]] vs ?? to ask one of the following questions:
 - Is this Character tougher (higher level than me).
@@ -107,7 +107,7 @@ When the Feral takes the [[Scan]] action on a [[Rules/Characters/index|Character
 
 
 ### Shatter and Break
-The Feral ignores the [[Armour#Deflection|Deflection]] and [[Sturdy]] of [[Object|Objects]].
+The Feral ignores the [[Deflection]] and [[Sturdy]] of [[Object|Objects]].
 
 The Feral can [[Exert]] to reduce the [[Rules/Exploration/index#Scouting|Monster Clock]] by #.
 
@@ -177,7 +177,7 @@ The Terror , and they gain the following Action
 | **Action:** | Pick a point in [[Range]] [[Speed]], Move in a direct line to that point. <br>If you collide with a [[Rules/Characters/index\|Character]] or [[Object]], [[Push]] it equal the number of squares you have moved as part of this action. |
 | **Tags:**   | [[Move]]                                                                                                                                                                                                                                |
 ### Thorns
-The [[Armour]] you wield gains [[Retaliate]]: [[Armour#Deflection|Deflection]] Damage, [[Melee|Melee Range]].
+The [[Armour]] you wield gains [[Retaliate]]: [[Deflection]] Damage, [[Melee|Melee Range]].
 
 # Ideas
 

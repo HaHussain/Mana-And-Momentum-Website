@@ -41,7 +41,7 @@ aliases:
 ### Sword
 Damage: Medium
 Weapon Focus 1: This weapon can be [[Quick]] at any time.
-Weapon Focus 2: This weapon ignores [[Armour#Deflection|Deflection]].
+Weapon Focus 2: This weapon ignores [[Deflection]].
 Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe

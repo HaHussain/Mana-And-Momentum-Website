@@ -3,7 +3,7 @@ icon: LiShield
 ---
 Tempo: 4
 
-Pick a [[Rules/Characters/index|Character]] adjacent to you, while you are adjacent to them [[Strike|Strikes]] against that [[Rules/Characters/index|Character]] have [[Disadvantage]] to hit and they may use your [[Armour#Deflection|Deflection]] instead of theirs. 
+Pick a [[Rules/Characters/index|Character]] adjacent to you, while you are adjacent to them [[Strike|Strikes]] against that [[Rules/Characters/index|Character]] have [[Disadvantage]] to hit and they may use your [[Deflection]] instead of theirs. 
 
 If you are wielding a [[Shields|Shield]], then the [[Rules/Characters/index|Character]] you are guarding also gains the effect of whatever shield you are using.
 

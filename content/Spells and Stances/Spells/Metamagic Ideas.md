@@ -100,7 +100,7 @@
 When you take an [[Attack]] action, as your first [[Strike]], you may repeat your last (Non-[[Rules/Actions/Tags/Reaction|Reaction]]) [[Strike]].
 If it cost [[Momentum]] then it costs 1 less to repeat.
 
-Ignore deflection and [[Sturdy]]
+Ignore [[deflection]] and [[Sturdy]]
 
 Minimum damage on miss?
 
