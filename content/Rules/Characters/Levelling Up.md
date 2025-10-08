@@ -9,37 +9,37 @@ Use your new Total Level (TL) here to see what you gain.
 
 Gaining abilities from levelling up can be performed in any order.
 
-| Total Level | Levelling Ability    |
-| ----------- | -------------------- |
-| 2           | [[#Fortitude]]       |
-| 3           |                      |
-| 4           |                      |
-| 5           |                      |
-| 6           |                      |
-| 7           | [[#Fortitude]]       |
-| 8           | [[#Spellcasting]] 3  |
-| 9           |                      |
-| 10          | [[#Dual Class Feat]] |
-| 11          |                      |
-| 12          | [[#Fortitude]]       |
-| 13          |                      |
-| 14          |                      |
-| 15          | [[#Spellcasting]] 4  |
-| 16          |                      |
-| 17          | [[#Fortitude]]       |
-| 18          |                      |
-| 19          |                      |
-| 20          | [[#Dual Class Feat]] |
-| 21          |                      |
-| 22          | [[#Fortitude]]       |
-| 23          | [[#Spellcasting]] 5  |
-| 24          |                      |
-| 25          |                      |
-| 26          |                      |
-| 27          | [[#Fortitude]]       |
-| 28          |                      |
-| 29          |                      |
-| 30          | [[#Dual Class Feat]] |
+| Total Level | Levelling Ability    | Proficiency |     |
+| ----------- | -------------------- | ----------- | --- |
+| 2           | [[#Fortitude]]       | 1           | 1   |
+| 3           |                      | 2           | 1   |
+| 4           |                      | 2           | 2   |
+| 5           |                      | 2           | 2   |
+| 6           |                      | 3           | 2   |
+| 7           | [[#Fortitude]]       | 3           | 3   |
+| 8           | [[#Spellcasting]] 3  | 3           | 3   |
+| 9           |                      | 4           | 3   |
+| 10          | [[#Dual Class Feat]] | 4           | 4   |
+| 11          |                      | 4           | 4   |
+| 12          | [[#Fortitude]]       | 5           | 4   |
+| 13          |                      | 5           | 5   |
+| 14          |                      | 5           | 5   |
+| 15          | [[#Spellcasting]] 4  | 6           | 5   |
+| 16          |                      | 6           | 6   |
+| 17          | [[#Fortitude]]       | 6           | 6   |
+| 18          |                      | 7           | 6   |
+| 19          |                      | 7           | 7   |
+| 20          | [[#Dual Class Feat]] | 7           | 7   |
+| 21          |                      | 8           | 7   |
+| 22          | [[#Fortitude]]       | 8           | 8   |
+| 23          | [[#Spellcasting]] 5  | 8           | 8   |
+| 24          |                      | 9           | 8   |
+| 25          |                      | 9           | 9   |
+| 26          |                      | 9           | 9   |
+| 27          | [[#Fortitude]]       | 10          | 9   |
+| 28          |                      | 10          | 10  |
+| 29          |                      | 10          | 10  |
+| 30          | [[#Dual Class Feat]] | 10          | 10  |
 
 # Fortitude
 

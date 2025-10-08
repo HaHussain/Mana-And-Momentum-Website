@@ -27,29 +27,32 @@ When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional 
 ## Tempo
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
 
-# Flurry
-While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
-
 ## Sneaki Neaki
 You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
 For every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].
 
-## Sneaki Neaki 2
-When you hide inside of a [[Rules/Characters/index|Characters]] [[Seek]] they do not know where you are.
+## Other
+
+When the Rogue enters a new [[Locations|Location]] with a criminal network, they may [[Exert]] to know a [[Contact]] with a criminal background of their choice (Assassin, Fence, etc). That Contact may have a [[Clue]].
+
 
 # Class Focuses
 
-|     | Assassin | Thief |     |
-| --- | -------- | ----- | --- |
-| 2   |          |       |     |
-| 4   |          |       |     |
-| 6   |          |       |     |
-| 8   |          |       |     |
+|     | Assassin | Dervish     | Thief |
+| --- | -------- | ----------- | ----- |
+| 2   |          | [[#Flurry]] |       |
+| 4   |          |             |       |
+| 6   |          |             |       |
+| 8   |          |             |       |
 
 ## Assassin
 Big damage to Isolated targets.
 
-### Thief
+## Dervish
+
+### Flurry
+While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
+## Thief
 
 |             | Pilfer                                                                                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------- |

@@ -10,14 +10,14 @@ Knight is a simple class of weapon and armour mastery and doing more with them. 
 | ----- | --------------------------------- |
 | 1     | [[#Effort]]                       |
 | 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     |                                   |
+| 3     | [[#A]]                            |
 | 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     |                                   |
+| 5     | [[#B]]                            |
 | 6     | [[#Class Focuses\|Class Focus]] 3 |
-| 7     |                                   |
+| 7     | [[#Focuses]]                      |
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     |                                   |
-| 10    |                                   |
+| 10    | [[#Final]]                        |
 # Health 
 When you gain Level in Knight, you gain +2 [[Health Points|Max HP]].
 
@@ -41,13 +41,13 @@ When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] their choice.
 The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
-At the start of a [[Scenes|Scene]] the Knight may immediately [[Free]]: [[Switch Stance]] at Tempo 0.
-
 The Knight starts with +1 [[Factions#Reputation|Reputation]] with [[Factions#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.
 When this ability is gained, it is applied retroactively to all that have at least neutral Reputation/Attitude.
 
 ## B
 The Knight may [[Exert]] twice per [[Scenes|Scene]] without suffering any negative consequences.
+
+When the Knight uses a [[Spells and Stances/Stances/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Switch Stance]] action.
 
 ## Final
 The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
@@ -55,6 +55,7 @@ The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same 
 ## Focuses
 The Knight gains Weapon Focus 2 with a [[Weapons|Weapon]] of their choice.
 The Knight gains Armour Focus 2 with an [[Armour]] of their choice. 
+
 
 When the Knight [[Switch Stance|Switches Stances]], they can spend a [[Momentum]] to conserve the rest of their [[Momentum]] between [[Spells and Stances/Stances/index|Stances]].
 # Class Focuses
@@ -86,8 +87,6 @@ Additionally you gain the following action:
 When the Duelist hits a [[Rules/Characters/index|Character]] with an [[Melee#Attack of Opportunity|Attack of Opportunity]], that [[Rules/Characters/index|Character]] becomes [[Immobilised]] for that turn. 
 
 
-
-After each [[Strike]] the Duelist makes, they can move one square without provoking [[Melee#Attack of Opportunity|Attacks of Opportunity]].
 
 ## Guardian
 
