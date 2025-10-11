@@ -14,7 +14,7 @@ Rogues are all about stealth and often criminal networks
 | 4     |                      |
 | 5     | [[#Sneaki Neaki]]    |
 | 6     |                      |
-| 7     | [[#Flurry]]          |
+| 7     |                      |
 | 8     |                      |
 | 9     |                      |
 | 10    |                      |

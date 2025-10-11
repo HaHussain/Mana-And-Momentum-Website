@@ -49,15 +49,20 @@ The Knight may [[Exert]] twice per [[Scenes|Scene]] without suffering any negati
 
 When the Knight uses a [[Spells and Stances/Stances/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Switch Stance]] action.
 
-## Final
-The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
-
 ## Focuses
 The Knight gains Weapon Focus 2 with a [[Weapons|Weapon]] of their choice.
 The Knight gains Armour Focus 2 with an [[Armour]] of their choice. 
 
 
 When the Knight [[Switch Stance|Switches Stances]], they can spend a [[Momentum]] to conserve the rest of their [[Momentum]] between [[Spells and Stances/Stances/index|Stances]].
+
+## C
+When the Knight uses a Technique, the cost of that Technique is reduced by 1?
+
+## Final
+The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
+
+
 # Class Focuses
 
 |     | Duelist         | Guardian | Dragoon |

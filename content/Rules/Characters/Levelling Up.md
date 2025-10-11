@@ -9,7 +9,7 @@ Use your new Total Level (TL) here to see what you gain.
 
 Gaining abilities from levelling up can be performed in any order.
 
-| Total Level | Levelling Ability    | Proficiency |     |
+| Total Level | Levelling Ability    | Level Bonus |     |
 | ----------- | -------------------- | ----------- | --- |
 | 2           | [[#Fortitude]]       | 1           | 1   |
 | 3           |                      | 2           | 1   |

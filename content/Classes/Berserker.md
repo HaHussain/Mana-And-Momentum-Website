@@ -63,7 +63,7 @@ When the Berserker [[Exert|Exerts]] they can choose one of the following options
 
 ## Excessive
 When the Berserker rolls maximum on damage dice, it explodes.
-When the Berserker rolls damage, they may spend [[Momentum]] to reroll that many damage dice.
+When the Berserker [[Boost|Boosts]], each [[Momentum]] spent counts as 2 up to the limit.
 
 When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
 

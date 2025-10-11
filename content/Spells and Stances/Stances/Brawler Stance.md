@@ -1,10 +1,10 @@
 # Stance
 
-|               | Brawler's Stance                                                                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Passive:**  | A [[Grappled]] target in your hand counts as an Unarmed [[Weapons#Gauntlets\|Guantlet]].<br>You are considered 1 [[Size]] Larger for [[Grapple\|Grappling]]. |
-| **Momentum:** | When you [[Hit]] a [[Grappled]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]                                                                   |
-| **Tags:**     |                                                                                                                                                              |
+|               | Brawler's Stance                                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | A [[Grappled]] target in your hand counts as an [[Weapons#Gauntlets\|Guantlet]].<br>You are considered 1 [[Size]] Larger for [[Grapple\|Grappling]]. |
+| **Momentum:** | When you [[Hit]] a [[Grappled]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]                                                           |
+| **Tags:**     |                                                                                                                                                      |
 
 # Techniques
 
@@ -20,13 +20,13 @@
 
 ## Battering Blows
 
-|             | Battering Blows                                                                       |
-| ----------- | ------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                                                                          |
-| **Cost:**   | 2                                                                                     |
-|             |                                                                                       |
-| **Action:** | Your [[Strike\|Strikes]] this round gain [[Push]] 1 and you may move with the target. |
-| **Tags:**   | [[Extra]] [[Statuses and Conditions/index\|Buff]] [[Push]]                            |
+|             | Battering Blows                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                                                                                        |
+| **Cost:**   | 2 + [[Boost]] 1                                                                                     |
+|             |                                                                                                     |
+| **Action:** | Your [[Strike\|Strikes]] this round gain [[Push]] (1 + [[Boost]]) and you may move with the target. |
+| **Tags:**   | [[Extra]] [[Statuses and Conditions/index\|Buff]] [[Push]]                                          |
 
 ## Meat Shield
 
@@ -52,10 +52,10 @@
 
 ## Flurry of Blows
 
-|                     | Flurry of Blows                                                                                                                                                                                                         |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**          | [[Attack]]                                                                                                                                                                                                              |
-| **Cost:**           | x                                                                                                                                                                                                                       |
-|                     |                                                                                                                                                                                                                         |
-| **Action:**         | Make a [[Strike]] with a [[One-Handed]] [[Weapons\|Weapon]] for each [[Momentum]] spent on this Technique.<br>Each [[Strike]] from this Technique only does its [[Rules/Rolls/index#Roll Parts\|Dice Value]] as damage. |
-| **Tags:**           | [[Attack]]                                                                                                                                                                                                              |
+|             | Flurry of Blows                                                                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Attack]]                                                                                                                                                                                   |
+| **Cost:**   | 2 + [[Boost]]                                                                                                                                                                                |
+|             |                                                                                                                                                                                              |
+| **Action:** | Make a [[Strike]] with a [[One-Handed]] [[Weapons\|Weapon]] for each [[Boost]].<br>Each [[Strike]] from this Technique only does its [[Rules/Rolls/index#Roll Parts\|Dice Value]] as damage. |
+| **Tags:**   | [[Attack]]                                                                                                                                                                                   |

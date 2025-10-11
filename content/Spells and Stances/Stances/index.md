@@ -17,6 +17,8 @@ If a character is in Stance and [[Switch Stance|Switch Stances]], they lose all 
 # Techniques
 Techniques are specific actions that can be taken by expending [[Momentum]] while in the necessary [[#Stances|Stance]].
 [[Momentum]] is only spent when that action is taken.
+## Boost
+![[Boost]]
 
 # List
 
