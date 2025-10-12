@@ -19,7 +19,7 @@ Chimera is about partial and full animal transformations and communication with 
 | 9     |         |
 | 10    |         |
 # Health
-When you gain Level in Chimera, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
+When you gain Level in Chimera, you gain +2 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:

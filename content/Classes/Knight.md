@@ -19,7 +19,7 @@ Knight is a simple class of weapon and armour mastery and doing more with them. 
 | 9     |                                   |
 | 10    | [[#Final]]                        |
 # Health 
-When you gain Level in Knight, you gain +2 [[Health Points|Max HP]].
+When you gain Level in Knight, you gain +3 [[Health Points|Max HP]].
 
 # Custom Triggers
 Choose 1 of:

@@ -20,7 +20,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 | 10    | [[#Violence]]                     |
 
 # Health 
-When you gain Level in Berserker, you gain +2 [[Health Points|Max HP]].
+When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].
 
 # Custom Triggers
 Choose 1 of:

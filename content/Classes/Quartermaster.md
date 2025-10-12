@@ -20,7 +20,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | 10    | [[#Quick Access]]        |                                                                                                                               |
 
 # Health
-When you gain Level in Quartermaster, you gain +1 [[Health Points|Max HP]] and an additional +1 [[Health Points|Max HP]] every 2 levels (2, 4, 6, 8, 10).
+When you gain Level in Quartermaster, you gain +2 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
