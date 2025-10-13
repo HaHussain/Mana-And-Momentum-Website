@@ -18,6 +18,15 @@ Rogues are all about stealth and often criminal networks
 | 8     |                      |
 | 9     |                      |
 | 10    |                      |
+# Health
+When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].
+
+# Custom Trigger
+Choose 1 of:
+
+# Fortress Bonus
+The [[Fortress]] 
+
 
 # Abilities
 
@@ -35,6 +44,21 @@ For every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] o
 
 When the Rogue enters a new [[Locations|Location]] with a criminal network, they may [[Exert]] to know a [[Contact]] with a criminal background of their choice (Assassin, Fence, etc). That Contact may have a [[Clue]].
 
+When the Rogue enters a [[Locations|Location]], they may ??? to [[Ask]] the GM for a mark or work in this region.
+
+Something to do with [[Tool]] usage to relate to Lockpicking? Quick use of a Tool?
+
+Honour among thieves?
+Some binding you can make to swear to an organisation?
+
+Thick as thieves?
+Backup your allies in danger / social roll? Allys back you up?
+When your allies [[Teamwork#Assist|Assist]] you, or you Assist an ally, the Leader adds an additional +1 to the roll for each successful Assist.
+
+The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden under their usual words.
+A secret message transmitted this way takes 10x as long to speak / is 10x as long in text. 
+A [[Rules/Characters/index|Character]] that can see and hear the speaker can attempt to decode this message by making a
+A [[Rules/Characters/index|Character]] that can read and touch the written message can attempt to decode the message by making a
 
 # Class Focuses
 
@@ -52,6 +76,8 @@ Big damage to Isolated targets.
 
 ### Flurry
 While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
+
+Roguish Charm / Swashbucklery
 ## Thief
 
 |             | Pilfer                                                                                                  |
@@ -60,7 +86,7 @@ While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
 | **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Range]] 1                                                  |
 | **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]], if they do you regain 1. |
 | **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
-
+Anything you disarm, you take instead.
 # Ideas
 
 Fast:

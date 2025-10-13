@@ -36,5 +36,5 @@
 | **Cost:**    | 2 + [[Boost]]                                                                                                                                                          |
 |              |                                                                                                                                                                        |
 | **Trigger:** | A [[Rules/Characters/index\|Character]] begins speaking to another [[Rules/Characters/index\|Character]] and you interrupt them.                                       |
-| **Action:**  | They take a penalty to their next check equal to [[Boost]].<br>They must make a ([[Dexterity\|DEX]] + [[Intelligence\|INT]]) save or become [[Isolated]] and [[Numb]]. |
+| **Action:**  | They take a penalty to their next check equal to [[Boost]].<br>They must make a ([[Fortitude\|FOR]] + [[Intelligence\|INT]]) save or become [[Isolated]] and [[Numb]]. |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                              |
