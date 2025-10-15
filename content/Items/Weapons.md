@@ -12,7 +12,7 @@ aliases:
 | Dagger       | Small  | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]<br>[[Orthogonal]]<br>[[Grappling]] | 1: Apply a debuff<br>2: Increased crit chance                      | DEX+DEX |
 | Gauntlets    | Small  | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]<br>[[Orthogonal]]<br>[[Grappling]] | 1: Dual Wielding +1 Strikes<br>2: Free Grapple                     | STR+STR |
 | Sword        | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Quick<br>2: Ignore [[Armour#Deflection\|Deflection]]?           | STR+DEX |
-| Axe          | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Hook in and grapple?<br>2: Sweep Attack                         | STR+DEX |
+| Axe          | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Disarm on a Crit<br>2: Sweep Attack                             | STR+DEX |
 | Hammer       | Medium | [[Melee]] 1<br>[[One-Handed]]<br>[[Push]] 1                                   | 1: Greater push<br>2: Knockback into objects does increased damage | STR+FOR |
 | Spear        | Medium | [[Melee]] 2<br>[[One-Handed]]<br>[[Orthogonal]]                               | 1: Reaching attack<br>Set attack?<br>2: Line strike                | STR+DEX |
 | Foil         | Medium | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]                                    | 1: Parry<br>2: Riposte                                             | DEX+AWR |
@@ -40,13 +40,13 @@ aliases:
 
 ### Sword
 Damage: Medium
-Weapon Focus 1: This weapon can be [[Quick]] at any time.
+Weapon Focus 1: [[Quick]].
 Weapon Focus 2: This weapon ignores [[Deflection]].
 Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
 **Damage**: Medium
-**Weapon Focus 1**: 
+**Weapon Focus 1**: On a [[Critical Strike]], Disarm the target of one of its held items.
 **Weapon Focus 2**: [[Strike|Strikes]] with this weapon target 3 contiguous squares.
 **Tags**: [[Melee]] 1, [[One-Handed]]
 
@@ -161,6 +161,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | Tome      |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Get access to a spell you didn't bring?<br>**2:**  |
 | Staff     |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Increased range? Extended Seek?<br>**2:**          |
 | Orb       |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]<br>[[Reload]] | **1:** Concentrate a spell to be more effective<br>**2:** |
+| Censer    |        | [[Focus]]<br>[[Two-Handed]]<br>[[Melee]]                |                                                           |
 # Custom Weapons
 
 Many custom weapons exist across this rule set.
