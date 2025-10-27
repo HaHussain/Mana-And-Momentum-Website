@@ -31,14 +31,15 @@ Mana committed for a day can only be [[Reclaim|Reclaimed]] during a [[Rules/Rest
 
 Committing Mana for a scene:
 Mana committed for a scene can only be [[Reclaim]]ed at the end of a scene.
-- First - If you have committed mana for this scene, from that mana, commit one for the day.
-- Second - Reclaim the rest of your mana that was committed for the scene.
+- First - Reclaim the rest of your mana that was committed for the scene.
+- Second - If you reclaimed any mana, commit one mana for the day.
 
 Committing Mana indefinitely:
 Mana committed this way is committed indefinitely or until you take a [[Deep Rest]].
 You can take the [[Reclaim]] action whenever you wish, if you do:
-- First - If you have committed mana indefinitely, commit one mana for the scene.
-- Second - Reclaim the rest of your mana that was committed indefinitely.
+- First - Reclaim any mana committed indefinitely.
+- First - If you reclaimed any mana, commit one mana for the scene.
+
 
 ## Temporary Mana
 

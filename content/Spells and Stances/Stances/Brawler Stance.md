@@ -23,7 +23,7 @@
 |             | Battering Blows                                                                                     |
 | ----------- | --------------------------------------------------------------------------------------------------- |
 | **Tempo:**  | [[Extra]]: 1                                                                                        |
-| **Cost:**   | 2 + [[Boost]] 1                                                                                     |
+| **Cost:**   | 2 + [[Boost]]                                                                                       |
 |             |                                                                                                     |
 | **Action:** | Your [[Strike\|Strikes]] this round gain [[Push]] (1 + [[Boost]]) and you may move with the target. |
 | **Tags:**   | [[Extra]] [[Statuses and Conditions/index\|Buff]] [[Push]]                                          |

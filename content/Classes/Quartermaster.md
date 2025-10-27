@@ -149,6 +149,8 @@ Good with lots of Equipment:
 - Can figure out enemies' equipment
 - Always has a tool for the job
 
+- NEW: Cheap mundane items dont cost item points.
+
 Class Focuses:
 - Weapons
 - Consumables

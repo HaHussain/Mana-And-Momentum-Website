@@ -112,21 +112,21 @@ Intuition - Focus, Insight, Animal Handling
     Archon - JUDGE
     Bard - INFLUENCE
     Berserker - DESTROY
-    Chimera - CONSUME?
-    Commander - DIRECT? LEAD?
+    Chimera - HUNT
+    Commander - DIRECT
     Diviner - WARP
     Druid - NURTURE
     Etcher - DESIGN
-	Hierophant - TEACH
+	Hierophant - FUEL
     Knight - PROTECT
-    Necromancer - SACRIFICE?
+    Necromancer - CONTROL ? CORRUPT
     Oathsworn - VOW
     Pathfinder - NAVIGATE
     Quartermaster - SUPPLY
     Rogue - STEAL
     Spellblade - ENCHANT
     Synic - CONNECT
-    Tinker - ENGINEER? IMPROVE?
+    Tinker - ENGINEER
     Vessel - BRIDGE
     Witch - REPAY
     Wizard - LEARN
@@ -153,7 +153,11 @@ Do we add some variant of level to roll?
 - Some things are level gated.
 - I like this
 - Level runs from 2 to 30.
-- Level bonus runs from 
+- Level bonus runs from 1 to 10
+- Proficiency level runs in 4 tiers, 0.5, 1, 1.5, 2
+- Proficiency 1.5 is unlocked at level 10 and Proficiency 2 is unlocked at level 20
+- This goes back to 5e and away from Pathfinder 2e where any proficiency adds full level bonus
+- Also 1.5 is a terrible number
 
 STR + DEX = 
 STR + FOR = Might
@@ -170,3 +174,239 @@ FOR + INS =
 AWR + INT = Slyness
 AWR + INS = Presence
 INT + INS = Charisma
+
+---
+
+# Currency
+Silver Standard
+1 cp = £1
+1 sp = £100
+1 gp = £10,000
+
+The average labourer makes 1sp per day and 3gp a year
+
+---
+
+# Death
+
+The soulcatcher item is a cheap for adventurer's item. Maybe 10gp for basic version. Prohibitively expensive and useless for most people.
+It stores the soul in it for an amount of time after death (1 minute?), while the soul is in inside, resurrection magic an be cast on it to bring the character back.
+Resurrection is a ritual that takes as long as the character is dead.
+Higher tier resurrection can deal with damaged bodies and soulcatcher being removed for a little bit.
+Necromancer has a soulcatch reaction spell that can do this immediately after death.
+
+---
+# Bond
+
+Build up to 3 bonds, bonds have a nature which is a word and levels which are die size, 
+d4 -> d6 -> d8 -> d10 -> d12
+To increase the die size you have to ? do something that has to do with the bond's nature.
+When the die size increases you can change the bond's nature
+Get to add the die to something? Maybe something related to [[#Keyword]]?
+Bonds can be towards a character or organisation?
+You can finalise the bond during a Scene, for that scene, any time you gain momentum, instead gain dice/2. Or immediately gain dice mana?
+Then that bond ends and you either change it or reset it or leave it blank.
+
+Should be easier to increase bond to character than organisation because the wider it becomes, the more often it will come up?
+Maybe if the organisation bond is just a bond to its leader?
+
+If you finalise the bond and say the villain gets away, what happens to your bond? expended?
+When you Invoke a Bond, declare your Goal, if you fail, your Bond stays. 
+
+---
+# Skills
+
+Strength
+- Athletics
+- Break
+Dexterity
+- Deft
+- Agility
+Fortitude
+- Endure
+Awareness
+- Perception
+- Investigate
+Intellect
+- Logic
+- Deduce
+Instinct
+- Insight
+
+---
+
+Athletics (STR + FOR)
+Bend and Break (STR + STR)
+
+Craft (PHY + IN?)
+
+Stealth (DEX + AWR)
+Sleight of Hand (DEX + INS)
+
+Endure (FOR + )
+
+Perception (AWR + INS)
+Examination (AWR + INT)
+
+Deduction (INT + INS)
+Magic 
+Society
+Nature
+Are spirits a different lore?
+
+Animal Handling
+Insight (INS + AWR)
+Medicine?
+Survival?
+
+Persuasion
+Deception (IN? + AWR)
+Intimidation
+
+---
+
+Athletics
+Break
+Craft
+
+Spot
+Examine
+
+Arcana
+Nature
+
+Intuition
+Animal Handling / Riding / Piloting ?
+
+Persuasion
+Manipulation
+Logic ? Is this just INT Persuasion?
+Coercion
+
+---
+Archon:
+- Destroy things (Break)
+- See through lies (Intuit)
+- Demand things, be forceful but not necessary threatening, imposing (Command)
+- Appear unbreakable
+Bard:
+- Lie (Decieve)
+- Charm (Persuasion)
+- Make friends
+- Flirt
+- Tell stories and sing songs (Craft)
+- Explore
+Berserker:
+- Break things (Break)
+- Intimidate (Coerce)
+- Blacksmith (Craft)
+- Endure
+- Lift, carry, be strong (Athletics)
+Chimera:
+- Hunt
+- Live in nature / Be suited for any environment
+- Connect with animals / speak with them
+- Mutate
+- Break the concepts of nature, be forbidden
+- Traverse any environment
+- Understand biology and medicine, doctor
+Commander:
+- Direct people (or animals?)
+- Plan strategy and tactics
+- Be cunning and perceptive (Examine)
+- Have an aura
+Diviner:
+- Know things others do not
+- See things others cant (Spot)
+- Be occult
+- Really good insight? (Intuit)
+- Lie? (Decieve)
+Druid:
+- Connect with nature, speak with it
+- Know about nature and nurture it (Nature)
+- Be a bit hippy wise
+Etcher:
+- Design things and build them (Craft)
+- Spot weaknesses (Examine)
+- Know things about history or nature building materials and architecture
+- A connection to history and the past
+- Set traps
+Hierophant: 
+- Give wise advice
+- Heal
+- Make things better
+- Make things worse
+- Knowledge of religion and spirits or society
+- Soul focus, bolstering souls, enfeebling souls, ghost forms?
+Knight:
+- Protect people
+- Persuade people
+- Be virtuous and have an aura
+- Know about politics and history
+- Ride horse
+Necromancer:
+- Speak to the dead and thus know history
+- Know about spirits and magic
+- Medicine
+- Maybe some Science Tech
+Oathsworn:
+- Promise (Persuade)
+- Intimidate (Coerce)
+- Work
+Pathfinder:
+- Perceive (Spot)
+- Survive in Nature
+- Use Traps
+- Hunt animals
+- Skin animals
+- Traverse environments
+Quartermaster:
+- Barter / Buy / Sell
+- Convince and talk
+- Bribe (Persuade)
+- Work
+Rogue:
+- Pick locks
+- Sneak
+- Pick pockets
+- Create poisons
+Spellblade:
+- Enchant
+- ???
+Synic:
+- Mind stuff
+- Connect to people
+- Know about magic
+- Be tough
+Tinker:
+- Create technical stuff (Craft)
+- fix tech stuff (Examine)
+- know tech stuff 
+- GUN
+- Ride car
+Vessel:
+- Know about spirits and elements
+- Survive in nature
+- See through lies
+- Endure the environment
+Witch:
+- Know about occult stuff
+- Know about nature
+- Create potions
+- Lie
+Wizard:
+- Study and Learn
+- Know about Arcana
+- Steal magic
+- Work
+
+
+Athletics
+Administer
+Break
+Coerce
+Craft
+Deceive
+Examine
+Spot
+Persuade

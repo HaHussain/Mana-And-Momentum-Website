@@ -7,7 +7,7 @@ aliases:
 
 You may Exert yourself to do one of the following:
 - Exert at the end of any turn: Take another [[Rules/Actions/index|Action]] this round. This action ignores the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].
-- Exert at the end of any turn: Take an [[Rules/Actions/index|Action]] with a different [[Tempo]] than usual.
+- Exert at the end of any turn: Change an [[Rules/Actions/index|Action]] with to a different [[Tempo]] than usual.
 - Exert during your turn: Gain # [[Momentum]].
 - Exert during your turn: Clear a [[Statuses and Conditions/index#Conditions|Condition]].
 - Exert during your turn: Reclaim 1 [[Spells and Stances/Spells/index|Mana]] from the lowest committed tier.

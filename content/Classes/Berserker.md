@@ -24,9 +24,9 @@ When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].
 
 # Custom Triggers
 Choose 1 of:
-- When the Berserker breaks something of value, they gain a [[Momentum]].
-- When the Berserker hurts someone or themselves when they didn't want to, they gain a [[Momentum]].
-- When the Berserker solves a problem with brute strength or endurance, they gain a [[Momentum]].
+- When the Berserker breaks something of value, they gain 1d4 [[Momentum]].
+- When the Berserker hurts someone or themselves when they didn't want to, they gain 1d4 [[Momentum]].
+- When the Berserker solves a problem with brute strength or endurance, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +? [[Health Points|Max HP]].
@@ -100,10 +100,7 @@ While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make
 While not wearing [[Armour]], the Feral's body is considered [[Armour#Studded Leather|Studded Leather]].
 While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Deflection]] equal to their [[Fortitude|FOR]].
 
-When the Feral takes the [[Scan]] action on a [[Rules/Characters/index|Character]], they can make [[Instinct|INS]] vs ?? to ask one of the following questions:
-- Is this Character tougher (higher level than me).
-- What is the biggest [[Mood]] this Character is experiencing.
-- Does this Character feel Fear or Hostility towards me.
+When something in the Feral's [[Seek]] targets it with an ability or casts any spell, it immediately knows where it came from but not the nature of the spell or ability.
 
 
 ### Shatter and Break
@@ -151,6 +148,8 @@ Gain the following Reaction:
 | **Action:**  | Attempt to [[Grapple]] the triggering [[Rules/Characters/index\|Character]].                                           |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Grapple]]                                                                 |
 While a [[Rules/Characters/index|Character]] is [[Isolated]] with the Fury they take a 
+
+### Dual Wield and Weapon Breaker
 
 ## Terror
 

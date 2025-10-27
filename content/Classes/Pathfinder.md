@@ -24,10 +24,10 @@ When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Pathfinder provides information by scouting ahead, gain a [[Momentum]].
-- When the Pathfinder moves or leads through a route that only they can navigate, gain a [[Momentum]].
-- When the Pathfinder plans, sets, or performs an ambush, gain a [[Momentum]].
-- When the Pathfinder discovers a new location or route or travels through un-tread ground, gain a [[Momentum]].
+- When the Pathfinder provides information by scouting ahead, gain 1d4 [[Momentum]].
+- When the Pathfinder moves or leads through a route that only they can navigate, gain 1d4 [[Momentum]].
+- When the Pathfinder plans, sets, or performs an ambush, gain 1d4 [[Momentum]].
+- When the Pathfinder discovers a new location or route or travels through un-tread ground, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +2m [[Speed]].
@@ -43,9 +43,10 @@ The Pathfinder gains an [[Animal Companion]].
 
 ## Marky
 The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
-When the Pathfinder consumes [[Marked]], they may add the bonus to [[Hit]] from [[Marked]] to the damage's dice value.
+When the Pathfinder consumes [[Marked]] and [[Miss|Misses]], they do not consume [[Marked]].
 
-When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend 3 [[Momentum]] per target, if they do, they know the exact location of the target they have [[Marked]] whilst they remain [[Marked]].
+When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.
+
 
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:

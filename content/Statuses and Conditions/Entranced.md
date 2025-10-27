@@ -1,0 +1,1 @@
+This Character can only draw [[Line of Sight]] in a [[Cone]] centred on the object of their entrancement.
