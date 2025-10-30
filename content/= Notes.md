@@ -117,7 +117,7 @@ Intuition - Focus, Insight, Animal Handling
     Diviner - WARP
     Druid - NURTURE
     Etcher - DESIGN
-	Hierophant - FUEL
+	Hierophant - AMPLIFY
     Knight - PROTECT
     Necromancer - CONTROL ? CORRUPT
     Oathsworn - VOW
@@ -286,7 +286,7 @@ Coercion
 ---
 Archon:
 - Destroy things (Break)
-- See through lies (Intuit)
+- See through lies (Insight)
 - Demand things, be forceful but not necessary threatening, imposing (Command)
 - Appear unbreakable
 Bard:
@@ -342,7 +342,7 @@ Knight:
 - Protect people
 - Persuade people
 - Be virtuous and have an aura
-- Know about politics and history
+- Know about politics and history (Society)
 - Ride horse
 Necromancer:
 - Speak to the dead and thus know history
@@ -352,7 +352,7 @@ Necromancer:
 Oathsworn:
 - Promise (Persuade)
 - Intimidate (Coerce)
-- Work
+- Work (Society)
 Pathfinder:
 - Perceive (Spot)
 - Survive in Nature
@@ -362,9 +362,9 @@ Pathfinder:
 - Traverse environments
 Quartermaster:
 - Barter / Buy / Sell
-- Convince and talk
+- Convince and talk (Persuade)
 - Bribe (Persuade)
-- Work
+- Work (Society)
 Rogue:
 - Pick locks
 - Sneak
@@ -381,32 +381,36 @@ Synic:
 Tinker:
 - Create technical stuff (Craft)
 - fix tech stuff (Examine)
-- know tech stuff 
+- know tech stuff (Arcana)
 - GUN
 - Ride car
 Vessel:
 - Know about spirits and elements
 - Survive in nature
-- See through lies
+- See through lies (Insight)
 - Endure the environment
 Witch:
 - Know about occult stuff
-- Know about nature
-- Create potions
-- Lie
+- Know about nature (Nature)
+- Create potions (Craft)
+- Lie (Deceive)
 Wizard:
 - Study and Learn
 - Know about Arcana
 - Steal magic
-- Work
+- Work (Society)
 
-
-Athletics
-Administer
-Break
-Coerce
-Craft
-Deceive
-Examine
-Spot
-Persuade
+| **Arcana**     |
+| -------------- |
+| **Coerce**     |
+| **Craft**      |
+| **Deceive**    |
+| **Examine**    |
+| **Insight**    |
+| **Infiltrate** |
+| **Nature**     |
+| **Persuade**   |
+| **Physique**   |
+| **Society**    |
+| **Spot**       |
+| **Traverse**   |
