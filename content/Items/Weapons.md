@@ -12,7 +12,7 @@ aliases:
 | Dagger       | Small  | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]<br>[[Orthogonal]]<br>[[Grappling]] | 1: Apply a debuff<br>2: Increased crit chance                      |
 | Gauntlets    | Small  | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]<br>[[Orthogonal]]<br>[[Grappling]] | 1: Dual Wielding +1 Strikes<br>2: Free Grapple                     |
 | Sword        | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Quick<br>2: Ignore [[Armour#Deflection\|Deflection]]?           |
-| Axe          | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Disarm on a Crit<br>2: Sweep Attack                             |
+| Axe          | Medium | [[Melee]] 1<br>[[One-Handed]]                                                 | 1: Apply Pain on crit<br>2: Sweep Attack                           |
 | Hammer       | Medium | [[Melee]] 1<br>[[One-Handed]]<br>[[Push]] 1                                   | 1: Greater push<br>2: Knockback into objects does increased damage |
 | Spear        | Medium | [[Melee]] 2<br>[[One-Handed]]<br>[[Orthogonal]]                               | 1: Reaching attack<br>Set attack?<br>2: Line strike                |
 | Foil         | Medium | [[Melee]] 1<br>[[One-Handed]]<br>[[Quick]]                                    | 1: Parry<br>2: Riposte                                             |
@@ -46,7 +46,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
 **Damage**: Medium
-**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] equal to half damage dealt.
+**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] equal to the [[Rules/Rolls/index#Roll Parts|Flat Value]].
 **Weapon Focus 2**: [[Strike|Strikes]] with this weapon target 3 contiguous squares.
 **Tags**: [[Melee]] 1, [[One-Handed]]
 

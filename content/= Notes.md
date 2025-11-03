@@ -403,14 +403,13 @@ Wizard:
 | **Arcana**     |
 | -------------- |
 | **Coerce**     |
-| **Craft**      |
 | **Deceive**    |
-| **Examine**    |
 | **Insight**    |
 | **Infiltrate** |
 | **Nature**     |
 | **Persuade**   |
 | **Physique**   |
+| **Search**     |
 | **Society**    |
-| **Spot**       |
+| Tech           |
 | **Traverse**   |
