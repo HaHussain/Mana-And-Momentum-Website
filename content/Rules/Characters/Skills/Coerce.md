@@ -1,5 +1,5 @@
 ---
-icon:
+icon: RiGhostFill
 ---
 Coerce is the skill to use threats and negative emotions to control others to do what you want.
 
