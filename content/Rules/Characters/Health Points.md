@@ -6,12 +6,13 @@ aliases:
 ---
 Health Points (HP) represent your physical health and willpower to fight on.
 
-Every player character starts with: 5 Max HP.
+Every player character starts with: 10 Max HP.
 And adds [[Fortitude]] HP every 3 [[Levelling Up|levels]] starting at Level 2.
 
 Most [[Classes/index|Classes]] provide 2 HP per Level but some give 3 for tankier [[Classes/index|Classes]] or 1 for squishier [[Classes/index|Classes]].
 
 HP is regained by [[Rules/Resting/index|Resting]].
+
 # Taking Damage
 When you take damage, reduce your Health Points by that number. 
 

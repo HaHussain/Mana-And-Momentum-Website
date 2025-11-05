@@ -9,6 +9,7 @@ aliases:
   - Lightning
   - Acid
   - Ice
+  - Physical
 ---
 # Physical
 ## Fire
