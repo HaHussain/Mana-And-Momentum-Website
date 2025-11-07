@@ -61,9 +61,11 @@ Something dodgy - While [[Hidden]] Evasion
 
 ## Thick as Thieves
 
-When an ally fails a Social or Stealth roll, the Rogue can spend a [[Momentum]] to provide [[Teamwork#Backup|Backup]] as a [[Rules/Actions/Tags/Reaction|Reaction]].
+When an ally fails a [[Deceive]] or [[Infiltrate]] roll, the Rogue can spend a [[Momentum]] to provide [[Teamwork#Backup|Backup]] as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
+## Target Weakness
 
+When the Rogue uses a [[Spells and Stances/Stances/index#Techniques|Technique]] on a 
 
 # Class Focuses
 
