@@ -1,6 +1,3 @@
----
-icon: RaHeavyShield
----
 # Stance
 The Warden's Stance and Techniques are about reducing the damage you and your allies take. 
 

@@ -24,7 +24,9 @@ When you gain a Level in Wizard, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Wizard solves an issue by using study, intelligence, and / or book-smarts, they gain 1 [[Spells and Stances/Spells/index|Mana]].
+- When the Wizard solves an issue by using study, intelligence, and / or book-smarts, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
+- When the Wizard steals magical knowledge or delves into occult knowledge, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
+- When the Wizard learns new things, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
 
 # Fortress Bonus
 The [[Fortress]] gains +2m [[Speed]].

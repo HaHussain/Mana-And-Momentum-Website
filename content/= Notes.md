@@ -285,119 +285,119 @@ Coercion
 
 ---
 Archon:
-- Destroy things (Break)
+- Destroy things (Physique)
 - See through lies (Insight)
-- Demand things, be forceful but not necessary threatening, imposing (Command)
-- Appear unbreakable
+- Demand things, be forceful but not necessary threatening, imposing (Society)
+- Appear unbreakable (Physique)
 Bard:
 - Lie (Decieve)
 - Charm (Persuasion)
 - Make friends
 - Flirt
-- Tell stories and sing songs (Craft)
-- Explore
+- Tell stories and sing songs (Society)
+- Explore (Traverse)
 Berserker:
-- Break things (Break)
+- Break things (Infiltrate)
 - Intimidate (Coerce)
-- Blacksmith (Craft)
-- Endure
-- Lift, carry, be strong (Athletics)
+- Blacksmith (Nature/Society/Tech)
+- Endure (Physique)
+- Lift, carry, be strong (Physique)
 Chimera:
-- Hunt
-- Live in nature / Be suited for any environment
-- Connect with animals / speak with them
-- Mutate
-- Break the concepts of nature, be forbidden
-- Traverse any environment
-- Understand biology and medicine, doctor
+- Hunt (Nature)
+- Live in nature / Be suited for any environment (Nature)
+- Connect with animals / speak with them (Nature)
+- Mutate (Tech)
+- Break the concepts of nature, be forbidden (Arcana)
+- Traverse any environment (Traverse)
+- Understand biology and medicine, doctor (Physique)
 Commander:
-- Direct people (or animals?)
-- Plan strategy and tactics
-- Be cunning and perceptive (Examine)
-- Have an aura
+- Direct people (Society / Nature)
+- Plan strategy and tactics ()
+- Be cunning and perceptive (Search)
+- Have an aura (Society)
 Diviner:
-- Know things others do not
-- See things others cant (Spot)
-- Be occult
-- Really good insight? (Intuit)
+- Know things others do not (Insight)
+- See things others cant (Search)
+- Be occult (Arcana)
+- Really good insight? (Insight)
 - Lie? (Decieve)
 Druid:
-- Connect with nature, speak with it
+- Connect with nature, speak with it (Nature)
 - Know about nature and nurture it (Nature)
-- Be a bit hippy wise
+- Be a bit hippy wise (Insight)
 Etcher:
-- Design things and build them (Craft)
-- Spot weaknesses (Examine)
-- Know things about history or nature building materials and architecture
-- A connection to history and the past
-- Set traps
+- Design things and build them (Tech)
+- Spot weaknesses (Search)
+- Know things about history or nature building materials and architecture (Society)
+- A connection to history and the past (Society)
+- Set traps ()
 Hierophant: 
-- Give wise advice
-- Heal
+- Give wise advice (Society)
+- Heal (Physique)
 - Make things better
 - Make things worse
-- Knowledge of religion and spirits or society
-- Soul focus, bolstering souls, enfeebling souls, ghost forms?
+- Knowledge of religion and spirits or society (Nature/Society)
+- Soul focus, bolstering souls, enfeebling souls, ghost forms? (Arcana)
 Knight:
-- Protect people
-- Persuade people
-- Be virtuous and have an aura
+- Protect people 
+- Persuade people (Persuade)
+- Be virtuous and have an aura (Society)
 - Know about politics and history (Society)
-- Ride horse
+- Ride horse (Nature)
 Necromancer:
-- Speak to the dead and thus know history
+- Speak to the dead and thus know history (Arcana / Society)
 - Know about spirits and magic
-- Medicine
-- Maybe some Science Tech
+- Medicine (Physique)
+- Maybe some Scienc Tech (Tech)
 Oathsworn:
 - Promise (Persuade)
 - Intimidate (Coerce)
 - Work (Society)
 Pathfinder:
-- Perceive (Spot)
-- Survive in Nature
+- Perceive (Search)
+- Survive in Nature (Nature)
 - Use Traps
-- Hunt animals
-- Skin animals
-- Traverse environments
+- Hunt animals (Nature)
+- Skin animals (Nature)
+- Traverse environments (Traverse)
 Quartermaster:
 - Barter / Buy / Sell
 - Convince and talk (Persuade)
 - Bribe (Persuade)
 - Work (Society)
 Rogue:
-- Pick locks
-- Sneak
-- Pick pockets
-- Create poisons
+- Pick locks (Infiltrate)
+- Sneak (Infiltrate)
+- Pick pockets (Search)
+- Create poisons (Nature)
 Spellblade:
-- Enchant
+- Enchant (Arcana)
 - ???
 Synic:
 - Mind stuff
-- Connect to people
-- Know about magic
-- Be tough
+- Connect to people (Insight / Society)
+- Know about magic (Arcana)
+- Be tough (Physique)
 Tinker:
 - Create technical stuff (Craft)
 - fix tech stuff (Examine)
 - know tech stuff (Arcana)
-- GUN
-- Ride car
+- GUN (Tech)
+- Ride car (Tech)
 Vessel:
-- Know about spirits and elements
-- Survive in nature
+- Know about spirits and elements (Nature)
+- Survive in nature (Nature)
 - See through lies (Insight)
-- Endure the environment
+- Endure the environment (Nature)
 Witch:
-- Know about occult stuff
+- Know about occult stuff (Arcana)
 - Know about nature (Nature)
 - Create potions (Craft)
 - Lie (Deceive)
 Wizard:
 - Study and Learn
-- Know about Arcana
-- Steal magic
+- Know about Arcana (Arcana)
+- Steal magic (Search)
 - Work (Society)
 
 | **Arcana**     |

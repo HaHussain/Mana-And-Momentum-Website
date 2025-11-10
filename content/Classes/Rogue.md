@@ -23,6 +23,8 @@ When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
+- When the Rogue uses stealth, sneakery, or deception to solve a problem, gain 1d4 [[Momentum]].
+- When the Rogue 
 
 # Fortress Bonus
 The [[Fortress]] 
@@ -33,10 +35,11 @@ The [[Fortress]]
 ## Strike Weakness
 When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]].
 
-The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden under their usual words.
+The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden alongside their usual words. 
+The Rogue can use this to talk to any [[Rules/Characters/index|Character]] in the same [[Factions|Faction]] or Party as them.
 A secret message transmitted this way takes 10x as long to speak / is 10x as long in text. 
-A [[Rules/Characters/index|Character]] that can see and hear the speaker can attempt to decode this message by making a
-A [[Rules/Characters/index|Character]] that can read and touch the written message can attempt to decode the message by making a
+A suspicious [[Rules/Characters/index|Character]] that can see and hear the speaker can attempt to decode this message by making a [[Instinct]] [[Insight]] check.
+A [[Rules/Characters/index|Character]] that can read and touch the written message can attempt to decode the message by making a [[Intelligence]] [[Search]] check.
 
 
 ## Tempo
@@ -47,7 +50,7 @@ The Rogue can spend 1 [[Momentum]] to reduce the time it takes to use a [[Tool]]
 
 ## Sneaki Neaki
 You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
-For every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].
+Roll a [[Dexterity]] [[Infiltrate]] check, for every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].
 
 When the Rogue uses a [[Consumable]] they can ignore all of its effects until the end of the Round.
 
@@ -63,9 +66,8 @@ Something dodgy - While [[Hidden]] Evasion
 
 When an ally fails a [[Deceive]] or [[Infiltrate]] roll, the Rogue can spend a [[Momentum]] to provide [[Teamwork#Backup|Backup]] as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
-## Target Weakness
+When the Rogue [[Exert|Exerts]] to have a flashback, reduce the [[Exert#Exertion|Exertion]] gained by 1 (minimum 1).
 
-When the Rogue uses a [[Spells and Stances/Stances/index#Techniques|Technique]] on a 
 
 # Class Focuses
 
@@ -86,6 +88,7 @@ Against [[Isolated]] targets, when you [[Critical Strike|Crit]], you deal 3x [[R
 | **Action:**  | Move up to your [[Speed]] with the body of the character you just killed.<br>At the end of your Move, if you are in a location to [[Hide]], you can hide the body as part of this reaction. |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                   |
 
+When you [[Critical Strike|Crit]] against a non-[[Elite]] enemy outside of combat, they die.
 
 ## Dervish
 
@@ -102,7 +105,7 @@ Roguish Charm / Swashbucklery
 | **Action:** | The [[Rules/Characters/index\|Character]] loses 1 [[Item Points\|Item Point]], if they do you regain 1. |
 | **Tags:**   | [[Rules/Actions/index\|Action]]                                                                         |
 
-Anything you disarm, you take instead.
+When you disarm a [[Rules/Characters/index|Character]], instead of the item dropping to the floor, you may take the item and you may choose to stow it.
 # Ideas
 
 Fast:

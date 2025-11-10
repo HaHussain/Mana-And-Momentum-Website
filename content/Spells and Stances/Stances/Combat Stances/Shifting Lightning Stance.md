@@ -1,6 +1,3 @@
----
-icon: RaLightningTrio
----
 # Stance
 
 |               | Shifting Lightning Strikes Thrice |

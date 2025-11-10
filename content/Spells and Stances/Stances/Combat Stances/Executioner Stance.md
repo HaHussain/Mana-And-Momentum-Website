@@ -1,6 +1,3 @@
----
-icon: GiBatteredAxe
----
 # Stance
 The Executioner's Stance aims to target weakened and hurt enemies and crush them with overwhelming power, eventually automatically killing any foe.
 

@@ -1,6 +1,3 @@
----
-icon: RaCrossbow
----
 # Stance
 The Hunter's Stance and Techniques focus on targeting lone and solitary targets to disable them before their allies can regroup.
 
