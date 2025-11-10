@@ -52,7 +52,7 @@ The Rogue can spend 1 [[Momentum]] to reduce the time it takes to use a [[Tool]]
 You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
 Roll a [[Dexterity]] [[Infiltrate]] check, for every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].
 
-When the Rogue uses a [[Consumable]] they can ignore all of its effects until the end of the Round.
+When the Rogue uses a [[Consumables|Consumable]] they can ignore all of its effects until the end of the Round.
 
 
 ## Other

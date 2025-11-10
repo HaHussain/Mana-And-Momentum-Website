@@ -37,7 +37,7 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]]. 
 That character gains [[Advantage]] on their first roll with this item this [[Scenes|Scene]].
 - If the Item is a [[Weapons|Weapon]] then the Character can immediately stow any number of Weapons and equip the tossed Weapon.
-- If the Item is a [[Consumable]] then the Character can immediately consume it.
+- If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it.
 
 
 ## Re-Stock
