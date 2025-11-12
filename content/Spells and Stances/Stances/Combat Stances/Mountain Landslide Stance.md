@@ -3,18 +3,18 @@
 |               | Mountain Landslide Smothers the World                                                                                                                          |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | At the start of each of your turns, you may move a same [[Size]] [[Object]] that was created this [[Scenes\|Scene]] within [[Range]] 5, to an adjacent square. |
-| **Momentum:** |                                                                                                                                                                |
-| **Tags:**     |                                                                                                                                                                |
+| **Momentum:** | Gain 1 [[Momentum]] for each same [[Size]] or larger [[Object]] adjacent to you at the end of each of your turns.                                              |
+| **Tags:**     | [[Spells and Stances/Stances/index\|Stance]], [[Defensive]], [[Elemental Type\|Earth]], [[Imbuement]]                                                          |
 
 # Techniques
 
-|             | Earthern Wall                                                                                                                                                                                       |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | 7                                                                                                                                                                                                   |
-| **Cost:**   | 2 + 2 [[Boost]]                                                                                                                                                                                     |
-|             |                                                                                                                                                                                                     |
-| **Effect:** | Create (1 + [[Boost]]) [[Object\|Objects]] within [[Seek]] all continguous.<br>Each of these [[Object\|Objects]] have:<br>**[[Health Points\|HP]]**: 5<br>**[[Defence]]**: 5, **[[Deflection]]**: 5 |
-| **Tags:**   |                                                                                                                                                                                                     |
+|             | Earthern Wall                                                                                                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | 7                                                                                                                                                                                                              |
+| **Cost:**   | 2 + 2 [[Boost]]                                                                                                                                                                                                |
+|             |                                                                                                                                                                                                                |
+| **Effect:** | Create (1 + [[Boost]]) [[Size]] 1 [[Object\|Objects]] within [[Seek]], all contiguous.<br>Each of these [[Object\|Objects]] have:<br>**[[Health Points\|HP]]**: 5<br>**[[Defence]]**: 5, **[[Deflection]]**: 5 |
+| **Tags:**   | [[Elemental Type\|Earth]]                                                                                                                                                                                      |
 
 |             | Stomp                                                                |
 | ----------- | -------------------------------------------------------------------- |
