@@ -1,0 +1,2 @@
+Techniques are specific actions that often belong to a specific [[Spells and Stances/Stances/index|Stance]], they can taken by expending [[Momentum]] while in the required [[#Stances|Stance]].
+[[Momentum]] is only spent when that action is taken.

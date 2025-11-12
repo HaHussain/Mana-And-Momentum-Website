@@ -35,11 +35,12 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 ## All Consuming
 
-|             | Rage                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Extra]]: 1                                                                                           |
-| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If they are [[Bloodied]], this automatically triggers. |
-| **Tags:**   | [[Mental]]                                                                                             |
+|             | Rage                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                                                                                 |
+| **Cost:**   | 1 [[Momentum]]                                                                               |
+| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If you are [[Bloodied]], this costs nothing. |
+| **Tags:**   | [[Mental]]                                                                                   |
 
 
 ## Strength beyond Strength

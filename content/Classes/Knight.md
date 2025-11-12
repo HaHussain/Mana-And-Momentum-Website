@@ -33,12 +33,13 @@ Choose 1 of:
 # Abilities
 
 ## Effort
+The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
+
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
 When the Knight [[Exert|Exerts]] to retry a [[Skill]] roll they may add +1d6 to the roll. 
 When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d6 to the [[Hit]] roll of all [[Strike|Strikes]] during that action.
 
 ## A
-The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] their choice.
 The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
 The Knight starts with +1 [[Factions#Reputation|Reputation]] with [[Factions#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.

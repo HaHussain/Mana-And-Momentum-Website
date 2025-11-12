@@ -11,3 +11,4 @@ We recommend
 ## Getting Started
 
 [[Classes/index|Classes]]
+[[Making a Character]]

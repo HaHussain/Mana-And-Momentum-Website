@@ -6,7 +6,7 @@ icon: RaCastleFlag
 # Overview
 Commander is a Support Martial that directs allies and controls what they do.
 
-| Level | Feature |
+| Level | Ability |
 | ----- | ------- |
 | 1     |         |
 | 2     |         |
@@ -18,10 +18,43 @@ Commander is a Support Martial that directs allies and controls what they do.
 | 8     |         |
 | 9     |         |
 | 10    |         |
+# Health 
+When you gain Level in Commander, you gain +2 [[Health Points|Max HP]].
 
-# Features
+# Custom Triggers
+Choose 1 of:
+- When the Commander creates a plan or tactic, they gain 1d4 [[Momentum]] when they begin executing that plan.
+- When the Commander leads a group of non-players, they gain 1d4 [[Momentum]].
+- When the Commander , they gain 1d4 [[Momentum]].
+
+# Fortress Bonus
+The [[Fortress]] 
+
+# Abilities
+
+## Dictate Order
+
+The commander gains the following action:
+
+|               | Dictate Order                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | Variable                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Target:**   | 1 [[Ally]] in [[Seek]]                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Duration:** | -                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Action:**   | Choose an action (this action gains the Tempo of that action) and an [[Ally]] in [[Seek]].<br>That [[Ally]] can use their [[Rules/Actions/Tags/Reaction\|Reaction]] to take a turn to perform that action.<br><br>The commander can spend a [[Momentum]] to either<br>Reduce the cost of the first [[Technique]] that ally takes on that turn by 2.<br>Or allow that ally to use a [[Technique]] that the commander can currently use. |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                        |
+
 
 # Class Focuses
+
+
+|     | Banneret | Mastermind |
+| --- | -------- | ---------- |
+| 2   |          |            |
+| 4   |          |            |
+| 6   |          |            |
+| 8   |          |            |
+
 
 # Ideas
 

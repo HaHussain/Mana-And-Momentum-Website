@@ -36,12 +36,12 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 ## Quick Toss
 When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]]. 
 That character gains [[Advantage]] on their first roll with this item this [[Scenes|Scene]].
-- If the Item is a [[Weapons|Weapon]] then the Character can immediately stow any number of Weapons and equip the tossed Weapon.
+- If the Item is a [[Weapons|Weapon]] or [[Shields|Shield]] then the Character can immediately stow any number of item and equip the tossed item.
 - If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it.
 
 
 ## Re-Stock
-The Quartermaster gains an additional number of Maximum [[Item Points]] equal to (Half their Level) rounded up and [[Item Points]] weigh 0.
+The Quartermaster gains an additional number of Maximum [[Item Points]] equal to ([[TL]] / 2) and [[Item Points]] weigh 0.
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.
 When the Quartermaster attempts to sell an item, they can mark it up by 25% of usual sale price.
@@ -73,7 +73,7 @@ When this ability is gained it applies retroactively to all [[Factions]] and [[R
 
 
 ## Quick Access
-The Quartermaster can spend 2 [[Momentum]] to perform a [[Free]]: [[Inventory]] action.
+The Quartermaster can spend 1 [[Momentum]] to perform a [[Free]]: [[Inventory]] action.
 
 # Class Focus
 
