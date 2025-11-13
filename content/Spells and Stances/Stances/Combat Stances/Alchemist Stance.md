@@ -8,12 +8,10 @@
 
 # Techniques
 
-|              |     |
-| ------------ | --- |
-| **Stance:**  |     |
-| **Tempo:**   |     |
-| **Cost:**    |     |
-|              |     |
-| **Trigger:** |     |
-| **Effect:**  |     |
-| **Tags:**    |     |
+|             | Custom Bomb Casing                                                                      |
+| ----------- | --------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Strike]]                                                                              |
+| **Cost:**   | 1 + 2 [[Boost]]                                                                         |
+|             |                                                                                         |
+| **Effect:** | When you throw a Bomb that is [[Circle]] x, change its AOE to [[Cone]] (x + [[Boost]]). |
+| **Tags:**   | [[Strike]]                                                                              |

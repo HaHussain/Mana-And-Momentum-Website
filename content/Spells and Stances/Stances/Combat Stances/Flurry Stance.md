@@ -3,7 +3,7 @@
 |               | Flurry Stance                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------ |
 | **Passive:**  | When you [[Attack]] with a [[Quick]] [[Weapons\|Weapon]], you gain +1 [[Strike\|Strikes]]. |
-| **Momentum:** | When you [[Hit]] the same target as your previous [[Strike]], gain a [[Momentum]].         |
+| **Momentum:** | Gain a [[Momentum]] for every target you [[Hit]] past the first.                           |
 | **Tags:**     |                                                                                            |
 
 # Techniques

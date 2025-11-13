@@ -34,8 +34,8 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 # Abilities
 
 ## Quick Toss
-When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]]. 
-That character gains [[Advantage]] on their first roll with this item this [[Scenes|Scene]].
+When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1). 
+Until the end of the next round, That character may add or subtract the Quartermaster's [[Intelligence|INT]] to a [[Hit]] or [[Effect]] roll involving that item.
 - If the Item is a [[Weapons|Weapon]] or [[Shields|Shield]] then the Character can immediately stow any number of item and equip the tossed item.
 - If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it.
 
