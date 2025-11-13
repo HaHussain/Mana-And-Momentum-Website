@@ -9,6 +9,7 @@ Roll ((3d4 drop lowest ) - 5) 6 times, recording them, then assigning one to eac
 Pick a [[Lineage]] and [[Culture]] and update Stats accordingly.
 
 Your [[Health Points|Max HP]] is equal to 10 + [[Fortitude]] + Class 1's Health Bonus + Class 2's Health Bonus
+Your [[Seek]] is [[Awareness]] squares (minimum 1), if your [[Awareness]] is less than +1, then your [[Seek]] becomes [[Orthogonal]].
 Your [[Weight|Max Weight]] is equal to 5 + [[Strength]].
 Grab [[Items]] up to your [[Max Weight|Weight]]
 Your [[Item Points|Max Item Points]] is equal to 2 + [[Intelligence]].
