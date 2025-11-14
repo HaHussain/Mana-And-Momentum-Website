@@ -8,6 +8,18 @@
 
 # Techniques
 
+## Incite Shame
+
+|             | Incite Shame                                                                                                                                                                                             |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  |                                                                                                                                                                                                          |
+| **Cost:**   | 2 + [[Boost]]                                                                                                                                                                                            |
+| **Target:** | 1 [[Rules/Characters/index\|Character]]                                                                                                                                                                  |
+|             |                                                                                                                                                                                                          |
+| **Action:** | When you [[Coerce]] someone and succeed, they become too humiliated to tell anyone unless it is [[Coerce\|Coerced]] out of them.<br>If you fail, they become less likely to tell anyone of your attempt. |
+| **Tags:**   |                                                                                                                                                                                                          |
+
+
 ## Start Combat
 
 |             | Start Combat                                                                           |
