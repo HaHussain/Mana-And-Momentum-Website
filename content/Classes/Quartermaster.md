@@ -118,7 +118,7 @@ The Quartermaster gains Armour Focus 1 with all [[Armour]] and Shield Focus 1 wi
 If the outfit from [[#Quick Change]] fits the tone of the scene, pick a [[Rules/Characters/index|Character]] also in your [[Seek]], then as a [[Mental]] ability, 
 
 ### Disguised Fittings
-When the Quartermaster outfits someone in an outfit, they manage to hide armour beneath it, this outfit is considered [[Armour#Studded Leather|Studded Leather]].
+When the Quartermaster outfits someone in an outfit, they manage to hide armour beneath it, this outfit is considered [[Armour#Hide Leather|Hide Leather]].
 
 The Quartermaster may [[Exert]] during a [[#Quick Change]] to produce an outfit that matches the uniform of a specific [[Factions|Faction]] that they have seen before, while wearing this outfit, the [[Rules/Characters/index|Character]] looks like they are part of the faction from a cursory glance.
 

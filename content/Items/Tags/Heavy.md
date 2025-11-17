@@ -1,0 +1,1 @@
+While wearing Heavy [[Armour]], do not add [[Dexterity|DEX]] to your [[Defence]].

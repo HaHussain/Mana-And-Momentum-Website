@@ -26,7 +26,7 @@ When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].
 Choose 1 of:
 - When the Berserker breaks something of value, they gain 1d4 [[Momentum]].
 - When the Berserker hurts someone or themselves when they didn't want to, they gain 1d4 [[Momentum]].
-- When the Berserker solves a problem with brute strength or endurance, they gain 1d4 [[Momentum]].
+- When the Berserker starts conflict or confrontation, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +? [[Health Points|Max HP]].
@@ -98,8 +98,9 @@ While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make
 ## Feral
 
 ### Bestial Instinct
-While not wearing [[Armour]], the Feral's body is considered [[Armour#Studded Leather|Studded Leather]].
-While wearing [[Armour#Studded Leather|Studded Leather]] the Feral may set their [[Deflection]] equal to their [[Fortitude|FOR]].
+While not wearing [[Armour]], the Berserkers's body is considered [[Armour#Hide Leather|Hide Leather]].
+While wearing Not-[[Heavy]] [[Armour]], the Berserker may set their [[Deflection]] equal to their [[Fortitude|FOR]].
+While wearing [[Heavy]] [[Armour]], the Berserker may ignore any [[Orthogonal]] tag on the Armour.
 
 When something in the Feral's [[Seek]] targets it with an ability or casts any spell, it immediately knows where it came from but not the nature of the spell or ability.
 

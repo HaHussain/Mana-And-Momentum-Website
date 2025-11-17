@@ -53,8 +53,3 @@ if the attacker is in [[Melee|Melee Range]], make a [[Strike]] against the attac
 **Focus 2:** 
 When you are included in a non-[[Arcing]] AoE ability, you can choose to take max damage from the ability. If you do, draw a line between you and the source, all targets behind you take no damage from the ability.
 **Tags:** [[One-Handed]]
-
-Focuses:
-Gain Some [[deflection]]
-Shield Wall? Maybe feat
-Increase Shield Adjacency? Maybe feat

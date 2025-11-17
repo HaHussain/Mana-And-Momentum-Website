@@ -6,6 +6,17 @@ icon: RaKnightHelmet
 # Overview
 Knight is a simple class of weapon and armour mastery and doing more with them. Knight have put more raw effort and practise than anyone else.
 
+**Stats:** ([[Strength|STR]] or [[Dexterity|DEX]]) and [[Fortitude|FOR]]
+**Complexity:** Easy
+**Health**: High
+
+## Quick Build
+**Weapons:** Sword or a weapon with big range.
+**Shield**: Heater
+**Armour:** Titan Plate
+**Skills:** Persuade, Physique, Society
+
+
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
 | 1     | [[#Effort]]                       |
@@ -23,9 +34,9 @@ When you gain Level in Knight, you gain +3 [[Health Points|Max HP]].
 
 # Custom Triggers
 Choose 1 of:
-- When the Knight protects someone that cannot protect themselves, gain a [[Momentum]].
-- When the Knight protects or fights for the common [[Factions#Folk|Folk]], gain a [[Momentum]].
-- When the Knight chooses to persevere after a set-back, gain a [[Momentum]].
+- When the Knight suffers in the place of another, gain 1d4 [[Momentum]].
+- When the Knight protects or fights for the common [[Factions#Folk|Folk]], gain 1d4 [[Momentum]].
+- When the Knight chooses to persevere after a set-back or chooses to fight against overwhelming odds, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 
