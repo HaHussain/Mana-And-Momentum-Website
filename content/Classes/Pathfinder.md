@@ -6,9 +6,15 @@ icon: LiMap
 # Overview
 The Pathfinder is all about mobility and movement and scouting.
 
+**Health:** Low
+**Complexity:** Medium
+**Stats:** [[Dexterity|DEX]] and [[Awareness|AWR]]
+**Combat Strategy:** [[Mark]] and [[Attack]] with ranged weapons and [[Move]] to find optimal positions. 
+Use your companion to help you do one of these things.
+
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
-| 1     | [[#Seeking Companion]]            |
+| 1     | [[#Animal Companion]]             |
 | 2     | [[#Class Focuses\|Class Focus]] 1 |
 | 3     | [[#Marky]]                        |
 | 4     | [[#Class Focuses\|Class Focus]] 2 |
@@ -18,6 +24,12 @@ The Pathfinder is all about mobility and movement and scouting.
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     | [[#Speed Again?]]                 |
 | 10    | [[#Final]]                        |
+## Quick Build
+
+**Weapons:** [[Weapons#Longbow|Longbow]] or [[Weapons#Rifle|Rifle]].
+**Armour:** [[Armour#Chain Mail|Chain Mail]]
+**Skills:** [[Insight]], [[Nature]], [[Search]], [[Traverse]]
+**Stance:** [[Hunter Stance]], [[Scout Stance]]
 
 # Health
 When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
@@ -34,12 +46,21 @@ The [[Fortress]] gains +2m [[Speed]].
 
 # Abilities
 
-## Seeking Companion
-The Pathfinder gains an [[Animal Companion]].
-- The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
-- While the Pathfinder's [[Animal Companion]] is in their [[Seek]], they are considered also in the same place as their [[Animal Companion]] for calculating [[Seek]].
-- If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
+## Animal Companion
+The Pathfinder gains an [[Animal Companion]], choose one of the three following companions:
+If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
 
+A [[Size]] 1/2 [[Fly|Flying]] scouting animal:
+- The [[Animal Companion]] can take the [[Extra]]: [[Mark]] action.
+- While the Pathfinder's [[Animal Companion]] is in their [[Seek]], the [[Animal Companion]]'s [[Seek]] counts as theirs.
+
+A [[Size]] 1 [[Climb|Climbing]] battle animal:
+- The [[Animal Companion]] can take the [[Extra]]: Standard [[Attack]] action.
+- The [[Animal Companion]] can use any of your [[Technique|Techniques]].
+
+A [[Size]] 2 riding animal:
+- The [[Animal Companion]] can take the [[Free]]: [[Move]] action.
+- While riding your [[Animal Companion]], any Movement bonuses apply to it.
 
 ## Marky
 The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 

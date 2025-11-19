@@ -3,7 +3,9 @@ tags:
   - Debuff
 icon: RaTargeted
 ---
-This character has been Marked by another character.
+This character has been Marked by another character as a target.
 
 When they are targeted by a [[Strike]], the attacker can consume this condition to gain +1d6 to the [[Hit]] roll.
-Marked can only be consumed by an ally of the Marker or the Marker themselves.
+Rolls to [[Search|find]] or [[Nature|track]] a Marked character gain +1d6 to the roll.
+
+Marked can only be used or consumed by an ally of the Marker or the Marker themselves.

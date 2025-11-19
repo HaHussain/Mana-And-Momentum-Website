@@ -9,12 +9,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Health:** High
 **Complexity:** Easy
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
-**Combat Strategy:** Run up to enemies and hit them till they die. Or throw enemies or objects around.
-
-**Weapons:** [[Weapons#Greataxe|Greataxe]]
-**Armour:** None or [[Armour#Titan Plate|Titan Plate]]
-**Skills:** [[Coerce]], [[Nature]], [[Physique]], [[Traverse]]
-**Stance:** [[Juggernaut Stance]], [[Intimidator Stance]]
+**Combat Strategy:** Run up to enemies and [[Attack]] them till they die. Or throw enemies and objects around.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -28,6 +23,12 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     | [[#Initiate Violence]]            |
 | 10    | [[#Violence]]                     |
+## Quick Build
+
+**Weapons:** [[Weapons#Greataxe|Greataxe]]
+**Armour:** None or [[Armour#Titan Plate|Titan Plate]]
+**Skills:** [[Coerce]], [[Nature]], [[Physique]], [[Traverse]]
+**Stance:** [[Juggernaut Stance]], [[Intimidator Stance]]
 
 # Health 
 When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].

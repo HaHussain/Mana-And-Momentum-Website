@@ -6,6 +6,11 @@ icon: RaCog
 # Overview
 Tinkers are technological minded, creating custom items and unlocking potential where there is none.
 
+**Health**: Low
+**Complexity:** High
+**Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
+**Combat Strategy:** Customise any item to support any play-style, then give them to your allies. Use [[Inventory]] actions to make [[Consumables]] on the fly.
+
 | Level | Abilities |
 | ----- | --------- |
 | 1     |           |
@@ -18,6 +23,13 @@ Tinkers are technological minded, creating custom items and unlocking potential 
 | 8     |           |
 | 9     |           |
 | 10    |           |
+## Quick Build
+
+**Weapons:** [[Weapons#Rifle|Rifle]] or 2 [[Weapons#Pistol|Pistols]]
+**Armour:** [[Armour#Chain Mail|Chain Mail]]
+**Skills:** [[Arcana]], [[Infiltrate]], [[Persuade]], [[Tech]]
+**Stance:** ???, [[Hacker Stance]]
+
 # Health 
 When you gain Level in Tinker, you gain +1 [[Health Points|Max HP]].
 

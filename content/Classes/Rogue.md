@@ -6,6 +6,12 @@ icon: RaHood
 # Overview
 Rogues are all about stealth and often criminal networks
 
+**Health:** Low
+**Complexity:** Low
+**Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
+**Combat Strategy:** Attack [[Quick]] and as many times as possible to kill debuffed enemies. Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] and [[Critical Strike|Crits]].
+[[Slow]] attack to move in one turn and then [[Quick]] attack to move out on the next to avoid being hit. [[Hide]] to stop being targeted.
+
 | Level | Class Abilities      |
 | ----- | -------------------- |
 | 1     | [[#Strike Weakness]] |
@@ -18,6 +24,13 @@ Rogues are all about stealth and often criminal networks
 | 8     |                      |
 | 9     |                      |
 | 10    |                      |
+## Quick Build
+
+**Weapons:** 2 [[Weapons#Dagger|Daggers]] and a [[Weapons#Shortbow|Shortbow]]
+**Armour:** [[Armour#Hide Leather|Hide Leather]]
+**Skills:** [[Deceive]], [[Infiltrate]], [[Search]], [[Society]]
+**Stance:** [[Flurry Stance]], [[Cunning Stance]]
+
 # Health
 When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].
 
@@ -33,7 +46,8 @@ The [[Fortress]]
 # Abilities
 
 ## Strike Weakness
-When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]].
+When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]], (If you consume [[Marked]], it still counts).
+When the Rogue makes a [[Social]] roll, they can spend a [[Momentum]] to gain a +1 to the roll for each [[Statuses and Conditions/index|Debuff]].
 
 The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden alongside their usual words. 
 The Rogue can use this to talk to any [[Rules/Characters/index|Character]] in the same [[Factions|Faction]] or Party as them.

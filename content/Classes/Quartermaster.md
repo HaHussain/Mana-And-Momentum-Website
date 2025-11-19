@@ -6,6 +6,11 @@ icon: LiPickaxe
 # Overview
 Quartermaster is specialised on being armed with a lot of tools and being able to pick up items easily.
 
+**Health**: Medium
+**Complexity:** Medium
+**Stats:** [[Strength|STR]] and [[Awareness|AWR]]
+**Combat Strategy:** Use [[Inventory]] actions to throw [[Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
+
 | Level | Class Abilities          | Martial Abilities                                                                                                             |
 | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Stances/Stances/index\|Combat Stance]], [[Spells and Stances/Stances/index\|Social Stance]] |
@@ -18,6 +23,13 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | 8     | [[#Class Focus]] 4       |                                                                                                                               |
 | 9     | [[#Quantity of Quality]] |                                                                                                                               |
 | 10    | [[#Quick Access]]        |                                                                                                                               |
+## Quick Build
+
+**Weapons:** [[Weapons#Hammer|Hammer]] and [[Weapons#Crossbow|Crossbow]]
+**Shield**: [[Shields#Hoplon Shield|Hoplon]]
+**Armour:** [[Armour#Titan Plate|Titan Plate]]
+**Skills:** [[Deceive]], [[Infiltrate]], [[Persuade]], [[Society]]
+**Stance:** 
 
 # Health
 When you gain Level in Quartermaster, you gain +2 [[Health Points|Max HP]].
@@ -35,9 +47,9 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 
 ## Quick Toss
 When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1). 
-Until the end of the next round, That character may add or subtract the Quartermaster's [[Intelligence|INT]] to a [[Hit]] or [[Effect]] roll involving that item.
-- If the Item is a [[Weapons|Weapon]] or [[Shields|Shield]] then the Character can immediately stow any number of item and equip the tossed item.
-- If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it.
+- If the Item is a [[Weapons|Weapon]] the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]] make a [[Strike]] with it.
+- If the Item is a [[Shields|Shield]] the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]], [[Guard]].
+- If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
 
 ## Re-Stock

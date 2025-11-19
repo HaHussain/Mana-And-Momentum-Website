@@ -6,6 +6,11 @@ icon: RaCastleFlag
 # Overview
 Commander is a Support Martial that directs allies and controls what they do.
 
+**Health:** Medium
+**Complexity:** High
+**Stats:** [[Awareness|AWR]] and [[Intelligence|INT]] or [[Instinct|INS]]
+**Combat Strategy:** Use [[#Dictate Order]] to double up on powerful moves or techniques and get your allies out of dangerous situations.
+
 | Level | Ability |
 | ----- | ------- |
 | 1     |         |
@@ -18,6 +23,13 @@ Commander is a Support Martial that directs allies and controls what they do.
 | 8     |         |
 | 9     |         |
 | 10    |         |
+## Quick Build
+
+**Weapons:** [[Weapons#Longspear|Longspear]] and [[Weapons#Hook and Chain|Hook and Chain]] or [[Weapons#Hand Cannon|Hand Cannon]]
+**Armour:** [[Armour#Titan Plate|Titan Plate]]
+**Skills:** [[Coerce]], [[Persuade]], [[Search]], [[Society]]
+**Stance:** ??? , [[Authority Stance]]
+
 # Health 
 When you gain Level in Commander, you gain +2 [[Health Points|Max HP]].
 
@@ -34,15 +46,17 @@ The [[Fortress]]
 
 ## Dictate Order
 
+When you allow an [[Ally]] to take an action, you may spend a [[Momentum]] to create 2 [[Momentum]] put on the first [[Technique]] that is part of that action.
+
 The commander gains the following action:
 
-|               | Dictate Order                                                                                                                                                                                                                                                                                                                                                           |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | Variable                                                                                                                                                                                                                                                                                                                                                                |
-| **Target:**   | 1 [[Ally]] in [[Seek]]                                                                                                                                                                                                                                                                                                                                                  |
-| **Duration:** | -                                                                                                                                                                                                                                                                                                                                                                       |
-| **Action:**   | Choose an action (this action gains the Tempo of that action) and an [[Ally]] in [[Seek]].<br>That [[Ally]] can use their [[Rules/Actions/Tags/Reaction\|Reaction]] to take a turn to perform that action and may use any of your available [[Technique\|Techniques]] when doing so.<br><br>Reduce the cost of the first [[Technique]] that is part of the action by 2. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                         |
+|               | Dictate Order                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | Variable                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Target:**   | 1 [[Ally]] in [[Seek]]                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Duration:** | -                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Action:**   | Choose an action (this action gains the Tempo of that action) and an [[Ally]] in [[Seek]].<br>That [[Ally]] can use their [[Rules/Actions/Tags/Reaction\|Reaction]] to take a turn to perform that action and may use any of your available [[Technique\|Techniques]] when doing so.<br>If they make an [[Attack]], this counts as you making an [[Attack]] for the [[Rules/Actions/index#Unique Action Restriction\|Unique Action Restriction]]. |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 
 # Class Focuses

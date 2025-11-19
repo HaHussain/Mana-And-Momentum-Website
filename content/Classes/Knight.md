@@ -9,13 +9,7 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 **Health**: High
 **Complexity:** Easy
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
-**Combat Strategy:** The Knight aims to protect people either by regularly [[Guard|Guarding]] with high [[Deflection]] or by controlling a large area with [[Melee#Attack of Opportunity|Attack of Opportunities]] with a [[Weapons|Weapon]] with a large melee range.
-
-**Weapons:** [[Weapons#Sword|Sword]] or [[Weapons#Greatsword|Greatsword]].
-**Shield**: [[Shields#Heater Shield|Heater]] or none
-**Armour:** [[Armour#Scale Mail|Scale Mail]]
-**Skills:** [[Insight]], [[Persuade]], [[Physique]], [[Society]]
-**Stance:** [[Warden Stance]], [[Charmer Stance]]
+**Combat Strategy:** [[Guard]] any allies being [[Mark|Marked]] or out of position, Stand next to enemies to hit them with [[Melee#Attack of Opportunity|Attack of Opportunities]] to stop them from moving.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -29,6 +23,14 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 | 8     | [[#Class Focuses\|Class Focus]] 4 |
 | 9     |                                   |
 | 10    | [[#Final]]                        |
+## Quick Build
+
+**Weapons:** [[Weapons#Sword|Sword]] or [[Weapons#Greatsword|Greatsword]].
+**Shield**: [[Shields#Heater Shield|Heater]] or none
+**Armour:** [[Armour#Scale Mail|Scale Mail]]
+**Skills:** [[Insight]], [[Persuade]], [[Physique]], [[Society]]
+**Stance:** [[Warden Stance]], [[Charmer Stance]]
+
 # Health 
 When you gain Level in Knight, you gain +3 [[Health Points|Max HP]].
 
