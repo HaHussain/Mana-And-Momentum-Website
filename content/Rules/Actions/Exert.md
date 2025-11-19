@@ -11,7 +11,7 @@ You may Exert yourself to do one of the following:
 - Exert during your turn: Gain 1d4 [[Momentum]].
 - Exert during your turn: Clear a [[Statuses and Conditions/index#Conditions|Condition]].
 - Exert during your turn: Reclaim 1 [[Spells and Stances/Spells/index|Mana]] from the lowest committed tier.
-- Exert when you fail a [[Skill]] roll: Retry any [[Skill]] roll.
+- Exert when you fail a [[Rules/Characters/Skills/index|Skill]] roll: Retry any [[Rules/Characters/Skills/index|Skill]] roll.
 - Exert during your turn: Say you have done something in the past to prepare yourself for the current event, the [[GM]] may say this results in 1-3 [[#Exertion]].
 
 When you Exert yourself, %%first SOMETHING, then%% you gain 1 [[#Exertion]].

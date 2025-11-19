@@ -1,11 +1,11 @@
 # Stance
 The Warden's Stance and Techniques are about reducing the damage you and your allies take. 
 
-|               | Warden Stance                                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Passive:**  | While you start your turn in Warden Stance, you may perform 2 [[Rules/Actions/Tags/Reaction\|Reactions]] per turn. |
-| **Momentum:** | Each time you reduce the damage your allies take in a turn, you gain a [[Momentum]].                               |
-| **Tags:**     | [[Defensive]], [[Spells and Stances/Stances/index\|Stance]]                                                        |
+|               | Warden Stance                                                                        |
+| ------------- | ------------------------------------------------------------------------------------ |
+| **Passive:**  | You may perform 2 [[Rules/Actions/Tags/Reaction\|Reactions]] per turn.               |
+| **Momentum:** | Each time you reduce the damage your allies take in a turn, you gain a [[Momentum]]. |
+| **Tags:**     | [[Defensive]], [[Spells and Stances/Stances/index\|Stance]]                          |
 
 # Techniques
 

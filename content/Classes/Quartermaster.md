@@ -99,16 +99,6 @@ The Quartermaster can spend 1 [[Momentum]] to perform a [[Free]]: [[Inventory]] 
 
 ## Weapon Master
 
-### Fuel the Assault
-When the Weapon Master uses [[#Quick Toss]] on a [[Weapons|Weapon]] or [[Ammo]], the target gains the following reaction for this turn:
-
-|              | ???                                                        |
-| ------------ | ---------------------------------------------------------- |
-| **Tempo:**   | [[Weapon Speed]]                                           |
-| **Trigger:** | [[#Quick Toss]]                                            |
-| **Action:**  | [[Strike]] with the tossed [[Weapons\|Weapon]] or [[Ammo]] |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                  |
-
 When a [[Rules/Characters/index|Character]] in the Weapon Master's [[Seek]], fails a roll with a [[Tool]], they can break the Tool and use [[#Quick Toss]] as a [[Rules/Actions/Tags/Reaction|Reaction]] to supply a new [[Tool]] to allow the target to retry the roll.
 
 

@@ -69,7 +69,7 @@ The Berserker gains the following action:
 
 While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...
 When the Berserker [[Exert|Exerts]] they can choose one of the following options:
-- When making a [[Strength|STR]] [[Rules/Rolls/index|roll]], your [[Strength|STR]] is considered 2x[[Strength|STR]] for any [[Skill]] [[Rules/Rolls/index|roll]] for that turn.
+- When making a [[Strength|STR]] [[Rules/Rolls/index|roll]], your [[Strength|STR]] is considered 2x[[Strength|STR]] for any [[Rules/Characters/Skills/index|Skill]] [[Rules/Rolls/index|roll]] for that turn.
 - When making a [[Strength|STR]] or [[Strike]] [[Rules/Rolls/index|roll]], be considered 1 [[Size]] larger for any [[Strength|STR]] related effects for that turn.
 
 

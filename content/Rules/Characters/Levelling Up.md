@@ -47,7 +47,7 @@ Every 3 levels, you add [[Fortitude]] to your [[Health Points|Max HP]].
 
 # Proficiency
 
-Gain 1 Proficiency point to add to [[Skill]] of your choice.
+Gain 1 Proficiency point to add to [[Rules/Characters/Skills/index|Skill]] of your choice.
 
 # Spellcasting
 

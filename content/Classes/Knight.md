@@ -49,7 +49,7 @@ Choose 1 of:
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
 
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
-When the Knight [[Exert|Exerts]] to retry a [[Skill]] roll they may add +1d6 to the roll. 
+When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll they may add +1d6 to the roll. 
 When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d6 to the [[Hit]] roll of all [[Strike|Strikes]] during that action.
 
 ## A
