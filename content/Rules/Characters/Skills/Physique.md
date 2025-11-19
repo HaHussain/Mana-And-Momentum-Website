@@ -1,5 +1,7 @@
+---
+icon: GiBiceps
+---
 Physique represents physical exertion and the body.
-
 
 # [[Strength]]
 

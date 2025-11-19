@@ -4,18 +4,18 @@ tags:
 icon: RaKnightHelmet
 ---
 # Overview
-Knight is a simple class of weapon and armour mastery and doing more with them. Knight have put more raw effort and practise than anyone else.
+Knight is a simple class of defending themselves and their allies. Knight have put more raw effort and practise than anyone else.
 
-**Stats:** ([[Strength|STR]] or [[Dexterity|DEX]]) and [[Fortitude|FOR]]
-**Complexity:** Easy
 **Health**: High
+**Complexity:** Easy
+**Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
+**Combat Strategy:** The Knight aims to protect people either by regularly [[Guard|Guarding]] with high [[Deflection]] or by controlling a large area with [[Melee#Attack of Opportunity|Attack of Opportunities]] with a [[Weapons|Weapon]] with a large melee range.
 
-## Quick Build
-**Weapons:** Sword or a weapon with big range.
-**Shield**: Heater
-**Armour:** Titan Plate
-**Skills:** Persuade, Physique, Society
-
+**Weapons:** [[Weapons#Sword|Sword]] or [[Weapons#Greatsword|Greatsword]].
+**Shield**: [[Shields#Heater Shield|Heater]] or none
+**Armour:** [[Armour#Scale Mail|Scale Mail]]
+**Skills:** [[Insight]], [[Persuade]], [[Physique]], [[Society]]
+**Stance:** [[Warden Stance]], [[Charmer Stance]]
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |

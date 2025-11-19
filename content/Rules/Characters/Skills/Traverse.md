@@ -1,3 +1,6 @@
+---
+icon: RaTrail
+---
 Traverse is a skill representing the skills to move, climb and swim.
 
 # [[Strength]]

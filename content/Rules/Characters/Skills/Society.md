@@ -1,3 +1,6 @@
+---
+icon: LiCastle
+---
 Society represents a capacity for history, politics, and economics - an understanding of complex intelligent societies and how they function.
 
 # [[Strength]]

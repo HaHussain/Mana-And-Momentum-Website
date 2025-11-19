@@ -3,7 +3,6 @@ icon: GiDualityMask
 ---
 The Deceive skill represents a character's ability to lie, manipulate through implications and half truths, as well as omit the truth. 
 
-
 # [[Fortitude]]
 
 The [[Fortitude]] Deceive skill deceives others but refusing to give anything away, remaining stoic and silent.

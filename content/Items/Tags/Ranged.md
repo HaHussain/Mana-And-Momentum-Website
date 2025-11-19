@@ -1,7 +1,8 @@
 ---
 icon: GiPocketBow
 ---
-A ranged weapon can strike targets from a distance up to its listed range.
+A ranged weapon can [[Strike]] targets from a distance up to its listed range.
+When you [[Strike]] with a ranged weapon, you may draw any [[Ammo]] from your inventory or [[Item Points]].
 
 However when target next to u, it no worky good :(
 

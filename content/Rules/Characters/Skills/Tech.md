@@ -1,3 +1,6 @@
+---
+icon: LiCog
+---
 Technology represents an individual's capabilities on technology, industry, and engineering.
 
 # [[Dexterity]]

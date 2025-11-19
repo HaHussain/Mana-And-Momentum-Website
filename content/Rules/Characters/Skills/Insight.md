@@ -3,7 +3,6 @@ icon: LiScanEye
 ---
 The Insight skill represents the ability to analyse people, to find their motives, to read a room, and pierce through deceptions.
 
-
 # [[Awareness]]
 
 Insight Awareness is a roll to analyse a character's body language, and try to learn their emotional state from hints and clues.

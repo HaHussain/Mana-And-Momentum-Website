@@ -1,5 +1,7 @@
+---
+icon: RiSearchEyeFill
+---
 The Search skill is your capability of gaining information by spotting hidden things and deducing more from those things.
-
 
 # [[Dexterity]]
 

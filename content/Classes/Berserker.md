@@ -6,6 +6,16 @@ icon: RaAxe
 # Overview
 Berserkers are offensive based, lose control to gain benefits, take penalties to gain benefits. Reckless.
 
+**Health:** High
+**Complexity:** Easy
+**Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
+**Combat Strategy:** Run up to enemies and hit them till they die. Or throw enemies or objects around.
+
+**Weapons:** [[Weapons#Greataxe|Greataxe]]
+**Armour:** None or [[Armour#Titan Plate|Titan Plate]]
+**Skills:** [[Coerce]], [[Nature]], [[Physique]], [[Traverse]]
+**Stance:** [[Juggernaut Stance]], [[Intimidator Stance]]
+
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
 | 1     | [[#All Consuming]]                |

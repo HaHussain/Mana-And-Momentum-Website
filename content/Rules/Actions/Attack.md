@@ -7,7 +7,7 @@ Tempo: 5
 
 The Attack action lets you make a [[Strike]] with a weapon you are holding.
 
-There are three Attack actions per round, each corresponding to a different [[#Weapon Speed]], each Attack action is a different action for the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].
+There are three Attack actions per round, each corresponding to a different [[#Weapon Speed]], each Attack action is the same action for the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].
 
 # Weapon Speed
 There are three Weapons Speeds:

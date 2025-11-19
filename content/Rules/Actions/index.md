@@ -20,18 +20,20 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | -------------------- | ----- | ------------------------------------------------------------------------- |
 | [[Scan]]             | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
 | [[Mark]]             | 2     | Focus on a single target to improve attacks against them.                 |
-| [[Quick]] [[Attack]] | 3     | Make a quick attack.                                                      |
+| [[Quick]] [[Attack]] | 3     | Make an attack with a quick weapon.                                       |
 | [[Move]]             | 4     | Move your speed.                                                          |
 | [[Guard]]            | 4     | Protect someone else.                                                     |
-| Standard [[Attack]]  | 5     | Make a standard attack.                                                   |
+| Standard [[Attack]]  | 5     | Make an attack.                                                           |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
+| [[Hide]]             | 6     | Hide behind objects.                                                      |
 | [[Switch Stance]]    | 6     | Switch stance from one to another.                                        |
-| [[Slow]] [[Attack]]  | 7     | Make a slow attack.                                                       |
+| [[Slow]] [[Attack]]  | 7     | Make an attack with a slow weapon.                                        |
 | [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
 | [[Magic]]            | ?     | Cast a spell.                                                             |
 # Unique Action Restriction
 
 When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.
+All [[Attack|Attacks]] count as the same action for this restriction. 
 If you gain an action from an ability, it is a unique action if it doesn't list another action under Tempo. If it does, then it is that action even if it occurs at a different Tempo than usual.
 
 [[Free]] actions ignore this rule.

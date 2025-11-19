@@ -3,7 +3,6 @@ icon: GiHunterEyes
 ---
 Coerce is the skill to use threats and negative emotions to control others to do what you want.
 
-
 # [[Strength]]
 
 The [[Strength]] Coerce skill allows individuals to threaten someone that you would enact violence to them or someone they care about with your physical might. Knowing and seeing your strength makes them believe it is possible and plausible.
