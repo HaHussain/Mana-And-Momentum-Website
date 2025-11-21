@@ -9,6 +9,7 @@ Rogues are all about stealth and often criminal networks
 **Health:** Low
 **Complexity:** Low
 **Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
+**Mechanics:** [[Tempo]], [[Statuses and Conditions/index|Debuff]], [[Hide]]
 **Combat Strategy:** Attack [[Quick]] and as many times as possible to kill debuffed enemies. Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] and [[Critical Strike|Crits]].
 [[Slow]] attack to move in one turn and then [[Quick]] attack to move out on the next to avoid being hit. [[Hide]] to stop being targeted.
 

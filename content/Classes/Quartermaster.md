@@ -9,6 +9,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Health**: Medium
 **Complexity:** Medium
 **Stats:** [[Strength|STR]] and [[Awareness|AWR]]
+**Mechanics:** [[Teamwork]], [[Items]]
 **Combat Strategy:** Use [[Inventory]] actions to throw [[Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
 
 | Level | Class Abilities          | Martial Abilities                                                                                                             |
@@ -36,9 +37,9 @@ When you gain Level in Quartermaster, you gain +2 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Quartermaster buys, sells, or gifts a specific Item, they gain a [[Momentum]].
-- When the Quartermaster has the perfect item for the tone or the problem, they gain a [[Momentum]].
-- When the Quartermaster uses money to solve a problem, they gain a [[Momentum]].
+- When the Quartermaster buys, sells, or gifts a specific Item, they gain 1d4 [[Momentum]].
+- When the Quartermaster has the perfect item for the tone or the problem, they gain 1d4 [[Momentum]].
+- When the Quartermaster uses money to solve a problem, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].

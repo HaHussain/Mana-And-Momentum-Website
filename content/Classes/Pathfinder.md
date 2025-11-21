@@ -9,6 +9,7 @@ The Pathfinder is all about mobility and movement and scouting.
 **Health:** Low
 **Complexity:** Medium
 **Stats:** [[Dexterity|DEX]] and [[Awareness|AWR]]
+**Mechanics:** [[Mark]], [[Seek]], [[Animal Companion]], [[Traps]], [[Move]]
 **Combat Strategy:** [[Mark]] and [[Attack]] with ranged weapons and [[Move]] to find optimal positions. 
 Use your companion to help you do one of these things.
 
@@ -60,7 +61,7 @@ A [[Size]] 1 [[Climb|Climbing]] battle animal:
 
 A [[Size]] 2 riding animal:
 - The [[Animal Companion]] can take the [[Free]]: [[Move]] action.
-- While riding your [[Animal Companion]], any Movement bonuses apply to it.
+- While riding your [[Animal Companion]], any of your Movement bonuses apply to it.
 
 ## Marky
 The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
@@ -71,7 +72,7 @@ When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend
 
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:
-- What Movement Types, [[Speed|Speeds]], and [[Armour#Weight Penalty|Restrictions]] does the Character have?
+- What Movement Types and [[Speed|Speeds]] does the Character have and Is their [[Speed]] [[Orthogonal]]?
 - What senses does the Character have?
 - What is the size of the Character's [[Seek]]?
 - Where is that Character going to move next?

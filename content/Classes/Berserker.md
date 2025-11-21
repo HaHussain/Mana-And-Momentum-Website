@@ -9,6 +9,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Health:** High
 **Complexity:** Easy
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
+**Mechanics:** [[Attack]], [[Exert]]
 **Combat Strategy:** Run up to enemies and [[Attack]] them till they die. Or throw enemies and objects around.
 
 | Level | Class Abilities                   |
