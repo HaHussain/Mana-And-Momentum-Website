@@ -14,6 +14,7 @@ Spells work like a column, you must learn the bottom tier to get the tier above.
 Sorcerer (if we have one) can ignore this
 
 Mob rules: https://ninesides.substack.com/p/mob-rules-for-d-and-d-5e ?
+Savage Isles / West Marches with Fortress: https://substack.com/inbox/post/177695916
 
 ---
 # Stats

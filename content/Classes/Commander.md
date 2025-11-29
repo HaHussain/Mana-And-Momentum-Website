@@ -9,7 +9,7 @@ Commander is a Support Martial that directs allies and controls what they do.
 **Health:** Medium
 **Complexity:** High
 **Stats:** [[Awareness|AWR]] and [[Intelligence|INT]] or [[Instinct|INS]]
-**Mechanics:** [[Teamwork]], Auras
+**Mechanics:** [[Teamwork]], Auras, [[Statuses and Conditions/index#Buffs|Buffs]]
 **Combat Strategy:** Use [[#Dictate Order]] to double up on powerful moves or techniques and get your allies out of dangerous situations.
 
 | Level | Ability |
