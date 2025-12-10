@@ -11,7 +11,8 @@ title: Classes
 | [[Berserker]]     | [[Archon]]     | [[Diviner]]     |
 | [[Commander]]     | [[Bard]]       | [[Druid]]       |
 | [[Knight]]        | [[Chimera]]    | [[Etcher]]      |
-| [[Pathfinder]]    | [[Oathsworn]]  | [[Hierophant]]  |
-| [[Quartermaster]] | [[Spellblade]] | [[Necromancer]] |
-| [[Rogue]]         | [[Inquisitor]]      | [[Witch]]       |
+| [[Pathfinder]]    | [[Inquisitor]] | [[Hierophant]]  |
+| [[Quartermaster]] | [[Oathsworn]]  | [[Necromancer]] |
+| [[Rogue]]         | [[Spellblade]] | [[Witch]]       |
 | [[Tinker]]        | [[Vessel]]     | [[Wizard]]      |
+
