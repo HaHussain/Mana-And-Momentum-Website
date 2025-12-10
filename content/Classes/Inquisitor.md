@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-Synic's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users and connect with their allies.
+Inquisitor's hold the domain over connection and minds, they use their psychic abilities to debilitate magic users and connect with their allies.
 
 | Level | Feature |
 | ----- | ------- |

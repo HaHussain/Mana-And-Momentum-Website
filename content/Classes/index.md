@@ -13,5 +13,5 @@ title: Classes
 | [[Knight]]        | [[Chimera]]    | [[Etcher]]      |
 | [[Pathfinder]]    | [[Oathsworn]]  | [[Hierophant]]  |
 | [[Quartermaster]] | [[Spellblade]] | [[Necromancer]] |
-| [[Rogue]]         | [[Synic]]      | [[Witch]]       |
+| [[Rogue]]         | [[Inquisitor]]      | [[Witch]]       |
 | [[Tinker]]        | [[Vessel]]     | [[Wizard]]      |

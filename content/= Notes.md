@@ -126,7 +126,7 @@ Intuition - Focus, Insight, Animal Handling
     Quartermaster - SUPPLY
     Rogue - STEAL
     Spellblade - ENCHANT
-    Synic - CONNECT
+    Inquisitor - CONNECT
     Tinker - ENGINEER
     Vessel - BRIDGE
     Witch - REPAY
@@ -374,7 +374,7 @@ Rogue:
 Spellblade:
 - Enchant (Arcana)
 - ???
-Synic:
+Inquisitor:
 - Mind stuff
 - Connect to people (Insight / Society)
 - Know about magic (Arcana)
