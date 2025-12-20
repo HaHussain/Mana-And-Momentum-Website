@@ -27,7 +27,14 @@
   }
   
   // Remove min-width on mobile 
-  table-container > table td {
+  .table-container > table td {
     min-width: 0 !important;
+    padding: 0 0.4rem;
+  }
+
+  blockquote {
+    border-left: 2px solid var(--secondary);
+    margin: 8px 0;
+    padding-left: 8px;
   }
 }
