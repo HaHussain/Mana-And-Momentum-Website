@@ -66,10 +66,10 @@ Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Charac
 Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
 Each outfit gives the wearer [[Immunity]] to one [[Statuses and Conditions/index|Condition]].
 
-<example>
+<div class="example">
 A classic powerful outfit may give [[Immunity]] to [[Weak]], <br/>
 A spiky, dangerous and overt outfit may give [[Immunity]] to [[Numb]].
-</example>
+</div>
 
 
 # Defence
