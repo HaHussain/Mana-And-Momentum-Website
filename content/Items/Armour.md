@@ -61,6 +61,16 @@ Tags: [[Heavy]]
 Armour Focus 1:
 Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Characters/index|Characters]] and perform [[Push]] 1.
 
+# Outfits
+
+Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
+Each outfit gives the wearer [[Immunity]] to one [[Statuses and Conditions/index|Condition]].
+
+<example>
+A classic powerful outfit may give [[Immunity]] to [[Weak]], <br/>
+A spiky, dangerous and overt outfit may give [[Immunity]] to [[Numb]].
+</example>
+
 
 # Defence
 ![[Defence]]

@@ -46,6 +46,9 @@ Choose 1 of:
 
 # Abilities
 
+## Guardian
+When the Knight takes the [[Guard]] action, they may move alongside the target of their Guard whenever they do, as long as their maintain adjacency.
+
 ## Effort
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
 
