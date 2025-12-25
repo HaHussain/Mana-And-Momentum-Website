@@ -414,3 +414,23 @@ Wizard:
 | **Society**    |
 | Tech           |
 | **Traverse**   |
+
+# Mermaid Test
+
+```mermaid
+flowchart TD
+    A[User opens page] --> B{Mermaid supported?}
+    B -->|Yes| C[Diagram renders correctly]
+    B -->|No| D[Raw text is shown]
+    C --> E[Test passes]
+    D --> E[Test fails]
+```
+
+&lt;pre&gt;&lt;code class="language-mermaid"&gt;
+flowchart TD
+    A[User opens page] --&gt; B{Mermaid supported?}
+    B --&gt;|Yes| C[Diagram renders correctly]
+    B --&gt;|No| D[Raw text is shown]
+    C --&gt; E[Test passes]
+    D --&gt; E[Test fails]
+&lt;/code&gt;&lt;/pre&gt;
