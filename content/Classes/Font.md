@@ -4,7 +4,7 @@ tags:
 icon: RaMoonSun
 ---
 # Overview
-The Hierophant is a support mage that extends themselves to their allies, acting on their behalf, buffing them in unique ways. The Hierophant is religiously motifed but this can be pagan.
+The Font is a wellspring of magic, able to conjure up massive amounts of mana and distribute them to their allies. Focusing on a specific element allows them to fulfil whichever role they wish.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
