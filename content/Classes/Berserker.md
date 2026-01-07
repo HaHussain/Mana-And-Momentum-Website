@@ -47,25 +47,32 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 ## All Consuming
 
-|             | Rage                                                                                         |
-| ----------- | -------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                                                                                 |
-| **Cost:**   | 1 [[Momentum]]                                                                               |
-| **Action:** | Become [[Enraged]] until Tempo 1 next round.<br>If you are [[Bloodied]], this costs nothing. |
-| **Tags:**   | [[Mental]]                                                                                   |
+|             | Rage                                                                                   |
+| ----------- | -------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                                                                           |
+| **Cost:**   | 1 [[Momentum]]                                                                         |
+| **Action:** | Become [[Enraged]] until end of Scene.<br>If you are [[Bloodied]], this costs nothing. |
+| **Tags:**   | [[Mental]]                                                                             |
 
+When the Berserker applies [[Grappled]] to someone, that counts as a debuff for [[Overwhelmed]].
+
+When the Berserker is [[Grappling]] a [[Rules/Characters/index|Character]], [[Grappled]] and [[Isolated]] count as debuffs for [[Overwhelmed]].
+
+The Berserker can spend 1 [[Momentum]] to add their current [[Momentum]] value to a skill check to apply a [[Statuses and Conditions/index|Debuff]] to a [[Rules/Characters/index|Character]] they are speaking to.
+
+The Berserker can choose to accidentally give away in a fit of rage or passion something they are [[vulnerable]] to, to a [[Rules/Characters/index|Character]] they are talking to, in order to make that [[Rules/Characters/index|Character]] [[vulnerable]] to the current argument.
 
 ## Strength beyond Strength
 The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice.
 
 The Berserker gains the following action:
 
-|             | Great Throw                                                                                                                                                                                                                                                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Strike]]                                                                                                                                                                                                                                                                                                                     |
-| **Target:** | 1 target at most 1 [[Size]] smaller than you in [[Range]] 1                                                                                                                                                                                                                                                                    |
-| **Action:** | Roll to [[Grapple]],<br>On success [[Arcing]] [[Push]] 2x[[Strength\|STR]]<br>If the spot pushed to has an [[Object]], do full [[Push]] damage.<br>If the spot pushed to has a [[Rules/Characters/index\|Character]], roll a [[Strength\|STR]] [[Ranged]] [[Strike]], dealing full [[Push]] damage to both targets on [[Hit]]. |
-| **Tags:**   | [[Strike]], [[Grapple]]                                                                                                                                                                                                                                                                                                        |
+|             | Great Throw                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Strike]]                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Target:** | 1 target at most 1 [[Size]] smaller than you in [[Range]] 1                                                                                                                                                                                                                                                                                                                                              |
+| **Action:** | If the target is a [[Rules/Characters/index\|Character]], roll to [[Grapple]],<br>On success [[Arcing]] [[Push]] 2x[[Strength\|STR]]<br>If the spot pushed to has an [[Object]], do full [[Push]] damage to both targets.<br>If the spot pushed to has a [[Rules/Characters/index\|Character]], roll a [[Strength\|STR]] [[Ranged]] [[Strike]], dealing full [[Push]] damage to both targets on [[Hit]]. |
+| **Tags:**   | [[Strike]], [[Grapple]]                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...

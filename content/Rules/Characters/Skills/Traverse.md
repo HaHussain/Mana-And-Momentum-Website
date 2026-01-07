@@ -11,3 +11,8 @@ Traverse is a skill representing the skills to move, climb and swim.
 # [[Dexterity]]
 
 [[Dexterity]] Traverse represents the ability to use finesse to move, knowing where to place your feet in climbing to kick off and get better angles.
+
+
+# [[Fortitude]]
+
+[[Fortitude]] Traverse represents the ability to endure the environment, from temperatures and rainfall to more magical environments.

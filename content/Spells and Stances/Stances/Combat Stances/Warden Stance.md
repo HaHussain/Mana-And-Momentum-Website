@@ -11,15 +11,15 @@ The Warden's Stance and Techniques are about reducing the damage you and your al
 
 ## Lockdown
 
-|              | Lockdown                                                                                                                                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**   | 0                                                                                                                                                                                                |
-| **Cost:**    | 1 + [[Boost]]                                                                                                                                                                                    |
-|              |                                                                                                                                                                                                  |
-| **Special:** | This [[Rules/Actions/Tags/Reaction\|Reaction]] can be used an unlimited times per turn.                                                                                                          |
-| **Trigger:** | [[Melee#Attack of Opportunity\|Attack of Opportunity]] or [[Ranged#Overwatch Reaction\|Overwatch]] is triggered.                                                                                 |
-| **Action:**  | Regain your use of [[Melee#Attack of Opportunity\|Attack of Opportunity]] or [[Ranged#Overwatch Reaction\|Overwatch]] and immediately use it.<br>It gains [[Boost]] bonus to [[Hit]] and Damage. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                        |
+|              | Lockdown                                                                                                                                                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**   | 0                                                                                                                                                                                                                                                                              |
+| **Cost:**    | 1 + [[Boost]]                                                                                                                                                                                                                                                                  |
+|              |                                                                                                                                                                                                                                                                                |
+| **Special:** | This [[Rules/Actions/Tags/Reaction\|Reaction]] can be used an unlimited times per turn.                                                                                                                                                                                        |
+| **Trigger:** | [[Melee#Attack of Opportunity\|Attack of Opportunity]] or [[Ranged#Overwatch Reaction\|Overwatch]] is triggered.                                                                                                                                                               |
+| **Action:**  | Regain your use of [[Melee#Attack of Opportunity\|Attack of Opportunity]] or [[Ranged#Overwatch Reaction\|Overwatch]] and immediately use it as part of this reaction.<br>On Hit, it applies [[Immobilised]] for this turn.<br>It gains [[Boost]] bonus to [[Hit]] and Damage. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                                      |
 
 
 ## Indomitable
