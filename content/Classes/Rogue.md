@@ -47,7 +47,7 @@ The [[Fortress]]
 # Abilities
 
 ## Strike Weakness
-When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Isolated]], [[Bloodied]] and each [[Statuses and Conditions/index#Debuffs|Debuff]], (If you consume [[Marked]], it still counts).
+When the Rogue hits a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]], (If you consume [[Marked]], it still counts).
 When the Rogue makes a [[Social]] roll, they can spend a [[Momentum]] to gain a +1 to the roll for each [[Statuses and Conditions/index|Debuff]].
 
 The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden alongside their usual words. 

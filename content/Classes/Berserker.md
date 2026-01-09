@@ -54,6 +54,16 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 | **Action:** | Become [[Enraged]] until end of Scene.<br>If you are [[Bloodied]], this costs nothing. |
 | **Tags:**   | [[Mental]]                                                                             |
 
+While affected by a [[Statuses and Conditions/index|Debuff]], you have the ability to incite that same [[Statuses and Conditions/index|Condition]] in someone you're speaking to. 
+
+|             | Incite                                                                                                                                                                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Attack]]                                                                                                                                                                                                                                                         |
+| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Seek]] who you are conversing with.                                                                                                                                                                                   |
+| **Action:** | Choose a [[Statuses and Conditions/index\|Debuff]] you are under.<br>Force the [[Rules/Characters/index\|Character]] to make a [[Instinct]] [[Physique]] check against your [[Social]] roll, gaining that [[Statuses and Conditions/index\|Condition]] on failure. |
+| **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Mental]]                                                                                                                                                                                                            |
+
+
 When the Berserker applies [[Grappled]] to someone, that counts as a debuff for [[Overwhelmed]].
 
 When the Berserker is [[Grappling]] a [[Rules/Characters/index|Character]], [[Grappled]] and [[Isolated]] count as debuffs for [[Overwhelmed]].

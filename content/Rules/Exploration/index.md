@@ -21,8 +21,8 @@ When exploring out in the wild, there are many important tasks that must be hand
 
 Navigating - The process of ensuring you're on track to your destination and knowing where you are.
 Scouting - Discovering the area around you.
-Foraging - Looking for food and water
-Handling* - Managing the animals and driving of the [[Fortress]].
+Foraging - Looking for food and water and other useful items.
+Handling* - Managing the animals and driving of the [[Fortress]] as well as handling Monsters.
 
 ## Navigating
 Navigating helps ensure the party is on track and heading in the correct direction.
