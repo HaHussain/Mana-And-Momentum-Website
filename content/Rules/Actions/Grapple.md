@@ -1,7 +1,8 @@
 ---
 icon: GiGrab
 ---
-A grapple is a special type of [[Strike]] that grabs a [[Rules/Characters/index|Character]]. 
+A grapple is a special type of [[Strike]] that grabs a [[Rules/Characters/index|Character]] in a way to stop them from moving.
+This might be a full body lock in a fight, on a stern hand on the shoulder, or a flirtatious chin lift.
 Maintaining a grapple occupies a free hand. 
 
 |                     | Grapple                                                                                                                                                                                                                          |

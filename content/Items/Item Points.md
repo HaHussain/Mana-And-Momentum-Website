@@ -1,5 +1,7 @@
 ---
 icon: LiBackpack
+aliases:
+  - Item Point
 ---
 Item Points are an abstraction to allow characters to bring general items with them and determine what they are later. 
 Any Item that has an Item Point value can be materialised using this method.

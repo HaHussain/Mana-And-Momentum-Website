@@ -38,7 +38,7 @@ When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].
 Choose 1 of:
 - When the Berserker breaks something of value, they gain 1d4 [[Momentum]].
 - When the Berserker hurts someone or themselves when they didn't want to, they gain 1d4 [[Momentum]].
-- When the Berserker starts conflict or confrontation, they gain 1d4 [[Momentum]].
+- When the Berserker resolves a problem with sheer fortitude and endurance, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +? [[Health Points|Max HP]].
@@ -58,15 +58,15 @@ While affected by a [[Statuses and Conditions/index|Debuff]], you have the abili
 
 |             | Incite                                                                                                                                                                                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Attack]]                                                                                                                                                                                                                                                         |
+| **Tempo:**  | [[Attack]] [[Social]]                                                                                                                                                                                                                                              |
 | **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Seek]] who you are conversing with.                                                                                                                                                                                   |
 | **Action:** | Choose a [[Statuses and Conditions/index\|Debuff]] you are under.<br>Force the [[Rules/Characters/index\|Character]] to make a [[Instinct]] [[Physique]] check against your [[Social]] roll, gaining that [[Statuses and Conditions/index\|Condition]] on failure. |
-| **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Mental]]                                                                                                                                                                                                            |
+| **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Elemental Type\|Physical]]                                                                                                                                                                                          |
 
 
 When the Berserker applies [[Grappled]] to someone, that counts as a debuff for [[Overwhelmed]].
 
-When the Berserker is [[Grappling]] a [[Rules/Characters/index|Character]], [[Grappled]] and [[Isolated]] count as debuffs for [[Overwhelmed]].
+When the Berserker is [[Grapple|Grappling]] a [[Rules/Characters/index|Character]], [[Grappled]] and [[Isolated]] count as debuffs for [[Overwhelmed]].
 
 The Berserker can spend 1 [[Momentum]] to add their current [[Momentum]] value to a skill check to apply a [[Statuses and Conditions/index|Debuff]] to a [[Rules/Characters/index|Character]] they are speaking to.
 
