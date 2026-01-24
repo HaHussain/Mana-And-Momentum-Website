@@ -36,7 +36,7 @@ The Executioner's Stance aims to target weakened and hurt enemies and crush them
 | **Tempo:**  | 2                                                                   |
 | **Cost:**   | 1                                                                   |
 |             |                                                                     |
-| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Chilled]]. |
+| **Effect:** | Pick a [[Marked]] creature in [[Seek]].<br>They become [[Restricted]]. |
 | **Tags:**   |                                                                     |
 
 ## Instrument of Death

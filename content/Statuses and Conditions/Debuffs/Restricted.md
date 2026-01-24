@@ -1,9 +1,9 @@
 ---
 tags:
   - Debuff
-icon: LiSnowflake
+icon: GiRopeCoil
 ---
 This creature does not get a [[Normal Move]] on each of its turns.
 
 
-[[Mood]]: Chilled, uneasy, withdrawn, and wants to avoid attention.
+[[Mood]]: Restricted, Limited, Caged-in.

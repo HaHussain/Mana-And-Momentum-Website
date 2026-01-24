@@ -36,16 +36,16 @@ The following debuffs exist:
 ### Blind
 ![[Blind]]
 ### Chilled
-![[Chilled]]
+![[Restricted]]
 ### Deafened
 ![[Deafened]]
 ### Immobilised
-![[Immobilised]]
+![[Frozen]]
 ### Marked
 ![[Marked]]
 ### Shocked
 ![[Shocked]]
 ### Slowed
-![[Slowed]]
+![[Languid]]
 ### Weak
 ![[Weak]]

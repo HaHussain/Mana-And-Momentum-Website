@@ -189,12 +189,12 @@ The Terror gains Armour Focus 1 with an [[Armour]] of their choice, and may set 
 
 The Terror gains the following [[Rules/Actions/Tags/Reaction|Reaction]]:
 
-|              | Unyielding Will                                                                                                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 3                                                                                                                                                                                                                   |
-| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                                                     |
-| **Action:**  | The [[Rules/Characters/index\|Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Chilled]].<br>On a failure, they become [[Frightened]]. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                                               |
+|              | Unyielding Will                                                                                                                                                                                                        |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 3                                                                                                                                                                                                                      |
+| **Trigger:** | The Terror succeeds against an ability with the [[Mental]] tag.                                                                                                                                                        |
+| **Action:**  | The [[Rules/Characters/index\|Character]] that failed to effect you with their ability must make an [[Instinct\|INS]] check.<br>On a success, they become [[Restricted]].<br>On a failure, they become [[Frightened]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Mental]]                                                                                                                                                                  |
 ### Taunt
 While [[Enraged]] when the Terror [[Mark|Marks]] a [[Rules/Characters/index|Character]], that character is [[Weak]] against all other characters until end of the next round.
 

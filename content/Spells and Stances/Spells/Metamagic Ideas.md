@@ -69,11 +69,11 @@
 | **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Lightning\|Lightning]] spells and strikes apply [[Shocked]]. |
 | **Tags:**   | [[Metamagic]], [[Elemental Type#Lightning\|Lightning]]                                                                                           |
 
-|             | **Chilling Spell**                                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Magic]]:                                                                                                                           |
-| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Ice\|Ice]] spells and strikes apply [[Chilled]]. |
-| **Tags:**   | [[Metamagic]], [[Elemental Type#Ice\|Ice]]                                                                                           |
+|             | **Chilling Spell**                                                                                                                  |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Magic]]:                                                                                                                          |
+| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Ice\|Ice]] spells and strikes apply [[Frozen]]. |
+| **Tags:**   | [[Metamagic]], [[Elemental Type#Ice\|Ice]]                                                                                          |
 
 |             | **Corroding Spell**                                                                                                                     |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |

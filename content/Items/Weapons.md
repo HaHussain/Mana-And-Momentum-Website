@@ -28,7 +28,7 @@ aliases:
 
 ### Dagger
 **Damage**: Small
-**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Dazed]], [[Immobilised]], [[Numb]], [[Shocked]]
+**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Dazed]], [[Frozen]], [[Numb]], [[Shocked]]
 **Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Rules/Rolls/index#Nat|Nat]] 19
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
