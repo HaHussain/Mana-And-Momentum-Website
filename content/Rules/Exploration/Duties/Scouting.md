@@ -20,4 +20,3 @@ You can start this combat at any time, but do note, too much will slow down the 
 In a scene where the goal is tension - the goal is to immediately have a cool scene where there is a chance of failure.
 
 For a player - scouting is about knowing what issues are around you, not being surprised by monsters, finding cool things in the distance.%%
-Scouting is an [[Awareness]] roll, that can get more difficult if the terrain block line of sight.

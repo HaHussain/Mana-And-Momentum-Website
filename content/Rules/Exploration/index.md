@@ -1,5 +1,10 @@
 ---
 title: Exploration
+aliases:
+  - Exploration
+  - Travel
+  - Danger Clock
+  - Travel Clock
 ---
 Travel is the process of going to another [[Locations|Location]].
 
