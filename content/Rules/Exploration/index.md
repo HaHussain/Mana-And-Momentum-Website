@@ -54,7 +54,7 @@ On a large map, players can [[Exert]] their steeds (or themselves) to force marc
 The Danger Clock is an 8-[[Clock]] that represents the danger of travel, whether that's the animosity of nature, the distance of the guards tracking down the party, or how close the dragon overhead is to spotting them. 
 Each travel day increases the danger clock by some amount (2 ticks by default), when it ticks up, some number of enemies are added to the Danger Clock's enemy pool. When the clock completes, the characters are forced into an encounter with the entire enemy pool.
 
-
+---
 
 
 # Travel Duties
