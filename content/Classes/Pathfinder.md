@@ -12,6 +12,7 @@ The Pathfinder is all about mobility and movement and scouting.
 **Mechanics:** [[Mark]], [[Seek]], [[Animal Companion]], [[Traps]], [[Move]]
 **Combat Strategy:** [[Mark]] and [[Attack]] with ranged weapons and [[Move]] to find optimal positions. 
 Use your companion to help you do one of these things.
+**Social Strategy:** Track individuals wherever they go, listen into them on their conversations from a distance or from your [[Animal Companion]].
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -49,7 +50,7 @@ The [[Fortress]] gains +2m [[Speed]].
 
 ## Animal Companion
 The Pathfinder gains an [[Animal Companion]], choose one of the three following companions:
-If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Rules/Exploration/index#Navigating|Navigating]] and [[Rules/Exploration/index#Scouting|Scouting]].
+If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Navigating]] and [[Scouting]].
 
 A [[Size]] 1/2 [[Fly|Flying]] scouting animal:
 - The [[Animal Companion]] can take the [[Extra]]: [[Mark]] action.
@@ -63,12 +64,16 @@ A [[Size]] 2 riding animal:
 - The [[Animal Companion]] can take the [[Free]]: [[Move]] action.
 - While riding your [[Animal Companion]], any of your Movement bonuses apply to it.
 
-## Marky
-The Pathfinder gains +2m [[Speed]]  and the Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
-When the Pathfinder consumes [[Marked]] and [[Miss|Misses]], they do not consume [[Marked]].
+## Tracker
+The Pathfinder gains +2m [[Speed]].
+When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
 
 When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.
 
+While [[Navigating]] the Pathfinder spends 1 less Navigation Point to not get lost, and 1 less point to create a [[Rules/Exploration/index#Paths|Path]].
+
+## Fighty
+The Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
 
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:

@@ -38,7 +38,7 @@ The following debuffs exist:
 ### Chilled
 ![[Restricted]]
 ### Deafened
-![[Deafened]]
+![[Deaf]]
 ### Immobilised
 ![[Frozen]]
 ### Marked

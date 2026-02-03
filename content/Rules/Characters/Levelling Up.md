@@ -9,37 +9,37 @@ Use your new Total Level (TL) here to see what you gain.
 
 Gaining abilities from levelling up can be performed in any order.
 
-| Total Level | Levelling Ability                                 | Level Bonus |
-| ----------- | ------------------------------------------------- | ----------- |
-| 2           | [[#Fortitude]] + [[#Feat]]                        | 1           |
-| 3           | [[#Proficiency]]                                  | 1           |
-| 4           | [[#Techniques]] 2                                 | 2           |
-| 5           | [[#Fortitude]] + [[#Stat Points]]                 | 2           |
-| 6           | [[#Proficiency]]                                  | 2           |
-| 7           | [[#Spellcasting]] 2                               | 3           |
-| 8           | [[#Fortitude]] + [[#Feat]]                        | 3           |
-| 9           | [[#Proficiency]]                                  | 3           |
-| 10          | [[#Dual Class Feat]] + [[#Techniques]] 3          | 4           |
-| 11          | [[#Fortitude]] + [[#Stat Points]]                 | 4           |
-| 12          | [[#Proficiency]]                                  | 4           |
-| 13          | [[#Spellcasting]] 3                               | 5           |
-| 14          | [[#Fortitude]] + [[#Feat]]                        | 5           |
-| 15          | [[#Proficiency]]                                  | 5           |
-| 16          | [[#Techniques]] 4                                 | 6           |
-| 17          | [[#Fortitude]] + [[#Stat Points]]                 | 6           |
-| 18          | [[#Proficiency]]                                  | 6           |
-| 19          | [[#Spellcasting]] 4                               | 7           |
-| 20          | [[#Dual Class Feat]] + [[#Fortitude]] + [[#Feat]] | 7           |
-| 21          | [[#Proficiency]]                                  | 7           |
-| 22          | [[#Techniques]] 5                                 | 8           |
-| 23          | [[#Fortitude]] + [[#Stat Points]]                 | 8           |
-| 24          | [[#Proficiency]]                                  | 8           |
-| 25          | [[#Spellcasting]] 5                               | 9           |
-| 26          | [[#Fortitude]] + [[#Feat]]                        | 9           |
-| 27          | [[#Proficiency]]                                  | 9           |
-| 28          | [[#Techniques]] 6                                 | 10          |
-| 29          | [[#Fortitude]] + [[#Stat Points]]                 | 10          |
-| 30          | [[#Dual Class Feat]]                              | 10          |
+| Total Level | Levelling Ability                                 |
+| ----------- | ------------------------------------------------- |
+| 2           | [[#Fortitude]] + [[#Feat]]                        |
+| 3           | [[#Proficiency]]                                  |
+| 4           | [[#Techniques]] 2                                 |
+| 5           | [[#Fortitude]] + [[#Stat Points]]                 |
+| 6           | [[#Proficiency]]                                  |
+| 7           | [[#Spellcasting]] 2                               |
+| 8           | [[#Fortitude]] + [[#Feat]]                        |
+| 9           | [[#Proficiency]]                                  |
+| 10          | [[#Dual Class Feat]] + [[#Techniques]] 3          |
+| 11          | [[#Fortitude]] + [[#Stat Points]]                 |
+| 12          | [[#Proficiency]]                                  |
+| 13          | [[#Spellcasting]] 3                               |
+| 14          | [[#Fortitude]] + [[#Feat]]                        |
+| 15          | [[#Proficiency]]                                  |
+| 16          | [[#Techniques]] 4                                 |
+| 17          | [[#Fortitude]] + [[#Stat Points]]                 |
+| 18          | [[#Proficiency]]                                  |
+| 19          | [[#Spellcasting]] 4                               |
+| 20          | [[#Dual Class Feat]] + [[#Fortitude]] + [[#Feat]] |
+| 21          | [[#Proficiency]]                                  |
+| 22          | [[#Techniques]] 5                                 |
+| 23          | [[#Fortitude]] + [[#Stat Points]]                 |
+| 24          | [[#Proficiency]]                                  |
+| 25          | [[#Spellcasting]] 5                               |
+| 26          | [[#Fortitude]] + [[#Feat]]                        |
+| 27          | [[#Proficiency]]                                  |
+| 28          | [[#Techniques]] 6                                 |
+| 29          | [[#Fortitude]] + [[#Stat Points]]                 |
+| 30          | [[#Dual Class Feat]]                              |
 
 # Fortitude
 

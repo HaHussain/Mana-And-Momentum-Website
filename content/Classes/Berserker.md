@@ -11,6 +11,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
 **Mechanics:** [[Attack]], [[Exert]]
 **Combat Strategy:** Run up to enemies and [[Attack]] them till they die. Or throw enemies and objects around.
+**Social Strategy:** Take risks. Get in people's faces, use your overwhelming physique to frighten them to fleeing or anger them into fighting you.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -47,12 +48,22 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 ## All Consuming
 
-|             | Rage                                                                                   |
-| ----------- | -------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                                                                           |
-| **Cost:**   | 1 [[Momentum]]                                                                         |
-| **Action:** | Become [[Enraged]] until end of Scene.<br>If you are [[Bloodied]], this costs nothing. |
-| **Tags:**   | [[Mental]]                                                                             |
+|             | Rage                                   |
+| ----------- | -------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                           |
+| **Action:** | Become [[Enraged]] until end of Scene. |
+| **Tags:**   | [[Mental]]                             |
+
+When the Berserker [[Exert|Exerts]] they can also choose the following option:
+- Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
+
+When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
+
+
+## Bestial Instinct
+While not wearing [[Armour]], the Berserkers's body is considered [[Armour#Hide Leather|Hide Leather]].
+While wearing Not-[[Heavy]] [[Armour]], the Berserker may set their [[Deflection]] equal to their [[Fortitude|FOR]].
+While wearing [[Heavy]] [[Armour]], the Berserker may ignore any [[Orthogonal]] tag on the Armour.
 
 While affected by a [[Statuses and Conditions/index|Debuff]], you have the ability to incite that same [[Statuses and Conditions/index|Condition]] in someone you're speaking to. 
 
@@ -64,13 +75,12 @@ While affected by a [[Statuses and Conditions/index|Debuff]], you have the abili
 | **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Elemental Type\|Physical]]                                                                                                                                                                                          |
 
 
-When the Berserker applies [[Grappled]] to someone, that counts as a debuff for [[Overwhelmed]].
-
-When the Berserker is [[Grapple|Grappling]] a [[Rules/Characters/index|Character]], [[Grappled]] and [[Isolated]] count as debuffs for [[Overwhelmed]].
 
 The Berserker can spend 1 [[Momentum]] to add their current [[Momentum]] value to a skill check to apply a [[Statuses and Conditions/index|Debuff]] to a [[Rules/Characters/index|Character]] they are speaking to.
 
 The Berserker can choose to accidentally give away in a fit of rage or passion something they are [[vulnerable]] to, to a [[Rules/Characters/index|Character]] they are talking to, in order to make that [[Rules/Characters/index|Character]] [[vulnerable]] to the current argument.
+
+
 
 ## Strength beyond Strength
 The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their choice.
@@ -86,9 +96,7 @@ The Berserker gains the following action:
 
 
 While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...
-When the Berserker [[Exert|Exerts]] they can choose one of the following options:
-- When making a [[Strength|STR]] [[Rules/Rolls/index|roll]], your [[Strength|STR]] is considered 2x[[Strength|STR]] for any [[Rules/Characters/Skills/index|Skill]] [[Rules/Rolls/index|roll]] for that turn.
-- When making a [[Strength|STR]] or [[Strike]] [[Rules/Rolls/index|roll]], be considered 1 [[Size]] larger for any [[Strength|STR]] related effects for that turn.
+
 
 
 ## Excessive
@@ -110,7 +118,7 @@ When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Thir
 
 
 ## Violence
-While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make +1 [[Strike|Strikes]].
+The Berserker ignores the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]] for [[Attack|Attacks]].
 
 
 
@@ -126,12 +134,7 @@ While [[Enraged]], each time the Berserker takes an [[Attack]] action, they make
 
 ## Feral
 
-### Bestial Instinct
-While not wearing [[Armour]], the Berserkers's body is considered [[Armour#Hide Leather|Hide Leather]].
-While wearing Not-[[Heavy]] [[Armour]], the Berserker may set their [[Deflection]] equal to their [[Fortitude|FOR]].
-While wearing [[Heavy]] [[Armour]], the Berserker may ignore any [[Orthogonal]] tag on the Armour.
 
-When something in the Feral's [[Seek]] targets it with an ability or casts any spell, it immediately knows where it came from but not the nature of the spell or ability.
 
 
 ### Shatter and Break

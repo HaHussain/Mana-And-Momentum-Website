@@ -9,8 +9,9 @@ Tinkers are technological minded, creating custom items and unlocking potential 
 **Health**: Low
 **Complexity:** High
 **Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
-**Mechanics:** [[Items]]
+**Mechanics:** [[Items]], [[Item Points]]
 **Combat Strategy:** Customise any item to support any play-style, then give them to your allies. Use [[Inventory]] actions to make [[Consumables]] on the fly.
+**Social Strategy:** 
 
 | Level | Abilities |
 | ----- | --------- |
@@ -51,21 +52,52 @@ The Tinker may spend a minute to craft a [[Weapons|Weapon]], [[Armour]], [[Shiel
 The Tinker may spend a minute to modify a [[Weapons|Weapon]], [[Armour]] or [[Shields|Shield]] by adding or removing a tag from that item. Each item may only have one modification and the Tinker can only have ([[TL]] / 5) modifications.
 
 
-|               | Quick Craft                                                              |
-| ------------- | ------------------------------------------------------------------------ |
-| **Tempo:**    | [[Inventory]]                                                            |
-| **Target:**   | -                                                                        |
-| **Duration:** | -                                                                        |
-| **Action:**   | Make a DC 15 [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                          |
+|               | Quick Craft                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| **Tempo:**    | [[Inventory]]                                                                                    |
+| **Target:**   | -                                                                                                |
+| **Duration:** | -                                                                                                |
+| **Action:**   | Make a DC 15 [[Intelligence\|INT]] : [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                  |
 
 
-# Class Focuses
+# Modifications
 
-Weapons
-Armour
-Consumables
-Companion
+## Weapons
+
+| Requirements                       | Effect                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------- |
+| [[Weapons\|Weapon]]                | Add [[Push]] 1 or [[Pull]] 1                                              |
+|                                    | Add [[Imbuement]]: x                                                      |
+|                                    | Change Focus 1 of this Weapon to another Weapon's.                        |
+|                                    |                                                                           |
+| [[Melee]] [[Weapons\|Weapon]]      | [[Melee]] Range +1                                                        |
+|                                    | Remove [[Orthogonal]]                                                     |
+|                                    | Add [[Quick]] or Remove [[Slow]]                                          |
+|                                    | Add [[Grappling]]                                                         |
+|                                    |                                                                           |
+| [[Ranged]] [[Weapons\|Weapon]]     | [[Ranged]] Range +?                                                       |
+|                                    | Add [[Arcing]]                                                            |
+|                                    | Add [[Chain]] 1                                                           |
+|                                    |                                                                           |
+| Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]], increase damage dice by 2 levels<br>Or double damage die? |
+| [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                                         |
+
+## Armour and Shield
+
+| Requirements                         | Effect                                            |
+| ------------------------------------ | ------------------------------------------------- |
+| [[Armour]] or<br>[[Shields\|Shield]] | Add [[Heavy]], [[Sturdy]] 2, [[Deflection]] 2     |
+|                                      | Remove [[Orthogonal]]                             |
+|                                      | Remove Speed Penalty                              |
+|                                      | Add [[Retaliate]] 2 [[Elemental Type\|Physical]]  |
+|                                      | Add [[Imbuement]]: x                              |
+|                                      |                                                   |
+| [[Armour]]                           | Add [[Fluid]]                                     |
+|                                      | Change Focus 1 of this Armour to another Armour's |
+|                                      |                                                   |
+| [[Shields\|Shield]]                  | Change Focus 1 of this Shield to another Shields' |
+
 
 # Ideas
 

@@ -16,10 +16,10 @@ Rogues are all about stealth and often criminal networks
 | Level | Class Abilities      |
 | ----- | -------------------- |
 | 1     | [[#Strike Weakness]] |
-| 2     |                      |
-| 3     | [[#Tempo]]           |
+| 2     | [[#One Step Ahead]]  |
+| 3     |                      |
 | 4     |                      |
-| 5     | [[#Sneaki Neaki]]    |
+| 5     |                      |
 | 6     |                      |
 | 7     |                      |
 | 8     |                      |
@@ -37,8 +37,9 @@ When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Rogue uses stealth, sneakery, or deception to solve a problem, gain 1d4 [[Momentum]].
-- When the Rogue 
+- When the Rogue uses stealth to solve a problem, gain 1d4 [[Momentum]].
+- When the Rogue refuses to sell out their allies for their own gain, gain 1d4 [[Momentum]].
+- When the Rogue completes an illegal job, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] 
@@ -46,21 +47,21 @@ The [[Fortress]]
 
 # Abilities
 
-## Strike Weakness
-When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts).
-While your ally is having a conversation with a [[Rules/Characters/index|Character]], that [[Rules/Characters/index|Character]] cannot draw [[Line of Sight]] to you.
+## Opportunity Hunter
+When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
+If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
-The Rogue knows a series of keywords, innuendos, and tactile symbols - some generic and some specific to the group they learnt it from - that allow them to speak secret messages hidden alongside their usual words. 
-The Rogue can use this to talk to any [[Rules/Characters/index|Character]] in the same [[Factions|Faction]] or Party as them.
-A secret message transmitted this way takes 10x as long to speak / is 10x as long in text. 
-A suspicious [[Rules/Characters/index|Character]] that can see and hear the speaker can attempt to decode this message by making a [[Instinct]] [[Insight]] check.
-A [[Rules/Characters/index|Character]] that can read and touch the written message can attempt to decode the message by making a [[Intelligence]] [[Search]] check.
+When the Rogue enters a [[Locations|Location]], they may [[Exert]] to [[Ask]] the GM for a mark of one of the following categories of their choice:
+- Assets - This is an art piece or item that is worth a lot.
+- Magic - This is a useful magical item.
+- Secrets - This is a secret on a powerful figure. 
+- Influence - A powerful figure who is looking for some help.
 
 
-## Tempo
+## One Step Ahead
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
 
-The Rogue can spend 1 [[Momentum]] to reduce the time it takes to use a [[Tool]] to 1 turn.
+When the Rogue [[Exert|Exerts]] to have a flashback, reduce the [[Exert#Exertion|Exertion]] gained by 1 (minimum 1).
 
 
 ## Sneaki Neaki
@@ -72,16 +73,16 @@ When the Rogue uses a [[Consumables|Consumable]] they can ignore all of its effe
 
 ## Other
 
-When the Rogue enters a new [[Locations|Location]] with a criminal network, they may [[Exert]] to know a [[Contact]] with a criminal background of their choice (Assassin, Fence, etc). That Contact may have a [[Clue]].
+When the Rogue enters a new [[Locations|Location]] with a criminal network, they may [[Exert]] to know a [[Contact]] with a criminal background of their choice (Assassin, Fence, etc).
 
-When the Rogue enters a [[Locations|Location]], they may ??? to [[Ask]] the GM for a mark or work in this region.
+
 Something dodgy - While [[Hidden]] Evasion
 
 ## Thick as Thieves
 
 When an ally fails a [[Deceive]] or [[Infiltrate]] roll, the Rogue can spend a [[Momentum]] to provide [[Teamwork#Backup|Backup]] as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
-When the Rogue [[Exert|Exerts]] to have a flashback, reduce the [[Exert#Exertion|Exertion]] gained by 1 (minimum 1).
+
 
 
 # Class Focuses

@@ -9,8 +9,9 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Health**: Medium
 **Complexity:** Medium
 **Stats:** [[Strength|STR]] and [[Awareness|AWR]]
-**Mechanics:** [[Teamwork]], [[Items]]
+**Mechanics:** [[Teamwork]], [[Items]], [[Item Points]]
 **Combat Strategy:** Use [[Inventory]] actions to throw [[Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
+**Social Strategy:** Give gifts, bribe people, have a stash of equipment to collect info.
 
 | Level | Class Abilities          | Martial Abilities                                                                                                             |
 | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -48,9 +49,10 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 
 ## Quick Toss
 When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1). 
-- If the Item is a [[Weapons|Weapon]] the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]] make a [[Strike]] with it.
-- If the Item is a [[Shields|Shield]] the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]], [[Guard]].
-- If the Item is a [[Consumables|Consumable]] then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
+- If the Item is a [[Weapons|Weapon]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]] make a [[Strike]] with it.
+- If the Item is a [[Shields|Shield]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]], [[Guard]].
+- If the Item is an [[Armour]], the Character can immediately stow their armour and equip the tossed item as a [[Rules/Actions/Tags/Reaction|Reaction]].
+- If the Item is a [[Consumables|Consumable]], then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
 
 ## Re-Stock

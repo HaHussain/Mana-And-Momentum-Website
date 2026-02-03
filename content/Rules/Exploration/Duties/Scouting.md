@@ -1,14 +1,14 @@
 ---
 icon: LiTelescope
 ---
-Scouting is an [[Awareness]] : [[Search]] roll, for every 5 above 10, you gain 1 Scouting point that must be used within that travel time period. 
+Scouting is an [[Awareness|AWR]] : [[Search]] roll, for every 5 above 10, you gain 1 Scouting point that must be used within that travel time period. 
 Scouting points can be spent to:
 - 1 point to select an adjacent hex and reveal it. (Repeatable)
 - 2 points to select a hex [[Range]] 2 away, and reveal it. (Repeatable)
 	- And so on...
-- 1 point to know if the danger clock is above half or not.
-- 2 points to know the exact value of the danger clock.
-- 2 points to know the danger the danger clock represents.
+
+- 1 point to know if the [[Rules/Exploration/index#Danger Clock|Danger Clock]] will be triggered today.
+- 2 points to know exact location, intensity, and number of individuals of danger that the [[Rules/Exploration/index#Danger Clock|Danger Clock]] represents as well as the value of the [[Rules/Exploration/index#Danger Clock|Danger Clock]].
 Scouting helps discover the interesting things around the party as they travel and stops the dangerous things from attacking the party as they travel.
 %%Scouting gives the party the opportunity to discover things about the world and its culture as well as subplots. Monsters aim to make the outskirts feel populated with living breathing beasts, many of which are dangerous.
 In general when the party sets out on a journey, you can decide is this a moment for attrition or tension.

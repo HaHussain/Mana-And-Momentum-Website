@@ -15,10 +15,12 @@ For larger maps, 1 hex represents 40km, where each hex is 1 day of travel at sta
 When starting out on a journey, the players choose a [[#Travel Speed]], a route and assign [[#Travel Duties]].
 Then each travel period each [[Rules/Characters/index|Character]] assigned to a Duty, rolls, discusses with their group, assigns what they were able to perform with their duty and evaluates their results.
 
+Not every [[#Travel Duties|Travel Duty]] needs to be filled, and any Character can instead perform [[Teamwork]] on an ally or spend that time [[#Resting]].
+
 
 # Travel Speed
 
-When beginning travel and at the start of the next travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
+When beginning travel and at the start of each travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
 
 Fast - [[Exert]] daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
 Standard - 1x Speed, 2 ticks on the [[#Danger Clock]] per day
@@ -26,7 +28,8 @@ Slow - 0.5x Speed, 1 tick on the [[#Danger Clock]] per day
 
 The slower the players move, the more effect their [[#Travel Duties]] have, especially [[#Handling]] and [[#Foraging]].
 
-If the players do not use a [[Fortress]], they cover half their usual distance (20km a day - 4 ticks on the [[#Travel Clock]]) due to the weight of their equipment, unless they all reduce their [[Weight]] to their [[Strength|STR]] or less.
+If the players do not use a [[Fortress]], they use the slowest player's speed and they cover half their usual distance (20km a day - 4 ticks on the [[#Travel Clock]]) due to the weight of their equipment, unless they all reduce their [[Weight]] to their [[Fortitude|FOR]] or less.
+
 
 ## Paths
 
@@ -81,3 +84,10 @@ Handling - Managing the pace of animals and driving of the [[Fortress]].
 
 ## Handling
 ![[Handling]]
+
+# Resting
+
+A [[Rules/Characters/index|Character]] can choose to Rest instead, if they have eaten today, they can take an additional [[Shallow Rest]] during travel.
+
+Once a day the party must Rest. The party is expected to take a series of watches over the course of the night, and use the day's [[Scouting]] roll against anything trying to [[Infiltrate]] their rest spot.
+If the [[Scouting|Scout]] spent points to know about the [[#Danger Clock]], the party cannot be caught unaware this night.

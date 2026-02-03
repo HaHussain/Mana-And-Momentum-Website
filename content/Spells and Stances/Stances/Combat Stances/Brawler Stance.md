@@ -37,7 +37,7 @@
 | **Tempo:**  | [[Strike]]                                    |
 | **Cost:**   | 3                                             |
 |             |                                               |
-| **Action:** | [[Strike]] and apply [[Deafened]] on [[Hit]]. |
+| **Action:** | [[Strike]] and apply [[Deaf]] on [[Hit]]. |
 | **Tags:**   | [[Strike]]                                    |
 
 ## Flurry of Blows

@@ -12,7 +12,7 @@ However when target next to u, it no worky good :(
 
 |               | Overwatch                                                                                 |
 | ------------- | ----------------------------------------------------------------------------------------- |
-| **Tempo:**    | 5                                                                                         |
+| **Tempo:**    | [[Attack]]                                                                                |
 | **Target:**   | If [[One-Handed]]: [[Ranged]] [[Circle]] 3,<br>If [[Two-Handed]]: [[Ranged]] [[Circle]] 5 |
 | **Duration:** | Until Tempo 5 next Round.                                                                 |
 | **Action:**   | Choose a [[Ranged]] weapon you are holding and gain:<br>![[#Overwatch Reaction]]          |
@@ -22,6 +22,7 @@ However when target next to u, it no worky good :(
 |              | Overwatch Reaction                                                                        |
 | ------------ | ----------------------------------------------------------------------------------------- |
 | **Tempo:**   | 0                                                                                         |
+| **Special:** | This reaction can be taken as many as it is triggered.                                    |
 | **Trigger:** | A [[Rules/Characters/index\|Character]] moves into a square in the Overwatch target area. |
 | **Action:**  | [[Strike]] target with chosen weapon.                                                     |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                 |

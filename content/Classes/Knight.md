@@ -11,6 +11,7 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
 **Mechanics:** [[Guard]], [[Exert]], [[Equipment]]
 **Combat Strategy:** [[Guard]] any allies being [[Mark|Marked]] or out of position, Stand next to enemies to hit them with [[Melee#Attack of Opportunity|Attack of Opportunities]] to stop them from moving.
+**Social Strategy:** Build relationships and use your allies and favours to your advantage.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -47,7 +48,22 @@ Choose 1 of:
 # Abilities
 
 ## Guardian
-When the Knight takes the [[Guard]] action, they may move alongside the target of their Guard whenever they do, as long as their maintain adjacency.
+
+While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
+The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]]
+The Knight ignores the [[Weight Penalty]] of [[Shields]].
+
+The Knight gains the follow reaction:
+
+|              | Body Block                                                                                                                                                                                                                                                            |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 3                                                                                                                                                                                                                                                                     |
+| **Cost:**    | 1 [[Momentum]]                                                                                                                                                                                                                                                        |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] you are talking to begins to walk away from you.                                                                                                                                                                              |
+| **Action:**  | Immediately attempt to apply [[Restricted]] to that [[Rules/Characters/index\|Character]], <br>You may do this physically which will force the target to use [[Strength\|STR]] or [[Dexterity\|DEX]] instead of [[Intelligence\|INT]] or [[Instinct\|INS]] to resist. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                             |
+
+
 
 ## Effort
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
@@ -59,6 +75,7 @@ When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d
 ## A
 The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
+
 The Knight starts with +1 [[Factions#Reputation|Reputation]] with [[Factions#Folk|Folk]] and +1 [[Rules/Characters/index#Attitude|Attitude]] with the common working class people.
 When this ability is gained, it is applied retroactively to all that have at least neutral Reputation/Attitude.
 
@@ -67,16 +84,19 @@ The Knight may [[Exert]] twice per [[Scenes|Scene]] without suffering any negati
 
 When the Knight uses a [[Spells and Stances/Stances/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Switch Stance]] action.
 
+## C
+The Knight may consider ally [[Rules/Characters/index|Characters]] within [[Range]] 2 of them as adjacent.
+
 ## Focuses
 The Knight gains Weapon Focus 2 with a [[Weapons|Weapon]] of their choice.
 The Knight gains Armour Focus 2 with an [[Armour]] of their choice. 
 
 
-When the Knight [[Switch Stance|Switches Stances]], they can spend a [[Momentum]] to conserve the rest of their [[Momentum]] between [[Spells and Stances/Stances/index|Stances]].
 
 ## C
 When the Knight uses a Technique, the cost of that Technique is reduced by 1?
 
+When the Knight [[Miss|Misses]] with an [[Strike]], they still deal damage equal to their [[Strength|STR]]/[[Dexterity|DEX]]
 ## Final
 The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
 
