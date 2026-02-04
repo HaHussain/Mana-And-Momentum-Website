@@ -48,17 +48,26 @@ The [[Fortress]] gains
 
 ## Crafter
 
-The Tinker may spend a minute to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]], [[Tool]], Bomb, or Trap for 1 less [[Item Points|Item Point]] than its base cost.
-The Tinker may spend a minute to modify a [[Weapons|Weapon]], [[Armour]] or [[Shields|Shield]] by adding or removing a tag from that item. Each item may only have one modification and the Tinker can only have ([[TL]] / 5) modifications.
+The Tinker may spend 1 hour to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]] for 1 less [[Item Points|Item Point]] than its base cost.
+The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Points|Item Point]] than its base cost.
+
+The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]].
+The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + Tinker Level + ( [[TL]] / 5 )
 
 
-|               | Quick Craft                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------ |
-| **Tempo:**    | [[Inventory]]                                                                                    |
-| **Target:**   | -                                                                                                |
-| **Duration:** | -                                                                                                |
-| **Action:**   | Make a DC 15 [[Intelligence\|INT]] : [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                  |
+|               | Quick Craft                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Inventory]]                                                                                 |
+| **Target:**   | -                                                                                             |
+| **Duration:** | -                                                                                             |
+| **Action:**   | Make a DC 15 [[Dexterity\|DEX]] : [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                               |
+
+# Alter
+
+The Tinker may spend 10 minutes to apply one of the following [[#Modifications]] to [[Technical]] [[Consumables]] or [[Construct|Constructs]].
+- Combine: Combine two [[Technical]] [[Consumables]] or one and a [[Construct]] into a new thing that combines the capabilities of both into one function.
+- Invert: Flip the function of this object to its direct opposite.
 
 
 # Modifications
@@ -97,6 +106,14 @@ The Tinker may spend a minute to modify a [[Weapons|Weapon]], [[Armour]] or [[Sh
 |                                      | Change Focus 1 of this Armour to another Armour's |
 |                                      |                                                   |
 | [[Shields\|Shield]]                  | Change Focus 1 of this Shield to another Shields' |
+
+## General
+
+| Name    | Requirements | Effect                                                                                                                      |
+| ------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Shrink  | [[Object]]   | Reduce the [[Size]] of an [[Object]] by 1 step.<br>[[Size]] 1/8 objects become [[Size]] 0.<br>It becomes easier to conceal. |
+| Enlarge |              | Increase the [[Size]] of an [[Object]] by 1 step after deploying.<br>This may give it a larger area of effect.              |
+| Harden  |              | The [[Object]] gains +5 [[Deflection]].                                                                                     |
 
 
 # Ideas

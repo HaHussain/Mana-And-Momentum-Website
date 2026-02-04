@@ -1,6 +1,7 @@
 ---
 aliases:
   - AC
+icon: GiArmorUpgrade
 ---
 Defence is a statistic that represents how hard it is to land a solid [[Hit]] on you. 
 A [[Hit]] roll must equal to your Defence or exceed it in order to be successful. 

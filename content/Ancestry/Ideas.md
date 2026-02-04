@@ -1,6 +1,10 @@
 # Humans
 Humans are best at what? Intelligence and innovation? Effort? Versatility?
 +1 [[Fortitude]]
+[[Size]] 1
+[[Speed]] 8m
+
+
 
 # Dray
 +1 [[Strength]]

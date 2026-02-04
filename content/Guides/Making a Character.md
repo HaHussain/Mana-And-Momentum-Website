@@ -18,7 +18,7 @@ Your [[Weight|Max Weight]] is equal to 10 + [[Strength]].
 Your [[Exert#Exertion|Maximum Exertion]] is equal to 2 + [[Fortitude]] (min 1).
 Your [[Level Bonus]] is your ([[TL]] / 3) rounded up, which will be +1 at Level 2.
 
-Grab [[Items]] up to your [[Max Weight|Weight]] 
+Grab [[Items]] up to your [[Weight|Max Weight]] 
 
 Calculate your [[Defence]], [[Deflection]] and [[Sturdy]] based on your [[Armour]].
 Calculate your [[Endurance]], [[Reflex]], and [[Will]] which are each the highest of two stats, plus half the other, plus your [[Level Bonus]].

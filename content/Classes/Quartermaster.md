@@ -56,7 +56,7 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 
 
 ## Re-Stock
-The Quartermaster gains an additional number of Maximum [[Item Points]] equal to ([[TL]] / 2) and [[Item Points]] weigh 0.
+The Quartermaster gains an additional number of Maximum [[Item Points]] equal to Quartermaster Level + ( [[TL]] / 3 ) and [[Item Points]] weigh 0.
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.
 When the Quartermaster attempts to sell an item, they can mark it up by 25% of usual sale price.

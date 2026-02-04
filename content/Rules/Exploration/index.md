@@ -40,13 +40,12 @@ When players take a route between two hexes that has a path, they cannot get los
 The Travel Clock is an 8-[[Clock]] that tracks extra travel on a large map that doesn't fit neatly into 1 hex of travel.
 Each clock tick represent 5km of movement.
 
-For every extra 1m of Speed the [[Fortress]] has, it moves an additional 5km per day - 1 tick on the Travel Clock.
-
 The Travel Clock is wiped when the players reach a [[Locations|Location]], and can be used to represent the time of day they got there at.
 
 ### Travelling Extra
-On a small map every 7m of Speed (Rounded Down), the [[Fortress]] moves 5km per hour - 1 hex of travel.
-%% 7m/10s (SPEED) / 10 (Convert m/10s to m/s) * 2 (2 actions per turn) * 3.6 (m/s to km/h) = 5.04km/h %%
+Every 7m of Speed (Rounded Down), the [[Fortress]] travels 1 hex - 5km per hour on a small map, or 40km per day on a large map. 
+Every 1m extra of Speed, the [[Fortress]] travels 1 tick on the [[#Travel Clock]] per day on a large map.
+%% 7m/10s (SPEED)  * 2 (2 actions per turn) * 3.6 (m/s to km/h) = 5.04km/h %%
 
 On a large map, players can [[Exert]] their steeds (or themselves) to force march and travel for an additional hour.
 
@@ -88,6 +87,7 @@ Handling - Managing the pace of animals and driving of the [[Fortress]].
 # Resting
 
 A [[Rules/Characters/index|Character]] can choose to Rest instead, if they have eaten today, they can take an additional [[Shallow Rest]] during travel.
+Adverse [[Weather]] conditions may prevent rest, and so require shelter to rest or force [[Rules/Characters/index|Characters]] caught in it to make a [[Fortitude|FOR]] : [[Traverse]] check or gain [[Exert#Exertion|Exertion]].
 
 Once a day the party must Rest. The party is expected to take a series of watches over the course of the night, and use the day's [[Scouting]] roll against anything trying to [[Infiltrate]] their rest spot.
 If the [[Scouting|Scout]] spent points to know about the [[#Danger Clock]], the party cannot be caught unaware this night.
