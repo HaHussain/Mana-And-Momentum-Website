@@ -3,27 +3,27 @@ icon: GiPlastron
 ---
 # Armours
 
-| Armour                  | Defenses                                                                                             |
-| ----------------------- | ---------------------------------------------------------------------------------------------------- |
-|                         |                                                                                                      |
-| [[#Hide Leather]]       | **[[Defence]]:** 10 + [[Dexterity\|DEX]]                                                             |
-|                         | **1:** Move through enemies<br>**2:**                                                                |
-|                         |                                                                                                      |
-| [[#Brigandine Leather]] | **[[Defence]]:** 11 + [[Dexterity\|DEX]]<br>**[[Deflection]]:** 1<br><br>-2m Speed                   |
-|                         | **1:** <br>**2:**                                                                                    |
-|                         |                                                                                                      |
-| [[#Chain Mail]]         | **[[Defence]]:** 12 + [[Dexterity\|DEX]]<br>**[[Sturdy]]:** 1<br><br>[[Orthogonal]]                  |
-|                         | **1:** <br>**2:**                                                                                    |
-|                         |                                                                                                      |
-| [[#Scale Mail]]         | **[[Defence]]:** 14<br>**[[Deflection]]:** 2<br><br>-2m Speed                                        |
-|                         | **1:** <br>**2:**                                                                                    |
-|                         |                                                                                                      |
-| [[#Titan Plate]]        | **[[Defence]]:** 15<br>**[[Deflection]]:** 1<br><br>**[[Sturdy]]**: 1<br>[[Orthogonal]]              |
-|                         | **1:** <br>**2:**                                                                                    |
-|                         |                                                                                                      |
-| [[#Juggernaut Plate]]   | **[[Defence]]:** 17<br>**[[Deflection]]:** 2<br>**[[Sturdy]]**: 2<br><br>-2m Speed<br>[[Orthogonal]] |
-|                         | **1:** <br>**2:** Push aside enemies by walking through                                              |
-|                         |                                                                                                      |
+| Armour                      | Defenses                                                                                             |
+| --------------------------- | ---------------------------------------------------------------------------------------------------- |
+|                             |                                                                                                      |
+| **[[#Hide Leather]]**       | **[[Defence]]:** 10 + [[Dexterity\|DEX]]                                                             |
+|                             | **1:** Move through enemies<br>**2:**                                                                |
+|                             |                                                                                                      |
+| **[[#Brigandine Leather]]** | **[[Defence]]:** 11 + [[Dexterity\|DEX]]<br>**[[Deflection]]:** 1<br><br>-2m Speed                   |
+|                             | **1:** <br>**2:**                                                                                    |
+|                             |                                                                                                      |
+| **[[#Chain Mail]]**         | **[[Defence]]:** 12 + [[Dexterity\|DEX]]<br>**[[Sturdy]]:** 1<br><br>[[Orthogonal]]                  |
+|                             | **1:** <br>**2:**                                                                                    |
+|                             |                                                                                                      |
+| **[[#Scale Mail]]**         | **[[Defence]]:** 14<br>**[[Deflection]]:** 2<br><br>-2m Speed                                        |
+|                             | **1:** <br>**2:**                                                                                    |
+|                             |                                                                                                      |
+| **[[#Titan Plate]]**        | **[[Defence]]:** 15<br>**[[Deflection]]:** 1<br><br>**[[Sturdy]]**: 1<br>[[Orthogonal]]              |
+|                             | **1:** <br>**2:**                                                                                    |
+|                             |                                                                                                      |
+| **[[#Juggernaut Plate]]**   | **[[Defence]]:** 17<br>**[[Deflection]]:** 2<br>**[[Sturdy]]**: 2<br><br>-2m Speed<br>[[Orthogonal]] |
+|                             | **1:** <br>**2:** Push aside enemies by walking through                                              |
+|                             |                                                                                                      |
 
 ## Hide Leather
 [[Defence]]: 10 + [[Dexterity|DEX]] + [[Level Bonus]]
