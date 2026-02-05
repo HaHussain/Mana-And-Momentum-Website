@@ -64,6 +64,7 @@ tbody {
   &> tr:not(:has(td:not(:empty))) {
     background-color: #202020;
     border-bottom: none;
+    height: 0.75rem;
   }
   &> tr:has(+ tr:not(:has(td:not(:empty)))) {
     border-bottom: none;
