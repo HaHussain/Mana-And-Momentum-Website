@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "HaHussain.github.io/Mana-And-Momentum-Website",
+    baseUrl: "HaHussain.github.io/Mana-And-Momentum-Website/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
