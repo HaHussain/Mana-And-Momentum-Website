@@ -30,10 +30,11 @@
   .table-container > table td {
     min-width: 0 !important;
     padding: 0 0.4rem;
-    :empty {
-      padding-top: 3px;
-      padding-bottom: 3px;
-    }
+  }
+  
+  .table-container > table td:empty {
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   blockquote {
