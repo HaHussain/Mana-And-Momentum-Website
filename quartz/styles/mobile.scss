@@ -1,4 +1,4 @@
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .page {
     margin: 0px 0px;
     max-width: 100%;
@@ -20,7 +20,7 @@
     
   }
   .page-title {
-    font-size: 1rem;
+    font-size: 2rem;
   }
   .readermode {
     display: none;
@@ -32,14 +32,13 @@
       min-width: 0 !important;
     }
     &:first-child {
-      min-width: 5rem;
+      min-width: 4rem;
     }
     padding: 0 0.4rem;
   }
   
   .table-container > table td:empty {
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-bottom: 6px;
   }
 
   blockquote {
