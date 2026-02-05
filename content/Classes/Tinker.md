@@ -48,12 +48,14 @@ The [[Fortress]] gains
 
 ## Crafter
 
-The Tinker may spend 1 hour to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]] for 1 less [[Item Points|Item Point]] than its base cost.
+The Tinker may spend 1 hour to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]] for 1 less [[Item Points|Item Point]] than its base cost (Minimum 1).
 The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Points|Item Point]] than its base cost.
 
 The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]].
 The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + Tinker Level + ( [[TL]] / 5 )
+The Tinker must spend 1 minute every day on each item with a [[#Modifications|Modification]] to maintain it.
 
+%%
 
 |               | Quick Craft                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------- |
@@ -62,8 +64,11 @@ The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence
 | **Duration:** | -                                                                                             |
 | **Action:**   | Make a DC 15 [[Dexterity\|DEX]] : [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                               |
+%%
 
 # Alter
+
+When the Tinker fires a [[Reload|Reloading]] [[Weapons|Weapon]], they may spend 1 [[Momentum]] to take an [[Extra]]: [[Inventory]] action to reload it this round.
 
 The Tinker may spend 10 minutes to apply one of the following [[#Modifications]] to [[Technical]] [[Consumables]] or [[Construct|Constructs]].
 - Combine: Combine two [[Technical]] [[Consumables]] or one and a [[Construct]] into a new thing that combines the capabilities of both into one function.
