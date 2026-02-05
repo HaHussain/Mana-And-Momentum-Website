@@ -41,7 +41,7 @@ a.internal {
   max-width: 100%;
 
   td:first-child, th:first-child {
-    white-space: nowrap;
+    min-width: 5rem;
   }
   
   // Increase padding, remove auto-hypenate text over lines

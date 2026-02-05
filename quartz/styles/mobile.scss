@@ -27,8 +27,13 @@
   }
   
   // Remove min-width on mobile 
-  .table-container > table td {
-    min-width: 0 !important;
+  .table-container td, .table-container th {
+    &:not(:first-child) {
+      min-width: 0 !important;
+    }
+    &:first-child {
+      min-width: 5rem;
+    }
     padding: 0 0.4rem;
   }
   
