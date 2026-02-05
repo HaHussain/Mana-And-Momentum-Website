@@ -62,8 +62,14 @@ a.internal {
 }
 
 // Add colour to empty table rows to look more dividery
-tbody > tr:not(:has(td:not(:empty))) {
-  background-color: #202020;
+tbody {
+  &> tr:not(:has(td:not(:empty))) {
+    background-color: #202020;
+    border-bottom: none;
+  }
+  &> tr:has(+ tr:not(:has(td:not(:empty)))) {
+    border-bottom: none;
+  }
 }
 
 blockquote {
