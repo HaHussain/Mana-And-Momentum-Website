@@ -4,13 +4,23 @@ aliases:
   - Shield
 ---
 
-| Item Name     | Effect                         | **Weight Penalty** | Tags                                                             | Focus                                                                                                                      |
-| ------------- | ------------------------------ | ------------------ | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Buckler       | Gain AC as a reaction          |                    | [[One-Handed]]                                                   | **1:** Disarm<br>**2:** Riposte                                                                                            |
-| Heater Shield | +1 AC                          |                    | [[One-Handed]]                                                   | **1:** +1 [[Sturdy]]<br>**2:** +1 [[Deflection]]                                                                           |
-| Kite Shield   | +1 [[Deflection]]              |                    | [[One-Handed]]                                                   | **1:** Effect section also effects your mount<br>**2:** Mount cant take damage                                             |
-| Hoplon Shield | +2 AC                          | [[Orthogonal]]     | [[Strength\|STR]]>1: [[One-Handed]]<br>Otherwise: [[Two-Handed]] | **1:** Doubled effect against [[Rules/Actions/Tags/Reaction\|Reactions]]<br>**2:** [[Extra]]: [[Guard]] for 1 [[Momentum]] |
-| Tower Shield  | +2 AC<br>+1 [[Deflection]]<br> | -2m [[Speed]]      | [[Strength\|STR]]>2: [[One-Handed]]<br>Otherwise: [[Two-Handed]] | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                  |
+| Item Name     | Effect                                                           | Focus                                                                                                                      |
+| ------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Buckler       | Gain AC as a reaction                                            | **1:** Disarm<br>**2:** Riposte                                                                                            |
+|               | [[One-Handed]]                                                   |                                                                                                                            |
+|               |                                                                  |                                                                                                                            |
+| Heater Shield | +1 AC                                                            | **1:** +1 [[Sturdy]]<br>**2:** +1 [[Deflection]]                                                                           |
+|               | [[One-Handed]]                                                   |                                                                                                                            |
+|               |                                                                  |                                                                                                                            |
+| Kite Shield   | +1 [[Deflection]]                                                | **1:** Effect section also effects your mount<br>**2:** Mount cant take damage                                             |
+|               | [[One-Handed]]                                                   |                                                                                                                            |
+|               |                                                                  |                                                                                                                            |
+| Hoplon Shield | +2 AC<br><br>[[Orthogonal]]                                      | **1:** Doubled effect against [[Rules/Actions/Tags/Reaction\|Reactions]]<br>**2:** [[Extra]]: [[Guard]] for 1 [[Momentum]] |
+|               | [[Strength\|STR]]>1: [[One-Handed]]<br>Otherwise: [[Two-Handed]] |                                                                                                                            |
+|               |                                                                  |                                                                                                                            |
+| Tower Shield  | +2 AC<br>+1 [[Deflection]]<br><br>-2m [[Speed]]<br>              | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                  |
+|               | [[Strength\|STR]]>2: [[One-Handed]]<br>Otherwise: [[Two-Handed]] |                                                                                                                            |
+|               |                                                                  |                                                                                                                            |
 # Buckler
 **Effect:** You gain the following Shield Block reaction.
 **Focus 1:** 
