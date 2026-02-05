@@ -7,7 +7,7 @@
 | [[Pathfinder]]    |               |               | -              |                   |
 | [[Quartermaster]] |               |               |                | -                 |
 # Scrapper
-When the Scrapper destroys an [[Item]] worth 2 or more [[Item Points]], they regain 1 [[Item Points|Item Point]].
+When the Scrapper destroys an [[Items/index|Item]] worth 2 or more [[Item Points]], they regain 1 [[Item Points|Item Point]].
 
 |             | Tear Apart                                                                                                                                                                                                                                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,4 +21,4 @@ For each negative [[Mood]] on a [[Rules/Characters/index|Character]], the Scrapp
 Whenever the Champion [[Exert|Exerts]] they make take two options.
 
 # ?
-The ? gains Focus 2 with every [[Item]] they have Focus 1 with.
+The ? gains Focus 2 with every [[Items/index|Item]] they have Focus 1 with.

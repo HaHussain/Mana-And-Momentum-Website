@@ -14,14 +14,13 @@ Your [[Health Points|Max HP]] is equal to 10 + [[Fortitude]] + Class 1's Health 
 
 Your [[Seek]] is [[Awareness]] squares (minimum 1), if your [[Awareness]] is less than +1, then your [[Seek]] becomes [[Orthogonal]].
 Your [[Item Points|Max Item Points]] is equal to 2 + [[Intelligence]] (min 0).
-Your [[Weight|Max Weight]] is equal to 10 + [[Strength]].
+Your [[Weight|Max Weight]] is equal to 10 + 2 * [[Strength]].
 Your [[Exert#Exertion|Maximum Exertion]] is equal to 2 + [[Fortitude]] (min 1).
 Your [[Level Bonus]] is your ([[TL]] / 3) rounded up, which will be +1 at Level 2.
 
-Grab [[Items]] up to your [[Weight|Max Weight]] 
+Grab [[Items/index|Items]] up to your [[Weight|Max Weight]] 
 
 Calculate your [[Defence]], [[Deflection]] and [[Sturdy]] based on your [[Armour]].
-Calculate your [[Endurance]], [[Reflex]], and [[Will]] which are each the highest of two stats, plus half the other, plus your [[Level Bonus]].
 
 Apply 4 proficiency points to [[Rules/Characters/Skills/index|Skills]] of your choice with a maximum of 2 points to a single skill.
 

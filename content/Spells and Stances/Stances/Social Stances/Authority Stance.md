@@ -44,10 +44,10 @@
 | **Tags:**   |                                                                                                                                                                                                                                                                           |
 
 
-|             | Mobilise Army                                                                                                                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  |                                                                                                                                                                                                               |
-| **Cost:**   | 4 + [[Boost]]                                                                                                                                                                                                 |
-|             |                                                                                                                                                                                                               |
-| **Effect:** | A leader is capable of many plans. <br>Make a plan for and target (1 + [[Boost]]) [[Rules/Characters/index\|Characters]], for the [[Scene]] when they attempt to action the plan, they add +1d6 to all rolls. |
-| **Tags:**   |                                                                                                                                                                                                               |
+|             | Mobilise Army                                                                                                                                                                                                         |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  |                                                                                                                                                                                                                       |
+| **Cost:**   | 4 + [[Boost]]                                                                                                                                                                                                         |
+|             |                                                                                                                                                                                                                       |
+| **Effect:** | A leader is capable of many plans. <br>Make a plan for and target (1 + [[Boost]]) [[Rules/Characters/index\|Characters]], for the [[Scenes\|Scene]] when they attempt to action the plan, they add +1d6 to all rolls. |
+| **Tags:**   |                                                                                                                                                                                                                       |

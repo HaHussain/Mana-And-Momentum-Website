@@ -9,8 +9,8 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Health**: Medium
 **Complexity:** Medium
 **Stats:** [[Strength|STR]] and [[Awareness|AWR]]
-**Mechanics:** [[Teamwork]], [[Items]], [[Item Points]]
-**Combat Strategy:** Use [[Inventory]] actions to throw [[Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
+**Mechanics:** [[Teamwork]], [[Items/index|Items]], [[Item Points]]
+**Combat Strategy:** Use [[Inventory]] actions to throw [[Items/index|Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
 **Social Strategy:** Give gifts, bribe people, have a stash of equipment to collect info.
 
 | Level | Class Abilities          | Martial Abilities                                                                                                             |

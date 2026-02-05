@@ -158,7 +158,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ### Hook and Chain
 **Damage**: Small
 **Weapon Focus 1**: When you [[Hit]] an [[Object]] of [[Size]] equal to or greater than you, or a [[Rules/Characters/index|Character]] larger than you, you can ignore the [[Pull]] of this weapon to instead [[Pull]] yourself adjacent to them.
-**Weapon Focus 2**: This weapon can be used to [[Grapple]], and can maintain a [[Grapple]] up to its [[Melee|Melee Range]]. [[Rules/Characters/index|Characters]] [[Grappled]] by this weapon are also [[Restrained]]
+**Weapon Focus 2**: This weapon can be used to [[Grapple]], and can maintain a [[Grapple]] up to its [[Melee|Melee Range]]. [[Rules/Characters/index|Characters]] [[Grappled]] by this weapon are also [[Condemned]]
 **Tags**: [[Melee]] 5 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2.
 
 ### Shortbow

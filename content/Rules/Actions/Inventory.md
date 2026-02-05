@@ -1,5 +1,5 @@
 ---
-icon: LiShoppingBag
+icon: GiSwapBag
 ---
 Tempo: 6
 
