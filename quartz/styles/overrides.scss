@@ -33,13 +33,16 @@ a.internal {
 }
 
 // Table overrides
-
 .table-container > table {
   // Remove Table indent
   margin: 0rem;
   padding: 0rem;
   //Expand table to size of centre container.
   max-width: 100%;
+
+  td:first-child, th:first-child {
+    white-space: nowrap;
+  }
   
   // Increase padding, remove auto-hypenate text over lines
   td {
