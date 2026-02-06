@@ -38,7 +38,7 @@ Committing Mana indefinitely:
 Mana committed this way is committed indefinitely or until you take a [[Deep Rest]].
 You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - Reclaim any mana committed indefinitely.
-- First - If you reclaimed any mana, commit one mana for the scene.
+- Second - If you reclaimed any mana, commit one mana for the scene.
 
 
 ## Temporary Mana

@@ -48,7 +48,7 @@ The [[Fortress]]
 # Abilities
 
 ## Opportunity Hunter
-When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
+When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
 When the Rogue enters a [[Locations|Location]], they may [[Exert]] to [[Ask]] the GM for a mark of one of the following categories of their choice:

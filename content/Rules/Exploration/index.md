@@ -1,5 +1,5 @@
 ---
-title: Exploration
+title: Travel
 aliases:
   - Exploration
   - Travel

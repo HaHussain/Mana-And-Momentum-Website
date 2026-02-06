@@ -20,11 +20,11 @@ They have several [[#Techniques]] that the character can spend [[Momentum]] on t
 
 # List
 
-|                                         | Stance                           |
-| --------------------------------------- | -------------------------------- |
-| [[Demolitionist Stance\|Demolitionist]] | ![[Demolitionist Stance#Stance]] |
-| [[Executioner Stance\|Executioner]]     | ![[Executioner Stance#Stance]]   |
-| [[Hunter Stance\|Hunter]]               | ![[Hunter Stance#Stance]]        |
-| [[Warden Stance\|Warden]]               | ![[Warden Stance#Stance]]        |
+| Stance                           |
+| -------------------------------- |
+| ![[Demolitionist Stance#Stance]] |
+| ![[Executioner Stance#Stance]]   |
+| ![[Hunter Stance#Stance]]        |
+| ![[Warden Stance#Stance]]        |
 # Momentum
 ![[Momentum]]

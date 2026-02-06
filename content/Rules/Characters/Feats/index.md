@@ -2,6 +2,7 @@
 aliases:
   - Feat
   - Feats
+title: Feats
 ---
 
 | Feat            | Description                                                                                                                                                                                         | Pre-Requisites        |

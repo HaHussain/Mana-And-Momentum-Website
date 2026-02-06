@@ -3,7 +3,7 @@
 |               | Brawler's Stance                                                                                                                                     |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | A [[Grappled]] target in your hand counts as an [[Weapons#Gauntlets\|Guantlet]].<br>You are considered 1 [[Size]] Larger for [[Grapple\|Grappling]]. |
-| **Momentum:** | When you [[Hit]] a [[Grappled]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]                                                           |
+| **Momentum:** | Gain 1 [[Momentum]] for each [[Rules/Characters/index\|Character]] you have [[Grappled]] at the end of each turn.                                    |
 | **Tags:**     |                                                                                                                                                      |
 
 # Techniques

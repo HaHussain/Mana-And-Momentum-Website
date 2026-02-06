@@ -46,19 +46,6 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 # Abilities
 
-## All Consuming
-
-|             | Rage                                   |
-| ----------- | -------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                           |
-| **Action:** | Become [[Enraged]] until end of Scene. |
-| **Tags:**   | [[Mental]]                             |
-
-When the Berserker [[Exert|Exerts]] they can also choose the following option:
-- Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
-
-When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
-
 
 ## Bestial Instinct
 While not wearing [[Armour]], the Berserkers's body is considered [[Armour#Hide Leather|Hide Leather]].
@@ -73,6 +60,23 @@ While affected by a [[Statuses and Conditions/index|Debuff]], you have the abili
 | **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Seek]] who you are conversing with.                                                                                                                                                                                   |
 | **Action:** | Choose a [[Statuses and Conditions/index\|Debuff]] you are under.<br>Force the [[Rules/Characters/index\|Character]] to make a [[Instinct]] [[Physique]] check against your [[Social]] roll, gaining that [[Statuses and Conditions/index\|Condition]] on failure. |
 | **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Elemental Type\|Physical]]                                                                                                                                                                                          |
+
+
+## All Consuming
+
+|             | Rage                                   |
+| ----------- | -------------------------------------- |
+| **Tempo:**  | [[Extra]]: 1                           |
+| **Action:** | Become [[Enraged]] until end of Scene. |
+| **Tags:**   | [[Mental]]                             |
+
+When the Berserker [[Exert|Exerts]] they can also choose the following option:
+- Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
+
+When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
+
+## Other Things
+
 
 
 
@@ -121,6 +125,15 @@ When the Berserker enters a confrontation, they gain [[Momentum]] equal to (Thir
 The Berserker ignores the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]] for [[Attack|Attacks]].
 
 
+The Berserker gains the following action:
+
+|               | External Man-I-Fold                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Attack]]                                                                                          |
+| **Target:**   | 1 [[Rules/Characters/index\|Character]] you are [[Grappled\|Grappling]]                             |
+| **Duration:** | Until the start of the next round.                                                                  |
+| **Action:**   | Fold away the target, they become [[Invisible]], [[Untargetable]], [[Invulnerable]] and [[Stunned]] |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                     |
 
 # Class Focuses
 
