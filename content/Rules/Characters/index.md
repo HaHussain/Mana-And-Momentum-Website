@@ -24,6 +24,9 @@ Depending on the context, an NPCs attitude can be towards specific player charac
 # Moods
 NPCs have Moods that are tags for their current emotional state. Moods clear between [[Scenes]].
 
+# Favour
+NPCs and [[Factions]] can owe Players favours.
+
 # Bonds
 Player characters have Bonds, which are aimed towards another character or group.
 
