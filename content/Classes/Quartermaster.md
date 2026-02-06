@@ -30,7 +30,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Weapons:** [[Weapons#Hammer|Hammer]] and [[Weapons#Crossbow|Crossbow]]
 **Shield**: [[Shields#Hoplon Shield|Hoplon]]
 **Armour:** [[Armour#Titan Plate|Titan Plate]]
-**Skills:** [[Deceive]], [[Infiltrate]], [[Persuade]], [[Society]]
+**Skills:** [[Deceive]], [[Persuade]], [[Society]], [[Tech]]
 **Stance:** 
 
 # Health

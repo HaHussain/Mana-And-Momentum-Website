@@ -1,5 +1,5 @@
 ---
-title: Mana & Momentum Front Page
+title: CREST Front Page
 ---
 # Introduction
 ## What do you need to play

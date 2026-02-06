@@ -3,6 +3,7 @@ icon: LiShoppingBag
 aliases:
   - Items
   - Item
+title: Items
 ---
 # Overview Table
 
