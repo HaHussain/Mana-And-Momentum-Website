@@ -51,8 +51,9 @@ The [[Fortress]] gains
 The Tinker may spend 1 hour to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]] for 1 less [[Item Points|Item Point]] than its base cost (Minimum 1).
 The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Points|Item Point]] than its base cost.
 
-The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]].
-The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + Tinker Level + ( [[TL]] / 5 )
+The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]] (Max 1).
+The Tinker may spend 1 hour to apply a [[Companion#Traits|Companion Trait]] to a [[Construct]] [[Companion]] (Max 1).
+The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + Tinker Level + ( [[TL]] / 5 ).
 The Tinker must spend 1 minute every day on each item with a [[#Modifications|Modification]] to maintain it.
 
 %%
@@ -71,7 +72,7 @@ The Tinker must spend 1 minute every day on each item with a [[#Modifications|Mo
 When the Tinker fires a [[Reload|Reloading]] [[Weapons|Weapon]], they may spend 1 [[Momentum]] to take an [[Extra]]: [[Inventory]] action to reload it this round.
 
 The Tinker may spend 10 minutes to apply one of the following [[#Modifications]] to [[Technical]] [[Consumables]] or [[Construct|Constructs]].
-- Combine: Combine two [[Technical]] [[Consumables]] or one and a [[Construct]] into a new thing that combines the capabilities of both into one function.
+- Combine: Combine two [[Technical]] [[Items/index|Items]] or one and a [[Construct]] into a new thing that combines the capabilities of both into one function.
 - Invert: Flip the function of this object to its direct opposite.
 
 
@@ -119,6 +120,7 @@ The Tinker may spend 10 minutes to apply one of the following [[#Modifications]]
 | Shrink  | [[Object]]   | Reduce the [[Size]] of an [[Object]] by 1 step.<br>[[Size]] 1/8 objects become [[Size]] 0.<br>It becomes easier to conceal. |
 | Enlarge |              | Increase the [[Size]] of an [[Object]] by 1 step after deploying.<br>This may give it a larger area of effect.              |
 | Harden  |              | The [[Object]] gains +5 [[Deflection]].                                                                                     |
+
 
 
 # Ideas

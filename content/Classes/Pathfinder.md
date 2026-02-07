@@ -9,10 +9,10 @@ The Pathfinder is all about mobility and movement and scouting.
 **Health:** Low
 **Complexity:** Medium
 **Stats:** [[Dexterity|DEX]] and [[Awareness|AWR]]
-**Mechanics:** [[Mark]], [[Seek]], [[Animal Companion]], [[Traps]], [[Move]]
+**Mechanics:** [[Mark]], [[Seek]], [[Companion]], [[Traps]], [[Move]]
 **Combat Strategy:** [[Mark]] and [[Attack]] with ranged weapons and [[Move]] to find optimal positions. 
 Use your companion to help you do one of these things.
-**Social Strategy:** Track individuals wherever they go, listen into them on their conversations from a distance or from your [[Animal Companion]].
+**Social Strategy:** Track individuals wherever they go, listen into them on their conversations from a distance or from your [[Companion]].
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -49,20 +49,22 @@ The [[Fortress]] gains +2m [[Speed]].
 # Abilities
 
 ## Animal Companion
-The Pathfinder gains an [[Animal Companion]], choose one of the three following companions:
-If the Pathfinder's [[Animal Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Navigating]] and [[Scouting]].
+The Pathfinder gains a [[Beast]] [[Companion]], choose one of the three following companions:
+The Pathfinder's [[Companion]] gains 1 [[Animal Companion#Traits|Trait]].
+If the Pathfinder's [[Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Navigating]] and [[Scouting]].
 
 A [[Size]] 1/2 [[Fly|Flying]] scouting animal:
-- The [[Animal Companion]] can take the [[Extra]]: [[Mark]] action.
-- While the Pathfinder's [[Animal Companion]] is in their [[Seek]], the [[Animal Companion]]'s [[Seek]] counts as theirs.
+- The [[Companion]] can take the [[Extra]]: [[Mark]] action.
+- While the Pathfinder's [[Companion]] is in their [[Seek]], the [[Companion]]'s [[Seek]] counts as theirs.
 
 A [[Size]] 1 [[Climb|Climbing]] battle animal:
-- The [[Animal Companion]] can take the [[Extra]]: Standard [[Attack]] action.
-- The [[Animal Companion]] can use any of your [[Technique|Techniques]].
+- The [[Companion]] can take the [[Extra]]: Standard [[Attack]] action.
+- The [[Companion]] can use any of your [[Technique|Techniques]].
 
 A [[Size]] 2 riding animal:
-- The [[Animal Companion]] can take the [[Free]]: [[Move]] action.
-- While riding your [[Animal Companion]], any of your Movement bonuses apply to it.
+- The [[Companion]] can take the [[Free]]: [[Move]] action.
+- While riding your [[Companion]], any of your Movement bonuses apply to it.
+
 
 ## Tracker
 The Pathfinder gains +2m [[Speed]].
@@ -92,8 +94,8 @@ When the Pathfinder takes the [[Scan]] action and targets [[Terrain]] or an [[Ob
 ## Companion Buff
 The Pathfinder gains Weapon Focus 2 with a [[Ranged]] [[Weapons|Weapon]] of their choice and they automatically succeed on any [[Strength|STR]] checks to [[Climb]].
 
-The Pathfinder's [[Animal Companion]] gains 1 [[Animal Companion#Traits|Trait]].
-The Pathfinder's [[Animal Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
+The Pathfinder's [[Companion]] gains 1 [[Animal Companion#Traits|Trait]].
+The Pathfinder's [[Companion]] uses the Pathfinder's [[Awareness|AWR]] if its higher than its own.
 
 The Pathfinder has [[Advantage]] while [[Rules/Exploration/index#Navigating|Navigating]] and suffers no penalty for [[Rules/Exploration/index#Navigating|Navigating]] without a [[Rules/Exploration/index#Guide|Guide]].
 When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Rules/Exploration/index#Guide|Guide]], their group and [[Fortress]] can use the Pathfinder's [[Speed]] instead of their own.
@@ -124,7 +126,7 @@ The Pathfinder may target an additional any number of additional [[Rules/Charact
 ## Sharpshooter
 
 ### Scouting Companion
-When the Sharpshooter consumes [[Marked]], If the Sharpshooter's [[Animal Companion]] can draw [[Line of Sight]] to a target, the Sharpshooter's [[Ranged|Ranged Weapons]] gain [[Arcing]] for that [[Strike]] if they don't have it already, or ignores the penalty of [[Arcing]] for that [[Strike]] if they do.
+When the Sharpshooter consumes [[Marked]], If the Sharpshooter's [[Companion]] can draw [[Line of Sight]] to a target, the Sharpshooter's [[Ranged|Ranged Weapons]] gain [[Arcing]] for that [[Strike]] if they don't have it already, or ignores the penalty of [[Arcing]] for that [[Strike]] if they do.
 ### Aim And Fire
 
 |               | Deep Breath                                                               |
@@ -141,12 +143,12 @@ When the Sharpshooter consumes [[Marked]], they roll 1d10 instead of 1d6 for the
 ## Trapper
 
 ### Charging Companion
-When the Trapper's [[Animal Companion]] consumes [[Marked]], they ignore [[Sturdy]] on that [[Strike]].
+When the Trapper's [[Companion]] consumes [[Marked]], they ignore [[Sturdy]] on that [[Strike]].
 
 ## Beast
 
 ### Focused Companion
-When the Beast's [[Animal Companion]] gains an 1 [[Animal Companion#Traits|Trait]].
+When the Beast's [[Companion]] gains an 1 [[Animal Companion#Traits|Trait]].
 
 # Ideas
 

@@ -47,7 +47,7 @@ The [[Fortress]]
 
 ## Dictate Order
 
-When you allow an [[Ally]] to take an action, you may spend a [[Momentum]] to create 2 [[Momentum]] put on the first [[Technique]] that is part of that action.
+When you allow an [[Ally]] to take an action, you may spend a [[Momentum]] to give that [[Ally]] 2 [[Momentum]] to put on the first [[Technique]] that is part of that action.
 
 The commander gains the following action:
 
@@ -59,16 +59,18 @@ The commander gains the following action:
 | **Action:**   | Choose an action (this action gains the Tempo of that action) and an [[Ally]] in [[Seek]].<br>That [[Ally]] can use their [[Rules/Actions/Tags/Reaction\|Reaction]] to take a turn to perform that action and may use any of your available [[Technique\|Techniques]] when doing so.<br>If they make an [[Attack]], this counts as you making an [[Attack]] for the [[Rules/Actions/index#Unique Action Restriction\|Unique Action Restriction]]. |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
+## Tactician and Strategist
 
-# Class Focuses
+The Commander learns a number of Tactics, which are specific [[Technique|Techniques]] without a [[Spells and Stances/Stances/index#Stances|Stance]] and are performed by all [[Ally|Allies]] in [[Seek]].
+The Commander knows 
 
+## Banner Bearer
 
-|     | Banneret | Mastermind |
-| --- | -------- | ---------- |
-| 2   |          |            |
-| 4   |          |            |
-| 6   |          |            |
-| 8   |          |            |
+The Commander gets a banner of their choice.
+While holding the banner, it provides its benefits to [[Rules/Characters/index|Characters]] within the Commander's [[Seek]].
+
+The Commander may choose 1 + (Commander Level / 3) abilities for their banner.
+
 
 
 # Ideas
