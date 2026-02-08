@@ -171,7 +171,7 @@ function touchStartHandler(this: HTMLAnchorElement, e: TouchEvent) {
     // Long tap - navigate to link
     tapTimer = null
     window.location.href = link.href
-  }, 200)
+  }, 150)
 }
 
 function touchEndHandler(this: HTMLAnchorElement, e: TouchEvent) {
