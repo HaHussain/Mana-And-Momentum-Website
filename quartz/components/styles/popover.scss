@@ -77,7 +77,10 @@
     visibility 0.3s ease;
 
   @media all and ($mobile) {
-    display: none !important;
+    .popover-inner {
+      max-width: 100%;
+      width: unset;
+    }
   }
 }
 

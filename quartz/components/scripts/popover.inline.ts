@@ -4,6 +4,17 @@ import { fetchCanonical } from "./util"
 
 const p = new DOMParser()
 let activeAnchor: HTMLAnchorElement | null = null
+let tapTimer: number | null = null
+let isMobile = false
+
+// Detect mobile device
+function detectMobile() {
+  // Check for touch capability and screen size
+  return ('ontouchstart' in window || 
+          navigator.maxTouchPoints > 0 ||
+          window.matchMedia("(pointer: coarse)").matches) &&
+         window.innerWidth <= 1000 // Common mobile breakpoint
+}
 
 function slugify(str: string): string {
   return str
@@ -60,8 +71,13 @@ async function mouseEnterHandler(
       strategy: "fixed",
       middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
     })
+    
+    // Check for mobile and set x to 0, otherwise use the computed x value
+    const xPosition = isMobile ? 0 : x.toFixed()
+    const yPosition = y.toFixed()
+    
     Object.assign(popoverElement.style, {
-      transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,
+      transform: `translate(${xPosition}px, ${yPosition}px)`,
     })
   }
 
@@ -142,6 +158,46 @@ async function mouseEnterHandler(
   showPopover(popoverElement)
 }
 
+// Mobile touch handlers
+function touchStartHandler(this: HTMLAnchorElement, e: TouchEvent) {
+  const link = this
+  if (link.dataset.noPopover === "true") return
+  
+  // Prevent default to stop scrolling during long press
+  e.preventDefault()
+  
+  // Start timer for long press detection (500ms threshold)
+  tapTimer = window.setTimeout(() => {
+    // Long tap - navigate to link
+    tapTimer = null
+    window.location.href = link.href
+  }, 200)
+}
+
+function touchEndHandler(this: HTMLAnchorElement, e: TouchEvent) {
+  const link = this
+  if (link.dataset.noPopover === "true") return
+  
+  if (tapTimer) {
+    // Short tap - show popover and prevent navigation
+    clearTimeout(tapTimer)
+    tapTimer = null
+    
+    e.preventDefault()
+    
+    // Get touch position for popover placement
+    const touch = e.changedTouches[0]
+    mouseEnterHandler.call(link, { clientX: touch.clientX, clientY: touch.clientY })
+  }
+}
+
+function touchCancelHandler() {
+  if (tapTimer) {
+    clearTimeout(tapTimer)
+    tapTimer = null
+  }
+}
+
 function clearActivePopover() {
   activeAnchor = null
   const allPopoverElements = document.querySelectorAll(".popover")
@@ -150,12 +206,49 @@ function clearActivePopover() {
 
 document.addEventListener("nav", () => {
   const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
+  
+  // Detect mobile on navigation
+  isMobile = detectMobile()
+  
   for (const link of links) {
-    link.addEventListener("mouseenter", mouseEnterHandler)
-    link.addEventListener("mouseleave", clearActivePopover)
+    if (isMobile) {
+      // Mobile: use touch events
+      link.addEventListener("touchstart", touchStartHandler)
+      link.addEventListener("touchend", touchEndHandler)
+      link.addEventListener("touchcancel", touchCancelHandler)
+      
+      // Prevent context menu on long press
+      link.addEventListener("contextmenu", (e) => e.preventDefault())
+      
+      window.addCleanup(() => {
+        link.removeEventListener("touchstart", touchStartHandler)
+        link.removeEventListener("touchend", touchEndHandler)
+        link.removeEventListener("touchcancel", touchCancelHandler)
+      })
+    } else {
+      // Desktop: keep original mouse events
+      link.addEventListener("mouseenter", mouseEnterHandler)
+      link.addEventListener("mouseleave", clearActivePopover)
+      
+      window.addCleanup(() => {
+        link.removeEventListener("mouseenter", mouseEnterHandler)
+        link.removeEventListener("mouseleave", clearActivePopover)
+      })
+    }
+  }
+  
+  // Also add global touch handler to clear popovers when tapping elsewhere
+  if (isMobile) {
+    const clearOnOutsideTouch = (e: TouchEvent) => {
+      const target = e.target as HTMLElement
+      if (!target.closest('.popover') && !target.closest('a.internal')) {
+        clearActivePopover()
+      }
+    }
+    
+    document.addEventListener('touchstart', clearOnOutsideTouch)
     window.addCleanup(() => {
-      link.removeEventListener("mouseenter", mouseEnterHandler)
-      link.removeEventListener("mouseleave", clearActivePopover)
+      document.removeEventListener('touchstart', clearOnOutsideTouch)
     })
   }
 })
