@@ -6,6 +6,7 @@ const p = new DOMParser()
 let activeAnchor: HTMLAnchorElement | null = null
 let tapTimer: number | null = null
 let isMobile = false
+let touchMoved = false
 
 // Detect mobile device
 function detectMobile() {
@@ -163,35 +164,54 @@ function touchStartHandler(this: HTMLAnchorElement, e: TouchEvent) {
   const link = this
   if (link.dataset.noPopover === "true") return
   
-  // Prevent default to stop scrolling during long press
-  // e.preventDefault()
+  touchMoved = false
   
-  // Start timer for long press detection (500ms threshold)
+  // Start timer for short tap detection (150ms threshold)
   tapTimer = window.setTimeout(() => {
-    // Long tap - navigate to link
+    // Timer expired - this is not a short tap
+    // We don't do anything here, just let the browser handle the touch normally
     tapTimer = null
-    window.location.href = link.href
   }, 150)
+}
+
+function touchMoveHandler() {
+  // If user moves finger, it's not a tap - it's scrolling or dragging
+  touchMoved = true
+  if (tapTimer) {
+    clearTimeout(tapTimer)
+    tapTimer = null
+  }
 }
 
 function touchEndHandler(this: HTMLAnchorElement, e: TouchEvent) {
   const link = this
   if (link.dataset.noPopover === "true") return
   
-  if (tapTimer) {
+  if (tapTimer && !touchMoved) {
     // Short tap - show popover and prevent navigation
     clearTimeout(tapTimer)
     tapTimer = null
     
     e.preventDefault()
+    e.stopPropagation()
     
     // Get touch position for popover placement
     const touch = e.changedTouches[0]
     mouseEnterHandler.call(link, { clientX: touch.clientX, clientY: touch.clientY })
+    
+    // Return false to prevent any default behavior
+    return false
+  }
+  
+  // Clear timer if still running
+  if (tapTimer) {
+    clearTimeout(tapTimer)
+    tapTimer = null
   }
 }
 
 function touchCancelHandler() {
+  touchMoved = false
   if (tapTimer) {
     clearTimeout(tapTimer)
     tapTimer = null
@@ -213,15 +233,23 @@ document.addEventListener("nav", () => {
   for (const link of links) {
     if (isMobile) {
       // Mobile: use touch events
-      link.addEventListener("touchstart", touchStartHandler)
+      link.addEventListener("touchstart", touchStartHandler, { passive: true })
+      link.addEventListener("touchmove", touchMoveHandler, { passive: true })
       link.addEventListener("touchend", touchEndHandler)
       link.addEventListener("touchcancel", touchCancelHandler)
       
-      // Prevent context menu on long press
-      //link.addEventListener("contextmenu", (e) => e.preventDefault())
+      // Also handle click to prevent double-tap issues
+      link.addEventListener("click", (e) => {
+        // If we just showed a popover, prevent the click from navigating
+        if (activeAnchor === link) {
+          e.preventDefault()
+          e.stopPropagation()
+        }
+      })
       
       window.addCleanup(() => {
         link.removeEventListener("touchstart", touchStartHandler)
+        link.removeEventListener("touchmove", touchMoveHandler)
         link.removeEventListener("touchend", touchEndHandler)
         link.removeEventListener("touchcancel", touchCancelHandler)
       })
