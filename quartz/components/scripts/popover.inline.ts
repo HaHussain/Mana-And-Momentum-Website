@@ -218,7 +218,7 @@ document.addEventListener("nav", () => {
       link.addEventListener("touchcancel", touchCancelHandler)
       
       // Prevent context menu on long press
-      link.addEventListener("contextmenu", (e) => e.preventDefault())
+      //link.addEventListener("contextmenu", (e) => e.preventDefault())
       
       window.addCleanup(() => {
         link.removeEventListener("touchstart", touchStartHandler)
