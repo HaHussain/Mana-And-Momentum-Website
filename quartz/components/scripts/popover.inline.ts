@@ -164,7 +164,7 @@ function touchStartHandler(this: HTMLAnchorElement, e: TouchEvent) {
   if (link.dataset.noPopover === "true") return
   
   // Prevent default to stop scrolling during long press
-  e.preventDefault()
+  // e.preventDefault()
   
   // Start timer for long press detection (500ms threshold)
   tapTimer = window.setTimeout(() => {
