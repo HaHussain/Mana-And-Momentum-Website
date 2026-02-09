@@ -129,7 +129,7 @@ Additionally you gain the following action:
 
 ### Sentinel at the Gates
 
-When the Duelist hits a [[Rules/Characters/index|Character]] with an [[Melee#Attack of Opportunity|Attack of Opportunity]], that [[Rules/Characters/index|Character]] becomes [[Frozen]] for that turn. 
+When the Duelist hits a [[Rules/Characters/index|Character]] with an [[Melee#Attack of Opportunity|Attack of Opportunity]], that [[Rules/Characters/index|Character]] becomes [[Restricted]] for that turn. 
 
 
 

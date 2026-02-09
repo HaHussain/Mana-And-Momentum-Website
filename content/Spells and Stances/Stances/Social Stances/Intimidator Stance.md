@@ -37,7 +37,7 @@
 | **Tempo:**  |                      |
 | **Cost:**   | 2                    |
 |             |                      |
-| **Effect:** | Apply [[Frightened]] |
+| **Effect:** | Apply [[Chilled]] |
 | **Tags:**   | [[Attack]]           |
 
 ## Overt Interrupt

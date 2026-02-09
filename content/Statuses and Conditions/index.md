@@ -35,17 +35,29 @@ Debuffs are negative conditions that can effect a character.
 The following debuffs exist:
 ### Blind
 ![[Blind]]
-### Chilled
-![[Restricted]]
-### Deafened
+### Charmed
+![[Charmed]]
+### Condemned
+![[Condemned]]
+### Corroded
+![[Corroded]]
+### Corrupted
+![[Corrupted]]
+### Dazed
+![[Dazed]]
+### Deaf
 ![[Deaf]]
-### Immobilised
-![[Frozen]]
+### Fascinated
+![[Fascinated]]
 ### Marked
 ![[Marked]]
+### Numb
+![[Numb]]
+### Restricted
+![[Restricted]]
 ### Shocked
 ![[Shocked]]
-### Slowed
-![[Languid]]
+### Suffocating
+![[Suffocating]]
 ### Weak
 ![[Weak]]

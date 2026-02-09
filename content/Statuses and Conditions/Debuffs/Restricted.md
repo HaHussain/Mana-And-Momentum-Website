@@ -1,9 +1,8 @@
 ---
 tags:
   - Debuff
-icon: GiRopeCoil
+icon: GiImprisoned
 ---
-This creature does not get a [[Normal Move]] on each of its turns.
+This [[Rules/Characters/index|Character]] cannot move.
 
-
-[[Mood]]: Restricted, Limited, Caged-in.
+[[Mood]]: Restricted, Limited, Caged-in

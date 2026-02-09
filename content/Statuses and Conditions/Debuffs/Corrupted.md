@@ -3,4 +3,6 @@ icon: RaHorns
 tags:
   - Debuff
 ---
-[[Mood]]: Corrupted, Selfish, Greedy, Satisfied
+A corrupted character cannot benefit from [[Sturdy]].
+
+[[Mood]]: Corrupted, Unsteady, Selfish

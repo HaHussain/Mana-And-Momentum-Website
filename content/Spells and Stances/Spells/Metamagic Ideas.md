@@ -69,11 +69,11 @@
 | **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Lightning\|Lightning]] spells and strikes apply [[Shocked]]. |
 | **Tags:**   | [[Metamagic]], [[Elemental Type#Lightning\|Lightning]]                                                                                           |
 
-|             | **Chilling Spell**                                                                                                                  |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Magic]]:                                                                                                                          |
-| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Ice\|Ice]] spells and strikes apply [[Frozen]]. |
-| **Tags:**   | [[Metamagic]], [[Elemental Type#Ice\|Ice]]                                                                                          |
+|             | **Chilling Spell**                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Magic]]:                                                                                                                           |
+| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Ice\|Ice]] spells and strikes apply [[Chilled]]. |
+| **Tags:**   | [[Metamagic]], [[Elemental Type#Ice\|Ice]]                                                                                           |
 
 |             | **Corroding Spell**                                                                                                                     |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,17 +81,17 @@
 | **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Acid\|Acid]] spells and strikes apply [[Corroded]]. |
 | **Tags:**   | [[Metamagic]], [[Elemental Type#Acid\|Acid]]                                                                                            |
 
-|             | **Frightening Spell**                                                                                                                     |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Magic]]:                                                                                                                                |
-| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Dark\|Dark]] spells and strikes apply [[Frightened]]. |
-| **Tags:**   | [[Metamagic]], [[Elemental Type#Dark\|Dark]]                                                                                              |
+|             | **Frightening Spell**                                                                                                                |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Magic]]:                                                                                                                           |
+| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Dark\|Dark]] spells and strikes apply [[Blind]]. |
+| **Tags:**   | [[Metamagic]], [[Elemental Type#Dark\|Dark]]                                                                                         |
 
-|             | **Blinding Spell**                                                                                                                     |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Magic]]:                                                                                                                             |
-| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Light\|Light]] spells and strikes apply [[Blind]]. |
-| **Tags:**   | [[Metamagic]], [[Elemental Type#Light\|Light]]                                                                                         |
+|             | **Blinding Spell**                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Magic]]:                                                                                                                                 |
+| **Effect:** | Commit mana indefinitely,<br>While mana is committed on this, your [[Elemental Type#Light\|Light]] spells and strikes apply [[Condemned]]. |
+| **Tags:**   | [[Metamagic]], [[Elemental Type#Light\|Light]]                                                                                             |
 
 ---
 

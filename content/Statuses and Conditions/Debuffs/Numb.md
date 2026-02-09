@@ -5,4 +5,4 @@ tags:
 ---
 All of this Character's [[Momentum]] costs increase by 1.
 
-[[Mood]]: Numb, uncaring, and unfocused.
+[[Mood]]: Numb, apathetic, and unfocused

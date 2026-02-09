@@ -5,4 +5,4 @@ tags:
 ---
 A shocked creature cannot take [[Rules/Actions/Tags/Reaction|Reactions]].
 
-[[Mood]]: Shocked, surprised and off-balance. 
+[[Mood]]: Shocked, surprised and off-balance

@@ -11,10 +11,10 @@ aliases:
 | --------------------- | ------------------------------------------------------------------ |
 |                       |                                                                    |
 | **[[#Dagger]]**       | 1: Apply a debuff<br>2: Increased crit chance                      |
-| Damage: Small         | [[Melee]] 1 [[One-Handed]] [[Quick]] [[Orthogonal]] [[Grappling]]  |
+| Damage: Small         | [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Quick]] [[Grappling]]  |
 |                       |                                                                    |
 | **[[#Gauntlets]]**    | 1: Dual Wielding +1 Strikes<br>2: Free Grapple                     |
-| Damage: Small         | [[Melee]] 1 [[One-Handed]] [[Quick]] [[Orthogonal]] [[Grappling]]  |
+| Damage: Small         | [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Quick]] [[Grappling]]  |
 |                       |                                                                    |
 | **[[#Sword]]**        | 1: Quick<br>2: Ignore [[Armour#Deflection\|Deflection]]?           |
 | Damage: Medium        | [[Melee]] 1 [[One-Handed]]                                         |
@@ -26,11 +26,10 @@ aliases:
 | Damage: Medium        | [[Melee]] 1 [[One-Handed]] [[Push]] 1                              |
 |                       |                                                                    |
 | **[[#Spear]]**        | 1: Reaching attack<br>Set attack?<br>2: Line strike                |
-| Damage: Medium        | [[Melee]] 2 [[One-Handed]] [[Orthogonal]]                          |
+| Damage: Medium        | [[Melee]] 2 [[Orthogonal]] [[One-Handed]]                          |
 |                       |                                                                    |
 | **[[#Foil]]**         | 1: Parry<br>2: Riposte                                             |
 | Damage: Medium        | [[Melee]] 1 [[One-Handed]] [[Quick]]                               |
-|                       |                                                                    |
 |                       |                                                                    |
 |                       | Two-Handed Weapons                                                 |
 |                       |                                                                    |
@@ -38,26 +37,29 @@ aliases:
 | Damage: Medium        | [[Melee]] 1 [[Two-Handed]]                                         |
 |                       |                                                                    |
 | **Great-Sword**       | 1: Same as Sword<br>2: Same as Sword                               |
-| Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Slow]] [[Orthogonal]]                 |
+| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]] [[Slow]]                 |
 |                       |                                                                    |
 | **Great-Axe**         | 1: Same as Axe<br>2: Same as Axe                                   |
-| Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Slow]] [[Orthogonal]] [[Pull]] 1      |
+| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]] [[Slow]] [[Pull]] 1      |
 |                       |                                                                    |
 | **Great-Hammer**      | 1: Same as Hammer<br>2: Same as Hammer                             |
-| Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Slow]] [[Orthogonal]] [[Push]] 2      |
+| Damage: Large         | [[Melee]] [[Orthogonal]] 2 [[Two-Handed]] [[Slow]] [[Push]] 2      |
 |                       |                                                                    |
 | **Longspear**         | 1: Same as Spear<br>2: Same as Spear                               |
 | Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Slow]]                                |
 |                       |                                                                    |
+| **[[#Flail]]**        | 1: Push in any direction<br>2: Break Armour                        |
+| Damage: Large         | [[Melee]] 1 [[Ranged]] 2 [[Two-Handed]] [[Push]] 1 [[Grappling]]   |
+|                       |                                                                    |
 | **Epee**              | 1: Same as Foil<br>2: Same as Foil                                 |
-| Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Orthogonal]]                          |
+| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]]                          |
 |                       |                                                                    |
 
 ## Stats
 
 ### Dagger
 **Damage**: Small
-**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Dazed]], [[Frozen]], [[Numb]], [[Shocked]]
+**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Dazed]], [[Restricted]], [[Numb]], [[Shocked]]
 **Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Rules/Rolls/index#Nat|Nat]] 19
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
@@ -118,6 +120,12 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 1**: On a [[Critical Strike|Crit]], applies [[Prone]] to target.
 **Weapon Focus 2**: 
 **Tags**: 
+
+## Flail
+**Damage**: Large
+**Weapon Focus 1**: Any [[Push]] from this weapon can move the target in any single direction.
+**Weapon Focus 2**: On a [[Critical Strike|Crit]] apply [[Corroded]], [[Prone]], [[Unsteady]]
+**Tags**: [[Melee]] 1 [[Ranged]] 2 [[Two-Handed]] [[Push]] 1 [[Grappling]]
 
 # Ranged Weapons
 ## Table

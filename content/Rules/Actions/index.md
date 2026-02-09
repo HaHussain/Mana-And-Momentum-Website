@@ -25,10 +25,10 @@ Each reaction has a tempo that needs to be reached before the character can use 
 | [[Guard]]            | 4     | Protect someone else.                                                     |
 | Standard [[Attack]]  | 5     | Make an attack.                                                           |
 | [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
-| [[Hide]]             | 6     | Hide behind objects.                                                      |
 | [[Switch Stance]]    | 6     | Switch stance from one to another.                                        |
 | [[Slow]] [[Attack]]  | 7     | Make an attack with a slow weapon.                                        |
 | [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
+| [[Hide]]             | 7     | Hide behind objects.                                                      |
 | [[Magic]]            | ?     | Cast a spell.                                                             |
 # Unique Action Restriction
 

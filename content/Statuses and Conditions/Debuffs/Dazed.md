@@ -1,8 +1,8 @@
 ---
-icon: GiBarbedCoil
+icon: GiKnockedOutStars
 tags:
   - Debuff
 ---
-A dazed character has [[Disadvantage]] on all [[Rules/Characters/Skills/index|Skill]] and [[Hit]] rolls.
+This character gets 1 fewer [[Rules/Actions/index|Actions]] every round and cannot take [[Extra]] actions.
 
 [[Mood]]: Dazed, muddled, confused, off-kilter

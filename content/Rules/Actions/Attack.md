@@ -9,6 +9,21 @@ The Attack action lets you make a [[Strike]] with a weapon you are holding.
 
 There are three Attack actions per round, each corresponding to a different [[#Weapon Speed]], each Attack action is the same action for the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].
 
+
+|                   | Quick Attack                                         |
+| ----------------- | ---------------------------------------------------- |
+| **Tempo:**        | [[Attack]]: 3                                        |
+| **Requirements:** | [[Quick]] [[Weapons\|Weapon]]                        |
+| **Action:**       | [[Attack]]                                           |
+| **Tags:**         | [[Quick]] [[Attack]] [[Rules/Actions/index\|Action]] |
+
+|                   | Slow Attack                                         |
+| ----------------- | --------------------------------------------------- |
+| **Tempo:**        | [[Attack]]: 7                                       |
+| **Requirements:** | [[Weapons\|Weapon]]                                 |
+| **Action:**       | [[Attack]]                                          |
+| **Tags:**         | [[Slow]] [[Attack]] [[Rules/Actions/index\|Action]] |
+
 # Weapon Speed
 There are three Weapons Speeds:
 [[Slow]], Standard, [[Quick]].
