@@ -27,6 +27,11 @@ a.internal {
   overflow-wrap: normal;
 }
 
+// Add a bit of spacing between linebreaks
+p > br {
+  margin-bottom: 0.4rem;
+}
+
 // Table overrides
 .table-container > table {
   // Remove Table indent
