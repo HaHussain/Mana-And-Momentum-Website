@@ -48,11 +48,11 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 
 ## Bestial Instinct
-While not wearing [[Armour]], the Berserkers's body is considered [[Armour#Hide Leather|Hide Leather]].
+While not wearing [[Armour]], the Berserkers is considered to be wearing [[Armour#Hide Leather|Hide Leather]].
 While wearing Not-[[Heavy]] [[Armour]], the Berserker may set their [[Deflection]] equal to their [[Fortitude|FOR]].
 While wearing [[Heavy]] [[Armour]], the Berserker may ignore any [[Orthogonal]] tag on the Armour.
 
-While affected by a [[Statuses and Conditions/index|Debuff]], you have the ability to incite that same [[Statuses and Conditions/index|Condition]] in someone you're speaking to. 
+The Berserker gains the following Action:
 
 |             | Incite                                                                                                                                                                                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

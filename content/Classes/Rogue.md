@@ -9,22 +9,24 @@ Rogues are all about stealth and often criminal networks
 **Health:** Low
 **Complexity:** Low
 **Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
-**Mechanics:** [[Tempo]], [[Statuses and Conditions/index#Debuffs|Debuffs]], [[Hide]]
-**Combat Strategy:** Attack [[Quick]] and as many times as possible to kill debuffed enemies. Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] and [[Critical Strike|Crits]].
-[[Slow]] attack to move in one turn and then [[Quick]] attack to move out on the next to avoid being hit. [[Hide]] to stop being targeted.
+**Mechanics:** [[Tempo]], [[Statuses and Conditions/index#Debuffs|Debuffs]], [[Hide]], [[Teamwork]]
+**Combat Strategy:** Attack as many times as possible to kill [[Statuses and Conditions/index|Debuffed]] and [[Isolated]] enemies. Be opportunistic in your targets.
+Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] and [[Critical Strike|Crits]].
+[[Slow]] attack to move in one turn and then [[Quick]] attack to move out on the next to avoid being hit. 
+[[Hide]] to stop being targeted and get past melee target.
 
-| Level | Class Abilities      |
-| ----- | -------------------- |
-| 1     | [[#Strike Weakness]] |
-| 2     | [[#One Step Ahead]]  |
-| 3     |                      |
-| 4     |                      |
-| 5     |                      |
-| 6     |                      |
-| 7     |                      |
-| 8     |                      |
-| 9     |                      |
-| 10    |                      |
+| Level | Class Abilities         |
+| ----- | ----------------------- |
+| 1     | [[#Opportunity Hunter]] |
+| 2     | [[#One Step Ahead]]     |
+| 3     |                         |
+| 4     |                         |
+| 5     |                         |
+| 6     |                         |
+| 7     |                         |
+| 8     |                         |
+| 9     |                         |
+| 10    |                         |
 ## Quick Build
 
 **Weapons:** 2 [[Weapons#Dagger|Daggers]] and a [[Weapons#Shortbow|Shortbow]]
@@ -38,7 +40,7 @@ When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].
 # Custom Trigger
 Choose 1 of:
 - When the Rogue uses stealth to solve a problem, gain 1d4 [[Momentum]].
-- When the Rogue refuses to sell out their allies for their own gain, gain 1d4 [[Momentum]].
+- When the Rogue rejects an opportunity to harm their allies for their own gain, gain 1d4 [[Momentum]].
 - When the Rogue completes an illegal job, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
@@ -48,15 +50,15 @@ The [[Fortress]]
 # Abilities
 
 ## Opportunity Hunter
-When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
+When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
-When the Rogue enters a [[Locations|Location]], they may [[Exert]] to [[Ask]] the GM for a mark of one of the following categories of their choice:
-- Assets - This is an art piece or item that is worth a lot.
-- Magic - This is a useful magical item.
-- Secrets - This is a secret on a powerful figure. 
-- Influence - A powerful figure who is looking for some help.
-
+Once per [[Locations|Location]], the Rogue may [[Exert]] to gain a contact in this location.
+- Might - A thug or assassin
+- Assets - A fence or thief
+- Magic - A mage or alchemist
+- Influence - A politician or connector
+- Secrets - An informant
 
 ## One Step Ahead
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
