@@ -44,7 +44,7 @@ Choose 1 of:
 - When the Pathfinder discovers a new location or route or travels through un-tread ground, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
-The [[Fortress]] gains +2m [[Speed]].
+The [[Fortress]] gains +1 [[Speed]].
 
 # Abilities
 
@@ -67,7 +67,7 @@ A [[Size]] 2 riding animal:
 
 
 ## Tracker
-The Pathfinder gains +2m [[Speed]].
+The Pathfinder gains +1 [[Speed]].
 When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
 
 When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.
@@ -102,7 +102,7 @@ When the Pathfinder [[Rules/Exploration/index#Navigating|Navigates]] with a [[Ru
 
 
 ## Speed Again?
-The Pathfinder gains +2m [[Speed]].
+The Pathfinder gains +1 [[Speed]].
 
 While [[Rules/Exploration/index#Navigating|Navigating]], the Pathfinder, their group, and their [[Fortress]] ignore the penalty for traversing through [[Rules/Exploration/index#Mountains|Mountains]] and can travel through [[Rules/Exploration/index#High Mountains|High Mountains]] with the penalty of [[Rules/Exploration/index#Mountains|Mountains]].
 

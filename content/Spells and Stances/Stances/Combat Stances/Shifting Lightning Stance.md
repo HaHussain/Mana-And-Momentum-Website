@@ -2,7 +2,7 @@
 
 |               | Shifting Lightning Strikes Thrice                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | When you [[Hit]] with a [[Strike]], regain 2m of [[Speed]] up to your max.                                |
+| **Passive:**  | When you [[Hit]] with a [[Strike]], regain 1 [[Speed]] up to your max.                                    |
 | **Momentum:** | For each different target you [[Hit]] in a turn, gain a [[Momentum]].                                     |
 | **Tags:**     | [[Spells and Stances/Stances/index\|Stance]], [[Offensive]], [[Elemental Type\|Lightning]], [[Imbuement]] |
 

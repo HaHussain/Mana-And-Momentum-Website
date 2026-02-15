@@ -113,7 +113,7 @@ These do not stack.
 When an [[Ally]] in your [[Seek]] consumes [[Marked]], the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
 
 **Horse Crest:**
-When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an addition 2m * [[Intelligence|INT]] / [[Instinct|INS]].
+When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an additional [[Intelligence|INT]] / [[Instinct|INS]] squares.
 (Does not stack).
 
 **Moon Crest:**

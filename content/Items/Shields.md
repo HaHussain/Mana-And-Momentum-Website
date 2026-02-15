@@ -19,7 +19,7 @@ aliases:
 | **[[#Hoplon Shield]]** | +2 AC<br><br>[[Orthogonal]]<br><br>[[Two-Handed]]<br>[[Strength\|STR]] > 1: [[One-Handed]]                                 |
 |                        | **1:** Doubled effect against [[Rules/Actions/Tags/Reaction\|Reactions]]<br>**2:** [[Extra]]: [[Guard]] for 1 [[Momentum]] |
 |                        |                                                                                                                            |
-| **[[#Tower Shield]]**  | +2 AC<br>+1 [[Deflection]]<br><br>-2m [[Speed]]<br><br>[[Two-Handed]]<br>[[Strength\|STR]] > 2: [[One-Handed]]             |
+| **[[#Tower Shield]]**  | +2 AC<br>+1 [[Deflection]]<br><br>-1 [[Speed]]<br><br>[[Two-Handed]]<br>[[Strength\|STR]] > 2: [[One-Handed]]              |
 |                        | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                  |
 |                        |                                                                                                                            |
 # Buckler
@@ -59,7 +59,7 @@ if the attacker is in [[Melee|Melee Range]], make a [[Strike]] against the attac
 
 # Tower Shield
 **Effect:** +2 AC, +1 [[Deflection]]
-**Weight Penalty:** -2m [[Speed]]
+**Weight Penalty:** -1 [[Speed]]
 **Focus 1:** Enemy [[Rules/Characters/index|Characters]] cannot draw [[Line of Sight]] past your square.
 **Focus 2:** 
 When you are included in a non-[[Arcing]] AoE ability, you can choose to take max damage from the ability. If you do, draw a line between you and the source, all targets behind you take no damage from the ability.

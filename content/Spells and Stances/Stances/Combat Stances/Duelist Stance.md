@@ -1,10 +1,10 @@
 # Stance
 
-|               | Duelist Stance                                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| **Passive:**  | Each time you [[Strike]] you may move 2m without triggering [[Rules/Actions/Tags/Reaction\|Reactions]] |
-| **Momentum:** | When you [[Strike]] an [[Isolated]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]         |
-| **Tags:**     | [[Spells and Stances/Stances/index\|Stance]]                                                           |
+|               | Duelist Stance                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------- |
+| **Passive:**  | Each time you [[Strike]] you may move 1 without triggering [[Rules/Actions/Tags/Reaction\|Reactions]] |
+| **Momentum:** | When you [[Strike]] an [[Isolated]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]        |
+| **Tags:**     | [[Spells and Stances/Stances/index\|Stance]]                                                          |
 
 # Techniques
 

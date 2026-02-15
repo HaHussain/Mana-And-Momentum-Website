@@ -43,8 +43,8 @@ Each clock tick represent 5km of movement.
 The Travel Clock is wiped when the players reach a [[Locations|Location]], and can be used to represent the time of day they got there at.
 
 ### Travelling Extra
-Every 7m of Speed (Rounded Down), the [[Fortress]] travels 1 hex - 5km per hour on a small map, or 40km per day on a large map. 
-Every 1m extra of Speed, the [[Fortress]] travels 1 tick on the [[#Travel Clock]] per day on a large map.
+Every 4 (8m) [[Speed]] (Rounded Down), the [[Fortress]] travels 1 hex - 5km per hour on a small map, or 40km per day on a large map. 
+Every 1 extra [[Speed]], the [[Fortress]] travels 2 ticks on the [[#Travel Clock]] per day on a large map.
 %% 7m/10s (SPEED)  * 2 (2 actions per turn) * 3.6 (m/s to km/h) = 5.04km/h %%
 
 On a large map, players can [[Exert]] their steeds (or themselves) to force march and travel for an additional hour.

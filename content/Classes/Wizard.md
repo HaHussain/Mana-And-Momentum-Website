@@ -29,7 +29,7 @@ Choose 1 of:
 - When the Wizard learns new things, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
 
 # Fortress Bonus
-The [[Fortress]] gains +2m [[Speed]].
+The [[Fortress]] gains 
 
 # Features
 
