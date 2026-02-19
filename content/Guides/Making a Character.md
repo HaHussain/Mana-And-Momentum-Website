@@ -16,13 +16,13 @@ Your [[Seek]] is [[Awareness]] squares (minimum 1), if your [[Awareness]] is les
 Your [[Item Points|Max Item Points]] is equal to 2 + [[Intelligence]] (min 0).
 Your [[Weight|Max Weight]] is equal to 10 + 2 * [[Strength]].
 Your [[Exert#Exertion|Maximum Exertion]] is equal to 2 + [[Fortitude]] (min 1).
-Your [[Level Bonus]] is your ([[TL]] / 3) rounded up, which will be +1 at Level 2.
+Your [[Level Bonus]] is +2.
 
 Grab [[Items/index|Items]] up to your [[Weight|Max Weight]] 
 
 Calculate your [[Defence]], [[Deflection]] and [[Sturdy]] based on your [[Armour]].
 
-Apply 4 proficiency points to [[Rules/Characters/Skills/index|Skills]] of your choice with a maximum of 2 points to a single skill.
+Apply 4 [[Levelling Up#Skill Points|Skill Points]] to [[Rules/Characters/Skills/index|Skills]] of your choice with a maximum of 2 points to a single skill.
 
 Record your [[Class Keywords|Class Keyword]] for each class.
 Choose one of the three [[Class Trigger|Class Triggers]] for each class.

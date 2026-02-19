@@ -93,8 +93,11 @@ The Banner can be deployed with [[Range]] 5.
 | **Trigger:** | An [[Ally]] makes a [[Strike]]                                              |
 | **Action:**  | They add your [[Intelligence\|INT]] / [[Instinct\|INS]] to the [[Hit]] roll |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                   |
+
 **Boar Crest:**
 When an [[Ally]] in your [[Seek]] [[Push|Pushes]] or [[Pull|Pulls]], they [[Push]] or [[Pull]] +1 more.
+
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Coerce]] roll.
 
 **Elk Crest:**
 *Requirement: Commander Level 5*
@@ -106,15 +109,18 @@ When an [[Ally]] in your [[Seek]] gains 2+ [[Momentum]] in a turn or gains [[Spe
 
 **Hammer Crest:**
 An [[Ally]] in your [[Seek]] adds your [[Intelligence|INT]] / [[Instinct|INS]] to the damage of their [[Strike|Strikes]].
-An enemy in your [[Seek]] takes your [[Intelligence|INT]] / [[Instinct|INS]] additional damage when they take damage from a [[Strike]].
-These do not stack.
+
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Physique]] roll.
 
 **Hawk Crest:**
 When an [[Ally]] in your [[Seek]] consumes [[Marked]], the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
 
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Search]] roll.
+
 **Horse Crest:**
 When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an additional [[Intelligence|INT]] / [[Instinct|INS]] squares.
 (Does not stack).
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Traverse]] roll.
 
 **Moon Crest:**
 *Requirement: Commander Level 10*
@@ -123,9 +129,11 @@ All [[Ally|Allies]] have this [[Statuses and Conditions/index|Buff]] while adjac
 
 **Owl Crest:**
 When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two questions.
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Insight]] roll.
 
 **Star Crest:**
 All [[Teamwork#Assist]] die are one size larger.
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry an [[Arcana]] roll.
 
 **Sun Crest:**
 *Requirement: Commander Level 5*
@@ -134,9 +142,11 @@ All [[Ally|Allies]] in your [[Seek]] are immune to this [[Statuses and Condition
 
 **Thorn Crest:**
 All [[Ally|Allies]] in your [[Seek]] gain [[Retaliate]] 2 [[Elemental Type|Physical]].
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Deceive]] roll.
 
 **Tree Crest**:
 All [[Ally|Allies]] in your [[Seek]] gain +1 [[Sturdy]].
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Nature]] roll.
 
 **Intertwined Crest:**
 *Requirement: Commander Level 10*
@@ -151,6 +161,7 @@ While an [[Ally]] holds your Banner in [[One-Handed|One Hand]], your [[Seek]] em
 | **Action:**  | They add your [[Intelligence\|INT]] / [[Instinct\|INS]] to the roll                                                      |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                |
 
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Persuade]] roll.
 
 **Shield Crest**: 
 
@@ -161,9 +172,11 @@ While an [[Ally]] holds your Banner in [[One-Handed|One Hand]], your [[Seek]] em
 | **Action:**  | They subtract your [[Intelligence\|INT]] / [[Instinct\|INS]] from the roll |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                  |
 
+When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Society]] roll.
+
 **Wave Crest:**
 *Requirement: Commander Level 5*
-All [[Ally|Allies]] in your [[Seek]] have +1 [[Mental Resistance]].
+All [[Ally|Allies]] in your [[Seek]] have +1 [[Willpower]].
 
 **Void Crest:**
 *Requirement: Commander Level 10*

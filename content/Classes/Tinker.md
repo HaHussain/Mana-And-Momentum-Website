@@ -81,23 +81,24 @@ The Tinker may spend 10 minutes to apply one of the following [[#Modifications]]
 
 ## Weapons
 
-| Requirements                       | Effect                                                                    |
-| ---------------------------------- | ------------------------------------------------------------------------- |
-| [[Weapons\|Weapon]]                | Add [[Push]] 1 or [[Pull]] 1                                              |
-|                                    | Add [[Imbuement]]: x                                                      |
-|                                    | Change Focus 1 of this Weapon to another Weapon's.                        |
-|                                    |                                                                           |
-| [[Melee]] [[Weapons\|Weapon]]      | [[Melee]] Range +1                                                        |
-|                                    | Remove [[Orthogonal]]                                                     |
-|                                    | Add [[Quick]] or Remove [[Slow]]                                          |
-|                                    | Add [[Grappling]]                                                         |
-|                                    |                                                                           |
-| [[Ranged]] [[Weapons\|Weapon]]     | [[Ranged]] Range +?                                                       |
-|                                    | Add [[Arcing]]                                                            |
-|                                    | Add [[Chain]] 1                                                           |
-|                                    |                                                                           |
-| Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]], increase damage dice by 2 levels<br>Or double damage die? |
-| [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                                         |
+| Requirements                       | Effect                                             |
+| ---------------------------------- | -------------------------------------------------- |
+| [[Weapons\|Weapon]]                | Add [[Push]] 1 or [[Pull]] 1                       |
+|                                    | Increase damage dice 1 size.                       |
+|                                    | Add [[Imbuement]]: x                               |
+|                                    | Change Focus 1 of this Weapon to another Weapon's. |
+|                                    |                                                    |
+| [[Melee]] [[Weapons\|Weapon]]      | [[Melee]] Range +1                                 |
+|                                    | Remove [[Orthogonal]]                              |
+|                                    | Add [[Quick]] or Remove [[Slow]]                   |
+|                                    | Add [[Grappling]]                                  |
+|                                    |                                                    |
+| [[Ranged]] [[Weapons\|Weapon]]     | [[Ranged]] Range +?                                |
+|                                    | Add [[Arcing]]                                     |
+|                                    | Add [[Chain]] 1                                    |
+|                                    |                                                    |
+| Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]]<br>Apply 2 other [[#Modifications]] |
+| [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                  |
 
 ## Armour and Shield
 

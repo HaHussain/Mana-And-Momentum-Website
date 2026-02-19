@@ -11,4 +11,6 @@ When a trigger occurs for a Reaction you know,
 You may expend your reaction to take the action of that reaction.
 
 Each Reaction (unless stated otherwise) can only be used once per round.
+If a Reaction can be used multiple times per round, the same Reaction cannot be triggered by the exact same trigger multiple times.
+
 Reactions ignore the [[Rules/Actions/index#Unique Action Restriction|Unique Action Restriction]].

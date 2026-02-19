@@ -16,20 +16,22 @@ Each player has movement that they can use on each of their turns, this is calle
 Each player has 1 [[Rules/Actions/Tags/Reaction|Reaction]] per turn (including other character's turns). Each reaction has generally one use per round.
 Each reaction has a tempo that needs to be reached before the character can use this reaction.
 
-| Action               | Tempo | Description                                                               |
-| -------------------- | ----- | ------------------------------------------------------------------------- |
-| [[Scan]]             | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
-| [[Mark]]             | 2     | Focus on a single target to improve attacks against them.                 |
-| [[Quick]] [[Attack]] | 3     | Make an attack with a quick weapon.                                       |
-| [[Move]]             | 4     | Move your speed.                                                          |
-| [[Guard]]            | 4     | Protect someone else.                                                     |
-| Standard [[Attack]]  | 5     | Make an attack.                                                           |
-| [[Inventory]]        | 6     | Swap weapons or use an item in your inventory.                            |
-| [[Switch Stance]]    | 6     | Switch stance from one to another.                                        |
-| [[Slow]] [[Attack]]  | 7     | Make an attack with a slow weapon.                                        |
-| [[Reclaim]]          | 7     | Regain committed Mana.                                                    |
-| [[Hide]]             | 7     | Hide behind objects.                                                      |
-| [[Magic]]            | ?     | Cast a spell.                                                             |
+| Action                      | Tempo | Description                                                               |
+| --------------------------- | ----- | ------------------------------------------------------------------------- |
+| [[Rest & Recover\|Rest]]    | 1     |                                                                           |
+| [[Scan]]                    | 2     | Ask the GM one of a pre-set list of questions about a character in range. |
+| [[Mark]]                    | 2     | Focus on a single target to improve attacks against them.                 |
+| [[Quick]] [[Attack]]        | 3     | Make an attack with a quick weapon.                                       |
+| [[Move]]                    | 4     | Move your speed.                                                          |
+| [[Guard]]                   | 4     | Protect someone else.                                                     |
+| Standard [[Attack]]         | 5     | Make an attack.                                                           |
+| [[Inventory]]               | 6     | Swap weapons or use an item in your inventory.                            |
+| [[Switch Stance]]           | 6     | Switch stance from one to another.                                        |
+| [[Slow]] [[Attack]]         | 7     | Make an attack with a slow weapon.                                        |
+| [[Reclaim]]                 | 7     | Regain committed Mana.                                                    |
+| [[Hide]]                    | 7     | Hide behind objects.                                                      |
+| [[Magic]]                   | ?     | Cast a spell.                                                             |
+| [[Rest & Recover\|Recover]] | 9     |                                                                           |
 # Unique Action Restriction
 
 When you perform your actions in a round, each action must be a different action, including any [[Extra]] actions.

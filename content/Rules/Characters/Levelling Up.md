@@ -12,31 +12,31 @@ Gaining abilities from levelling up can be performed in any order.
 | Total Level | Levelling Ability                                 |
 | ----------- | ------------------------------------------------- |
 | 2           | [[#Fortitude]] + [[#Feat]]                        |
-| 3           | [[#Proficiency]]                                  |
+| 3           | [[#Skill Points]]                                 |
 | 4           | [[#Techniques]] 2                                 |
 | 5           | [[#Fortitude]] + [[#Stat Points]]                 |
-| 6           | [[#Proficiency]]                                  |
+| 6           | [[#Skill Points]] + [[#LB Skill Max Up]]          |
 | 7           | [[#Spellcasting]] 2                               |
 | 8           | [[#Fortitude]] + [[#Feat]]                        |
-| 9           | [[#Proficiency]]                                  |
+| 9           | [[#Skill Points]] + [[#LB Auto Max Up]]           |
 | 10          | [[#Dual Class Feat]] + [[#Techniques]] 3          |
 | 11          | [[#Fortitude]] + [[#Stat Points]]                 |
-| 12          | [[#Proficiency]]                                  |
+| 12          | [[#Skill Points]] + [[#LB Up]]                    |
 | 13          | [[#Spellcasting]] 3                               |
 | 14          | [[#Fortitude]] + [[#Feat]]                        |
-| 15          | [[#Proficiency]]                                  |
+| 15          | [[#Skill Points]] + [[#LB Skill Max Up]]          |
 | 16          | [[#Techniques]] 4                                 |
 | 17          | [[#Fortitude]] + [[#Stat Points]]                 |
-| 18          | [[#Proficiency]]                                  |
+| 18          | [[#Skill Points]] + [[#LB Auto Max Up]]           |
 | 19          | [[#Spellcasting]] 4                               |
 | 20          | [[#Dual Class Feat]] + [[#Fortitude]] + [[#Feat]] |
-| 21          | [[#Proficiency]]                                  |
+| 21          | [[#Skill Points]] + [[#LB Up]]                    |
 | 22          | [[#Techniques]] 5                                 |
 | 23          | [[#Fortitude]] + [[#Stat Points]]                 |
-| 24          | [[#Proficiency]]                                  |
+| 24          | [[#Skill Points]] + [[#LB Skill Max Up]]          |
 | 25          | [[#Spellcasting]] 5                               |
 | 26          | [[#Fortitude]] + [[#Feat]]                        |
-| 27          | [[#Proficiency]]                                  |
+| 27          | [[#Skill Points]] + [[#LB Auto Max Up]]           |
 | 28          | [[#Techniques]] 6                                 |
 | 29          | [[#Fortitude]] + [[#Stat Points]]                 |
 | 30          | [[#Dual Class Feat]]                              |
@@ -45,9 +45,22 @@ Gaining abilities from levelling up can be performed in any order.
 
 Every 3 levels, you add [[Fortitude]] to your [[Health Points|Max HP]].
 
-# Proficiency
+# Skill Points
 
-Gain 1 Proficiency point to add to [[Rules/Characters/Skills/index|Skill]] of your choice.
+Gain 2 Skill Points to add to [[Rules/Characters/Skills/index|Skills]] of your choice. 
+Each Skill Point invested allows you to add your [[Level Bonus]] to rolls with that skill.
+
+# LB Up
+
+At Levels 12 and 21, your [[Level Bonus]] increases by +1
+
+# LB Skill Max Up
+
+At Levels 6, 15, and 24, the maximum [[#Skill Points]] you can invest in your [[Rules/Characters/Skills/index|Skills]] increases by 1.
+
+# LB Auto Max Up
+
+At Levels 9, 18 and 27, you may add your [[Level Bonus]] one additional time for [[Hit]] rolls and [[Defence]]
 
 # Spellcasting
 
