@@ -3,7 +3,7 @@ aliases:
   - Jumps
 icon: GiJumpAcross
 ---
-When a character takes a [[Move]] action they can Jump by sacrificing their other movement for this turn (including their [[Normal Move]]).
+When a character takes a [[Move]] action they can Jump by sacrificing their movement for this turn (including their [[Normal Move]]).
 
 The character picks a point they can reach with a [[Arcing|Arc]].
 

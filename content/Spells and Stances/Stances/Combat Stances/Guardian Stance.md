@@ -20,16 +20,32 @@
 | **Effect:**  | Gain +1 [[Deflection]] for this round.                       |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                    |
 
+
 ## Rush Guard
 
-|              | Rush Guard                                                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: [[Guard]]                                                    |
-| **Cost:**    | 1 [[Momentum]]                                                                                          |
-|              |                                                                                                         |
-| **Trigger:** | An [[Ally]] in [[Line of Sight]] is [[Hit]]                                                             |
-| **Effect:**  | [[Move]] up to your [[Speed]] directly towards them.<br>If you end up adjacent to them, [[Guard]] them. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Move]] [[Guard]]                                            |
+|              | Rush Guard                                                                                                                                                                                               |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: [[Guard]]                                                                                                                                                     |
+| **Cost:**    | 1 [[Momentum]]                                                                                                                                                                                           |
+|              |                                                                                                                                                                                                          |
+| **Trigger:** | An [[Ally]] in [[Line of Sight]] is [[Hit]]                                                                                                                                                              |
+| **Effect:**  | [[Move]] up to your [[Speed]] directly as possible towards them,<br>[[Push]] 1 perpendicular any [[Rules/Characters/index\|Characters]] in your path.<br>If you end up adjacent to them, [[Guard]] them. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Move]] [[Guard]]                                                                                                                                             |
+
+
+## Hundred Shields
+
+|               | Hundred Shields                                                                                                                                                                                                                                                                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Guard]]                                                                                                                                                                                                                                                                                                                                            |
+| **Cost:**     | 3 [[Momentum]] + [[Boost]]                                                                                                                                                                                                                                                                                                                           |
+|               |                                                                                                                                                                                                                                                                                                                                                      |
+| **Target:**   | [[Circle]] (5 + [[Boost]])                                                                                                                                                                                                                                                                                                                           |
+| **Duration:** | End of Round                                                                                                                                                                                                                                                                                                                                         |
+| **Action:**   | [[Guard]] all [[Rules/Characters/index\|Characters]] and [[Object\|Objects]] of your choice in this area.<br>Your [[Guard]] targeting [[Rules/Actions/Tags/Reaction\|Reactions]] can target any of these targets ignoring [[Range]].<br>If you [[Guard#Intercept\|Intercept]] any of these targets against a [[Strike]], you may Intercept them all. |
+| **Tags:**     | [[Rules/Actions/index\|Action]] [[Guard]]                                                                                                                                                                                                                                                                                                            |
+
+
 
 ## Blade of Our Blood
 
@@ -40,3 +56,4 @@
 |             |                                             |
 | **Action:** |                                             |
 | **Tags:**   | [[Rules/Actions/index\|Action]], [[Attack]] |
+

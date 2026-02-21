@@ -30,14 +30,14 @@
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                   |
 ## En-Garde
 
-|             | En-Garde                                                                                                                                                      |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Mark]]                                                                                                                                                      |
-| **Cost:**   | 2                                                                                                                                                             |
-|             |                                                                                                                                                               |
-| **Target:** | 1 [[Isolated]] [[Rules/Characters/index\|Character]] in [[Seek]]                                                                                              |
-| **Action:** | [[Mark]] target and this round, if a [[Marked]] [[Rules/Characters/index\|Character]] leaves your [[Seek]], they become [[Numb]], [[Languid]] and [[Shocked]]. |
-| **Tags:**   | [[Mark]]                                                                                                                                                      |
+|             | En-Garde                                                                                                                                                     |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Mark]]                                                                                                                                                     |
+| **Cost:**   | 2                                                                                                                                                            |
+|             |                                                                                                                                                              |
+| **Target:** | 1 [[Isolated]] [[Rules/Characters/index\|Character]] in [[Seek]]                                                                                             |
+| **Action:** | [[Mark]] target and this round, if a [[Marked]] [[Rules/Characters/index\|Character]] leaves your [[Seek]], they become [[Numb]], [[Dazed]] and [[Shocked]]. |
+| **Tags:**   | [[Mark]]                                                                                                                                                     |
 ## Blast Back
 |              | Blast Back                                                                                                                                                    |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -73,11 +73,10 @@ The Berserker gains the following Action:
 When the Berserker [[Exert|Exerts]] they can also choose the following option:
 - Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
 
-When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
 
 ## Other Things
 
-
+When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
 
 
 The Berserker can spend 1 [[Momentum]] to add their current [[Momentum]] value to a skill check to apply a [[Statuses and Conditions/index|Debuff]] to a [[Rules/Characters/index|Character]] they are speaking to.
@@ -91,12 +90,12 @@ The Berserker gains Weapon Focus 1 for a [[Melee]] [[Weapons|Weapon]] of their c
 
 The Berserker gains the following action:
 
-|             | Great Throw                                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Strike]]                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Target:** | 1 target at most 1 [[Size]] smaller than you in [[Range]] 1                                                                                                                                                                                                                                                                                                                                              |
-| **Action:** | If the target is a [[Rules/Characters/index\|Character]], roll to [[Grapple]],<br>On success [[Arcing]] [[Push]] 2x[[Strength\|STR]]<br>If the spot pushed to has an [[Object]], do full [[Push]] damage to both targets.<br>If the spot pushed to has a [[Rules/Characters/index\|Character]], roll a [[Strength\|STR]] [[Ranged]] [[Strike]], dealing full [[Push]] damage to both targets on [[Hit]]. |
-| **Tags:**   | [[Strike]], [[Grapple]]                                                                                                                                                                                                                                                                                                                                                                                  |
+|             | Great Throw                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Strike]]                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Target:** | 1 target at most 1 [[Size]] smaller than you in [[Range]] 1                                                                                                                                                                                                                                                                                                                                            |
+| **Action:** | If the target is a [[Rules/Characters/index\|Character]], roll to [[Grapple]],<br>On success [[Arcing]] [[Push]] [[Strength\|STR]]<br>If the spot pushed to has an [[Object]], do full [[Push]] damage to both targets.<br>If the spot pushed to has a [[Rules/Characters/index\|Character]], roll a [[Strength\|STR]] [[Ranged]] [[Strike]], dealing full [[Push]] damage to both targets on [[Hit]]. |
+| **Tags:**   | [[Strike]], [[Grapple]]                                                                                                                                                                                                                                                                                                                                                                                |
 
 
 While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...

@@ -9,4 +9,6 @@ Characters have [[Advantage]] to [[Hit]] a prone character with [[Melee]] [[Weap
 
 If [[Scan|Scanned]], you also learn what [[Rules/Actions/index|Actions]] they are going to take this round.
 
+A character can lose Prone by expending their [[Normal Move]].
+
 [[Mood]]: Prone, vulnerable, predictable

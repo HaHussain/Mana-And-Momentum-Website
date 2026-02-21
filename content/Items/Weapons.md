@@ -130,32 +130,35 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Ranged Weapons
 ## Table
 
-| Item Name          | Focus                                                                                         |
-| ------------------ | --------------------------------------------------------------------------------------------- |
-| **Boomerang**      | **1:** Ricochet<br>**2:** Missed attacks can target another                                   |
-| Damage: Small      | [[Ranged]] x [[One-Handed]]                                                                   |
-|                    |                                                                                               |
-| **Hook and Chain** | **1:** Grappling Hook swing and pull self<br>**2:** Restrain                                  |
-| Damage: Small      | [[Melee]] 5 [[Ranged]] 5 [[One-Handed]] [[Pull]] 2 [[Orthogonal]]                             |
-|                    |                                                                                               |
-| **Shortbow**       | **1:** Stealth Shot<br>**2:** Pop up and shoot then hide                                      |
-| Damage: Small      | [[Ranged]] x [[Two-Handed]] [[Quick]] [[Arcing]]                                              |
-|                    |                                                                                               |
-| **Pistol**         | **1:** Fire and swap out<br>**2:** Fire at the beginning.                                     |
-| Damage: Medium     | [[Ranged]] x [[One-Handed]] [[Quick]] [[Reload]]                                              |
-|                    |                                                                                               |
-| **Longbow**        | **1:** Height difference increases damage?<br>**2:** Even more accurate against [[Marked]].   |
-| Damage: Medium     | [[Ranged]] x [[Two-Handed]] [[Arcing]]                                                        |
-|                    |                                                                                               |
-| **Rifle**          | **1:** Does something if outside enemies [[Seek]]?<br>**2:** Double range against [[Marked]]. |
-| Damage: Large      | [[Ranged]] x [[Two-Handed]] [[Reload]]                                                        |
-|                    |                                                                                               |
-| **Crossbow**       | **1:** Melee<br>**2:** Armour Pierce                                                          |
-| Damage: Medium     | [[Ranged]] x [[Two-Handed]]                                                                   |
-|                    |                                                                                               |
-| **Hand-Cannon**    | **1:** [[Push]] 5<br>**2:** Splash Damage                                                     |
-| Damage: Large      | [[Ranged]] x [[Two-Handed]] [[Slow]] [[Reload]]                                               |
-|                    |                                                                                               |
+| Item Name                | Focus                                                                                         |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| **[[#Boomerang]]**       | **1:** Ricochet<br>**2:** Missed attacks can target another                                   |
+| Damage: Small            | [[Ranged]] x [[One-Handed]]                                                                   |
+|                          |                                                                                               |
+| **[[#Hook and Chain]]**  | **1:** Grappling Hook swing and pull self<br>**2:** Restrain                                  |
+| Damage: Small            | [[Melee]] 1 [[Ranged]] 5 [[One-Handed]] [[Pull]] 2 [[Orthogonal]]                             |
+|                          |                                                                                               |
+| **[[#Shortbow]]**        | **1:** Stealth Shot<br>**2:** Pop up and shoot then hide                                      |
+| Damage: Small            | [[Ranged]] x [[Two-Handed]] [[Quick]] [[Arcing]]                                              |
+|                          |                                                                                               |
+| **[[#Longbow]]**         | **1:** Height difference increases damage?<br>**2:** Even more accurate against [[Marked]].   |
+| Damage: Medium           | [[Ranged]] x [[Two-Handed]] [[Arcing]]                                                        |
+|                          |                                                                                               |
+| **[[#Crossbow]]**        | **1:** Melee<br>**2:** Armour Pierce                                                          |
+| Damage: Medium           | [[Ranged]] x [[Two-Handed]]                                                                   |
+|                          |                                                                                               |
+| **[[#Volley Crossbow]]** | **1:** Apply Restricted<br>**2:**                                                             |
+| Damage: Small            | [[Ranged]] x [[Circle]] 3 [[Arcing]] [[Two-Handed]] [[Reload]]                                |
+|                          |                                                                                               |
+| **[[#Pistol]]**          | **1:** Fire and swap out<br>**2:** Fire at the beginning.                                     |
+| Damage: Medium           | [[Ranged]] x [[One-Handed]] [[Quick]] [[Reload]]                                              |
+|                          |                                                                                               |
+| **[[#Rifle]]**           | **1:** Does something if outside enemies [[Seek]]?<br>**2:** Double range against [[Marked]]. |
+| Damage: Large            | [[Ranged]] x [[Two-Handed]] [[Reload]]                                                        |
+|                          |                                                                                               |
+| **[[#Hand-Cannon]]**     | **1:** [[Push]] 5<br>**2:** Splash Damage                                                     |
+| Damage: Large            | [[Ranged]] x [[Two-Handed]] [[Slow]] [[Reload]]                                               |
+|                          |                                                                                               |
 ## Stats
 
 ### Boomerang
@@ -168,7 +171,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Damage**: Small
 **Weapon Focus 1**: When you [[Hit]] an [[Object]] of [[Size]] equal to or greater than you, or a [[Rules/Characters/index|Character]] larger than you, you can ignore the [[Pull]] of this weapon to instead [[Pull]] yourself adjacent to them.
 **Weapon Focus 2**: This weapon can be used to [[Grapple]], and can maintain a [[Grapple]] up to its [[Melee|Melee Range]]. [[Rules/Characters/index|Characters]] [[Grappled]] by this weapon are also [[Condemned]]
-**Tags**: [[Melee]] 5 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2.
+**Tags**: [[Melee]] 1 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2.
 
 ### Shortbow
 **Damage**: Small
@@ -182,6 +185,18 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 2**: Roll two dice instead of one for the [[Hit]] bonus from [[Marked]].
 **Tags**: [[Ranged]], [[Two-Handed]], [[Arcing]]
 
+### Crossbow
+**Damage**: Medium
+**Weapon Focus 1**: This weapon ignores the penalties of using a Ranged weapon in Melee range.
+**Weapon Focus 2**: This weapon ignores [[Deflection]] and deals additional damage on [[Hit]] equal to the target's [[Deflection]].
+**Tags**: [[Ranged]] #, [[Two-Handed]]
+
+### Volley Crossbow
+**Damage**: Small
+**Weapon Focus 1**: 
+**Weapon Focus 2**: 
+**Tags**: [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]
+
 ### Pistol
 **Damage**: Medium
 **Weapon Focus 1**: In the first round of combat, if you fire this weapon, you can take a [[Free]]: [[Inventory]] action affecting this item.
@@ -189,16 +204,10 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Tags**: [[Ranged]], [[One-Handed]], [[Quick]], [[Reload]]
 
 ### Rifle
-**Damage**: High
-**Weapon Focus 1**: When you [[Strike]] a [[Rules/Characters/index|Character]] whilst outside of their [[Seek]] and [[Critical Strike|Crit]], it does triple damage instead of double.
+**Damage**: Large
+**Weapon Focus 1**: When you [[Strike]] a [[Rules/Characters/index|Character]] whilst outside of their [[Seek]] and [[Line of Sight]] and you [[Critical Strike|Crit]], it does triple damage instead of double.
 **Weapon Focus 2**: You can double the [[Ranged]] of this weapon to make a [[Strike]] against a [[Marked]] target if you would consume the condition.
 **Tags**: [[Ranged]], [[Two-Handed]], [[Reload]]
-
-### Crossbow
-**Damage**: Medium
-**Weapon Focus 1**: This weapon ignores the penalties of using a Ranged weapon in Melee range.
-**Weapon Focus 2**: This weapon ignores [[Deflection]] and deals additional damage on [[Hit]] equal to the target's [[Deflection]].
-**Tags**: [[Ranged]] #, [[Two-Handed]]
 
 ### Hand Cannon
 **Damage**: Large

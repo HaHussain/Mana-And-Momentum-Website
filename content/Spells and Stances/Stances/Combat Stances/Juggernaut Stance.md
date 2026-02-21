@@ -1,10 +1,10 @@
 # Stance
 
-|               | Juggernaut Stance |
-| ------------- | ----------------- |
-| **Passive:**  |                   |
-| **Momentum:** |                   |
-| **Tags:**     |                   |
+|               | Juggernaut Stance         |
+| ------------- | ------------------------- |
+| **Passive:**  |                           |
+| **Momentum:** |                           |
+| **Tags:**     | [[Locked]]: [[Berserker]] |
 
 # Techniques
 

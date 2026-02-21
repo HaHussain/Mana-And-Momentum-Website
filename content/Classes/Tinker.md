@@ -100,17 +100,18 @@ The Tinker may spend 10 minutes to apply one of the following [[#Modifications]]
 | Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]]<br>Apply 2 other [[#Modifications]] |
 | [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                  |
 
+
 ## Armour and Shield
 
 | Requirements                         | Effect                                            |
 | ------------------------------------ | ------------------------------------------------- |
-| [[Armour]] or<br>[[Shields\|Shield]] | Add [[Heavy]], [[Sturdy]] 2, [[Deflection]] 2     |
-|                                      | Remove [[Orthogonal]]                             |
+| [[Armour]] or<br>[[Shields\|Shield]] | Remove [[Orthogonal]]                             |
 |                                      | Remove Speed Penalty                              |
 |                                      | Add [[Retaliate]] 2 [[Elemental Type\|Physical]]  |
 |                                      | Add [[Imbuement]]: x                              |
 |                                      |                                                   |
 | [[Armour]]                           | Add [[Fluid]]                                     |
+|                                      | Add [[Heavy]], [[Sturdy]] 2, [[Deflection]] 2     |
 |                                      | Change Focus 1 of this Armour to another Armour's |
 |                                      |                                                   |
 | [[Shields\|Shield]]                  | Change Focus 1 of this Shield to another Shields' |

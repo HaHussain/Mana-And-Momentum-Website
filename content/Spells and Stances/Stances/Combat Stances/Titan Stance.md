@@ -9,17 +9,27 @@
 # Techniques
 
 
-|             | Power Leap                                                                                           |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| **Tempo:**  | [[Move]]                                                                                             |
-| **Action:** | [[Jump]] without sacrificing your [[Normal Move]], then apply [[Uneasy]] [[Terrain]] in [[Circle]] 3 |
-| **Tags:**   | [[Rules/Actions/index\|Action]] [[Move]]                                                             |
+## Power Leap
 
-# No Escape
+|             | Power Leap                                                                                                                                                 |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Move]]                                                                                                                                                   |
+| **Cost:**   | 1 [[Momentum]] + [[Boost]]                                                                                                                                 |
+|             |                                                                                                                                                            |
+| **Action:** | [[Jump]] without sacrificing your [[Normal Move]],<br>Then [[Push]] (1 + [[Boost]]) [[Rules/Characters/index\|Characters]] of your choice in [[Circle]] 3. |
+| **Tags:**   | [[Rules/Actions/index\|Action]] [[Move]]                                                                                                                   |
 
-|              | No Escape                                                                                                                 |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 3                                                                                                                         |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] triggers an [[Melee#Attack of Opportunity\|Attack of Opportunity]] in [[Range]] 1 |
-| **Action:**  | [[Grapple]] them.                                                                                                         |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                 |
+
+## No Escape
+
+|              | No Escape                                                                                                                                 |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | 3                                                                                                                                         |
+| **Cost:**    | 2 [[Momentum]] + [[Boost]]                                                                                                                |
+|              |                                                                                                                                           |
+| **Trigger:** | A [[Rules/Characters/index\|Character]] triggers an [[Melee#Attack of Opportunity\|Attack of Opportunity]] in [[Range]] 1                 |
+| **Action:**  | [[Grapple]] them and [[Strike]] to knock [[Prone]].<br>For every 2 [[Boost]]: Apply one of [[Suffocating]], [[Numb]], [[Weak]] on [[Hit]] |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Strike]]                                                                                      |
+
+
+## 
