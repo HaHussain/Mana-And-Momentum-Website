@@ -186,6 +186,16 @@ function touchMoveHandler() {
 function touchEndHandler(this: HTMLAnchorElement, e: TouchEvent) {
   const link = this
   if (link.dataset.noPopover === "true") return
+
+  // If second tap go to link
+  if (activeAnchor === link) {
+    const popover = document.querySelector(`.popover.active-popover`)
+    if (popover) {
+      // Clear the popover (optional, will be hidden on navigation)
+      clearActivePopover()
+      return
+    }
+  }
   
   if (tapTimer && !touchMoved) {
     // Short tap - show popover and prevent navigation
