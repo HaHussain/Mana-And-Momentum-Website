@@ -30,6 +30,8 @@ Choose 1 of:
 
 # Abilities
 
+Immediately when combat starts and on every round the Chimera may take a [[Free]]: [[Magic]] action to cast a [[Transformation]] spell in a spell school that they have all lower level spells active.
+
 # Class Focuses
 
 # Ideas

@@ -30,7 +30,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Weapons:** [[Weapons#Greataxe|Greataxe]]
 **Armour:** None or [[Armour#Titan Plate|Titan Plate]]
 **Skills:** [[Coerce]], [[Nature]], [[Physique]], [[Traverse]]
-**Stance:** [[Juggernaut Stance]], [[Intimidator Stance]]
+**Stance:** [[Terror Stance]], [[Intimidator Stance]]
 
 # Health 
 When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].
@@ -74,6 +74,13 @@ When the Berserker [[Exert|Exerts]] they can also choose the following option:
 - Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
 
 
+## Excessive
+
+While the Berserker is [[Bloodied]]: 
+- Each [[Momentum]] spent to [[Boost]] counts as 2.
+- When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
+
+
 ## Other Things
 
 When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses and Conditions/index|Debuff]] for [[Overwhelmed]].
@@ -106,7 +113,7 @@ While [[Enraged]] when the Berserker [[Exert|Exerts]] they ignore the first...
 When the Berserker rolls maximum on damage dice, it explodes.
 When the Berserker [[Boost|Boosts]], each [[Momentum]] spent counts as 2 up to the limit.
 
-When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
+
 
 
 ## Enduring
@@ -125,14 +132,6 @@ The Berserker ignores the [[Rules/Actions/index#Unique Action Restriction|Unique
 
 
 The Berserker gains the following action:
-
-|               | External Man-I-Fold                                                                                 |
-| ------------- | --------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Attack]]                                                                                          |
-| **Target:**   | 1 [[Rules/Characters/index\|Character]] you are [[Grappled\|Grappling]]                             |
-| **Duration:** | Until the start of the next round.                                                                  |
-| **Action:**   | Fold away the target, they become [[Invisible]], [[Untargetable]], [[Invulnerable]] and [[Stunned]] |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                     |
 
 # Class Focuses
 

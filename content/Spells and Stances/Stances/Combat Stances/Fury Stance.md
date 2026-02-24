@@ -1,6 +1,6 @@
 # Stance
 
-|               | Titan Stance              |
+|               | Fury Stance               |
 | ------------- | ------------------------- |
 | **Passive:**  |                           |
 | **Momentum:** |                           |
@@ -32,4 +32,15 @@
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Strike]]                                                                                      |
 
 
-## 
+## External Man-I-Fold
+
+|               | External Man-I-Fold                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | 4                                                                                                   |
+| **Cost:**     | 4 [[Momentum]]                                                                                      |
+|               |                                                                                                     |
+| **Target:**   | 1 [[Rules/Characters/index\|Character]] you are [[Grappled\|Grappling]]                             |
+| **Duration:** | Until the start of the next round.                                                                  |
+| **Action:**   | Fold away the target, they become [[Invisible]], [[Untargetable]], [[Invulnerable]] and [[Stunned]] |
+| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                     |
+

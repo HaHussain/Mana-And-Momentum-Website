@@ -55,16 +55,6 @@ The Knight can take two [[Rules/Actions/Tags/Reaction|Reactions]] per turn.
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
 The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
 
-The Knight gains the follow reaction:
-
-|              | Argument of Opportunity                                                                                                                                                                                                                                                                 |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 3                                                                                                                                                                                                                                                                                       |
-| **Cost:**    | 1 [[Momentum]]                                                                                                                                                                                                                                                                          |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] you are talking to begins to walk away from you.                                                                                                                                                                                                |
-| **Action:**  | Immediately attempt to make an argument to apply [[Restricted]] to that [[Rules/Characters/index\|Character]], <br>You may do this physically which will force the target to use [[Strength\|STR]] / [[Dexterity\|DEX]] instead of [[Intelligence\|INT]] / [[Instinct\|INS]] to resist. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                                               |
-
 
 ## Effort
 The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
