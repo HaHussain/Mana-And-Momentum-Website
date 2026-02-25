@@ -21,7 +21,7 @@
 
 ## Charge
 
-|             | Charge                                                                                                                                                                                                                                                                               |
+|             | Bolt Charge                                                                                                                                                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Tempo:**  | [[Move]]                                                                                                                                                                                                                                                                             |
 | **Cost:**   | 1 + [[Boost]]                                                                                                                                                                                                                                                                        |
@@ -46,20 +46,20 @@
 
 |               | Incoming Demise                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**    | 1                                                                                                                              |
+| **Tempo:**    | [[Charge]]: 1                                                                                                                  |
 | **Cost:**     | ? + [[Boost]]                                                                                                                  |
 |               |                                                                                                                                |
 | **Target:**   | [[Cone]] 2 + [[Boost]]                                                                                                         |
 | **Duration:** | This round.                                                                                                                    |
 | **Action:**   | All [[Rules/Characters/index\|Characters]] with [[Line of Sight]] to you know the target area.<br>Gain the [[#Demise]] action. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                |
+| **Tags:**     | [[Rules/Actions/index\|Action]], [[Charge]]                                                                                    |
 
 ### Demise
 
-|             | Demise                                      |
-| ----------- | ------------------------------------------- |
-| **Tempo:**  | [[Extra]]: [[Attack]]                       |
-|             |                                             |
-| **Target:** | [[#Incoming Demise]]                        |
-| **Action:** | [[Strike]]                                  |
-| **Tags:**   | [[Rules/Actions/index\|Action]], [[Strike]] |
+|             | Demise                                                                               |
+| ----------- | ------------------------------------------------------------------------------------ |
+| **Tempo:**  | [[Extra]]: [[Attack]]                                                                |
+|             |                                                                                      |
+| **Target:** | [[#Incoming Demise]]                                                                 |
+| **Action:** | If you are in the same square as when you performed [[#Incoming Demise]]: [[Strike]] |
+| **Tags:**   | [[Rules/Actions/index\|Action]], [[Strike]]                                          |

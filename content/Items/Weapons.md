@@ -147,7 +147,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | **[[#Crossbow]]**        | **1:** Melee<br>**2:** Armour Pierce                                                          |
 | Damage: Medium           | [[Ranged]] x [[Two-Handed]]                                                                   |
 |                          |                                                                                               |
-| **[[#Volley Crossbow]]** | **1:** Apply Restricted?<br>**2:** Even bigger area?                                          |
+| **[[#Volley Crossbow]]** | **1:** Volley on reactions<br>**2:** Make terrain hazardous                                   |
 | Damage: Small            | [[Ranged]] x [[Circle]] 3 [[Arcing]] [[Two-Handed]] [[Reload]]                                |
 |                          |                                                                                               |
 | **[[#Pistol]]**          | **1:** Fire and swap out<br>**2:** Fire at the beginning.                                     |
@@ -170,7 +170,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ### Hook and Chain
 **Damage**: Small
 **Weapon Focus 1**: When you [[Hit]] an [[Object]] of [[Size]] equal to or greater than you, or a [[Rules/Characters/index|Character]] larger than you, you can ignore the [[Pull]] of this weapon to instead [[Pull]] yourself adjacent to them.
-**Weapon Focus 2**: This weapon can be used to [[Grapple]], and can maintain a [[Grapple]] up to its [[Melee|Melee Range]]. [[Rules/Characters/index|Characters]] [[Grappled]] by this weapon are also [[Condemned]]
+**Weapon Focus 2**: This weapon can be used to [[Grapple]] in its [[Melee|Melee Range]], and can maintain a [[Grapple]] up to its [[Ranged|Ranged Range]]. [[Rules/Characters/index|Characters]] [[Grappled]] by this weapon are also [[Condemned]]
 **Tags**: [[Melee]] 1 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2.
 
 ### Shortbow
@@ -193,8 +193,8 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Volley Crossbow
 **Damage**: Small
-**Weapon Focus 1**: 
-**Weapon Focus 2**: 
+**Weapon Focus 1**: [[Rules/Actions/Tags/Reaction|Reaction]] [[Strike|Strikes]] with this weapon don't require it to be Loaded / doesn't Unload it.
+**Weapon Focus 2**: [[Strike|Strikes]] with this weapon make the [[Terrain]] [[Hazardous]] 2 [[Elemental Type|Physical]].
 **Tags**: [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]
 
 ### Pistol
