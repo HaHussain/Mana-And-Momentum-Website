@@ -52,16 +52,25 @@ Choose 1 of:
 
 The Knight can take two [[Rules/Actions/Tags/Reaction|Reactions]] per turn.
 
+When the Knight performs a kindness for someone or a small kindness in the same conversation they first meet someone - they may additionally apply one of the following benefits:
+- Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
+- Gain +1 [[Attitude]] with the target
+- [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
+
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
 The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
 
 
+
 ## Effort
-The Knight gains a Weapon Focus 1 with a [[Weapons|Weapon]] of their choice.
+The Knight gains a Weapon Focus 1 with 2 [[Weapons]] of their choice.
+
+While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] are considered [[Restricted]].
 
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
 When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll they may add +1d6 to the roll. 
 When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d6 to the [[Hit]] roll of all [[Strike|Strikes]] during that action.
+
 
 
 ## A
