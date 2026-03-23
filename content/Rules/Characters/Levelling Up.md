@@ -68,7 +68,7 @@ Every 6 levels you gain access to a new tier of spellcasting, and can now learn 
 
 # Techniques
 
-Every 6 levels you gain access to a new tier of techniques, and automatically learn and can use those techniques belonging to stances you know.
+Every 6 levels you gain access to a new tier of techniques, and automatically learn and can use those techniques belonging to paradigms you know.
 
 # Feat
 

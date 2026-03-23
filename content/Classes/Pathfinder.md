@@ -31,7 +31,7 @@ Use your companion to help you do one of these things.
 **Weapons:** [[Weapons#Longbow|Longbow]] or [[Weapons#Rifle|Rifle]].
 **Armour:** [[Armour#Chain Mail|Chain Mail]]
 **Skills:** [[Insight]], [[Nature]], [[Search]], [[Traverse]]
-**Stance:** [[Hunter Stance]], [[Scout Stance]]
+**Paradigm:** [[Hunter Paradigm]], [[Scout Paradigm]]
 
 # Health
 When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].

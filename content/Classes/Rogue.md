@@ -32,7 +32,7 @@ Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] 
 **Weapons:** 2 [[Weapons#Dagger|Daggers]] and a [[Weapons#Shortbow|Shortbow]]
 **Armour:** [[Armour#Hide Leather|Hide Leather]]
 **Skills:** [[Deceive]], [[Infiltrate]], [[Search]], [[Society]]
-**Stance:** [[Flurry Stance]], [[Cunning Stance]]
+**Paradigms:** [[Flurry Paradigm]], [[Cunning Paradigm]]
 
 # Health
 When you gain Level in Rogue, you gain +1 [[Health Points|Max HP]].

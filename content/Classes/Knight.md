@@ -31,7 +31,7 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 **Shield**: [[Shields#Heater Shield|Heater]] or none
 **Armour:** [[Armour#Scale Mail|Scale Mail]]
 **Skills:** [[Insight]], [[Persuade]], [[Physique]], [[Society]]
-**Stance:** [[Warden Stance]], [[Charmer Stance]]
+**Paradigms:** [[Warden Paradigm]], [[Charmer Paradigm]]
 
 # Health 
 When you gain Level in Knight, you gain +3 [[Health Points|Max HP]].
@@ -84,7 +84,7 @@ When this ability is gained, it is applied retroactively to all that have at lea
 ## B
 The Knight may [[Exert]] twice per [[Scenes|Scene]] without suffering any negative consequences.
 
-When the Knight uses a [[Spells and Stances/Stances/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Switch Stance]] action.
+When the Knight uses a [[Spells and Paradigms/Paradigms/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Shift]] action.
 
 ## C
 The Knight may consider ally [[Rules/Characters/index|Characters]] within [[Range]] 2 of them as adjacent.
@@ -100,7 +100,7 @@ When the Knight uses a Technique, the cost of that Technique is reduced by 1?
 
 When the Knight [[Miss|Misses]] with an [[Strike]], they still deal damage equal to their [[Strength|STR]]/[[Dexterity|DEX]]
 ## Final
-The Knight can be in 2 [[Spells and Stances/Stances/index|Stances]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
+The Knight can be in 2 [[Spells and Paradigms/Paradigms/index|Paradigms]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
 
 
 # Class Focuses

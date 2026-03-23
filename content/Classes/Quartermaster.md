@@ -15,12 +15,12 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 
 | Level | Class Abilities          | Martial Abilities                                                                                                             |
 | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Stances/Stances/index\|Combat Stance]], [[Spells and Stances/Stances/index\|Social Stance]] |
+| 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Paradigms/Paradigms/index\|Combat Stance]], [[Spells and Paradigms/Paradigms/index\|Social Stance]] |
 | 2     | [[#Trader]]              |                                                                                                                               |
 | 3     | [[#Re-Stock]]            |                                                                                                                               |
 | 4     | [[#Class Focus]] 2       |                                                                                                                               |
 | 5     | [[#Experience]]          |                                                                                                                               |
-| 6     | [[#Class Focus]] 3       | [[Spells and Stances/Stances/index\|Combat Stance]]                                                                           |
+| 6     | [[#Class Focus]] 3       | [[Spells and Paradigms/Paradigms/index\|Combat Stance]]                                                                           |
 | 7     | [[#Eye for Value]]       |                                                                                                                               |
 | 8     | [[#Class Focus]] 4       |                                                                                                                               |
 | 9     | [[#Quantity of Quality]] |                                                                                                                               |
@@ -31,7 +31,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Shield**: [[Shields#Hoplon Shield|Hoplon]]
 **Armour:** [[Armour#Titan Plate|Titan Plate]]
 **Skills:** [[Deceive]], [[Persuade]], [[Society]], [[Tech]]
-**Stance:** 
+**Paradigms:** 
 
 # Health
 When you gain Level in Quartermaster, you gain +2 [[Health Points|Max HP]].

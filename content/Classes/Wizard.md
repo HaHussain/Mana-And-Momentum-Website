@@ -24,9 +24,9 @@ When you gain a Level in Wizard, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Wizard solves an issue by using study, intelligence, and / or book-smarts, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
-- When the Wizard steals magical knowledge or delves into occult knowledge, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
-- When the Wizard learns new things, gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]].
+- When the Wizard solves an issue by using study, intelligence, and / or book-smarts, gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]].
+- When the Wizard steals magical knowledge or delves into occult knowledge, gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]].
+- When the Wizard learns new things, gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]].
 
 # Fortress Bonus
 The [[Fortress]] gains 
@@ -42,7 +42,7 @@ You gain the following reaction
 | **Pre-Requisites:** | You have [[Scan\|Scanned]] the target that triggered this reaction this round                                                                                                                                                                                                                                                                                                                                  |
 | **Trigger:**        | A [[Rules/Characters/index\|Character]] in your [[Seek]] performs the [[Magic]] action.                                                                                                                                                                                                                                                                                                                        |
 |                     |                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Action:**         | [[Ask]] what the spell's name is. Collect it for the [[Scenes\|Scene]].<br><br>If you collect three of the same spell in a [[Scenes\|Scene]], for the scene you gain the ability to cast that spell once this scene without using [[Spells and Stances/Spells/index\|Mana]].<br>Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a [[Clock]] to learn that spell school. |
+| **Action:**         | [[Ask]] what the spell's name is. Collect it for the [[Scenes\|Scene]].<br><br>If you collect three of the same spell in a [[Scenes\|Scene]], for the scene you gain the ability to cast that spell once this scene without using [[Spells and Paradigms/Spells/index\|Mana]].<br>Additionally if the spell is not [[Unique]] or is [[Unique]] to Wizards, you may begin a [[Clock]] to learn that spell school. |
 | **Tags:**           | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                                                                                                                                                                      |
 
 When you complete the [[Clock]]:

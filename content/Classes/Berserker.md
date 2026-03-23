@@ -30,7 +30,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Weapons:** [[Weapons#Greataxe|Greataxe]]
 **Armour:** None or [[Armour#Titan Plate|Titan Plate]]
 **Skills:** [[Coerce]], [[Nature]], [[Physique]], [[Traverse]]
-**Stance:** [[Terror Stance]], [[Intimidator Stance]]
+**Paradigms:** [[Terror Paradigm]], [[Intimidator Paradigm]]
 
 # Health 
 When you gain Level in Berserker, you gain +3 [[Health Points|Max HP]].

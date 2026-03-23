@@ -2,5 +2,5 @@ A [[PC]] can take a Shallow Rest in either a safe and comfortable environment li
 
 When a character takes a shallow rest, they may do the following things:
 - Regain ([[Health Points|Max HP]]/10 (Round Down) + [[Fortitude|FOR]]) [[Health Points|HP]].
-- Take the [[Reclaim]] action to regain 1 [[Spells and Stances/Spells/index|Mana]] committed for a day.
+- Take the [[Reclaim]] action to regain 1 [[Spells and Paradigms/Spells/index|Mana]] committed for a day.
 - Reduce their [[Exert#Exertion|Exertion]] by 1.

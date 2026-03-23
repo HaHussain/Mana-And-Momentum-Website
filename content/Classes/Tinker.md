@@ -30,7 +30,7 @@ Tinkers are technological minded, creating custom items and unlocking potential 
 **Weapons:** [[Weapons#Rifle|Rifle]] or 2 [[Weapons#Pistol|Pistols]]
 **Armour:** [[Armour#Chain Mail|Chain Mail]]
 **Skills:** [[Arcana]], [[Infiltrate]], [[Persuade]], [[Tech]]
-**Stance:** ???, [[Hacker Stance]]
+**Paradigms:** ???, [[Hacker ]]
 
 # Health 
 When you gain Level in Tinker, you gain +1 [[Health Points|Max HP]].

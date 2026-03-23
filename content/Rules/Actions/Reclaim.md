@@ -1,8 +1,6 @@
 ---
 icon: GiAura
 ---
-Tempo: 7
-
 Commit Mana for the scene and reclaim your Mana committed indefinitely.
 
 If performed at the end Scene:

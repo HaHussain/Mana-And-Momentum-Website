@@ -29,7 +29,7 @@ Commander is a Support Martial that directs allies and controls what they do.
 **Weapons:** [[Weapons#Longspear|Longspear]] and [[Weapons#Hook and Chain|Hook and Chain]] or [[Weapons#Hand Cannon|Hand Cannon]]
 **Armour:** [[Armour#Titan Plate|Titan Plate]]
 **Skills:** [[Coerce]], [[Persuade]], [[Search]], [[Society]]
-**Stance:** ??? , [[Authority Stance]]
+**Paradigms:** ??? , [[Authority Paradigm]]
 
 # Health 
 When you gain Level in Commander, you gain +2 [[Health Points|Max HP]].
@@ -68,7 +68,7 @@ The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Cha
 
 ## Tactician and Strategist
 
-The Commander learns a number of Tactics, which are specific [[Technique|Techniques]] without a [[Spells and Stances/Stances/index#Stances|Stance]] and are performed by all [[Ally|Allies]] in [[Seek]].
+The Commander learns a number of Tactics, which are specific [[Technique|Techniques]] without a [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
 The Commander knows 
 
 When the Commander takes the [[Scan]] action, they can [[Scan]] two targets.
@@ -111,7 +111,7 @@ When an [[Ally]] in your [[Seek]] takes the [[Rest & Recover#Rest|Rest]] action,
 When an [[Ally]] in your [[Seek]] performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
 
 **Butterfly Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Magic]] action, they gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]] to use a [[Metamagic]] on that spell.
+When an [[Ally]] in your [[Seek]] takes the [[Magic]] action, they gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]] to use a [[Metamagic]] on that spell.
 When an [[Ally]] in your [[Seek]] performs a [[Arcana]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Arcana]].
 
 **Cat Crest:**
@@ -139,7 +139,7 @@ When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two 
 When an [[Ally]] in your [[Seek]] performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
 
 **Parrot Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Switch Stance]] action, 
+When an [[Ally]] in your [[Seek]] takes the [[Shift]] action, 
 When an [[Ally]] in your [[Seek]] performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
 
 **Rat Crest:**
@@ -177,7 +177,7 @@ The Banner can be deployed with [[Range]] 5.
 
 **Geometric Crest:**
 *Requirement: Commander Level 5*
-When an [[Ally]] in your [[Seek]] gains 2+ [[Momentum]] in a turn or gains [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]], you gain 1 [[Momentum]].
+When an [[Ally]] in your [[Seek]] gains 2+ [[Momentum]] in a turn or gains [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]], you gain 1 [[Momentum]].
 
 **Hammer Crest:**
 An [[Ally]] in your [[Seek]] adds your [[Intelligence|INT]] / [[Instinct|INS]] to the damage of their [[Strike|Strikes]].
