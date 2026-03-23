@@ -16,7 +16,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 | Level | Class Abilities          | Martial Abilities                                                                                                             |
 | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Stances/Stances/index\|Combat Stance]], [[Spells and Stances/Stances/index\|Social Stance]] |
-| 2     | [[#Class Focus]] 1       |                                                                                                                               |
+| 2     | [[#Trader]]              |                                                                                                                               |
 | 3     | [[#Re-Stock]]            |                                                                                                                               |
 | 4     | [[#Class Focus]] 2       |                                                                                                                               |
 | 5     | [[#Experience]]          |                                                                                                                               |
@@ -55,8 +55,18 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 - If the Item is a [[Consumables|Consumable]], then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
 
-## Re-Stock
+## Trader
 The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to + Quartermaster Level + ( [[TL]] / 3 ) and [[Item Points]] [[Weight|Weigh]]: 0.
+
+When the Quartermaster successfully completes a deal, they may gain one of the following benefits in addition:
+- Apply the [[Charmed]], [[Numb]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
+- Gain +1 [[Attitude]] with the target
+- [[Free]]: [[Scan]] with an additional option: What does the target value the most?
+
+If the deal involves something that the target deeply wants, then gain two benefits instead. 
+(Options may be chosen multiple times).
+
+## Barrier
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.
 When the Quartermaster attempts to sell an item, they can mark it up by 25% of usual sale price.

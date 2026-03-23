@@ -57,10 +57,26 @@ The Commander may choose (Commander Level / 3) + ([[TL]] / 10) abilities for the
 |            | [[Consumables\|Consumable]] [[Deployable]]<br>[[Weight]]: 0 [[Item Points]]: 1                                                                                                                                                               |
 
 
+The Commander may choose to succeed on a [[Persuade]] or [[Coerce]] roll to induct an [[Overwhelmed]] [[Rules/Characters/index|Character]] as a subordinate as long as the character can be convinced. By default they have \[[[Strength\|0]], [[Dexterity\|0]], [[Fortitude\|0]], [[Awareness\|0]], [[Intelligence\|0]], [[Instinct\|0]]].
+
+When the Commander directs a subordinate [[NPC]] [[Rules/Characters/index|Character]], that Character may use the Commander's [[Level Bonus|LB]] in the appropriate [[Rules/Characters/Skills/index|Skill]] on their first roll to complete that task.
+The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Characters/index|Characters]] with this benefit at any one time.
+
+
+
+
+
 ## Tactician and Strategist
 
 The Commander learns a number of Tactics, which are specific [[Technique|Techniques]] without a [[Spells and Stances/Stances/index#Stances|Stance]] and are performed by all [[Ally|Allies]] in [[Seek]].
 The Commander knows 
+
+When the Commander takes the [[Scan]] action, they can [[Scan]] two targets.
+
+The Commander can take the [[Scan]] action to [[Ask]]:
+- Which [[Rules/Characters/index|Character]] I can see has the highest [[Strength|STR]] / [[Dexterity|DEX]] / [[Fortitude|FOR]] / [[Awareness|AWR]] / [[Intelligence|INT]] / [[Instinct|INS]]?
+- 
+
 
 
 ## Dictate Order
@@ -77,8 +93,69 @@ The commander gains the following action:
 | **Action:**   | Choose an action (this action gains the Tempo of that action) and an [[Ally]] in [[Seek]].<br>That [[Ally]] can use their [[Rules/Actions/Tags/Reaction\|Reaction]] to take a turn to perform that action and may use any of your available [[Technique\|Techniques]] when doing so.<br>If they make an [[Attack]], this counts as you making an [[Attack]] for the [[Rules/Actions/index#Unique Action Restriction\|Unique Action Restriction]]. |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
+## Project Manager
+
+When the Commander rolls to advance a Project [[Clock]], they may assign an additional number of people up their [[Intelligence|INT]] / [[Instinct|INS]] to the job. On a successful roll, the clock ticks up an additional number of ticks based on the number of people assigned:
+- +2x people -> 1 additional tick
+- +4x people -> 2 additional ticks
+- +8x people -> 3 additional ticks
+- ... and so on
+The Commander may make rolls to advance [[Clock|Clocks]] in absence if their subordinates are working on it, but may only add their [[Level Bonus|LB]] in that [[Rules/Characters/Skills/index|Skill]] to the roll and the clock ticks up 1 less.
 
 # Banner Crests
+
+## Level 1
+
+**Bear Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Rest & Recover#Rest|Rest]] action, they may immediately clear 1 [[Statuses and Conditions/index|Debuff]],
+When an [[Ally]] in your [[Seek]] performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
+
+**Butterfly Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Magic]] action, they gain 1 [[Spells and Stances/Spells/index#Temporary Mana|Temporary Mana]] to use a [[Metamagic]] on that spell.
+When an [[Ally]] in your [[Seek]] performs a [[Arcana]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Arcana]].
+
+**Cat Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Hide]] action, .
+When an [[Ally]] in your [[Seek]] performs a [[Infiltrate]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Infiltrate]].
+
+**Dog Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Melee]] [[Weapons|Weapon]], they still deal [[Rules/Rolls/index#Roll Parts|Flat Value]] on a [[Miss]].
+When an [[Ally]] in your [[Seek]] performs a [[Coerce]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Coerce]].
+
+**Elk Crest:**
+[[Ally|Allies]] can [[Guard]] and [[Guard#Intercept|Intercept]] from +1 [[Range]] away while in your [[Seek]].
+When an [[Ally]] in your [[Seek]] performs a [[Traverse]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Traverse]].
+
+**Hawk Crest:**
+When an [[Ally]] consumes [[Marked]] from a target in your [[Seek]], the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
+When an [[Ally]] in your [[Seek]] performs a [[Search]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Search]].
+
+**Horse Crest:**
+When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an additional [[Intelligence|INT]] / [[Instinct|INS]] squares.
+When an [[Ally]] in your [[Seek]] performs a [[Traverse]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Traverse]].
+
+**Owl Crest:**
+When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two questions.
+When an [[Ally]] in your [[Seek]] performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
+
+**Parrot Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Switch Stance]] action, 
+When an [[Ally]] in your [[Seek]] performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
+
+**Rat Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Inventory]] action to produce an [[Items/index|Item]] it costs 1 less [[Item Points|Item Point]] (min 1).
+When an [[Ally]] in your [[Seek]] performs a [[Tech]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Tech]].
+
+**Serpent Crest:**
+When an [[Ally]] in your [[Seek]] takes the [[Reclaim]] action,
+When an [[Ally]] in your [[Seek]] performs a [[Society]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Society]].
+
+**Spider Crest:**
+When an [[Ally]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Ranged]] [[Weapons|Weapon]] against a target in your [[Seek]], they ignore cover.
+When an [[Ally]] in your [[Seek]] performs a [[Deceive]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Deceive]].
+
+
+## Level 5
 
 **Arrow Crest:**
 *Requirement: Commander Level 5*
@@ -94,14 +171,9 @@ The Banner can be deployed with [[Range]] 5.
 | **Action:**  | They add your [[Intelligence\|INT]] / [[Instinct\|INS]] to the [[Hit]] roll |
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                   |
 
-**Boar Crest:**
-When an [[Ally]] in your [[Seek]] [[Push|Pushes]] or [[Pull|Pulls]], they [[Push]] or [[Pull]] +1 more.
 
-When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Coerce]] roll.
 
-**Elk Crest:**
-*Requirement: Commander Level 5*
-[[Ally|Allies]] can [[Guard]] and [[Guard#Intercept|Intercept]] from +1 [[Range]] away while in your [[Seek]].
+
 
 **Geometric Crest:**
 *Requirement: Commander Level 5*
@@ -112,24 +184,16 @@ An [[Ally]] in your [[Seek]] adds your [[Intelligence|INT]] / [[Instinct|INS]] t
 
 When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Physique]] roll.
 
-**Hawk Crest:**
-When an [[Ally]] in your [[Seek]] consumes [[Marked]], the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
 
-When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Search]] roll.
 
-**Horse Crest:**
-When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an additional [[Intelligence|INT]] / [[Instinct|INS]] squares.
-(Does not stack).
-When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Traverse]] roll.
+
 
 **Moon Crest:**
 *Requirement: Commander Level 10*
 Choose a [[Statuses and Conditions/index|Buff]] when you add this Crest to your banner.
 All [[Ally|Allies]] have this [[Statuses and Conditions/index|Buff]] while adjacent to you or your banner.
 
-**Owl Crest:**
-When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two questions.
-When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Insight]] roll.
+
 
 **Star Crest:**
 All [[Teamwork#Assist]] die are one size larger.

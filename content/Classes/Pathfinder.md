@@ -75,7 +75,7 @@ When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend
 While [[Navigating]] the Pathfinder spends 1 less Navigation Point to not get lost, and 1 less point to create a [[Rules/Exploration/index#Paths|Path]].
 
 ## Fighty
-The Pathfinder gains Weapon Focus 1 with a [[Ranged]] [[Weapons|Weapon]] of their choice. 
+The Pathfinder gains Weapon Focus 1 with 2 [[Ranged]] [[Weapons]] of their choice. 
 
 ## Scan buff
 When the Pathfinder takes the [[Scan]] action and targets a [[Rules/Characters/index|Character]], they may [[Ask]] one of the following questions in addition:

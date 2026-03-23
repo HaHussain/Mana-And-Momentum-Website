@@ -1,6 +1,6 @@
 ---
 icon: GiAcidBlob
 ---
-A corroded character cannot benefit from [[Deflection]].
+A corroded character cannot benefit from [[Deflection]] or [[Sturdy]].
 
-[[Mood]]: Corroded, tired, stressed
+[[Mood]]: Corroded, unrooted, worn-down

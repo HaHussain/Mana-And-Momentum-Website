@@ -9,10 +9,13 @@ title: Classes
 | Martial           | Martial - Mage | Mage            |
 | ----------------- | -------------- | --------------- |
 | [[Berserker]]     | [[Archon]]     | [[Diviner]]     |
-| [[Commander]]     | [[Bard]]       | [[Druid]]       |
-| [[Knight]]        | [[Chimera]]    | [[Etcher]]      |
-| [[Pathfinder]]    | [[Inquisitor]] | [[Font]]  |
+| [[Commander]]     | [[Bard]]       | [[Etcher]]      |
+| [[Knight]]        | [[Chimera]]    | [[Flora]]       |
+| [[Pathfinder]]    | [[Inquisitor]] | [[Font]]        |
 | [[Quartermaster]] | [[Oathsworn]]  | [[Necromancer]] |
 | [[Rogue]]         | [[Spellblade]] | [[Witch]]       |
 | [[Tinker]]        | [[Vessel]]     | [[Wizard]]      |
+|                   |                |                 |
+| [[Surgeon]]       |                | [[Cipher]]      |
+| [[Pilot]]         | [[Summoner]]   | [[Hierophant]]  |
 

@@ -425,3 +425,43 @@ flowchart TD
     C --> E[Test passes]
     D --> E[Test fails]
 ```
+---
+# Scifi DLC
+
+New classes:
+Pilot - Jet, Tank, Car, Mech
+Doctor - Martial Healer / Buffer / Debuffer
+Quantum - Scientist that uses Item Points as mana for spells
+Psion - Inquisitor but more hardcore spellcasting, more like Stars without number spells
+Hacker - Debuffs weapons, hacks into environment, tech everywhere - networking capabilities
+
+Tinker, Inquisitor, Etcher, Diviner? get buffs
+
+---
+
+I am the \_\_\_(1)\_\_\_ of  \_\_\_(2)\_\_\_
+
+
+|               |     | 1            | 2               |
+| ------------- | --- | ------------ | --------------- |
+| Archon        |     | Ruler        | The Law         |
+| Bard          |     | Singer       | Hearts          |
+| Berserker     |     | Enrager      | Destruction     |
+| Chimera       |     | Shapeshifter | Beasts          |
+| Commander     |     | Leader       | Strategy        |
+| Diviner       |     | Seer         | The Unknowable  |
+| Druid         |     | Cultivator   | The Land        |
+| Etcher        |     | Architect    | Cities          |
+| Font          |     | Nexus        | Magic           |
+| Inquisitor    |     | Seeker       | Minds           |
+| Knight        |     | Protector    | The People      |
+| Necromancer   |     | Bloodmage    | The Dead        |
+| Oathsworn     |     | Steward      | Pact            |
+| Pathfinder    |     | Tamer        | Paths           |
+| Quartermaster |     | Armory       | Coin            |
+| Rogue         |     | Thief        | Shadows         |
+| Spellblade    |     | Enchanter    | Mana & Momentum |
+| Tinker        |     | Inventor     | Technology      |
+| Vessel        |     | Host         | Spirits         |
+| Witch         |     | Alchemist    | Hospitality     |
+| Wizard        |     | Student      | Knowledge       |

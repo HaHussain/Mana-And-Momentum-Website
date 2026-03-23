@@ -56,6 +56,7 @@ When the Knight performs a kindness for someone or a small kindness in the same 
 - Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain +1 [[Attitude]] with the target
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
+If the Knight suffers or sacrifices something to do this, pick two options.
 
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
 The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
@@ -65,7 +66,7 @@ The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/i
 ## Effort
 The Knight gains a Weapon Focus 1 with 2 [[Weapons]] of their choice.
 
-While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] are considered [[Restricted]].
+While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] cannot move further away from the Knight.
 
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
 When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll they may add +1d6 to the roll. 
