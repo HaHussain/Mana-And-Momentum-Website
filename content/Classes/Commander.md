@@ -73,9 +73,9 @@ The Commander knows
 
 When the Commander takes the [[Scan]] action, they can [[Scan]] two targets.
 
-The Commander can take the [[Scan]] action to [[Ask]]:
+The Commander can also choose from these additional questions when taking the [[Scan]] action:
 - Which [[Rules/Characters/index|Character]] I can see has the highest [[Strength|STR]] / [[Dexterity|DEX]] / [[Fortitude|FOR]] / [[Awareness|AWR]] / [[Intelligence|INT]] / [[Instinct|INS]]?
-- 
+- Which [[Rules/Characters/index|Character]] I can see has the lowest [[Willpower]]?
 
 
 
@@ -139,7 +139,7 @@ When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two 
 When an [[Ally]] in your [[Seek]] performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
 
 **Parrot Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Shift]] action, 
+When an [[Ally]] in your [[Seek]] takes the [[Shift]] action, they gain 1d4 [[Momentum]] or 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]]
 When an [[Ally]] in your [[Seek]] performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
 
 **Rat Crest:**
@@ -147,7 +147,7 @@ When an [[Ally]] in your [[Seek]] takes the [[Inventory]] action to produce an [
 When an [[Ally]] in your [[Seek]] performs a [[Tech]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Tech]].
 
 **Serpent Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Reclaim]] action,
+[[Ally|Allies]] can [[Help]] from +1 [[Range]] away while in your [[Seek]].
 When an [[Ally]] in your [[Seek]] performs a [[Society]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Society]].
 
 **Spider Crest:**

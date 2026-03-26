@@ -61,6 +61,11 @@ The Berserker gains the following Action:
 | **Action:** | Choose a [[Statuses and Conditions/index\|Debuff]] you are under.<br>Force the [[Rules/Characters/index\|Character]] to make a [[Instinct]] [[Physique]] check against your [[Social]] roll, gaining that [[Statuses and Conditions/index\|Condition]] on failure. |
 | **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Elemental Type\|Physical]]                                                                                                                                                                                          |
 
+When the Berserker beats a character in a contest or proves their superiority they may also apply one of the following benefits:
+- Apply [[Chilled]], [[Enraged]], or [[Numb]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
+- Gain +1 [[Attitude]] with a [[Rules/Characters/index|Character]] who saw the whole thing and dislikes the target.
+- [[Free]]: [[Scan]] with an additional option: What does the target fear?
+If the Berserker gave up something of worth to the target, pick 2 options.
 
 ## All Consuming
 

@@ -56,7 +56,6 @@ When the Knight performs a kindness for someone or a small kindness in the same 
 - Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain +1 [[Attitude]] with the target
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
-If the Knight suffers or sacrifices something to do this, pick two options.
 
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
 The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
