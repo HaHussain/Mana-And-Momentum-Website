@@ -50,11 +50,12 @@ The [[Fortress]]
 The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
 The Commander may choose (Commander Level / 3) + ([[TL]] / 10) abilities for their banner.
+The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
 
-|            |                                                                                                                                                                                                                                              |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Banner** | Deploy the banner in an Empty space or an [[Ally\|Allies]] space in [[Range]] 1:<br>It is a [[Size]] 1/2 [[Object]]<br>\[[[Health Points\|5]], [[Defence\|5]]]<br><br>While planted, the Commander's [[Seek]] also emanates from the banner. |
-|            | [[Consumables\|Consumable]] [[Deployable]]<br>[[Weight]]: 0 [[Item Points]]: 1                                                                                                                                                               |
+|            |                                                                                                                                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Banner** | Deploy the banner in an Empty space or an [[Ally\|Allies]] space in [[Range]] 1:<br>It is a [[Size]] 1/2 [[Object]]<br>\[[[Health Points\|5]], [[Defence\|5]]]<br><br>It has an [[Aura]] equal to the Commander's [[Seek]] |
+|            | [[One-Handed]] [[Deployable]]<br>[[Weight]]: 0 [[Item Points]]: 1                                                                                                                                                          |
 
 
 The Commander may choose to succeed on a [[Persuade]] or [[Coerce]] roll to induct an [[Overwhelmed]] [[Rules/Characters/index|Character]] as a subordinate as long as the character can be convinced. By default they have \[[[Strength\|0]], [[Dexterity\|0]], [[Fortitude\|0]], [[Awareness\|0]], [[Intelligence\|0]], [[Instinct\|0]]].
@@ -107,53 +108,52 @@ The Commander may make rolls to advance [[Clock|Clocks]] in absence if their sub
 ## Level 1
 
 **Bear Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Rest & Recover#Rest|Rest]] action, they may immediately clear 1 [[Statuses and Conditions/index|Debuff]],
-When an [[Ally]] in your [[Seek]] performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
+When an [[Ally]] in this Aura takes the [[Rest & Recover#Rest|Rest]] action, they may immediately clear 1 [[Statuses and Conditions/index|Debuff]],
+When an [[Ally]] in this Aura performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
 
 **Butterfly Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Magic]] action, they gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]] to use a [[Metamagic]] on that spell.
-When an [[Ally]] in your [[Seek]] performs a [[Arcana]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Arcana]].
+When an [[Ally]] in this Aura takes the [[Magic]] action, they gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]] to immediately use a [[Metamagic]] on that spell.
+When an [[Ally]] in this Aura performs a [[Arcana]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Arcana]].
 
 **Cat Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Hide]] action, .
-When an [[Ally]] in your [[Seek]] performs a [[Infiltrate]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Infiltrate]].
+When an [[Ally]] in this Aura takes the [[Hide]] action, they ignore [[Line of Sight]] from [[Rules/Characters/index|Characters]] more than (11 - your [[Intelligence|INT]]/[[Instinct|INS]]) [[Range]] away.
+When an [[Ally]] in this Aura performs a [[Infiltrate]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Infiltrate]].
 
 **Dog Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Melee]] [[Weapons|Weapon]], they still deal [[Rules/Rolls/index#Roll Parts|Flat Value]] on a [[Miss]].
-When an [[Ally]] in your [[Seek]] performs a [[Coerce]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Coerce]].
+When an [[Ally]] in this Aura takes the [[Attack]] action and [[Strike|Strikes]] with a [[Melee]] [[Weapons|Weapon]], they still deal your [[Intelligence|INT]]/[[Instinct|INS]] on a [[Miss]].
+When an [[Ally]] in this Aura performs a [[Coerce]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Coerce]].
 
 **Elk Crest:**
-[[Ally|Allies]] can [[Guard]] and [[Guard#Intercept|Intercept]] from +1 [[Range]] away while in your [[Seek]].
-When an [[Ally]] in your [[Seek]] performs a [[Traverse]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Traverse]].
+[[Ally|Allies]] can [[Guard]] and [[Guard#Intercept|Intercept]] from +1 [[Range]] away while in this Aura.
+When an [[Ally]] in this Aura performs a [[Nature]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Nature]].
 
 **Hawk Crest:**
-When an [[Ally]] consumes [[Marked]] from a target in your [[Seek]], the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
-When an [[Ally]] in your [[Seek]] performs a [[Search]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Search]].
+When an [[Ally]] consumes [[Marked]] from a target in this Aura, the roll cant be less than your [[Intelligence|INT]] / [[Instinct|INS]].
+When an [[Ally]] in this Aura performs a [[Search]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Search]].
 
 **Horse Crest:**
 When an [[Ally]] takes the [[Move]] action and starts or moves through your [[Seek]], they can move an additional [[Intelligence|INT]] / [[Instinct|INS]] squares.
-When an [[Ally]] in your [[Seek]] performs a [[Traverse]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Traverse]].
+When an [[Ally]] in this Aura performs a [[Traverse]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Traverse]].
 
 **Owl Crest:**
-When an [[Ally]] [[Scan|Scans]] a target in your [[Seek]], they may [[Ask]] two questions.
-When an [[Ally]] in your [[Seek]] performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
+When an [[Ally]] [[Scan|Scans]] a target in this Aura, they may [[Ask]] two questions.
+When an [[Ally]] in this Aura performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
 
 **Parrot Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Shift]] action, they gain 1d4 [[Momentum]] or 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]]
-When an [[Ally]] in your [[Seek]] performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
+When an [[Ally]] in this Aura takes the [[Shift]] action, they gain 1d4 [[Momentum]] or 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]]
+When an [[Ally]] in this Aura performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
 
 **Rat Crest:**
-When an [[Ally]] in your [[Seek]] takes the [[Inventory]] action to produce an [[Items/index|Item]] it costs 1 less [[Item Points|Item Point]] (min 1).
-When an [[Ally]] in your [[Seek]] performs a [[Tech]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Tech]].
+When an [[Ally]] in this Aura takes the [[Inventory]] action they can perform the same option twice.
+When an [[Ally]] in this Aura performs a [[Tech]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Tech]].
 
 **Serpent Crest:**
-[[Ally|Allies]] can [[Help]] from +1 [[Range]] away while in your [[Seek]].
-When an [[Ally]] in your [[Seek]] performs a [[Society]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Society]].
+[[Ally|Allies]] can [[Help]] from +1 [[Range]] away while in this Aura.
+When an [[Ally]] in this Aura performs a [[Deceive]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Deceive]].
 
 **Spider Crest:**
-When an [[Ally]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Ranged]] [[Weapons|Weapon]] against a target in your [[Seek]], they ignore cover.
-When an [[Ally]] in your [[Seek]] performs a [[Deceive]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Deceive]].
-
+When an [[Ally]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Ranged]] [[Weapons|Weapon]] against a target in this Aura, they ignore cover.
+When an [[Ally]] in this Aura performs a [[Society]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Society]].
 
 ## Level 5
 
@@ -177,10 +177,10 @@ The Banner can be deployed with [[Range]] 5.
 
 **Geometric Crest:**
 *Requirement: Commander Level 5*
-When an [[Ally]] in your [[Seek]] gains 2+ [[Momentum]] in a turn or gains [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]], you gain 1 [[Momentum]].
+When an [[Ally]] in this Aura gains 2+ [[Momentum]] in a turn or gains [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]], you gain 1 [[Momentum]].
 
 **Hammer Crest:**
-An [[Ally]] in your [[Seek]] adds your [[Intelligence|INT]] / [[Instinct|INS]] to the damage of their [[Strike|Strikes]].
+An [[Ally]] in this Aura adds your [[Intelligence|INT]] / [[Instinct|INS]] to the damage of their [[Strike|Strikes]].
 
 When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Physique]] roll.
 
@@ -202,14 +202,14 @@ When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], yo
 **Sun Crest:**
 *Requirement: Commander Level 5*
 Choose a [[Statuses and Conditions/index|Debuff]] when you add this Crest to your banner.
-All [[Ally|Allies]] in your [[Seek]] are immune to this [[Statuses and Conditions/index|Debuff]].
+All [[Ally|Allies]] in this Aura are immune to this [[Statuses and Conditions/index|Debuff]].
 
 **Thorn Crest:**
-All [[Ally|Allies]] in your [[Seek]] gain [[Retaliate]] 2 [[Elemental Type|Physical]].
+All [[Ally|Allies]] in this Aura gain [[Retaliate]] 2 [[Elemental Type|Physical]].
 When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Deceive]] roll.
 
 **Tree Crest**:
-All [[Ally|Allies]] in your [[Seek]] gain +1 [[Sturdy]].
+All [[Ally|Allies]] in this Aura gain +1 [[Sturdy]].
 When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], you may allow to an [[Ally]] in that team to retry a [[Nature]] roll.
 
 **Intertwined Crest:**
@@ -240,7 +240,7 @@ When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], yo
 
 **Wave Crest:**
 *Requirement: Commander Level 5*
-All [[Ally|Allies]] in your [[Seek]] have +1 [[Willpower]].
+All [[Ally|Allies]] in this Aura have +1 [[Willpower]].
 
 **Void Crest:**
 *Requirement: Commander Level 10*

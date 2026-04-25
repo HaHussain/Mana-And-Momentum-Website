@@ -439,6 +439,8 @@ Tinker, Inquisitor, Etcher, Diviner? get buffs
 
 ---
 
+# Tables
+
 I am the \_\_\_(1)\_\_\_ of  \_\_\_(2)\_\_\_
 
 
@@ -465,3 +467,13 @@ I am the \_\_\_(1)\_\_\_ of  \_\_\_(2)\_\_\_
 | Vessel        |     | Host         | Spirits         |
 | Witch         |     | Alchemist    | Hospitality     |
 | Wizard        |     | Student      | Knowledge       |
+
+
+| Evil              | Neutral                                     | Good                               |
+| ----------------- | ------------------------------------------- | ---------------------------------- |
+| I care my own ___ | I care about the ___ of people I care about | I care about the ___ of all people |
+
+| d   |       |
+| --- | ----- |
+|     | Money |
+|     | Power |

@@ -2,7 +2,7 @@
 
 |               | Terror Paradigm                                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | Any [[Strike]] without [[Push]] or [[Pull]] gains [[Push]] 2<br>Any [[Strike]] with [[Push]] or [[Pull]] gains +([[Strength\|STR]]/2) [[Push]] or [[Pull]] respectively |
+| **Passive:**  | Any [[Strike]] without [[Push]] or [[Pull]] gains [[Push]] 1<br>Any [[Strike]] with [[Push]] or [[Pull]] gains +([[Strength\|STR]]/4) [[Push]] or [[Pull]] respectively |
 | **Momentum:** |                                                                                                                                                                         |
 | **Tags:**     | [[Locked]]: [[Berserker]]                                                                                                                                               |
 

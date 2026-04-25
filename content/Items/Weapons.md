@@ -188,7 +188,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ### Crossbow
 **Damage**: Medium
 **Weapon Focus 1**: This weapon ignores the penalties of using a Ranged weapon in Melee range.
-**Weapon Focus 2**: This weapon ignores [[Deflection]] and deals additional damage on [[Hit]] equal to the target's [[Deflection]].
+**Weapon Focus 2**: This weapon gains [[Piercing]] and deals additional damage on [[Hit]] equal to the target's [[Deflection]].
 **Tags**: [[Ranged]] #, [[Two-Handed]]
 
 ### Volley Crossbow

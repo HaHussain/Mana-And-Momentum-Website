@@ -3,27 +3,27 @@ icon: GiPlastron
 ---
 # Armours
 
-| Armour                      | Defenses                                                                                                             |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-|                             |                                                                                                                      |
-| **[[#Hide Leather]]**       | **[[Defence]]:** 10 + [[Dexterity\|DEX]]                                                                             |
-|                             | **1:** Move through enemies<br>**2:**                                                                                |
-|                             |                                                                                                                      |
-| **[[#Brigandine Leather]]** | **[[Defence]]:** 11 + [[Dexterity\|DEX]]<br>**[[Deflection]]:** 1<br><br>-1 [[Speed]]                                |
-|                             | **1:** <br>**2:**                                                                                                    |
-|                             |                                                                                                                      |
-| **[[#Chain Mail]]**         | **[[Defence]]:** 12 + [[Dexterity\|DEX]]<br>**[[Sturdy]]:** 1<br><br>[[Orthogonal]]                                  |
-|                             | **1:** <br>**2:**                                                                                                    |
-|                             |                                                                                                                      |
-| **[[#Scale Mail]]**         | **[[Defence]]:** 14<br>**[[Deflection]]:** 2<br><br>[[Heavy]]<br>-1 [[Speed]]                                        |
-|                             | **1:** <br>**2:**                                                                                                    |
-|                             |                                                                                                                      |
-| **[[#Titan Plate]]**        | **[[Defence]]:** 15<br>**[[Deflection]]:** 1<br>**[[Sturdy]]**: 1<br><br>[[Heavy]]<br>[[Orthogonal]]                 |
-|                             | **1:** <br>**2:**                                                                                                    |
-|                             |                                                                                                                      |
-| **[[#Juggernaut Plate]]**   | **[[Defence]]:** 17<br>**[[Deflection]]:** 2<br>**[[Sturdy]]**: 2<br><br>[[Heavy]]<br>-1 [[Speed]]<br>[[Orthogonal]] |
-|                             | **1:** <br>**2:** Push aside enemies by walking through                                                              |
-|                             |                                                                                                                      |
+| Armour                      | Defenses                                                                                                                                   |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|                             |                                                                                                                                            |
+| **[[#Hide Leather]]**       | **[[Defence]]:** 8 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]                                                                              |
+|                             | **1:** Move through enemies<br>**2:**                                                                                                      |
+|                             |                                                                                                                                            |
+| **[[#Brigandine Leather]]** | **[[Defence]]:** 9 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]<br>**[[Deflection]]:** 1<br><br>-1 [[Speed]]                                 |
+|                             | **1:** <br>**2:**                                                                                                                          |
+|                             |                                                                                                                                            |
+| **[[#Chain Mail]]**         | **[[Defence]]:** 10 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]<br>**[[Sturdy]]:** 1<br><br>[[Orthogonal]]                                  |
+|                             | **1:** <br>**2:**                                                                                                                          |
+|                             |                                                                                                                                            |
+| **[[#Scale Mail]]**         | **[[Defence]]:** 12 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 2<br><br>[[Heavy]]<br>-1 [[Speed]]                                        |
+|                             | **1:** <br>**2:**                                                                                                                          |
+|                             |                                                                                                                                            |
+| **[[#Titan Plate]]**        | **[[Defence]]:** 13 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 1<br>**[[Sturdy]]**: 1<br><br>[[Heavy]]<br>[[Orthogonal]]                 |
+|                             | **1:** <br>**2:**                                                                                                                          |
+|                             |                                                                                                                                            |
+| **[[#Juggernaut Plate]]**   | **[[Defence]]:** 15 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 2<br>**[[Sturdy]]**: 2<br><br>[[Heavy]]<br>-1 [[Speed]]<br>[[Orthogonal]] |
+|                             | **1:** <br>**2:** Push aside enemies by walking through                                                                                    |
+|                             |                                                                                                                                            |
 
 ## Hide Leather
 [[Defence]]: 10 + [[Dexterity|DEX]] + [[Level Bonus]]
@@ -77,14 +77,25 @@ Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Charac
 # Outfits
 
 Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
-Each outfit gives the wearer [[Immunity]] to one [[Statuses and Conditions/index|Condition]].
 
-A classic powerful outfit may give [[Immunity]] to [[Weak]],
-A spiky, dangerous and overt outfit may give [[Immunity]] to [[Numb]].
+| Outfits                 | Abilities                                                                           |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+|                         |                                                                                     |
+| **[[#Stealth Outfit]]** | **[[Defence]]:** 6 + [[Dexterity\|DEX]]<br>**[[Deflection]]:**<br>**[[Sturdy]]:** 0 |
+|                         | **1:** [[Advantage]] on rolls to avoid being perceived or intuited.<br>**2:**       |
+|                         |                                                                                     |
+| **[[#Diva Outfit]]**    | **[[Defence]]:** 6 + [[Dexterity\|DEX]]<br>**[[Deflection]]:**<br>**[[Sturdy]]:** 0 |
+|                         | **1:** [[Advantage]] on rolls to get or keep attention on you<br>**2:**             |
+|                         |                                                                                     |
+| **[[#Rock Outfit]]**    | **[[Defence]]:** 7 + [[Dexterity\|DEX]]<br>**[[Deflection]]:**<br>**[[Sturdy]]:** 1 |
+|                         | **1:** [[Advantage]] on rolls to avoid being moved or changed<br>**2:**             |
 
-
-# Defence
+# Stats
+## Defence
 ![[Defence]]
 
-# Deflection
+## Deflection
 ![[Deflection]]
+
+## Sturdy
+![[Sturdy]]

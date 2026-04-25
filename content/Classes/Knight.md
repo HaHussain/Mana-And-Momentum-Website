@@ -52,7 +52,7 @@ Choose 1 of:
 
 The Knight can take two [[Rules/Actions/Tags/Reaction|Reactions]] per turn.
 
-When the Knight performs a kindness for someone or a small kindness in the same conversation they first meet someone - they may additionally apply one of the following benefits:
+When the Knight performs a great kindness for someone or a small kindness in the same conversation they first meet someone - they may additionally apply one of the following benefits:
 - Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain +1 [[Attitude]] with the target
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?

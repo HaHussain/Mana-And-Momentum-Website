@@ -63,17 +63,17 @@ The Berserker gains the following Action:
 
 When the Berserker beats a character in a contest or proves their superiority they may also apply one of the following benefits:
 - Apply [[Chilled]], [[Enraged]], or [[Numb]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
-- Gain +1 [[Attitude]] with a [[Rules/Characters/index|Character]] who saw the whole thing and dislikes the target.
+- Gain +1 [[Attitude]] with a [[Rules/Characters/index|Character]] who saw and dislikes the target.
 - [[Free]]: [[Scan]] with an additional option: What does the target fear?
 If the Berserker gave up something of worth to the target, pick 2 options.
 
 ## All Consuming
 
-|             | Rage                                   |
-| ----------- | -------------------------------------- |
-| **Tempo:**  | [[Extra]]: 1                           |
-| **Action:** | Become [[Enraged]] until end of Scene. |
-| **Tags:**   | [[Mental]]                             |
+When the Berserker performs one of the following, they can choose to take [[Level Bonus|LB]] [[Piercing]] damage to add a benefit, if the Berserker is [[Bloodied]], they gain an additional benefit.
+- [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
+- [[Normal Move]] or [[Move]]: Move +1 more. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
+- [[Strength|STR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10)
+- [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]]. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
 
 When the Berserker [[Exert|Exerts]] they can also choose the following option:
 - Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
@@ -94,6 +94,8 @@ When the Berserker applies [[Grappled]] to someone, that counts as a [[Statuses 
 The Berserker can spend 1 [[Momentum]] to add their current [[Momentum]] value to a skill check to apply a [[Statuses and Conditions/index|Debuff]] to a [[Rules/Characters/index|Character]] they are speaking to.
 
 The Berserker can choose to accidentally give away in a fit of rage or passion something they are [[vulnerable]] to, to a [[Rules/Characters/index|Character]] they are talking to, in order to make that [[Rules/Characters/index|Character]] [[vulnerable]] to the current argument.
+
+The Berserker can spend [[Level Bonus]] [[Health Points|HP]] to add their [[Level Bonus|LB]] to the damage of their [[Strike]]. If [[Bloodied]], the [[Strike]] becomes [[Piercing]].
 
 
 

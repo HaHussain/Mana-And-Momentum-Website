@@ -18,6 +18,13 @@ Then each travel period each [[Rules/Characters/index|Character]] assigned to a 
 Not every [[#Travel Duties|Travel Duty]] needs to be filled, and any Character can instead perform [[Teamwork]] on an ally or spend that time [[#Resting]].
 
 
+## Switching Between Hex Sizes
+
+When using hexes of 40km in size, you can zoom in on those hexes and converting them to 61 hexes (rotated) of 5km in size is a hex surrounded by 4 rings of hexes. (The 5th Centered Hexagon Number).
+This works perfectly for zooming into a city - Greater London is roughly 40km in size.
+Each of these smaller hexes can be zoomed in further to (roughly) 17 1km (not rotated) hexes.
+
+
 # Travel Speed
 
 When beginning travel and at the start of each travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
