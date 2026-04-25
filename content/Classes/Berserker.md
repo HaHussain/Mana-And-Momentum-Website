@@ -71,7 +71,7 @@ If the Berserker gave up something of worth to the target, pick 2 options.
 
 When the Berserker performs one of the following, they can choose to take [[Level Bonus|LB]] [[Piercing]] damage to add a benefit, if the Berserker is [[Bloodied]], they gain an additional benefit.
 - [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
-- [[Normal Move]] or [[Move]]: Move +1 more. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
+- [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
 - [[Strength|STR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10)
 - [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]]. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
 
