@@ -67,9 +67,9 @@ When the Berserker beats a character in a contest or proves their superiority th
 - [[Free]]: [[Scan]] with an additional option: What does the target fear?
 If the Berserker gave up something of worth to the target, pick 2 options.
 
-## All Consuming
+## Rage
 
-When the Berserker performs one of the following, they can choose to take [[Level Bonus|LB]] [[Piercing]] damage to add a benefit, if the Berserker is [[Bloodied]], they gain an additional benefit.
+The Berserker can take [[Piercing]] damage equal to their [[Level Bonus|LB]] to gain a benefit - and an additional benefit if they are [[Bloodied]] when they do so - when they perform one of the following:
 - [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
 - [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
 - [[Strength|STR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10)

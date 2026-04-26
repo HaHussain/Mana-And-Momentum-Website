@@ -3,4 +3,4 @@ tags:
   - Status
 icon: LiDroplet
 ---
-A character is Bloodied when they are at half HP or less.
+A character is Bloodied when they have [[Health Points|HP]] equal to less than half their [[Health Points|Max HP]].
