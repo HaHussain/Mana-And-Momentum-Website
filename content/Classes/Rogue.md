@@ -53,25 +53,20 @@ The [[Fortress]]
 When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
-
-|               | Focus                                                                                                                                                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Mark]]                                                                                                                                                                                                                     |
-| **Target:**   | Self                                                                                                                                                                                                                         |
-| **Duration:** | Until you move                                                                                                                                                                                                               |
-| **Action:**   | Double your [[Seek]]<br>You may sense clearly though standard objects that would muffle (but not completely block) what you would normally sense as long as the source is from something that would be within your [[Seek]]. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                                                                                                                                                              |
+While [[Hidden]] you gain the following benefits:
+- You can lip read [[Rules/Characters/index|Characters]] in your [[Seek]].
+- You may sense clearly though standard objects that would muffle (but not completely block) what you would normally sense.
 
 
 ## One Step Ahead
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
 
-When the Rogue first enters a [[Locations|Location]], the Rogue may [[Exert]] to gain a contact in this location.
+When the Rogue first enters a [[Locations|Location]], the Rogue may [[Exert]] to gain a [[Contact]] in this location.
 - Might - A thug or assassin
 - Assets - A fence or thief
 - Magic - A mage or alchemist
 - Influence - A politician or connector
-- Secrets - An informant
+- Secrets - An informant, spy, or leak
 
 
 ## Sneaki Neaki

@@ -48,6 +48,7 @@ The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 # Abilities
 
 ## Quick Toss
+
 When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1). 
 - If the Item is a [[Weapons|Weapon]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]] make a [[Strike]] with it.
 - If the Item is a [[Shields|Shield]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]], [[Guard]].
@@ -56,15 +57,17 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 
 
 ## Trader
+
 The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to + Quartermaster Level + ( [[TL]] / 3 ) and [[Item Points]] [[Weight|Weigh]]: 0.
+
 
 When the Quartermaster successfully completes a deal, they may gain one of the following benefits in addition:
 - Apply the [[Charmed]], [[Numb]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
-- Gain +1 [[Attitude]] with the target
+- Gain or Link a [[Contact]] who trades with the target, you start with +1 [[Attitude]] with the Contact.
 - [[Free]]: [[Scan]] with an additional option: What does the target value the most?
-
 If the deal involves something that the target deeply wants, then gain two benefits instead. 
 (Options may be chosen multiple times).
+
 
 ## Barrier
 

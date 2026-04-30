@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Fury Paradigm             |
-| ------------- | ------------------------- |
-| **Passive:**  |                           |
-| **Momentum:** |                           |
-| **Tags:**     | [[Locked]]: [[Berserker]] |
+|               | Fury Paradigm                                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Passive:**  |                                                                                                                                |
+| **Momentum:** | Gain 1 [[Momentum]] for each [[Strike]] that [[Hits]] and 2 [[Momentum]] for each that [[Critical Strike\|Crits]] (exclusive). |
+| **Tags:**     | [[Locked]]: [[Berserker]]                                                                                                      |
 
 # Techniques
 

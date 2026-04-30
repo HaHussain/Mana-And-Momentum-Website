@@ -68,8 +68,8 @@ A [[Size]] 2 riding animal:
 
 ## Tracker
 The Pathfinder gains +1 [[Speed]].
-When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
 
+When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
 When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.
 
 While [[Navigating]] the Pathfinder spends 1 less Navigation Point to not get lost, and 1 less point to create a [[Rules/Exploration/index#Paths|Path]].

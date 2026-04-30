@@ -48,32 +48,28 @@ The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 
 ## Bestial Instinct
+
 While not wearing [[Armour]], the Berserkers is considered to be wearing [[Armour#Hide Leather|Hide Leather]].
 While wearing Not-[[Heavy]] [[Armour]], the Berserker may set their [[Deflection]] equal to their [[Fortitude|FOR]].
 While wearing [[Heavy]] [[Armour]], the Berserker may ignore any [[Orthogonal]] tag on the Armour.
 
-The Berserker gains the following Action:
-
-|             | Incite                                                                                                                                                                                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Attack]] [[Social]]                                                                                                                                                                                                                                              |
-| **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Seek]] who you are conversing with.                                                                                                                                                                                   |
-| **Action:** | Choose a [[Statuses and Conditions/index\|Debuff]] you are under.<br>Force the [[Rules/Characters/index\|Character]] to make a [[Instinct]] [[Physique]] check against your [[Social]] roll, gaining that [[Statuses and Conditions/index\|Condition]] on failure. |
-| **Tags:**   | [[Rules/Actions/index\|Action]], [[Social]], [[Elemental Type\|Physical]]                                                                                                                                                                                          |
 
 When the Berserker beats a character in a contest or proves their superiority they may also apply one of the following benefits:
 - Apply [[Chilled]], [[Enraged]], or [[Numb]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
-- Gain +1 [[Attitude]] with a [[Rules/Characters/index|Character]] who saw and dislikes the target.
-- [[Free]]: [[Scan]] with an additional option: What does the target fear?
-If the Berserker gave up something of worth to the target, pick 2 options.
+- Gain or Link a [[Contact]] who watched and dislikes the target, you start with +1 [[Attitude]] with the Contact.
+- [[Free]]: [[Scan]] with an additional option: What does this [[Rules/Characters/index|Character]] despise?
+If the Berserker used the target's fear, pick 2 options.
+
 
 ## Rage
 
-The Berserker can take [[Piercing]] damage equal to their [[Level Bonus|LB]] to gain a benefit - and an additional benefit if they are [[Bloodied]] when they do so - when they perform one of the following:
+The Berserker can choose to take [[Piercing]] damage equal to their [[Level Bonus|LB]] to gain a benefit - and an additional benefit if they are [[Bloodied]] when they do so - when they perform one of the following:
 - [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
 - [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
+- [[Guard]]: Gain [[Retaliate]] 2 [[Elemental Type|Physical]]. [[Bloodied]] Instead, Gain [[Retaliate]] (Missing [[Health Points|HP]] / 10) [[Elemental Type|Physical]].
 - [[Strength|STR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10)
 - [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]]. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
+
 
 When the Berserker [[Exert|Exerts]] they can also choose the following option:
 - Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.

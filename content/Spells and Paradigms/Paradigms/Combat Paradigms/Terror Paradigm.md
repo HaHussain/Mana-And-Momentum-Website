@@ -3,7 +3,7 @@
 |               | Terror Paradigm                                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | Any [[Strike]] without [[Push]] or [[Pull]] gains [[Push]] 1<br>Any [[Strike]] with [[Push]] or [[Pull]] gains +([[Strength\|STR]]/4) [[Push]] or [[Pull]] respectively |
-| **Momentum:** |                                                                                                                                                                         |
+| **Momentum:** | When you reduce the damage you would take to 0, gain 2 [[Momentum]].                                                                                                    |
 | **Tags:**     | [[Locked]]: [[Berserker]]                                                                                                                                               |
 
 # Techniques
