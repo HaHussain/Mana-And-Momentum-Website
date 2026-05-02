@@ -74,7 +74,7 @@ The Commander knows
 
 When the Commander takes the [[Scan]] action, they can [[Scan]] two targets.
 
-The Commander can also choose from these additional questions when taking the [[Scan]] action:
+The Commander can also choose from these additional questions when taking the [[Scan]] action on the [[Terrain]]:
 - Which [[Rules/Characters/index|Character]] I can see has the highest [[Strength|STR]] / [[Dexterity|DEX]] / [[Fortitude|FOR]] / [[Awareness|AWR]] / [[Intelligence|INT]] / [[Instinct|INS]]?
 - Which [[Rules/Characters/index|Character]] I can see has the lowest [[Willpower]]?
 
@@ -245,7 +245,9 @@ All [[Ally|Allies]] in this Aura have +1 [[Willpower]].
 **Void Crest:**
 *Requirement: Commander Level 10*
 
+# Tactics
 
+All the Commander's tactics target a 3x3 Square within [[Seek]]. 
 
 
 # Ideas

@@ -48,24 +48,17 @@ The [[Fortress]] gains
 
 ## Crafter
 
+The Tinker may as an option when taking an [[Inventory]] action, choose to craft [[Items/index|Items]] and apply [[#Modifications]].
 The Tinker may spend 1 hour to craft a [[Weapons|Weapon]], [[Armour]], [[Shields|Shield]] for 1 less [[Item Points|Item Point]] than its base cost (Minimum 1).
 The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Points|Item Point]] than its base cost.
 
-The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]] (Max 1).
-The Tinker may spend 1 hour to apply a [[Companion#Traits|Companion Trait]] to a [[Construct]] [[Companion]] (Max 1).
+The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]] (Max 1 per item).
+The Tinker may spend 1 hour to apply a [[Companion#Traits|Companion Trait]] to a willing [[Construct]] (Max 1 per Construct).
 The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + ( Tinker Level / 2 ) + ( [[TL]] / 5 ).
 The Tinker must spend 1 minute every day on each item with a [[#Modifications|Modification]] to maintain it.
 
-%%
+If the Tinker crafts an [[Items/index|Item]], they can choose to add a [[#Modifications|Modification]] to it as part of the crafting, taking the longer duration of the two. 
 
-|               | Quick Craft                                                                                   |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Inventory]]                                                                                 |
-| **Target:**   | -                                                                                             |
-| **Duration:** | -                                                                                             |
-| **Action:**   | Make a DC 15 [[Dexterity\|DEX]] : [[Tech]] check, on a success, use [[#Crafter]] in one turn. |
-| **Tags:**     | [[Rules/Actions/index\|Action]]                                                               |
-%%
 
 # Alter
 
@@ -73,7 +66,7 @@ When the Tinker fires a [[Reload|Reloading]] [[Weapons|Weapon]], they may spend 
 
 The Tinker may spend 10 minutes to apply one of the following [[#Modifications]] to [[Technical]] [[Consumables]] or [[Construct|Constructs]].
 - Limit Release: Reduce the duration of a [[Technical]] [[Items/index|Item]] to one use and increase its power.
-- Combine: Combine two [[Technical]] [[Items/index|Items]] or one and a [[Construct]] into a new thing that combines the capabilities of both into one function.
+- Combine: Combine two [[Technical]] [[Items/index|Items]] or one and a [[Construct]] into a new item that combines the capabilities of both into one function.
 - Invert: Flip the function of this object to its direct opposite.
 
 

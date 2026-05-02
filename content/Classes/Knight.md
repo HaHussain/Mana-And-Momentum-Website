@@ -53,8 +53,8 @@ Choose 1 of:
 The Knight can take two [[Rules/Actions/Tags/Reaction|Reactions]] per turn.
 
 When the Knight performs a great kindness for someone or a small kindness in the same conversation they first meet someone - they may additionally apply one of the following benefits:
-- Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
-- Gain +1 [[Attitude]] with the target
+- Apply [[Fascinated]], [[Charmed]], or [[Vulnerable]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]]) to the target.
+- Apply 1 [[Fascinated]] or [[Charmed]] to the [[Crowd]] that watched this happen.
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
 
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].

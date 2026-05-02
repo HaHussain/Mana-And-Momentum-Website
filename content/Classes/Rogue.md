@@ -55,7 +55,8 @@ If the target is [[Overwhelmed]] and not in combat, this kills the character ins
 
 While [[Hidden]] you gain the following benefits:
 - You can lip read [[Rules/Characters/index|Characters]] in your [[Seek]].
-- You may sense clearly though standard objects that would muffle (but not completely block) what you would normally sense.
+- You may sense clearly though standard objects adjacent to you that would muffle (but not completely block) what you would normally sense.
+- You have [[Advantage]] on checks to spread rumours and misinformation to a [[Crowd]].
 
 
 ## One Step Ahead

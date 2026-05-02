@@ -15,7 +15,7 @@ The [[Dexterity]] Coerce skill allows individuals to threaten someone that you w
 
 # [[Fortitude]]
 
-The [[Fortitude]] Coerce skill allows a character to strike fear in their enemies by simply showcasing that they are unkillable.
+The [[Fortitude]] Coerce skill allows you to strike fear in their enemies by simply showcasing that you are unkillable or untouchable.
 
 
 # [[Intelligence]]

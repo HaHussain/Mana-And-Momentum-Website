@@ -60,9 +60,8 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 
 The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to + Quartermaster Level + ( [[TL]] / 3 ) and [[Item Points]] [[Weight|Weigh]]: 0.
 
-
 When the Quartermaster successfully completes a deal, they may gain one of the following benefits in addition:
-- Apply the [[Charmed]], [[Numb]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
+- Apply the [[Charmed]], [[Restricted]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain or Link a [[Contact]] who trades with the target, you start with +1 [[Attitude]] with the Contact.
 - [[Free]]: [[Scan]] with an additional option: What does the target value the most?
 If the deal involves something that the target deeply wants, then gain two benefits instead. 

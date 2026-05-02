@@ -1,7 +1,7 @@
 ---
 icon: LiCastle
 ---
-Society represents a capacity for history, politics, and economics - an understanding of complex intelligent societies and how they function.
+Society represents a capacity for history, politics, and economics - an understanding of complex intelligent societies and how they function and the spirits that society creates.
 
 # [[Strength]]
 
@@ -15,7 +15,7 @@ Society represents a capacity for history, politics, and economics - an understa
 
 # [[Intelligence]]
 
-[[Intelligence]] Society is the knowledge of history, politics and economics.
+[[Intelligence]] Society is the knowledge of history, politics and economics. It can also represent the knowledge of the spirits of society.
 
 
 # [[Instinct]]

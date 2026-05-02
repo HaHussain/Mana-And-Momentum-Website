@@ -5,7 +5,7 @@ The Deceive skill represents a character's ability to lie, manipulate through im
 
 # [[Fortitude]]
 
-The [[Fortitude]] Deceive skill deceives others but refusing to give anything away, remaining stoic and silent.
+The [[Fortitude]] Deceive skill deceives others by refusing to give anything away, remaining stoic and silent.
 
 
 # [[Intelligence]]
