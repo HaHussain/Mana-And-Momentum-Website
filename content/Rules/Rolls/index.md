@@ -7,6 +7,9 @@ aliases:
 This game uses rolling dice as the method of determining what happens in a world full of uncertainty with too many factors to consider.
 By default a roll is made by rolling a d20 and adding a modifier.
 
+When rolling, a player may only add 1 additional die to the d20 from their own abilities, and 1 additional die from each other player from their abilities.
+In general a player can only add 1 additional die from the GM due to circumstances.
+
 # Roll types
 Rolls are generally one of these 5 types:
 

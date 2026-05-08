@@ -49,7 +49,7 @@ The [[Fortress]]
 
 The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
-The Commander may choose (Commander Level / 3) + ([[TL]] / 10) abilities for their banner.
+The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** abilities for their banner.
 The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
 
 |            |                                                                                                                                                                                                                            |
@@ -155,6 +155,7 @@ When an [[Ally]] in this Aura performs a [[Deceive]] roll, you may as a [[Rules/
 When an [[Ally]] takes the [[Attack]] action and [[Strike|Strikes]] with a [[Ranged]] [[Weapons|Weapon]] against a target in this Aura, they ignore cover.
 When an [[Ally]] in this Aura performs a [[Society]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Society]].
 
+%%
 ## Level 5
 
 **Arrow Crest:**
@@ -244,10 +245,52 @@ All [[Ally|Allies]] in this Aura have +1 [[Willpower]].
 
 **Void Crest:**
 *Requirement: Commander Level 10*
-
+%%
 # Tactics
 
-All the Commander's tactics target a 3x3 Square within [[Seek]]. 
+All the Commander's tactics target a 4x4 Square within [[Seek]]. This becomes 5x5 and 6x6 at levels 6 and 10 respectively.
+
+
+|               | Take Ground                                                                                                                                                                                                                                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Move]]                                                                                                                                                                                                                                                                                                                                            |
+| **Target:**   | Tactics Square in [[Seek]]                                                                                                                                                                                                                                                                                                                                          |
+| **Duration:** |                                                                                                                                                                                                                                                                                                                                                                     |
+| **Action:**   | Each [[Rules/Characters/index\|Character]] of your choice can move up the [[Speed]] of the fastest character selected.<br>The group must move together as closely as possible to maintaining their formation in the area.<br><br>Any other [[Rules/Characters/index\|Character]] that is in the way of the movement suffers [[Push]] 1 with no [[Piercing]] damage. |
+| **Tags:**     | [[Charge]] [[Rules/Actions/index\|Action]] [[Move]]                                                                                                                                                                                                                                                                                                                 |
+
+|               | Target                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Mark]]: 4                                                                                                                                                                                                                                                                                                                                                           |
+| **Target:**   | Tactics Square in [[Seek]]                                                                                                                                                                                                                                                                                                                                                            |
+| **Duration:** | 1 Round                                                                                                                                                                                                                                                                                                                                                                               |
+| **Action:**   | Apply [[Marked]] to any number of [[Rules/Characters/index\|Characters]] of your choice in the area.<br>Clear [[Marked]] from any number of [[Rules/Characters/index\|Characters]] of your choice in the area.<br>When a [[Rules/Characters/index\|Character]] in the area consumes [[Mark]] on another [[Rules/Characters/index\|Character]] in the area, you may reapply [[Marked]] |
+| **Tags:**     | [[Charge]] [[Rules/Actions/index\|Action]] [[Mark]]                                                                                                                                                                                                                                                                                                                                   |
+
+|               | Study                                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Scan]]: 4                                                                                                        |
+| **Target:**   | Tactics Square in [[Seek]]                                                                                                         |
+| **Duration:** |                                                                                                                                    |
+| **Action:**   | [[Scan]] each [[Rules/Characters/index\|Character]] of your choice in the area. <br>You must ask the same question of all of them. |
+| **Tags:**     | [[Charge]] [[Rules/Actions/index\|Action]] [[Mark]]                                                                                |
+
+|               | Clubbing                                                                                                                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Attack]]: 5                                                                                                                                                                                                                                                                           |
+| **Target:**   | Tactics Square in [[Seek]]                                                                                                                                                                                                                                                                              |
+| **Duration:** |                                                                                                                                                                                                                                                                                                         |
+| **Action:**   | Select one [[Rules/Characters/index\|Character]] in the area, each [[Rules/Characters/index\|Character]] of your choice in the area can make a [[Strike]] with a [[Melee]] [[Weapons\|Weapon]] against the target as a [[Rules/Actions/Tags/Reaction\|Reaction]] if they are in [[Melee\|Melee Range]]. |
+| **Tags:**     | [[Charge]] [[Rules/Actions/index\|Action]] [[Mark]]                                                                                                                                                                                                                                                     |
+
+
+|               | Defensive Manuevers                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Guard]]                                                                                                                                                                                                                                                                                                                                                                       |
+| **Target:**   | Tactics Square in [[Seek]]                                                                                                                                                                                                                                                                                                                                                                      |
+| **Duration:** |                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Action:**   | Each [[Rules/Characters/index\|Character]] of your choice in the area may take one of the following actions as a [[Rules/Actions/Tags/Reaction\|Reaction]]:<br>- [[Guard]]<br>- [[Inventory]] where they must take the Stow and Draw Items option<br>- [[Shift]]<br><br>When a [[Rules/Characters/index\|Character]] in the area makes a [[Strike]], you may choose to impose [[Disadvantage]]. |
+| **Tags:**     | [[Charge]] [[Rules/Actions/index\|Action]] [[Mark]]                                                                                                                                                                                                                                                                                                                                             |
 
 
 # Ideas

@@ -1,6 +1,6 @@
 # Paradigm
 
-|               | Dominance Paradigm                                                                                                |
+|               | Tyrant's Paradigm                                                                                                 |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  |                                                                                                                   |
 | **Momentum:** | When you assert yourself over another character or cause them to feel fear, respect, or awe; gain 1 [[Momentum]]. |
@@ -10,7 +10,7 @@
 
 |             | Invite Silence                                                                                                                                                                                                                          |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**  |                                                                                                                                                                                                                                         |
+| **Tempo:**  | [[Guard]]                                                                                                                                                                                                                               |
 | **Cost:**   | 1 [[Momentum]]                                                                                                                                                                                                                          |
 | **Target:** | 1 [[Rules/Characters/index\|Character]] in [[Seek]], Crowd?                                                                                                                                                                             |
 |             |                                                                                                                                                                                                                                         |

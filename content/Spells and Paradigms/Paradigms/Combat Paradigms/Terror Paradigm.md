@@ -44,15 +44,15 @@
 
 ## Incoming Demise
 
-|               | Incoming Demise                                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Tempo:**    | [[Charge]]: 1                                                                                                                  |
-| **Cost:**     | ? + [[Boost]]                                                                                                                  |
-|               |                                                                                                                                |
-| **Target:**   | [[Cone]] 2 + [[Boost]]                                                                                                         |
-| **Duration:** | This round.                                                                                                                    |
-| **Action:**   | All [[Rules/Characters/index\|Characters]] with [[Line of Sight]] to you know the target area.<br>Gain the [[#Demise]] action. |
-| **Tags:**     | [[Rules/Actions/index\|Action]], [[Charge]]                                                                                    |
+|               | Incoming Demise                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Attack]]                                                                                                                  |
+| **Cost:**     | ? + [[Boost]]                                                                                                                               |
+|               |                                                                                                                                             |
+| **Target:**   | [[Cone]] 2 + [[Boost]]                                                                                                                      |
+| **Duration:** | This round.                                                                                                                                 |
+| **Action:**   | If you are [[Push\|Pushed]] / [[Pull\|Pulled]] the targeted area moves with you.<br>If you are in the root square as the charge: [[Strike]] |
+| **Tags:**     | [[Rules/Actions/index\|Action]], [[Charge]]                                                                                                 |
 
 ### Demise
 

@@ -54,7 +54,7 @@ The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Po
 
 The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]] (Max 1 per item).
 The Tinker may spend 1 hour to apply a [[Companion#Traits|Companion Trait]] to a willing [[Construct]] (Max 1 per Construct).
-The Tinker may have a number of [[#Modifications]] equal to their [[Intelligence|INT]] + ( Tinker Level / 2 ) + ( [[TL]] / 5 ).
+The Tinker may have a number of [[#Modifications]] equal to their **[[Intelligence|INT]] + ( Tinker Level / 2 ) + ( [[TL]] / 5 )**.
 The Tinker must spend 1 minute every day on each item with a [[#Modifications|Modification]] to maintain it.
 
 If the Tinker crafts an [[Items/index|Item]], they can choose to add a [[#Modifications|Modification]] to it as part of the crafting, taking the longer duration of the two. 
