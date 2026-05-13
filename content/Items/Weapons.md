@@ -7,59 +7,30 @@ aliases:
 # Melee Weapons
 ## Table
 
-| Item Name             | Focus                                                                        |
-| --------------------- | ---------------------------------------------------------------------------- |
-|                       |                                                                              |
-| **[[#Dagger]]**       | 1: Apply a debuff<br>2: Increased crit chance                                |
-| Damage: Small         | [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Quick]] [[Grappling]]            |
-|                       |                                                                              |
-| **[[#Gauntlets]]**    | 1: Free Grapple<br>2: Dual Wielding +1 Strikes                               |
-| Damage: Small         | [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Quick]] [[Grappling]] [[Push]] 1 |
-|                       |                                                                              |
-| **[[#Sword]]**        | 1: Quick<br>2: Ignore [[Armour#Deflection\|Deflection]]?                     |
-| Damage: Medium        | [[Melee]] 1 [[One-Handed]]                                                   |
-|                       |                                                                              |
-| **[[#Axe]]**          | 1: Apply Pain on crit<br>2: Sweep Attack                                     |
-| Damage: Medium        | [[Melee]] 1 [[One-Handed]] [[Pull]] 1                                        |
-|                       |                                                                              |
-| **[[#Hammer]]**       | 1: Greater push<br>2: Knockback into objects does increased damage           |
-| Damage: Medium        | [[Melee]] 1 [[One-Handed]] [[Push]] 1                                        |
-|                       |                                                                              |
-| **[[#Spear]]**        | 1: Reaching attack<br>Set attack?<br>2: Line strike                          |
-| Damage: Medium        | [[Melee]] 2 [[Orthogonal]] [[One-Handed]]                                    |
-|                       |                                                                              |
-| **[[#Foil]]**         | 1: Parry<br>2: Riposte                                                       |
-| Damage: Medium        | [[Melee]] 1 [[One-Handed]] [[Quick]]                                         |
-|                       |                                                                              |
-|                       | Two-Handed Weapons                                                           |
-|                       |                                                                              |
-| **[[#Quarterstaff]]** | 1: Knock prone<br>2:                                                         |
-| Damage: Medium        | [[Melee]] 1 [[Two-Handed]]                                                   |
-|                       |                                                                              |
-| **Great-Sword**       | 1: Same as Sword<br>2: Same as Sword                                         |
-| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]] [[Slow]]                           |
-|                       |                                                                              |
-| **Great-Axe**         | 1: Same as Axe<br>2: Same as Axe                                             |
-| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]] [[Slow]] [[Pull]] 2                |
-|                       |                                                                              |
-| **Great-Hammer**      | 1: Same as Hammer<br>2: Same as Hammer                                       |
-| Damage: Large         | [[Melee]] [[Orthogonal]] 2 [[Two-Handed]] [[Slow]] [[Push]] 2                |
-|                       |                                                                              |
-| **Longspear**         | 1: Same as Spear<br>2: Same as Spear                                         |
-| Damage: Large         | [[Melee]] 2 [[Two-Handed]] [[Slow]]                                          |
-|                       |                                                                              |
-| **[[#Flail]]**        | 1: Push in any direction<br>2: Break Armour                                  |
-| Damage: Large         | [[Melee]] 1 [[Ranged]] 2 [[Two-Handed]] [[Push]] 1 [[Grappling]]             |
-|                       |                                                                              |
-| **Epee**              | 1: Same as Foil<br>2: Same as Foil                                           |
-| Damage: Large         | [[Melee]] 2 [[Orthogonal]] [[Two-Handed]]                                    |
-|                       |                                                                              |
+| Weapon                | Damage | Summary                                                                            |
+| --------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **[[#Dagger]]**       | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
+| **[[#Gauntlets]]**    | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
+| **[[#Sword]]**        | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
+| **[[#Axe]]**          | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
+| **[[#Hammer]]**       | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
+| **[[#Spear]]**        | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
+| **[[#Foil]]**         | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
+|                       |        |                                                                                    |
+| **[[#Quarterstaff]]** | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
+| **Great-Sword**       | Large  |                                                                                    |
+| **Great-Axe**         | Large  |                                                                                    |
+| **Great-Hammer**      | Large  |                                                                                    |
+| **Longspear**         | Large  |                                                                                    |
+| **[[#Flail]]**        | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
+| **Epee**              | Large  |                                                                                    |
+
 
 ## Stats
 
 ### Dagger
 **Damage**: Small
-**Weapon Focus 1**: On a [[Critical Strike]], apply one of [[Blind]], [[Dazed]], [[Restricted]], [[Numb]], [[Shocked]]
+**Weapon Focus 1**: On a [[Critical Strike]], apply a [[Melee#Called Shot|Called Shot]].
 **Weapon Focus 2**: This Weapon also [[Critical Strike|Crits]] on a [[Rules/Rolls/index#Nat|Nat]] 19
 **Tags**: [[Quick]], [[Melee]] 1 [[Orthogonal]], [[One-Handed]], [[Grappling]]
 
@@ -97,21 +68,21 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Damage**: Medium
 **Weapon Focus 1**: Gain the Parry Reaction
 
-|              | Parry                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| **Tempo:**   | 3                                                                                              |
-| **Trigger:** | You are [[Hit]] by a [[Strike]] from a target in your [[Melee\|Melee Range]]                   |
-| **Action:**  | [[Strike]] your attacker, on [[Hit]] you cause them to [[Miss]] instead of any normal effects. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                          |
+| Parry                                                                                          |
+| ---------------------------------------------------------------------------------------------- |
+| **Tempo:** 3                                                                                   |
+| **Trigger:** You are [[Hit]] by a [[Strike]] from a target in your [[Melee\|Melee Range]]      |
+| [[Strike]] your attacker, on [[Hit]] you cause them to [[Miss]] instead of any normal effects. |
+| [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                          |
 
 **Weapon Focus 2**: Gain the Riposte Reaction
 
-|              | Riposte                                                                               |
-| ------------ | ------------------------------------------------------------------------------------- |
-| **Tempo:**   | 3                                                                                     |
-| **Trigger:** | You are [[Miss\|Missed]] by a [[Strike]] from a target in your [[Melee\|Melee Range]] |
-| **Action:**  | [[Strike]] the triggerer.                                                             |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                 |
+| Riposte                                                                                            |
+| -------------------------------------------------------------------------------------------------- |
+| **Tempo:** 3                                                                                       |
+| **Trigger:** You are [[Miss\|Missed]] by a [[Strike]] from a target in your [[Melee\|Melee Range]] |
+| [[Strike]] the triggerer.                                                                          |
+| [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                              |
 
 **Tags**: [[Quick]], [[Melee]] 1, [[One-Handed]]
 
@@ -127,38 +98,24 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 2**: On a [[Critical Strike|Crit]] apply [[Corroded]], [[Prone]], [[Corrupted]]
 **Tags**: [[Melee]] 1 [[Ranged]] 2 [[Two-Handed]] [[Push]] 1 [[Grappling]]
 
+
+
 # Ranged Weapons
 ## Table
 
-| Item Name                | Focus                                                                                         |
-| ------------------------ | --------------------------------------------------------------------------------------------- |
-| **[[#Boomerang]]**       | **1:** Ricochet<br>**2:** Missed attacks can target another                                   |
-| Damage: Small            | [[Ranged]] x [[One-Handed]]                                                                   |
-|                          |                                                                                               |
-| **[[#Hook and Chain]]**  | **1:** Grappling Hook swing and pull self<br>**2:** Restrain                                  |
-| Damage: Small            | [[Melee]] 1 [[Ranged]] 5 [[One-Handed]] [[Pull]] 2 [[Orthogonal]]                             |
-|                          |                                                                                               |
-| **[[#Shortbow]]**        | **1:** Stealth Shot<br>**2:** Pop up and shoot then hide                                      |
-| Damage: Small            | [[Ranged]] x [[Two-Handed]] [[Quick]] [[Arcing]]                                              |
-|                          |                                                                                               |
-| **[[#Longbow]]**         | **1:** Height difference increases damage?<br>**2:** Even more accurate against [[Marked]].   |
-| Damage: Medium           | [[Ranged]] x [[Two-Handed]] [[Arcing]]                                                        |
-|                          |                                                                                               |
-| **[[#Crossbow]]**        | **1:** Melee<br>**2:** Armour Pierce                                                          |
-| Damage: Medium           | [[Ranged]] x [[Two-Handed]]                                                                   |
-|                          |                                                                                               |
-| **[[#Volley Crossbow]]** | **1:** Volley on reactions<br>**2:** Make terrain hazardous                                   |
-| Damage: Small            | [[Ranged]] x [[Circle]] 3 [[Arcing]] [[Two-Handed]] [[Reload]]                                |
-|                          |                                                                                               |
-| **[[#Pistol]]**          | **1:** Fire and swap out<br>**2:** Fire at the beginning.                                     |
-| Damage: Medium           | [[Ranged]] x [[One-Handed]] [[Quick]] [[Reload]]                                              |
-|                          |                                                                                               |
-| **[[#Rifle]]**           | **1:** Does something if outside enemies [[Seek]]?<br>**2:** Double range against [[Marked]]. |
-| Damage: Large            | [[Ranged]] x [[Two-Handed]] [[Reload]]                                                        |
-|                          |                                                                                               |
-| **[[#Hand-Cannon]]**     | **1:** [[Push]] 5<br>**2:** Splash Damage                                                     |
-| Damage: Large            | [[Ranged]] x [[Two-Handed]] [[Slow]] [[Reload]]                                               |
-|                          |                                                                                               |
+| Weapon                   | Damage | Summary                                                                                                                    |
+| ------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **[[#Boomerang]]**       | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
+| **[[#Hook and Chain]]**  | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
+| **[[#Shortbow]]**        | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
+| **[[#Longbow]]**         | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
+| **[[#Crossbow]]**        | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
+| **[[#Volley Crossbow]]** | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
+| **[[#Pistol]]**          | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
+| **[[#Rifle]]**           | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
+| **[[#Hand-Cannon]]**     | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
+
+
 ## Stats
 
 ### Boomerang
@@ -217,13 +174,16 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 # Magic Weapons
 
-| Item Name | Damage | Tags                                                    | Focus                                                     |
-| --------- | ------ | ------------------------------------------------------- | --------------------------------------------------------- |
-| Wand      |        | [[Focus]]<br>[[One-Handed]]<br>[[Ranged]]               | **1:** Faster?<br>**2:**                                  |
-| Tome      |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Get access to a spell you didn't bring?<br>**2:**  |
-| Staff     |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]               | **1:** Increased range? Extended Seek?<br>**2:**          |
-| Orb       |        | [[Focus]]<br>[[Two-Handed]]<br>[[Ranged]]<br>[[Reload]] | **1:** Concentrate a spell to be more effective<br>**2:** |
-| Censer    |        | [[Focus]]<br>[[Two-Handed]]<br>[[Melee]]                |                                                           |
+| Item Name | Damage | Summary                                                   |
+| --------- | ------ | --------------------------------------------------------- |
+| Wand      |        | **1:** Faster?<br>**2:**                                  |
+| Tome      |        | **1:** Get access to a spell you didn't bring?<br>**2:**  |
+| Staff     |        | **1:** Increased range? Extended Seek?<br>**2:**          |
+| Orb       |        | **1:** Concentrate a spell to be more effective<br>**2:** |
+| Censer    |        |                                                           |
+
+
+
 # Custom Weapons
 
 Many custom weapons exist across this rule set.
