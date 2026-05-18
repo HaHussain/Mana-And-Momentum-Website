@@ -8,7 +8,7 @@ aliases:
 ---
 Travel is the process of going to another [[Locations|Location]].
 
-Travel out into the wilds can occur as a hex-crawl or point-crawl while travel in urban centres can largely be skipped over unless there is potential danger.
+Travel out into the wilds can occur as a hex-crawl or point-crawl while travel in urban centres can largely be skipped over unless there is potential danger or new and interesting things to find.
 For smaller local maps, 1 hex represents a distance of 5 or 10km, where each hex is 1 or 2 hours of travel at standard walking speed respectively.
 For larger maps, 1 hex represents 40km, where each hex is 1 day of travel at standard speed by a starting [[Fortress]].
 

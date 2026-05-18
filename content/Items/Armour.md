@@ -3,6 +3,15 @@ icon: GiPlastron
 ---
 # Armours
 
+| Armour                      | Defences                                                                                | Weight Penalty                         | Summary |
+| --------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------- | ------- |
+| **[[#Hide Leather]]**       | **[[Defence]]**: 8 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]                           |                                        |         |
+| **[[#Brigandine Leather]]** | **[[Defence]]**: 9 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]<br>**[[Deflection]]:** 1  | **[[Speed]]** -1                       |         |
+| **[[#Chain Mail]]**         | **[[Defence]]**: 10 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]<br>**[[Sturdy]]:** 1     | **[[Orthogonal]]**                     |         |
+| **[[#Scale Mail]]**         | **[[Defence]]**: 12 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 2                      | **[[Speed]]** -1                       |         |
+| **[[#Titan Plate]]**        | **[[Defence]]**: 13 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | **[[Orthogonal]]**                     |         |
+| **[[#Juggernaut Plate]]**   | **[[Defence]]**: 15 + [[Level Bonus\|LB]]<br>**[[Deflection]]:** 2<br>**[[Sturdy]]:** 2 | **[[Speed]]** -1<br>**[[Orthogonal]]** |         |
+
 | Armour                      | Defenses                                                                                                                                   |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 |                             |                                                                                                                                            |
@@ -26,14 +35,14 @@ icon: GiPlastron
 |                             |                                                                                                                                            |
 
 ## Hide Leather
-[[Defence]]: 10 + [[Dexterity|DEX]] + [[Level Bonus]]
+[[Defence]]: 8 + [[Dexterity|DEX]] + [[Level Bonus]]
 [[Deflection]]: 0
 [[Sturdy]]: 0
 Armour Focus 1: You may move through squares occupied by non-allied [[Rules/Characters/index|Characters]] but cannot end your turn in them.
 Armour Focus 2: 
 
 ## Brigandine Leather
-[[Defence]]: 11 + [[Dexterity|DEX]] + [[Level Bonus]]
+[[Defence]]: 9 + [[Dexterity|DEX]] + [[Level Bonus]]
 [[Deflection]]: 1
 [[Sturdy]]: 0
 Weight Penalty: -1 [[Speed]]
@@ -41,7 +50,7 @@ Armour Focus 1:
 Armour Focus 2:
 
 ## Chain Mail
-[[Defence]]: 12 + [[Dexterity|DEX]] + [[Level Bonus]]
+[[Defence]]: 10 + [[Dexterity|DEX]] + [[Level Bonus]]
 [[Deflection]]: 0
 [[Sturdy]]: 1
 Weight Penalty: [[Orthogonal]]
@@ -49,7 +58,7 @@ Armour Focus 1:
 Armour Focus 2:
 
 ## Scale Mail
-[[Defence]]: 14 + [[Level Bonus]]
+[[Defence]]: 12 + [[Level Bonus]]
 [[Deflection]]: 2
 Weight Penalty: -1 [[Speed]]
 Tags: [[Heavy]]
@@ -57,7 +66,7 @@ Armour Focus 1:
 Armour Focus 2:
 
 ## Titan Plate
-[[Defence]]: 15 + [[Level Bonus]]
+[[Defence]]: 13 + [[Level Bonus]]
 [[Deflection]]: 1
 [[Sturdy]]: 1
 Weight Penalty: [[Orthogonal]]
@@ -66,7 +75,7 @@ Armour Focus 1:
 Armour Focus 2:
 
 ## Juggernaut Plate
-[[Defence]]: 17 + [[Level Bonus]]
+[[Defence]]: 15 + [[Level Bonus]]
 [[Deflection]]: 2
 [[Sturdy]]: 2
 Weight Penalty: -1 [[Speed]], [[Orthogonal]]
