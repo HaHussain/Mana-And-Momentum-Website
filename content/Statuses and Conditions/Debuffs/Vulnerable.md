@@ -8,4 +8,5 @@ When a [[Rules/Characters/index|Character]] with this debuff is targeted by the 
 - [[Strike]]: Double the damage this character takes.
 - [[Statuses and Conditions/index|Debuffed]]: Apply 2 more debuffs from the same list (or the [[GM]] decides if the list is exhausted).
 
+[[Overwhelmed]]: Flee or Surrender
 [[Mood]]: Vulnerable, Sensitive, Open

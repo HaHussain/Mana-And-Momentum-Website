@@ -10,6 +10,7 @@ Scouting points can be spent to:
 
 - 1 point to find Shelter in the area.
 Scouting helps discover the interesting things around the party as they travel and stops the dangerous things from attacking the party as they travel.
+
 By default when you enter a hex, all adjacent hexes are revealed.
 %%Scouting gives the party the opportunity to discover things about the world and its culture as well as subplots. Monsters aim to make the outskirts feel populated with living breathing beasts, many of which are dangerous.
 In general when the party sets out on a journey, you can decide is this a moment for attrition or tension.

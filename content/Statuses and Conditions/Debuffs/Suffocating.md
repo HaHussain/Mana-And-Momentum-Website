@@ -5,4 +5,5 @@ tags:
 ---
 This Character cannot speak or cast [[Magic]].
 
+[[Overwhelmed]]: Fight or Flee
 [[Mood]]: Suffocating, panicking, choking
