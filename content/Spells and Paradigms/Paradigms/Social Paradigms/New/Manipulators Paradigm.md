@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                          | Manipulator's Paradigm                                                                                              |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                             | You become immune to any spells or techniques to read your intentions or thoughts.                                  |
-| **Momentum:**                                                            | When you lie as an answer to a question, mislead due to a half-truth, or omit key information, gain a [[Momentum]]. |
-| [[Elemental Type\|Dark]] [[Elemental Type\|Air]] [[Social]] [[Paradigm]] | <                                                                                                                   |
+|                                                                          | Manipulator's Paradigm                                                                                                                        |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**                                                             | When you use [[Spells]] or [[Technique\|Techniques]], you do so in a way that is undetectable unless someone was specifically looking for it. |
+| **Momentum:**                                                            | When you lie as an answer to a question, mislead due to a half-truth, or omit key information, gain a [[Momentum]].                           |
+| [[Elemental Type\|Dark]] [[Elemental Type\|Air]] [[Social]] [[Paradigm]] | <                                                                                                                                             |
 
 # Techniques
 

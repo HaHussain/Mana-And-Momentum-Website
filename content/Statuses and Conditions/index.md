@@ -45,8 +45,6 @@ The following debuffs exist:
 ![[Condemned]]
 ### Corroded
 ![[Corroded]]
-### Corrupted
-![[Corrupted]]
 ### Dazed
 ![[Dazed]]
 ### Deaf

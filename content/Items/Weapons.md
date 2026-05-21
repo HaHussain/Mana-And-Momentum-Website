@@ -95,7 +95,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ## Flail
 **Damage**: Large
 **Weapon Focus 1**: Any [[Push]] from this weapon can move the target in any single direction.
-**Weapon Focus 2**: On a [[Critical Strike|Crit]] apply [[Corroded]], [[Prone]], [[Corrupted]]
+**Weapon Focus 2**: On a [[Critical Strike|Crit]] apply [[Corroded]], [[Prone]], [[Shocked]]
 **Tags**: [[Melee]] 1 [[Ranged]] 2 [[Two-Handed]] [[Push]] 1 [[Grappling]]
 
 

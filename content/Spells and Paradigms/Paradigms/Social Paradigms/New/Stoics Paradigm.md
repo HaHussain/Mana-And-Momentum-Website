@@ -2,7 +2,7 @@
 
 |               | Stoic's Paradigm                                                           |
 | ------------- | -------------------------------------------------------------------------- |
-| **Passive:**  |                                                                            |
+| **Passive:**  | You become immune to Poison, [[Pain]], and any compulsions.                |
 | **Momentum:** |                                                                            |
 | **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Earth]] [[Social]] [[Paradigm]] |
 
