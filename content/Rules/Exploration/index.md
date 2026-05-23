@@ -40,7 +40,7 @@ If the players do not use a [[Fortress]], they use the slowest player's speed an
 
 ## Paths
 
-When players take a route between two hexes that has a path, they cannot get lost and move at 2x Speed.
+When players take a route between two hexes that has a path, they cannot get lost and move at 1.5x [[Speed]] (filling in half the [[#Travel Clock]])
 
 
 ## Travel Clock

@@ -67,7 +67,7 @@ A [[Size]] 2 riding animal:
 
 
 ## Tracker
-The Pathfinder gains +1 [[Speed]] and can [[Climb]] up any surface that isn't perfectly smooth as if it was [[Uneasy]] [[Terrain]].
+The Pathfinder gains +1 [[Speed]] and when you roll a [[Traverse]] roll to climb, any [[Rules/Rolls/index#Dice Value|roll]] on a d20 less than a 10 is considered to be a 10.
 
 When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
 When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.

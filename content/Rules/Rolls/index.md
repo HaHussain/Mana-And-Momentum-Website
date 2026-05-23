@@ -18,7 +18,11 @@ Crafting, Combat, Exploration, Social, and Luck.
 # Roll Parts
 A roll consists of two parts that are added together, the Dice Value and the Flat Value.
 
+## Dice Value
+
 The Dice Value is the sum of all numbers rolled on the dice. (Also handling any taking highest / lowest, explosions, etc.)
+
+## Flat Value
 
 The Flat Value is the static number added to the Dice Value.
 
