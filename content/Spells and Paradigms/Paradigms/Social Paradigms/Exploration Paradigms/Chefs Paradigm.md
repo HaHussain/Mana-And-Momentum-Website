@@ -1,10 +1,11 @@
 # Paradigm
 
-|                                                                                                        | Chef's Paradigm                                                            |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| **Passive:**                                                                                           |                                                                            |
-| **Momentum:**                                                                                          | When you gather ingredients, make food, or eat a meal, gain a [[Momentum]] |
-| [[Elemental Type\|Earth]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                          |
+|                                                                                                        | Chef's Paradigm                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**                                                                                           | You know the details of every ingredient in any food or drink in your [[Seek]] and any [[Consumables#Alchemy\|Alchemicals]] you put in your meals are twice as effective.<br>When you [[Foraging\|Forage]] or [[Item Points#Restock\|Restock]], you discover ingredients to create ([[Level Bonus\|LB]] - 1) [[Item Points]] worth of [[Consumables#Alchemy\|Alchemicals]]. |
+| **Momentum:**                                                                                          | When you gather ingredients, make food, or eat a meal, gain a [[Momentum]]                                                                                                                                                                                                                                                                                                  |
+| [[Elemental Type\|Earth]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                                                                                                                                                                                           |
+
 
 # Techniques
 
