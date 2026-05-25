@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                                                       | Render's Paradigm                                                                            |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Passive:**                                                                                          |                                                                                              |
-| **Momentum:**                                                                                         | When you spot a small relevant detail or discover something [[Hidden]], gain a [[Momentum]]. |
-| [[Elemental Type\|Fire]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                            |
+|                                                                                                       | Render's Paradigm |
+| ----------------------------------------------------------------------------------------------------- | ----------------- |
+| **Passive:**                                                                                          |                   |
+| **Momentum:**                                                                                         |                   |
+| [[Elemental Type\|Fire]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                 |
 
 # Techniques
 

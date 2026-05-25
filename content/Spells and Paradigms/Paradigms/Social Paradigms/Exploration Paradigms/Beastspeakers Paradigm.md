@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                                                      | Beastspeaker's Paradigm                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                                                         | You may speak to natural beasts and animals. <br>They do not understand nuance but the general feeling of your words.<br>By default they are willing to help, more so than to the average person. |
-| **Momentum:**                                                                                        | When an animal completes a task you have given, gain 2 [[Momentum]].                                                                                                                              |
-| [[Elemental Type\|Air]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                 |
+|                                                                                                      | Beastspeaker's Paradigm                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**                                                                                         | You may speak to natural beasts and animals. <br>They do not understand nuance but the general feeling of your words.<br>By default they are willing to help you, more than they would the average person. |
+| **Momentum:**                                                                                        | When an animal completes a task you have given, gain 2 [[Momentum]].                                                                                                                                       |
+| [[Elemental Type\|Air]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                          |
 
 # Techniques
 
