@@ -9,6 +9,7 @@ Scouting points can be spent to:
 - 1 to know exact location, intensity, and number of individuals of danger that the [[Rules/Exploration/index#Danger Clock|Danger Clock]] represents.
 
 - 1 point to find Shelter in the area.
+
 Scouting helps discover the interesting things around the party as they travel and stops the dangerous things from attacking the party as they travel.
 
 By default when you enter a hex, all adjacent hexes are revealed.

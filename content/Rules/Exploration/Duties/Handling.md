@@ -1,7 +1,7 @@
 ---
 icon: GiHorseHead
 ---
-Handling is an [[Instinct|INS]] : [[Arcana]] / [[Nature]] / [[Society]] / [[Tech]] roll (depending on steeds), for every 5 above 10, you gain 1 Handling points that must be used within that travel time period. 
+Handling is an [[Instinct|INS]] : [[Arcana]] / [[Nature]] / [[Society]] / [[Tech]] roll (depending on steeds), for every 5 above 10, you gain 1 Handling point that must be used within that travel time period. 
 Handling points can be spent to:
 - Increase the [[Rules/Exploration/index#Travel Clock|Travel Clock]] by 1 per point.
 - Reduce the [[Rules/Exploration/index#Danger Clock|Danger Clock]] by 1 per point.
