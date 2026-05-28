@@ -8,6 +8,7 @@
 |                                                                                                                                                                                             |        <         |
 |                                                                                      **Special Rules**                                                                                      |        <         |
 |                                                It costs twice as many [[Foraging]] Points to feed each [[Rules/Characters/index\|Character]]                                                |        <         |
+|                                                                                                                                                                                             |        <         |
 |                                                                              **Unique Feature:** Mirage Arcana                                                                              |        <         |
 | Confuse your enemies to think that you or they are heading in another direction.<br>Your [[Rules/Exploration/index#Danger Clock\|Danger Clock]] increases by half during this travel period |        <         |
 |                                                                                                                                                                                             |        <         |
@@ -16,16 +17,16 @@
 
 ---
 
-| d8     | **Weather** | [[Terrain]]       | Encounters     |
-| ------ | :---------: | ----------------- | -------------- |
-| **1:** |  Heatwave   | [[#Quicksand]]    | [[#Marauders]] |
-| **2:** |  Heatwave   | [[#Cactus Field]] |                |
-| **3:** |  Heatwave   | [[#Ruins]]        |                |
-| **4:** |  Heatwave   | [[#Emberleaf]]    |                |
-| **5:** |    Sunny    | [[#Warren]]       |                |
-| **6:** |    Sunny    | [[#Glass Trees]]  |                |
-| **7:** |    Windy    | [[#Glass Sand]]   |                |
-| **8:** |   Tornado   | [[#Iron Spires]]  | [[#Sandworm]]  |
+| d8 | **Weather** | [[Terrain]] | Encounters |
+| --- |:---:|:---:| --- |
+| **1:** | Heatwave | [[#Quicksand]] | [[#Marauders]] |
+| **2:** | Heatwave | [[#Cactus Field]] |  |
+| **3:** | Heatwave | [[#Ruins]] |  |
+| **4:** | Heatwave | [[#Emberleaf]] |  |
+| **5:** | Sunny | [[#Warren]] |  |
+| **6:** | Sunny | [[#Glass Trees]] |  |
+| **7:** | Windy | [[#Glass Sand]] |  |
+| **8:** | Tornado | [[#Iron Spires]] | [[#Sandworm]] |
 # Encounters
 
 ## Marauders
