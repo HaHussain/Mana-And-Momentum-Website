@@ -70,7 +70,7 @@ async function joinScripts(scripts: string[]): Promise<string> {
 
   // minify with esbuild
   const res = await transpile(script, {
-    minify: true,
+    minify: false,
   })
 
   return res.code
@@ -292,7 +292,7 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         content: transform({
           filename: "index.css",
           code: Buffer.from(stylesheet),
-          minify: true,
+          minify: false,
           targets: {
             safari: (15 << 16) | (6 << 8), // 15.6
             ios_saf: (15 << 16) | (6 << 8), // 15.6
