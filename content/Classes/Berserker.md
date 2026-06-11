@@ -72,7 +72,7 @@ The Berserker can choose to take [[Piercing]] damage equal to their [[Level Bonu
 
 
 When the Berserker [[Exert|Exerts]] they can also choose the following option:
-- Exert during your turn: Your [[Strength|STR]] is considered twice its value and you are considered one [[Size]] larger for anything [[Strength]] related this turn.
+- Exert during your turn: Your [[Strength|STR]] is considered twice its value.
 
 
 ## Excessive

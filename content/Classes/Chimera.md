@@ -21,6 +21,10 @@ Chimera is about partial and full animal transformations and communication with 
 # Health
 When you gain Level in Chimera, you gain +2 [[Health Points|Max HP]].
 
+# Spellcasting
+You start with +1 [[Spells and Paradigms/Spells/index|Max Mana]]
+When you gain a Level in Chimera, you learn 1 spell from a spell tier you have access to.
+
 # Custom Trigger
 Choose 1 of:
 - When the Chimera 
@@ -30,7 +34,13 @@ Choose 1 of:
 
 # Abilities
 
-Immediately when combat starts and on every round the Chimera may take a [[Free]]: [[Magic]] action to cast a [[Transformation]] spell in a spell school that they have all lower level spells active.
+## Beast of Fangs
+The Chimera is understood by and understands [[Beast|Beasts]], though they are not any more willing to help the Chimera than normal.
+
+When the Chimera spends [[Momentum]] greater or equal to than the amount of [[Spells and Paradigms/Spells/index|Mana]] that they have committed, they gain 1 [[Temporary Mana]]. 
+The Chimera can then take a [[Free]]: [[Magic]] action this round to cast a [[Transformation]] spell in a spell school that they have all the lower level spells active.
+
+
 
 # Class Focuses
 

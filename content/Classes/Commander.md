@@ -112,7 +112,7 @@ When an [[Ally]] in this Aura takes the [[Rest & Recover#Rest|Rest]] action, the
 When an [[Ally]] in this Aura performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
 
 **Butterfly Crest:**
-When an [[Ally]] in this Aura takes the [[Magic]] action, they gain 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]] to immediately use a [[Metamagic]] on that spell.
+When an [[Ally]] in this Aura takes the [[Magic]] action, they gain 1 [[Temporary Mana]] to immediately use a [[Metamagic]] on that spell.
 When an [[Ally]] in this Aura performs a [[Arcana]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Arcana]].
 
 **Cat Crest:**
@@ -140,7 +140,7 @@ When an [[Ally]] [[Scan|Scans]] a target in this Aura, they may [[Ask]] two ques
 When an [[Ally]] in this Aura performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
 
 **Parrot Crest:**
-When an [[Ally]] in this Aura takes the [[Shift]] action, they gain 1d4 [[Momentum]] or 1 [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]]
+When an [[Ally]] in this Aura takes the [[Shift]] action, they gain 1d4 [[Momentum]] or 1 [[Temporary Mana]]
 When an [[Ally]] in this Aura performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
 
 **Rat Crest:**
@@ -178,7 +178,7 @@ The Banner can be deployed with [[Range]] 5.
 
 **Geometric Crest:**
 *Requirement: Commander Level 5*
-When an [[Ally]] in this Aura gains 2+ [[Momentum]] in a turn or gains [[Spells and Paradigms/Spells/index#Temporary Mana|Temporary Mana]], you gain 1 [[Momentum]].
+When an [[Ally]] in this Aura gains 2+ [[Momentum]] in a turn or gains [[Temporary Mana]], you gain 1 [[Momentum]].
 
 **Hammer Crest:**
 An [[Ally]] in this Aura adds your [[Intelligence|INT]] / [[Instinct|INS]] to the damage of their [[Strike|Strikes]].

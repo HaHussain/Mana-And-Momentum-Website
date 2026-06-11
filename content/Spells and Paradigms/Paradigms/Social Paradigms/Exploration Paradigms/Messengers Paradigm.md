@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                                                      | Messenger's Paradigm                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                                                         | When you and your [[Ally\|Allies]], or a [[Fortress]] you're [[Navigating]] for; travel along a [[Rules/Exploration/index#Paths\|Path]] or road, you all move at twice the [[Speed]] instead. |
-| **Momentum:**                                                                                        |                                                                                                                                                                                               |
-| [[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                             |
+|                                                                                                      | Messenger's Paradigm                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**                                                                                         | Unless they are actively perceiving you, [[Rules/Characters/index\|Characters]] do not notice your presence nor any identifying features. |
+| **Momentum:**                                                                                        |                                                                                                                                           |
+| [[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                         |
 
 # Techniques
 

@@ -2,6 +2,7 @@
 title: Resting
 aliases:
   - Resting
+  - Rest
 ---
 Resting is the process of taking some time to sleep, take care of your wounds, and relax for a bit of time. This allows [[PC]]s to regain some of their spent resources.
 

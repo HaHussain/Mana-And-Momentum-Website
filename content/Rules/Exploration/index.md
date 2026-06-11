@@ -20,8 +20,8 @@ Not every [[#Travel Duties|Travel Duty]] needs to be filled, and any Character c
 
 ## Switching Between Hex Sizes
 
-When using hexes of 40km in size, you can zoom in on those hexes and converting them to 61 hexes (rotated) of 5km in size is a hex surrounded by 4 rings of hexes. (The 5th Centered Hexagon Number).
-This works perfectly for zooming into a city - Greater London is roughly 40km in size.
+When using hexes of 40km in size, you can zoom in on those hexes and converting them to 61 concentric hexes (rotated) of 5km in size.
+This is ideal for zooming into a city - Greater London is roughly 40km in size.
 Each of these smaller hexes can be zoomed in further to (roughly) 17 1km (not rotated) hexes.
 
 
@@ -29,9 +29,9 @@ Each of these smaller hexes can be zoomed in further to (roughly) 17 1km (not ro
 
 When beginning travel and at the start of each travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
 
-Fast - [[Exert]] daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
+Fast - [[Exert]] steeds daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
 Standard - 1x Speed, 2 ticks on the [[#Danger Clock]] per day
-Slow - 0.5x Speed, 1 tick on the [[#Danger Clock]] per day
+Slow - 0.5x Speed, 1 tick on the [[#Danger Clock]] per day, you may choose to hide your tracks for free
 
 The slower the players move, the more effect their [[#Travel Duties]] have, especially [[#Handling]] and [[#Foraging]].
 
@@ -40,17 +40,18 @@ If the players do not use a [[Fortress]], they use the slowest player's speed an
 
 ## Paths
 
-When players take a route between two hexes that has a path, they cannot get lost and move at 1.5x [[Speed]] (filling in half the [[#Travel Clock]])
+When players take a route between two hexes that has a path, they cannot get lost, they move at 1.5x [[Speed]].
+(Filling in a number of ticks on the [[#Travel Clock]] equal to [[Speed]] at Standard pace, or twice that at Fast pace, or half that (rounded down) at Slow pace).
 
 
 ## Travel Clock
 The Travel Clock is an 8-[[Clock]] that tracks extra travel on a large map that doesn't fit neatly into 1 hex of travel.
-Each clock tick represent 5km of movement.
+Each clock tick represent 5km of movement on a large map.
 
 The Travel Clock is wiped when the players reach a [[Locations|Location]], and can be used to represent the time of day they got there at.
 
 ### Travelling Extra
-Every 4 (8m) [[Speed]] (Rounded Down), the [[Fortress]] travels 1 hex - 5km per hour on a small map, or 40km per day on a large map. 
+Every 4 [[Speed]] (Rounded Down), the [[Fortress]] travels 1 hex - 5km per hour on a small map, or 40km per day on a large map. 
 Every 1 extra [[Speed]], the [[Fortress]] travels 2 ticks on the [[#Travel Clock]] per day on a large map.
 %% 7m/10s (SPEED)  * 2 (2 actions per turn) * 3.6 (m/s to km/h) = 5.04km/h %%
 
