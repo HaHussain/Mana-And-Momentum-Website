@@ -3,16 +3,31 @@
 |                                                                                                      | Messenger's Paradigm                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**                                                                                         | Unless they are actively perceiving you, [[Rules/Characters/index\|Characters]] do not notice your presence nor any identifying features. |
-| **Momentum:**                                                                                        |                                                                                                                                           |
+| **Momentum:**                                                                                        | When you courier information or cargo from a person or place to another person or place, gain 1 [[Momentum]]                              |
 | [[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                         |
 
 # Techniques
 
-|                                 | <         |
-| ------------------------------- | --------- |
-| **Tempo:**                      | **Cost:** |
-| **Target:**                     | <         |
-| **Duration:**                   | <         |
-|                                 | <         |
-| **Action:**                     | <         |
-| [[Rules/Actions/index\|Action]] | <         |
+## Fast Travel
+
+| Fast Travel                                                                                                                                    | <                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Tempo:** [[Move]]                                                                                                                            | **Cost:** 1 + [[Boost]] |
+| **Target:** Self or [[Fortress]]                                                                                                               | <                       |
+| **Duration:** Until you or the [[Fortress]] stop taking the [[Move]] action each round                                                         | <                       |
+|                                                                                                                                                | <                       |
+| While you follow a [[Rules/Exploration/index#Paths\|Path]] or Road, double your [[Speed]] until you stop moving (Instead of 1.5x from a Path). | <                       |
+| [[Rules/Actions/index\|Action]]                                                                                                                | <                       |
+
+
+## Mimicry
+
+| Mimicry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | <                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Tempo:** [[Scan]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Cost:** 1 + [[Boost]] |
+| **Target:** Self                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | <                       |
+| **Duration:** Instant                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | <                       |
+| You perfectly mimic the voice or handwriting of a [[Rules/Characters/index\|Character]] you have spent time studying.<br>Speech: You must have heard the [[Rules/Characters/index\|Character]] speak for a long duration <br>&emsp;You can mimic the character's voice, phrases, cadence, and quirks.<br><br>Handwriting: You must have a sample of the [[Rules/Characters/index\|Characters]] handwriting<br>&emsp;You can mimic the character's handwriting, calligraphy and phrasing. | <                       |
+| [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                                                          | <                       |
+
