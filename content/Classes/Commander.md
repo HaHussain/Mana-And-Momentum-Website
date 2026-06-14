@@ -38,7 +38,7 @@ When you gain Level in Commander, you gain +2 [[Health Points|Max HP]].
 Choose 1 of:
 - When the Commander creates a plan or tactic, they gain 1d4 [[Momentum]] when they begin executing that plan.
 - When the Commander leads a group of non-players, they gain 1d4 [[Momentum]].
-- When the Commander , they gain 1d4 [[Momentum]].
+- When the Commander represents and stands up for a group, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] 
