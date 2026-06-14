@@ -1,0 +1,1 @@
+A middling day, coming rain, or future sun?
