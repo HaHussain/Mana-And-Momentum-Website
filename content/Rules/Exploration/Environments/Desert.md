@@ -1,18 +1,20 @@
 
-|                                                                                                                                                                                             |        <         |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
-|                                                                                     **[[Navigating]]**                                                                                      | **[[Scouting]]** |
-|                                                                                             -1                                                                                              |        +1        |
-|                                                                                      **[[Foraging]]**                                                                                       | **[[Handling]]** |
-|                                                                                             -2                                                                                              |        0         |
-|                                                                                                                                                                                             |        <         |
-|                                                                                      **Special Rules**                                                                                      |        <         |
-|                                                It costs twice as many [[Foraging]] Points to feed each [[Rules/Characters/index\|Character]]                                                |        <         |
-|                                                                                                                                                                                             |        <         |
-|                                                                              **Unique Feature:** Mirage Arcana                                                                              |        <         |
-| Confuse your enemies to think that you or they are heading in another direction.<br>Your [[Rules/Exploration/index#Danger Clock\|Danger Clock]] increases by half during this travel period |        <         |
-|                                                                                                                                                                                             |        <         |
-|                                                    **Tags:** [[Elemental Type\|Fire]] [[Elemental Type\|Light]] [[Elemental Type\|Air]]                                                     |        <         |
+|                                                                  Desert                                                                  |        <         |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+|                                                            **[[Navigating]]**                                                            | **[[Scouting]]** |
+|                                                                    -1                                                                    |        +1        |
+|                                                             **[[Foraging]]**                                                             | **[[Handling]]** |
+|                                                                    -2                                                                    |        0         |
+|                                                                                                                                          |        <         |
+|                                                            **Special Rules**                                                             |        <         |
+| **Open Air**: [[Fly\|Flying]] [[Rules/Characters/index\|Characters]] have [[Advantage]] trying to [[Search\|spot]] targets on the ground |        <         |
+|              **Dehydration:** It costs twice as many [[Foraging]] Points to feed each [[Rules/Characters/index\|Character]]              |        <         |
+|                                     **Sand Terrain:** [[Uneasy]] unless you have [[Sand Adaptation]]                                     |        <         |
+|                                                                                                                                          |        <         |
+|                                                    **Unique Feature:** Mirage Arcana                                                     |        <         |
+|        Confuse your enemies to think that you or they are heading in another direction.<br>They lose your trail and become Lost.         |        <         |
+|                                                                                                                                          |        <         |
+|                           **Tags:** [[Elemental Type\|Fire]] [[Elemental Type\|Light]] [[Elemental Type\|Air]]                           |        <         |
 
 
 ---

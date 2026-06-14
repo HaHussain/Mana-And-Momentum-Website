@@ -29,7 +29,7 @@ Each of these smaller hexes can be zoomed in further to (roughly) 17 1km (not ro
 
 When beginning travel and at the start of each travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
 
-Fast - [[Exert]] steeds daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
+Fast - [[Exert]] daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
 Standard - 1x Speed, 2 ticks on the [[#Danger Clock]] per day
 Slow - 0.5x Speed, 1 tick on the [[#Danger Clock]] per day, you may choose to hide your tracks for free
 

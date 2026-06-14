@@ -2,6 +2,7 @@
 icon: RiStarFill
 aliases:
   - Exerts
+  - Exertion
 ---
 [[PC]]s can choose to Exert themselves to provide themselves more power at a cost.
 

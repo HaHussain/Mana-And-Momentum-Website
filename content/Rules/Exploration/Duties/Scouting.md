@@ -5,9 +5,7 @@ Scouting is an [[Awareness|AWR]] : [[Search]] roll, for every 5 above 10, you ga
 Scouting points can be spent to:
 - 1 point to scout deeper into this hex.
 - x points to reveal a hex [[Range]] x away. (Repeatable)
-
 - 1 to know exact location, intensity, and number of individuals of danger that the [[Rules/Exploration/index#Danger Clock|Danger Clock]] represents.
-
 - 1 point to find Shelter in the area.
 
 Scouting helps discover the interesting things around the party as they travel and stops the dangerous things from attacking the party as they travel.
