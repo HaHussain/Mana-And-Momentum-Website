@@ -1,18 +1,18 @@
 
-|                                                                                     Grassland                                                                                     |        <         |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
-|                                                                                **[[Navigating]]**                                                                                 | **[[Scouting]]** |
-|                                                                                         0                                                                                         |        +1        |
-|                                                                                 **[[Foraging]]**                                                                                  | **[[Handling]]** |
-|                                                                                         0                                                                                         |        +2        |
-|                                                                                                                                                                                   |        <         |
-|                                                                                 **Special Rules**                                                                                 |        <         |
-|                     **Open Air**: [[Fly\|Flying]] [[Rules/Characters/index\|Characters]] have [[Advantage]] trying to [[Search\|spot]] targets on the ground                      |        <         |
-|                                                                                                                                                                                   |        <         |
-|                                                                        **Unique Feature:** Relaxing Plains                                                                        |        <         |
-| Lose your sense of time in the perpetual open fields.<br>All [[Ally\|Allies]] either remove 1 [[Statuses and Conditions/index\|Debuff]] or restore 1 [[Exert#Exertion\|Exertion]] |        <         |
-|                                                                                                                                                                                   |        <         |
-|                                               **Tags:** [[Elemental Type\|Water]] [[Elemental Type\|Air]] [[Elemental Type\|Light]]                                               |        <         |
+|                                                                             Grassland                                                                              |        <         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+|                                                                         **[[Navigating]]**                                                                         | **[[Scouting]]** |
+|                                                                                 0                                                                                  |        +1        |
+|                                                                          **[[Foraging]]**                                                                          | **[[Handling]]** |
+|                                                                                 0                                                                                  |        +2        |
+|                                                                                                                                                                    |        <         |
+|                                                                         **Special Rules**                                                                          |        <         |
+|              **Open Air**: [[Fly\|Flying]] [[Rules/Characters/index\|Characters]] have [[Advantage]] trying to [[Search\|spot]] targets on the ground              |        <         |
+|                                                                                                                                                                    |        <         |
+|                                                                **Unique Feature:** Relaxing Plains                                                                 |        <         |
+| Relax in the beautiful rolling fields.<br>All [[Ally\|Allies]] either remove 1 [[Statuses and Conditions/index\|Debuff]] or restore 1 [[Exert#Exertion\|Exertion]] |        <         |
+|                                                                                                                                                                    |        <         |
+|                                       **Tags:** [[Elemental Type\|Water]] [[Elemental Type\|Air]] [[Elemental Type\|Light]]                                        |        <         |
 
 
 ---

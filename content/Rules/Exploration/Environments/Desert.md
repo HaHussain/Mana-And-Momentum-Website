@@ -4,7 +4,7 @@
 |                                                            **[[Navigating]]**                                                            | **[[Scouting]]** |
 |                                                                    -1                                                                    |        +1        |
 |                                                             **[[Foraging]]**                                                             | **[[Handling]]** |
-|                                                                    -2                                                                    |        0         |
+|                                                                    -2                                                                    |        +1        |
 |                                                                                                                                          |        <         |
 |                                                            **Special Rules**                                                             |        <         |
 | **Open Air**: [[Fly\|Flying]] [[Rules/Characters/index\|Characters]] have [[Advantage]] trying to [[Search\|spot]] targets on the ground |        <         |
