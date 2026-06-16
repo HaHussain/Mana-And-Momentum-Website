@@ -43,7 +43,7 @@ aliases:
 ### Sword
 Damage: Medium
 Weapon Focus 1: [[Quick]].
-Weapon Focus 2: This weapon ignores [[Deflection]].
+Weapon Focus 2: [[Piercing]].
 Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
@@ -92,7 +92,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 2**: 
 **Tags**: 
 
-## Flail
+### Flail
 **Damage**: Large
 **Weapon Focus 1**: Any [[Push]] from this weapon can move the target in any single direction.
 **Weapon Focus 2**: On a [[Critical Strike|Crit]] apply [[Corroded]], [[Prone]], [[Shocked]]
@@ -103,17 +103,18 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Ranged Weapons
 ## Table
 
-| Weapon                   | Damage | Summary                                                                                                                    |
-| ------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **[[#Boomerang]]**       | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
-| **[[#Hook and Chain]]**  | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
-| **[[#Shortbow]]**        | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
-| **[[#Longbow]]**         | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
-| **[[#Crossbow]]**        | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
-| **[[#Volley Crossbow]]** | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
-| **[[#Pistol]]**          | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
-| **[[#Rifle]]**           | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
-| **[[#Hand-Cannon]]**     | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
+| Weapon                     | Damage | Summary                                                                                                                    |
+| -------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **[[#Boomerang]]**         | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
+| **[[#Hook and Chain]]**    | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
+| **[[#Shortbow]]**          | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
+| **[[#Longbow]]**           | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
+| **[[#Crossbow]]**          | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
+| **[[#Volley Crossbow]]**   | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
+| **[[#Repeater Crossbow]]** | Small  | A weak AoE ranged weapon that effects large number of enemies.<br>Focus: Apply poison and                                  |
+| **[[#Pistol]]**            | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
+| **[[#Rifle]]**             | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
+| **[[#Hand-Cannon]]**       | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
 
 
 ## Stats
@@ -153,6 +154,12 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 1**: [[Rules/Actions/Tags/Reaction|Reaction]] [[Strike|Strikes]] with this weapon don't require it to be Loaded / doesn't Unload it.
 **Weapon Focus 2**: [[Strike|Strikes]] with this weapon make the [[Terrain]] [[Hazardous]] 2 [[Elemental Type|Physical]].
 **Tags**: [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]
+
+### Repeater Crossbow
+**Damage**: Small
+**Weapon Focus 1**: When you take the [[Inventory]] action to [[Reload]] this weapon, you may also take the use [[Consumables|Consumable]] option to apply a Poison to this weapon as part of the same action.
+**Weapon Focus 2**: [[Push]] 1
+**Tags**: [[Ranged]], [[Line]] 8 / [[Cone]] 4, [[Two-Handed]], [[Reload]]
 
 ### Pistol
 **Damage**: Medium

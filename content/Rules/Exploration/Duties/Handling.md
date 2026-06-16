@@ -2,9 +2,21 @@
 icon: GiHorseHead
 ---
 Handling is an [[Instinct|INS]] : [[Arcana]] / [[Nature]] / [[Society]] / [[Tech]] roll (depending on steeds), for every 5 above 10, you gain 1 Handling point that must be used within that travel time period. 
+
+# Hex Crawl
+
 Handling points can be spent to:
-- Increase the [[Rules/Exploration/index#Travel Clock|Travel Clock]] by 1 per point for every 4 [[Speed]]. (Repeatable)
-- Reduce the [[Rules/Exploration/index#Danger Clock|Danger Clock]] by 1 per point and Hide your tracks. (Repeatable)
+- 1 Point to Increase the [[Rules/Exploration/index#Travel Clock|Travel Clock]] by 1 per point for every 4 [[Speed]]. (Repeatable)
+- 1 Point to Reduce the [[Rules/Exploration/index#Danger Clock|Danger Clock]] by 1 per point and Hide your tracks. (Repeatable)
+
+---
+
+# Point Crawl
+
+Handling points can spent to:
+- 2 Points to reduce the route length by 1/4.
+- 1 Point to Reduce the [[Rules/Exploration/index#Danger Clock|Danger Clock]] by 1 per point and Hide your tracks.
+
 %%Handling is the smaller scale process of actually moving, handling the [[Fortress]] and its animals.
 
 For a GM - Handling lets you throw combat encounters towards the players at their own pace, keeping the pressure on them but letting them handle it. If they focus on moving fast they may get attacked by monsters and be cockier, if they focus on moving stealthily, they rely on their forager more as their resources are drained.

@@ -3,7 +3,7 @@ icon: RaDiamonds
 aliases:
   - LB
 ---
-A [[Rules/Characters/index|Characters]] Level Bonus is based on their [[Level]] and is used as a bonus in various rolls.
+A [[Rules/Characters/index|Characters]] Level Bonus is based on their [[TL]] and is used as a bonus in various rolls.
 - It starts at +2
 - At Level 12 it becomes +3
 - At Level 21 it becomes +4
