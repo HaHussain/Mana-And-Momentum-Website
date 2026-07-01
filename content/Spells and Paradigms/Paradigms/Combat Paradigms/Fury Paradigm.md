@@ -20,6 +20,18 @@
 | **Tags:**   | [[Rules/Actions/index\|Action]] [[Move]]                                                                                                                   |
 
 
+## Bolt Toss
+
+|             | Bolt Toss                                                                                                                                                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**  | [[Strike]]                                                                                                                                                                                                                  |
+| **Cost:**   | 2 [[Momentum]] + [[Boost]]                                                                                                                                                                                                  |
+| **Target:** | 1 [[Size\|Same Size]] [[Object]] in [[Range]] 1<br>[[Ranged]] (1+[[Boost]]) * [[Strength\|STR]]                                                                                                                             |
+|             |                                                                                                                                                                                                                             |
+| **Action:** | Pick up a [[Size\|Same Size]] [[Object]] in [[Range]] 1 and throw it an a target in range.<br>Make a [[Ranged]] [[Strike]] using your [[Strength\|STR]] against a target, dealing ??? damage to both [[Object]] and target. |
+| **Tags:**   | [[Strike]]                                                                                                                                                                                                                  |
+
+
 ## No Escape
 
 |              | No Escape                                                                                                                                 |

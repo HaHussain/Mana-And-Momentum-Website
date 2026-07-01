@@ -63,7 +63,8 @@ If the Berserker used the target's fear, pick 2 options.
 
 ## Rage
 
-The Berserker can choose to take [[Piercing]] damage equal to their [[Level Bonus|LB]] to gain a benefit - and an additional benefit if they are [[Bloodied]] when they do so - when they perform one of the following:
+The Berserker can choose to use up their vitality when they take specific actions to empower them. If they are [[Bloodied]] when they do so, it is empowered even more.
+The Berserker can either take [[Piercing]] damage equal to their [[Level Bonus|LB]], or spend 1 [[Momentum]] (2 [[Momentum]] if [[Bloodied]]) to empower one of the following:
 - [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
 - [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
 - [[Guard]]: Gain [[Retaliate]] 2 [[Elemental Type|Physical]]. [[Bloodied]] Instead, Gain [[Retaliate]] (Missing [[Health Points|HP]] / 10) [[Elemental Type|Physical]].

@@ -13,11 +13,23 @@
 |             | Blood Storm                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tempo:**  | 3                                                                                                                                                                                                 |
-| **Cost:**   | 2 + [[Boost]]                                                                                                                                                                                     |
+| **Cost:**   | 1 + [[Boost]]                                                                                                                                                                                     |
 |             |                                                                                                                                                                                                   |
 | **Action:** | You may use [[Melee#Attack of Opportunity\|Attack of Opportunity]] any number of times this round.<br>When your [[Melee#Attack of Opportunity\|Attack of Opportunity]] triggers, you must use it. |
 | **Tags:**   |                                                                                                                                                                                                   |
 
+
+## Formation Breaker
+
+|               | Formation Breaker                                                                                                                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Charge]]: 1 - [[Attack]]                                                                                                                                                                      |
+| **Cost:**     | 2 + 2*[[Boost]]                                                                                                                                                                                 |
+|               |                                                                                                                                                                                                 |
+| **Target:**   | [[Cone]] 2 + [[Boost]]                                                                                                                                                                          |
+| **Duration:** | 1 round                                                                                                                                                                                         |
+| **Action:**   | If you are [[Push\|Pushed]] / [[Pull\|Pulled]] the targeted area moves with you.<br>If you are in the root square as the charge:<br><br>[[Strike]] each target and also [[Push]] 1d6 on [[Hit]] |
+| **Tags:**     | [[Rules/Actions/index\|Action]], [[Charge]]                                                                                                                                                     |
 
 ## Charge
 
@@ -42,24 +54,3 @@
 | **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                     |
 
 
-## Incoming Demise
-
-|               | Incoming Demise                                                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Charge]]: 1 - [[Attack]]                                                                                                                  |
-| **Cost:**     | ? + [[Boost]]                                                                                                                               |
-|               |                                                                                                                                             |
-| **Target:**   | [[Cone]] 2 + [[Boost]]                                                                                                                      |
-| **Duration:** | This round.                                                                                                                                 |
-| **Action:**   | If you are [[Push\|Pushed]] / [[Pull\|Pulled]] the targeted area moves with you.<br>If you are in the root square as the charge: [[Strike]] |
-| **Tags:**     | [[Rules/Actions/index\|Action]], [[Charge]]                                                                                                 |
-
-### Demise
-
-|             | Demise                                                                               |
-| ----------- | ------------------------------------------------------------------------------------ |
-| **Tempo:**  | [[Extra]]: [[Attack]]                                                                |
-|             |                                                                                      |
-| **Target:** | [[#Incoming Demise]]                                                                 |
-| **Action:** | If you are in the same square as when you performed [[#Incoming Demise]]: [[Strike]] |
-| **Tags:**   | [[Rules/Actions/index\|Action]], [[Strike]]                                          |
