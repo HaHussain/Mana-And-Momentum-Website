@@ -14,18 +14,18 @@ The Pathfinder is all about mobility and movement and scouting.
 Use your companion to help you do one of these things.
 **Social Strategy:** Track individuals wherever they go, listen into them on their conversations from a distance or from your [[Companion]].
 
-| Level | Class Abilities                   |
-| ----- | --------------------------------- |
-| 1     | [[#Animal Companion]]             |
-| 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     | [[#Marky]]                        |
-| 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     | [[#Scan buff]]                    |
-| 6     | [[#Class Focuses\|Class Focus]] 3 |
-| 7     | [[#Companion Buff]]               |
-| 8     | [[#Class Focuses\|Class Focus]] 4 |
-| 9     | [[#Speed Again?]]                 |
-| 10    | [[#Final]]                        |
+| Level | Class Abilities       |
+| ----- | --------------------- |
+| 1     | [[#Animal Companion]] |
+| 2     | [[#Tracker]]          |
+| 3     |                       |
+| 4     |                       |
+| 5     |                       |
+| 6     |                       |
+| 7     |                       |
+| 8     |                       |
+| 9     |                       |
+| 10    |                       |
 ## Quick Build
 
 **Weapons:** [[Weapons#Longbow|Longbow]] or [[Weapons#Rifle|Rifle]].
@@ -46,7 +46,6 @@ Choose 1 of:
 The [[Fortress]] gains +1 [[Speed]].
 
 # Abilities
-
 ## Animal Companion
 The Pathfinder gains a [[Beast]] [[Companion]], choose one of the three following companions:
 The Pathfinder's [[Companion]] gains 1 [[Animal Companion#Traits|Trait]].
@@ -66,13 +65,17 @@ A [[Size]] 2 riding animal:
 
 
 ## Tracker
-The Pathfinder gains +1 [[Speed]] and when you roll a [[Traverse]] roll to climb, any [[Rules/Rolls/index#Dice Value|roll]] on a d20 less than a 10 is considered to be a 10.
+The Pathfinder gains +1 [[Speed]] and when they roll a [[Traverse]] roll to climb, any [[Rules/Rolls/index#Dice Value|roll]] on a d20 less than a 10 is considered to be a 10.
 
 When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
-When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they have seen in the past hour.
+When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they, or their [[#Animal Companion|Companion]] has seen in the past hour.
 
 While [[Navigating]] the Pathfinder spends 1 less Navigation Point to not get lost, and 1 less point to create a [[Rules/Exploration/index#Paths|Path]].
 
+
+
+
+---
 ## Fighty
 The Pathfinder gains Weapon Focus 1 with 2 [[Ranged]] [[Weapons]] of their choice. 
 

@@ -13,18 +13,18 @@ Tinkers are technological minded, creating custom items and unlocking potential 
 **Combat Strategy:** Customise any item to support any play-style, then give them to your allies. Use [[Inventory]] actions to make [[Consumables]] on the fly.
 **Social Strategy:** 
 
-| Level | Abilities |
-| ----- | --------- |
-| 1     |           |
-| 2     |           |
-| 3     |           |
-| 4     |           |
-| 5     |           |
-| 6     |           |
-| 7     |           |
-| 8     |           |
-| 9     |           |
-| 10    |           |
+| Level | Abilities    |
+| ----- | ------------ |
+| 1     | [[#Crafter]] |
+| 2     | [[#Alter]]   |
+| 3     |              |
+| 4     |              |
+| 5     |              |
+| 6     |              |
+| 7     |              |
+| 8     |              |
+| 9     |              |
+| 10    |              |
 ## Quick Build
 
 **Weapons:** [[Weapons#Rifle|Rifle]] or 2 [[Weapons#Pistol|Pistols]]
@@ -45,7 +45,6 @@ Choose 1 of:
 The [[Fortress]] gains 
 
 # Abilities
-
 ## Crafter
 
 The Tinker may as an option when taking an [[Inventory]] action, choose to craft [[Items/index|Items]] and apply [[#Modifications]].
@@ -118,7 +117,7 @@ The Tinker may spend 10 minutes to apply one of the following [[#Modifications]]
 | Harden  |              | The [[Object]] gains +5 [[Deflection]].                                                                                     |
 
 
-
+---
 # Ideas
 
 Making items

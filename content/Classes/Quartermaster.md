@@ -13,18 +13,18 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Combat Strategy:** Use [[Inventory]] actions to throw [[Items/index|Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
 **Social Strategy:** Give gifts, bribe people, have a stash of equipment to collect info.
 
-| Level | Class Abilities          | Martial Abilities                                                                                                             |
-| ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Quick Toss]]          | [[#Custom Trigger]], [[Spells and Paradigms/Paradigms/index\|Combat Stance]], [[Spells and Paradigms/Paradigms/index\|Social Stance]] |
-| 2     | [[#Trader]]              |                                                                                                                               |
-| 3     | [[#Re-Stock]]            |                                                                                                                               |
-| 4     | [[#Class Focus]] 2       |                                                                                                                               |
-| 5     | [[#Experience]]          |                                                                                                                               |
-| 6     | [[#Class Focus]] 3       | [[Spells and Paradigms/Paradigms/index\|Combat Stance]]                                                                           |
-| 7     | [[#Eye for Value]]       |                                                                                                                               |
-| 8     | [[#Class Focus]] 4       |                                                                                                                               |
-| 9     | [[#Quantity of Quality]] |                                                                                                                               |
-| 10    | [[#Quick Access]]        |                                                                                                                               |
+| Level | Class Abilities | Martial Abilities |
+| ----- | --------------- | ----------------- |
+| 1     | [[#Quick Toss]] |                   |
+| 2     | [[#Trader]]     |                   |
+| 3     |                 |                   |
+| 4     |                 |                   |
+| 5     |                 |                   |
+| 6     |                 |                   |
+| 7     |                 |                   |
+| 8     |                 |                   |
+| 9     |                 |                   |
+| 10    |                 |                   |
 ## Quick Build
 
 **Weapons:** [[Weapons#Hammer|Hammer]] and [[Weapons#Crossbow|Crossbow]]
@@ -46,10 +46,9 @@ Choose 1 of:
 The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
 
 # Abilities
-
 ## Quick Toss
 
-When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1). 
+When the Quartermaster takes an [[Inventory]] action to draw an item, they may throw that item to a willing [[Rules/Characters/index|Character]] in [[Range]] [[Strength|STR]] (min 1), and they may spend 1 [[Momentum]] to let that character take a [[Templates/Reaction|Reaction]] based on the item type. 
 - If the Item is a [[Weapons|Weapon]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]] make a [[Strike]] with it.
 - If the Item is a [[Shields|Shield]], the Character can immediately stow any number of items and equip the tossed item, then as a [[Rules/Actions/Tags/Reaction|Reaction]], [[Guard]].
 - If the Item is an [[Armour]], the Character can immediately stow their armour and equip the tossed item as a [[Rules/Actions/Tags/Reaction|Reaction]].
@@ -61,7 +60,7 @@ When the Quartermaster links an unlinked settlement to a resource via a [[Rules/
 
 ## Trader
 
-The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to + **Quartermaster Level + ( [[TL]] / 3 )** and [[Item Points]] [[Weight|Weigh]]: 0.
+The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to **Quartermaster Level + ( [[TL]] / 3 )** and [[Item Points]] [[Weight|Weigh]]: 0.
 
 When the Quartermaster successfully completes a deal, they may gain one of the following benefits in addition:
 - Apply the [[Charmed]], [[Restricted]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
@@ -71,6 +70,9 @@ If the deal involves something that the target deeply wants, then gain two benef
 (Options may be chosen multiple times).
 
 
+
+
+---
 ## Barrier
 
 When the Quartermaster attempts to purchase an item, they can reduce the price by 10% initially or [[Exert]] to reduce the price by 25% if they refuse to haggle further.

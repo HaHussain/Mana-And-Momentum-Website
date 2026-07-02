@@ -13,18 +13,18 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Combat Strategy:** Run up to enemies and [[Attack]] them till they die. Or throw enemies and objects around.
 **Social Strategy:** Take risks. Get in people's faces, use your overwhelming physique to frighten them to fleeing or anger them into fighting you.
 
-| Level | Class Abilities                   |
-| ----- | --------------------------------- |
-| 1     | [[#All Consuming]]                |
-| 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     | [[#Strength beyond Strength]]     |
-| 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     | [[#Excessive]]                    |
-| 6     | [[#Class Focuses\|Class Focus]] 3 |
-| 7     | [[#Enduring]]                     |
-| 8     | [[#Class Focuses\|Class Focus]] 4 |
-| 9     | [[#Initiate Violence]]            |
-| 10    | [[#Violence]]                     |
+| Level | Class Abilities       | Martial Abilities                                                                                       |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------------------- |
+| 1     | [[#Bestial Instinct]] | [[Spells and Paradigms/Paradigms/Social Paradigms/New/index\|Social Paradigm]], [[Boost\|Max Boost]]: 2 |
+| 2     | [[#Rage]]             |                                                                                                         |
+| 3     |                       |                                                                                                         |
+| 4     |                       |                                                                                                         |
+| 5     |                       |                                                                                                         |
+| 6     |                       |                                                                                                         |
+| 7     |                       |                                                                                                         |
+| 8     |                       |                                                                                                         |
+| 9     |                       |                                                                                                         |
+| 10    |                       |                                                                                                         |
 ## Quick Build
 
 **Weapons:** [[Weapons#Greataxe|Greataxe]]
@@ -45,8 +45,6 @@ Choose 1 of:
 The [[Fortress]] gains +? [[Health Points|Max HP]].
 
 # Abilities
-
-
 ## Bestial Instinct
 
 While not wearing [[Armour]], the Berserkers is considered to be wearing [[Armour#Hide Leather|Hide Leather]].
@@ -76,6 +74,9 @@ When the Berserker [[Exert|Exerts]] they can also choose the following option:
 - Exert during your turn: Your [[Strength|STR]] is considered twice its value.
 
 
+
+
+---
 ## Excessive
 
 While the Berserker is [[Bloodied]]: 

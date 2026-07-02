@@ -12,18 +12,18 @@ Commander is a Support Martial that directs allies and controls what they do.
 **Mechanics:** [[Teamwork]], [[Seek]], [[Statuses and Conditions/index#Buffs|Buffs]]
 **Combat Strategy:** Use [[#Dictate Order]] to double up on powerful moves or techniques and get your allies out of dangerous situations.
 
-| Level | Ability |
-| ----- | ------- |
-| 1     |         |
-| 2     |         |
-| 3     |         |
-| 4     |         |
-| 5     |         |
-| 6     |         |
-| 7     |         |
-| 8     |         |
-| 9     |         |
-| 10    |         |
+| Level | Ability                       |
+| ----- | ----------------------------- |
+| 1     | [[#Banner Bearer]]            |
+| 2     | [[#Tactician and Strategist]] |
+| 3     |                               |
+| 4     |                               |
+| 5     |                               |
+| 6     |                               |
+| 7     |                               |
+| 8     |                               |
+| 9     |                               |
+| 10    |                               |
 ## Quick Build
 
 **Weapons:** [[Weapons#Longspear|Longspear]] and [[Weapons#Hook and Chain|Hook and Chain]] or [[Weapons#Hand Cannon|Hand Cannon]]
@@ -44,12 +44,11 @@ Choose 1 of:
 The [[Fortress]] 
 
 # Abilities
-
 ## Banner Bearer
 
 The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
-The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** abilities for their banner.
+The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** [[#Banner Crests|Crests]] for their banner.
 The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
 
 |            |                                                                                                                                                                                                                            |
@@ -57,24 +56,22 @@ The banner has an [[Aura]] while being planted that has a size equal the Command
 | **Banner** | Deploy the banner in an Empty space or an [[Ally\|Allies]] space in [[Range]] 1:<br>It is a [[Size]] 1/2 [[Object]]<br>\[[[Health Points\|5]], [[Defence\|5]]]<br><br>It has an [[Aura]] equal to the Commander's [[Seek]] |
 |            | [[One-Handed]] [[Deployable]]<br>[[Weight]]: 0 [[Item Points]]: 1                                                                                                                                                          |
 
-
-The Commander may choose to succeed on a [[Persuade]] or [[Coerce]] roll to induct an [[Overwhelmed]] [[Rules/Characters/index|Character]] as a subordinate as long as the character can be convinced. By default they have \[[[Strength\|0]], [[Dexterity\|0]], [[Fortitude\|0]], [[Awareness\|0]], [[Intelligence\|0]], [[Instinct\|0]]].
+%%The Commander may choose to succeed on a [[Persuade]] or [[Coerce]] roll to induct an [[Overwhelmed]] [[Rules/Characters/index|Character]] as a subordinate as long as the character can be convinced. By default they have \[[[Strength\|0]], [[Dexterity\|0]], [[Fortitude\|0]], [[Awareness\|0]], [[Intelligence\|0]], [[Instinct\|0]]].
 
 When the Commander directs a subordinate [[NPC]] [[Rules/Characters/index|Character]], that Character may use the Commander's [[Level Bonus|LB]] in the appropriate [[Rules/Characters/Skills/index|Skill]] on their first roll to complete that task.
-The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Characters/index|Characters]] with this benefit at any one time.
-
-
-
+The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Characters/index|Characters]] with this benefit at any one time.%%
 
 
 ## Tactician and Strategist
 
-The Commander learns a number of Tactics, which are specific [[Technique|Techniques]] without a [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
-The Commander knows 
-
-The Commander can also choose from these additional questions when taking the [[Scan]] action on the [[Terrain]]:
+The Commander learns a number of [[#Tactics]], which are specific [[Technique|Techniques]] without a [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
+The Commander knows **(Commander Level / 3) + ([[TL]] / 10)** Tactics that they can freely change during a [[Rules/Resting/index|Rest]].
 
 
+
+
+
+---
 
 
 ## Dictate Order

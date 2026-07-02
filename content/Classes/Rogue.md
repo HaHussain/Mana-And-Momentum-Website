@@ -48,7 +48,6 @@ The [[Fortress]]
 
 
 # Abilities
-
 ## Opportunity Hunter
 When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
@@ -70,6 +69,9 @@ When the Rogue first enters a [[Locations|Location]], the Rogue may [[Exert]] to
 - Secrets - An informant, spy, or leak
 
 
+
+
+---
 ## Sneaki Neaki
 You may attempt to [[Hide]] while in [[Line of Sight]] of [[Rules/Characters/index|Characters]] as long as you are outside of their [[Seek]].
 Roll a [[Dexterity]] [[Infiltrate]] check, for every 5 you exceed on a Stealth roll, you may ignore the [[Line of Sight]] of one of these [[Rules/Characters/index|Characters]].

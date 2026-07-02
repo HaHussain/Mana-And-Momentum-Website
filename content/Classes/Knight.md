@@ -13,18 +13,18 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 **Combat Strategy:** [[Guard]] any allies being [[Mark|Marked]] or out of position, Stand next to enemies to hit them with [[Melee#Attack of Opportunity|Attack of Opportunities]] to stop them from moving.
 **Social Strategy:** Build relationships and use your allies and favours to your advantage.
 
-| Level | Class Abilities                   |
-| ----- | --------------------------------- |
-| 1     | [[#Effort]]                       |
-| 2     | [[#Class Focuses\|Class Focus]] 1 |
-| 3     | [[#A]]                            |
-| 4     | [[#Class Focuses\|Class Focus]] 2 |
-| 5     | [[#B]]                            |
-| 6     | [[#Class Focuses\|Class Focus]] 3 |
-| 7     | [[#Focuses]]                      |
-| 8     | [[#Class Focuses\|Class Focus]] 4 |
-| 9     |                                   |
-| 10    | [[#Final]]                        |
+| Level | Class Abilities |
+| ----- | --------------- |
+| 1     | [[#Guardian]]   |
+| 2     | [[#Effort]]     |
+| 3     |                 |
+| 4     |                 |
+| 5     |                 |
+| 6     |                 |
+| 7     |                 |
+| 8     |                 |
+| 9     |                 |
+| 10    |                 |
 ## Quick Build
 
 **Weapons:** [[Weapons#Sword|Sword]] or [[Weapons#Greatsword|Greatsword]].
@@ -46,8 +46,6 @@ Choose 1 of:
 
 
 # Abilities
-
-
 ## Guardian
 
 The Knight can take two [[Rules/Actions/Tags/Reaction|Reactions]] per turn.
@@ -61,7 +59,6 @@ While the Knight is wearing [[Armour]], that Armour is also considered an [[Armo
 The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
 
 
-
 ## Effort
 The Knight gains a Weapon Focus 1 with 2 [[Weapons]] of their choice.
 
@@ -73,6 +70,8 @@ When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d
 
 
 
+
+---
 ## A
 The Knight gains Armour Focus 1 with an [[Armour]] of their choice.
 
@@ -132,7 +131,7 @@ When the Duelist hits a [[Rules/Characters/index|Character]] with an [[Melee#Att
 
 
 
-## Guardian
+## Guardian2
 
 The Knight gains Shield Focus 1 with a [[Shields|Shield]] of their choice and gains the following Reaction:
 
