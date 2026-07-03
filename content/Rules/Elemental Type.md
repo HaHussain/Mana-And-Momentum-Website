@@ -14,11 +14,11 @@ aliases:
 # Physical
 ## Fire
 ## Water
-### Ice
+
 ## Air
-### Lightning
+
 ## Earth
-### Acid
+
 # Mental
 ## Light
 ## Dark

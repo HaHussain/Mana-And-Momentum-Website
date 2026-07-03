@@ -48,7 +48,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
 **Damage**: Medium
-**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] equal to the [[Rules/Rolls/index#Roll Parts|Flat Value]].
+**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] 2.
 **Weapon Focus 2**: [[Strike|Strikes]] with this weapon target 3 contiguous squares.
 **Tags**: [[Melee]] 1, [[One-Handed]]
 
