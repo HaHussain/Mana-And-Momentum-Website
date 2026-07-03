@@ -6,6 +6,7 @@
 | **Momentum:**                                                                                       | When you set up a mechanism, contraption, or a trap, gain 1 [[Momentum]]                                                                                                                              |
 | [[Elemental Type\|Fire]] [[Elemental Type\|Air]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                     |
 
+
 # Techniques
 
 ## Rope Trick
@@ -18,6 +19,7 @@
 |                                                                                                                                                | <                       |
 | If 1 Minute: Give all targets [[Climb]] or [[Swim]] while they are [[Move\|Moving]] towards you.<br>If 1 Hour: Give the [[Fortress]] [[Swim]]. | <                       |
 | [[Rules/Actions/index\|Action]]                                                                                                                | <                       |
+
 
 
 ## Ambush Zone

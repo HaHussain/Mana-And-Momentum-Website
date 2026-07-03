@@ -2,9 +2,10 @@
 
 |                                                                                                       | Augur's Paradigm                                                                                                      |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                                                          | You cannot get lost and are immune to the negative effects of normal weather.                                         |
+| **Passive:**                                                                                          | You cannot get lost while [[Navigating]] and you are immune to the negative effects of normal weather.                |
 | **Momentum:**                                                                                         | Each time you study the stars or weather with a tool, gain 1 [[Momentum]], if with a observatory, gain 2 [[Momentum]] |
 | [[Elemental Type\|Light]] [[Elemental Type\|Dark]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                     |
+
 
 # Techniques
 
@@ -17,6 +18,7 @@
 |                                                                                                                                                                                                      | <                       |
 | You understand the flow of wind and moisture.<br>You detect all [[Invisible]] or [[Hidden]] targets in your [[Seek]].<br>You detect the Environment type of all Hexes within (1 + [[Boost]]) * 40km. | <                       |
 | [[Rules/Actions/index\|Action]]                                                                                                                                                                      | <                       |
+
 
 
 ## Predict Weather

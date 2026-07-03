@@ -6,6 +6,7 @@
 | **Momentum:**                                                                                         | When you create a new way or path, or travel on that most others cannot, gain 1 [[Momentum]].                                                                                                |
 | [[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                            |
 
+
 # Techniques
 
 ## Stature
@@ -18,6 +19,7 @@
 |                                                                                                                                                                                                                         | <                       |
 | Attempt to break open an [[Object]] and count as 1 [[Size]] larger.<br>Or attempt to slip through an opening and count as 1 [[Size]] smaller.<br><br>[[Boost]] 3: Count as 2 [[Size\|Sizes]] larger or smaller instead. | <                       |
 | [[Rules/Actions/index\|Action]]                                                                                                                                                                                         | <                       |
+
 
 
 ## Mine

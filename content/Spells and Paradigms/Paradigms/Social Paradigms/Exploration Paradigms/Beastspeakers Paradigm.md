@@ -6,6 +6,7 @@
 | **Momentum:**                                                                                        | When an animal completes a task you have given, gain 2 [[Momentum]].                                                                                                                                       |
 | [[Elemental Type\|Air]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                          |
 
+
 # Techniques
 
 ## Falcon Party
@@ -44,6 +45,7 @@
 |                                                                                                                                                                                                                           | <                                                                   |
 | You collect a small hunting pack of predators around you.<br>Summon a [[Mob]] of 1 + [[Boost]] [[Wolf\|Wolves]].<br>You may send them out to [[Foraging\|Forage]] a number of meals equal to the number in their [[Mob]]. | <                                                                   |
 | [[Elemental Type\|Earth]] [[Elemental Type\|Fire]] [[Rules/Actions/index\|Action]]                                                                                                                                        | <                                                                   |
+
 
 
 ## Beast of Burden

@@ -6,6 +6,7 @@
 | **Momentum:**                                                                                         | When you autopsy or harvest a corpse or repurpose plant material, gain 2 [[Momentum]]                                                                                                                                                                                                                                                                                     |
 | [[Elemental Type\|Fire]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                                                                                                                                                                                         |
 
+
 # Techniques
 
 ## Hunter

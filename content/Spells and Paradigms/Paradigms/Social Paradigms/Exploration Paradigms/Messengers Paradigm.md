@@ -6,6 +6,7 @@
 | **Momentum:**                                                                                        | When you courier information or cargo from a person or place to another person or place, gain 1 [[Momentum]]                              |
 | [[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                         |
 
+
 # Techniques
 
 ## Fast Travel
@@ -18,6 +19,7 @@
 |                                                                                                                                                | <                       |
 | While you follow a [[Rules/Exploration/index#Paths\|Path]] or Road, double your [[Speed]] until you stop moving (Instead of 1.5x from a Path). | <                       |
 | [[Rules/Actions/index\|Action]]                                                                                                                | <                       |
+
 
 
 ## Mimicry

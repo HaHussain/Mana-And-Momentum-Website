@@ -21,6 +21,7 @@
 | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <                       |
 
 
+
 ## Safe Haven
 
 | Safe Haven                                                                                                                                                                                                                                                                                                                                                     | <                           |
