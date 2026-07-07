@@ -50,6 +50,7 @@ The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
 The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** [[#Banner Crests|Crests]] for their banner.
 The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
+While [[Handling]], the banner continuously effects all [[Ally|Allies]].
 
 |            |                                                                                                                                                                                                                            |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -245,6 +246,9 @@ All [[Ally|Allies]] in this Aura have +1 [[Willpower]].
 ## Tactics Square
 All the Commander's tactics target a 4x4 Square within [[Seek]]. This becomes 5x5 and 6x6 at levels 6 and 10 respectively.
 
+## Tactics Hex
+The Commander's tactics targeting hexes targets a cluster of 3 all adjacent hexes. This becomes a 7 hex, centred on a single hex at level 10.
+
 ## Tactics Options
 
 | Take Ground                                                                                                                                                                                                                                                                                                                                                         | <                        |
@@ -309,6 +313,32 @@ All the Commander's tactics target a 4x4 Square within [[Seek]]. This becomes 5x
 | Specify a distraction that would turn some heads,<br>Each [[Rules/Characters/index\|Character]] of your choice in the area is considered [[Fascinated]] by you for the duration.<br>Each [[Rules/Characters/index\|Character]] of your choice in the area is considered [[Invisible]] to all other [[Rules/Characters/index\|Characters]] in that area. | <                        |
 | [[Charge]] [[Rules/Actions/index\|Action]] [[Hide]]                                                                                                                                                                                                                                                                                                     | <                        |
 
+
+| Chartered Zone                                      | <                                                   |
+| --------------------------------------------------- | --------------------------------------------------- |
+| **Tempo:** [[Charge]]: 1 -  [[Navigating]]          | **Cost:** 1 [[Momentum]]                            |
+| **Target:** [[#Tactics Hex]] in [[Seek]]            | **Duration:** [[Scenes\|Scene]] or when used again. |
+|                                                     | <                                                   |
+| You cannot get lost in the target area.             | <                                                   |
+| [[Charge]] [[Rules/Actions/index\|Action]] [[Hide]] | <                                                   |
+
+
+| Scouting Zone                                                                                                                  | <                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| **Tempo:** [[Charge]]: 1 -  [[Scouting]]                                                                                       | **Cost:** 2 [[Momentum]]                            |
+| **Target:** [[#Tactics Hex]] in [[Seek]]                                                                                       | **Duration:** [[Scenes\|Scene]] or when used again. |
+|                                                                                                                                | <                                                   |
+| All [[Scouting]] actions in the target area, gain +1 [[Range]].<br>And the first scouting action each tick is performed twice. | <                                                   |
+| [[Charge]] [[Rules/Actions/index\|Action]] [[Hide]]                                                                            | <                                                   |
+
+
+| Hunting Zone                                                    | <                                                   |
+| --------------------------------------------------------------- | --------------------------------------------------- |
+| **Tempo:** [[Charge]]: 1 -  [[Handling]]                        | **Cost:** 2 [[Momentum]]                            |
+| **Target:** [[#Tactics Hex]] in [[Seek]]                        | **Duration:** [[Scenes\|Scene]] or when used again. |
+|                                                                 | <                                                   |
+| Double all clock ticks from [[Handling]] performed in the area. | <                                                   |
+| [[Charge]] [[Rules/Actions/index\|Action]] [[Hide]]             | <                                                   |
 
 # Ideas
 
