@@ -53,7 +53,7 @@ The Tinker may spend 10 minutes to craft a [[Tool]] or Trap for 1 less [[Item Po
 
 The Tinker may spend 1 hour to add a [[#Modifications|Modification]] to an [[Items/index|Item]] (Max 1 per item).
 The Tinker may spend 1 hour to apply a [[Companion#Traits|Companion Trait]] to a willing [[Construct]] (Max 1 per Construct).
-The Tinker may have a number of [[#Modifications]] equal to their **[[Intelligence|INT]] + ( Tinker Level / 2 ) + ( [[TL]] / 5 )**.
+The Tinker may have a number of active [[#Modifications]] equal to their **[[Intelligence|INT]] + ( Tinker Level / 2 ) + ( [[TL]] / 5 )**.
 The Tinker must spend 1 minute every day on each item with a [[#Modifications|Modification]] to maintain it.
 
 If the Tinker crafts an [[Items/index|Item]], they can choose to add a [[#Modifications|Modification]] to it as part of the crafting, taking the longer duration of the two. 
@@ -73,24 +73,26 @@ The Tinker may spend 10 minutes to apply one of the following [[#Modifications]]
 
 ## Weapons
 
-| Requirements                       | Effect                                             |
-| ---------------------------------- | -------------------------------------------------- |
-| [[Weapons\|Weapon]]                | Add [[Push]] 1 or [[Pull]] 1                       |
-|                                    | Increase damage dice 1 size.                       |
-|                                    | Add [[Imbuement]]: x                               |
-|                                    | Change Focus 1 of this Weapon to another Weapon's. |
-|                                    |                                                    |
-| [[Melee]] [[Weapons\|Weapon]]      | [[Melee]] Range +1                                 |
-|                                    | Remove [[Orthogonal]]                              |
-|                                    | Add [[Quick]] or Remove [[Slow]]                   |
-|                                    | Add [[Grappling]]                                  |
-|                                    |                                                    |
-| [[Ranged]] [[Weapons\|Weapon]]     | [[Ranged]] Range +?                                |
-|                                    | Add [[Arcing]]                                     |
-|                                    | Add [[Chain]] 1                                    |
-|                                    |                                                    |
-| Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]]<br>Apply 2 other [[#Modifications]] |
-| [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                  |
+| Requirements                       | Effect                                                   |
+| ---------------------------------- | -------------------------------------------------------- |
+| [[Weapons\|Weapon]]                | Add [[Push]] 1 or [[Pull]] 1                             |
+|                                    | Increase damage dice 1 size.                             |
+|                                    | Add [[Imbuement]]: x                                     |
+|                                    | Change Focus 1 of this Weapon to another Weapon's.       |
+|                                    |                                                          |
+| [[Melee]] [[Weapons\|Weapon]]      | [[Melee]] Range +1                                       |
+|                                    | Remove [[Orthogonal]]                                    |
+|                                    | Add [[Quick]] or Remove [[Slow]]                         |
+|                                    | Add [[Grappling]]                                        |
+|                                    |                                                          |
+| [[Ranged]] [[Weapons\|Weapon]]     | [[Ranged]] Range +?                                      |
+|                                    | Add [[Arcing]]                                           |
+|                                    | Add [[Chain]] 1                                          |
+|                                    | Add [[Melee]] 1                                          |
+|                                    | This weapon can make [[Melee#Called Shot\|Called Shots]] |
+|                                    |                                                          |
+| Non-[[Reload]] [[Weapons\|Weapon]] | Add [[Reload]]<br>Apply 2 other [[#Modifications]]       |
+| [[Reload]] [[Weapons\|Weapon]]     | Remove [[Reload]]                                        |
 
 
 ## Armour and Shield

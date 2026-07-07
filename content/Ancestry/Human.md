@@ -7,7 +7,7 @@
 **Ancestry Feats:**
 - Gain 2 additional [[Levelling Up#Skill Points|Skill Points]]
 - Each time you [[Exert]], remove 1 [[Statuses and Conditions/index|Debuff]].
-- You may [[Exert]] once per day without negative effects.
+- You may [[Exert]] once per day without gaining [[Exert|Exertion]].
 
 # Lineages
 

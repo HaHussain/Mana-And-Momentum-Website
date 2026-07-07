@@ -45,7 +45,7 @@ Choose 1 of:
 # Abilities
 
 ## Beast of Fangs
-The Chimera is understood by and understands [[Beast|Beasts]], though they are not any more willing to help the Chimera than normal.
+The Chimera is understood by and understands [[Beast|Beasts]], though they are not any more willing to help the Chimera than normal. When you gain [[Handling]] points while handling [[Beast|Beasts]], gain +1 additional point.
 
 The Chimera can cast [[Transformation]] [[Spells and Paradigms/Spells/index|Spells]] without a [[Conduit]].
 

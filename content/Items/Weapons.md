@@ -152,7 +152,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 ### Volley Crossbow
 **Damage**: Small
 **Weapon Focus 1**: [[Rules/Actions/Tags/Reaction|Reaction]] [[Strike|Strikes]] with this weapon don't require it to be Loaded / doesn't Unload it.
-**Weapon Focus 2**: [[Strike|Strikes]] with this weapon make the [[Terrain]] [[Hazardous]] 2 [[Elemental Type|Physical]].
+**Weapon Focus 2**: [[Strike|Strikes]] with this weapon make the [[Terrain]] [[Hazardous]] 2.
 **Tags**: [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]
 
 ### Repeater Crossbow

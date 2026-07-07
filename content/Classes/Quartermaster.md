@@ -66,6 +66,7 @@ When the Quartermaster successfully completes a deal, they may gain one of the f
 - Apply the [[Charmed]], [[Restricted]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain or Link a [[Contact]] who trades with the target, you start with +1 [[Attitude]] with the Contact.
 - [[Free]]: [[Scan]] with an additional option: What does the target value the most?
+
 If the deal involves something that the target deeply wants, then gain two benefits instead. 
 (Options may be chosen multiple times).
 

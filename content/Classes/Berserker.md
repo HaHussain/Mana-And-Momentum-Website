@@ -56,6 +56,7 @@ When the Berserker beats a character in a contest or proves their superiority th
 - Apply [[Chilled]], [[Enraged]], or [[Numb]] (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])
 - Gain or Link a [[Contact]] who watched and dislikes the target, you start with +1 [[Attitude]] with the Contact.
 - [[Free]]: [[Scan]] with an additional option: What does this [[Rules/Characters/index|Character]] despise?
+
 If the Berserker used the target's fear, pick 2 options.
 
 
@@ -65,9 +66,9 @@ The Berserker can choose to use up their vitality when they take specific action
 The Berserker can either take [[Piercing]] damage equal to their [[Level Bonus|LB]], or spend 1 [[Momentum]] (2 [[Momentum]] if [[Bloodied]]) to empower one of the following:
 - [[Strike]]: + (Missing [[Health Points|HP]] / 10)%%d4?%% damage. [[Bloodied]]: Gains [[Piercing]].
 - [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
-- [[Guard]]: Gain [[Retaliate]] 2 [[Elemental Type|Physical]]. [[Bloodied]] Instead, Gain [[Retaliate]] (Missing [[Health Points|HP]] / 10) [[Elemental Type|Physical]].
+- [[Guard]]: Gain [[Retaliate]] 2. [[Bloodied]] Instead, Gain [[Retaliate]] (Missing [[Health Points|HP]] / 10).
 - [[Strength|STR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10)
-- [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]]. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
+- [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]] if you deal damage this round. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
 
 
 When the Berserker [[Exert|Exerts]] they can also choose the following option:
@@ -81,7 +82,7 @@ When the Berserker [[Exert|Exerts]] they can also choose the following option:
 
 While the Berserker is [[Bloodied]]: 
 - Each [[Momentum]] spent to [[Boost]] counts as 2.
-- When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick. 
+- When the Berserker increases or decreases a [[Clock]], increase or decrease it by an additional tick.
 
 
 ## Other Things
