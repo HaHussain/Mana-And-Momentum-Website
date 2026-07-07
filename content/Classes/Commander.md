@@ -50,7 +50,7 @@ The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
 The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** [[#Banner Crests|Crests]] for their banner.
 The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
-While [[Handling]], the banner continuously effects all [[Ally|Allies]].
+While on a [[Fortress]] the banner continuously effects all [[Ally|Allies]] and while [[Handling]], the banner continuously effects also all [[Steeds]].
 
 |            |                                                                                                                                                                                                                            |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +135,7 @@ When an [[Ally]] [[Scan|Scans]] a target in this Aura, they may [[Ask]] two ques
 When an [[Ally]] in this Aura performs a [[Insight]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Insight]].
 
 **Parrot Crest:**
-When an [[Ally]] in this Aura takes the [[Shift]] action, 
+An [[Ally]] in this Aura may take the [[Shift]] action at [[Tempo]] ± 2.
 When an [[Ally]] in this Aura performs a [[Persuade]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Persuade]].
 
 **Rat Crest:**
