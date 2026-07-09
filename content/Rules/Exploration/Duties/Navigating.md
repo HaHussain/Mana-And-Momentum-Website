@@ -11,7 +11,7 @@ Navigation is an [[Awareness|AWR]] / [[Intelligence|INT]] : [[Traverse]] roll, f
 
 Navigation points can be spent to:
 - 1 point to not get lost. If you do not spend points to do this, then you move into a random adjacent hex instead and your location on the map becomes unknown to all players.
-- 1 point to permanently add one of these hex moves as a [[Rules/Exploration/index#Paths|Path]] for later. (Repeatable)
+- 2 points to permanently add these hex moves as a [[Rules/Exploration/index#Paths|Path]] for later.
 - 2 points to determine where a [[Rules/Characters/index|Character]] you are tracking that passed through this area headed to next. If they were hiding their tracks or the tracks have been sullied by other factors, this requires a [[Search]] roll. 
   Costs 1 less if that [[Rules/Characters/index|Character]] is [[Marked]].
 - 2 points to trigger this terrain's unique feature.
