@@ -38,8 +38,8 @@ When you gain Level in Tinker, you gain +1 [[Health Points|Max HP]].
 # Custom Triggers
 Choose 1 of:
 - When the Tinker makes, fixes, or upgrades something novel, they gain 1d4 [[Momentum]].
-- When the Tinker modifies or hacks existing machinery or technology to solve a problem, they gain 1d4 [[Momentum]].
-- When the Tinker uses a custom gadget to solve a problem, they gain 1d4 [[Momentum]].
+- When the Tinker modifies or hacks someone else's machinery or technology to solve a problem, they gain 1d4 [[Momentum]].
+- When the Tinker analyses a complex system to figure out its exact details, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains 

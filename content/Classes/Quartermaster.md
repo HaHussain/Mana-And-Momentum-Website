@@ -40,7 +40,7 @@ When you gain Level in Quartermaster, you gain +2 [[Health Points|Max HP]].
 Choose 1 of:
 - When the Quartermaster buys, sells, or gifts a specific Item, they gain 1d4 [[Momentum]].
 - When the Quartermaster has the perfect item for the tone or the problem, they gain 1d4 [[Momentum]].
-- When the Quartermaster uses money to solve a problem, they gain 1d4 [[Momentum]].
+- When the Quartermaster uses a fair amount of money to solve a problem, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains an additional +2 [[Weight|Max Weight]].
@@ -54,6 +54,7 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 - If the Item is an [[Armour]], the Character can immediately stow their armour and equip the tossed item as a [[Rules/Actions/Tags/Reaction|Reaction]].
 - If the Item is a [[Consumables|Consumable]], then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
+While [[Scouting]] the Quartermaster automatically reveals any settlements in their [[Seek]].
 When the Quartermaster links two unlinked settlements together via a [[Rules/Exploration/index#Path|Path]], improve or worsen a quality of either settlement based on how this helps or hinders the community.
 When the Quartermaster links an unlinked settlement to a resource via a [[Rules/Exploration/index#Path|Path]], gain a [[Contact]] in the settlement based on how this helps or hinders the community.
 

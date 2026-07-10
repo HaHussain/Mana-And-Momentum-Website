@@ -4,7 +4,7 @@ icon: GiElderberry
 Foraging is an [[Instinct|INS]] : [[Nature]] roll, for every 5 above 10, you gain 1 Foraging point that must be used within that travel time period. 
 Foraging points can be spent to:
 - 1 point to feed a [[Rules/Characters/index|Character]]. (Repeatable)
-- 1 point to allow another character with another exploration role to reroll their exploration roll. (Repeatable)
+- 1 point to allow another character with another exploration role to reroll their exploration roll and take the highest. (Repeatable)
 - 1 point to restore 1 [[Item Points|Item Point]] for a character or the Fortress. 
 - 1 point to uncover a rare resource of the area.
 

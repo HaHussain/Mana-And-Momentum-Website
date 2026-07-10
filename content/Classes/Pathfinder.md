@@ -38,9 +38,9 @@ When you gain a Level in Pathfinder, you gain +1 [[Health Points|Max HP]].
 
 # Custom Trigger
 Choose 1 of:
-- When the Pathfinder provides information by scouting ahead, gain 1d4 [[Momentum]].
+- When the Pathfinder provides information by separately scouting ahead, gain 1d4 [[Momentum]].
 - When the Pathfinder plans, sets, or performs an ambush, gain 1d4 [[Momentum]].
-- When the Pathfinder discovers a new location or route or travels through un-tread ground, gain 1d4 [[Momentum]].
+- When the Pathfinder discovers a new location or route, or travels through uncharted ground, gain 1d4 [[Momentum]].
 
 # Fortress Bonus
 The [[Fortress]] gains +1 [[Speed]].

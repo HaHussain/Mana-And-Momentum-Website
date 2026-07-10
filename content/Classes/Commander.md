@@ -36,8 +36,8 @@ When you gain Level in Commander, you gain +2 [[Health Points|Max HP]].
 
 # Custom Triggers
 Choose 1 of:
-- When the Commander creates a plan or tactic, they gain 1d4 [[Momentum]] when they begin executing that plan.
-- When the Commander leads a group of non-players, they gain 1d4 [[Momentum]].
+- When the Commander creates a detailed plan or tactic for a group, they gain 1d4 [[Momentum]] when they begin executing that plan.
+- When the Commander leads a group of non-players to solve a problem, they gain 1d4 [[Momentum]].
 - When the Commander represents and stands up for a group, they gain 1d4 [[Momentum]].
 
 # Fortress Bonus
@@ -66,7 +66,7 @@ The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Cha
 ## Tactician and Strategist
 
 The Commander learns a number of [[#Tactics]], which are specific [[Technique|Techniques]] without a [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
-The Commander knows **(Commander Level / 3) + ([[TL]] / 10)** Tactics that they can freely change during a [[Rules/Resting/index|Rest]].
+The Commander knows **(Commander Level / 3) + ([[TL]] / 10)** Tactics that they can freely change during a [[Deep Rest]].
 
 
 

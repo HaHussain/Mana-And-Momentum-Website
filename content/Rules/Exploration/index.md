@@ -27,13 +27,9 @@ Each of these smaller hexes can be zoomed in further to (roughly) 17 1km (not ro
 
 # Travel Speed
 
-When beginning travel and at the start of each travel period, the players may select a travel speed that effects how fast they travel distances, and how easy they are to track.
-
-Fast - [[Exert]] daily for : 2x Speed, 4 ticks on the [[#Danger Clock]] per day
-Standard - 1x Speed, 2 ticks on the [[#Danger Clock]] per day
-Slow - 0.5x Speed, 1 tick on the [[#Danger Clock]] per day, you may choose to hide your tracks for free
-
-The slower the players move, the more effect their [[#Travel Duties]] have, especially [[#Handling]] and [[#Foraging]].
+By default (a [[Fortress]] pulled by [[Steeds]] with [[Speed]] 4), the [[Fortress]] moves 5km/h or 40km/day (1 hex).
+Additionally the players accrue 2 ticks on the [[Rules/Exploration/index|Danger Clock]] per hour/day travelled.
+This can be effected by [[Handling]].
 
 If the players do not use a [[Fortress]], they use the slowest player's speed and they cover half their usual distance (20km a day - 4 ticks on the [[#Travel Clock]]) due to the weight of their equipment, unless they all reduce their [[Weight]] to their [[Fortitude|FOR]] or less.
 

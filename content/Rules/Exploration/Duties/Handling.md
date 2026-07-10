@@ -1,13 +1,20 @@
 ---
 icon: GiHorseHead
 ---
-Handling is an [[Instinct|INS]] : [[Arcana]] / [[Nature]] / [[Society]] / [[Tech]] roll (depending on steeds), for every 5 above 10, you gain 1 Handling point that must be used within that travel time period. 
+Handling is an [[Instinct|INS]] : [[Arcana]] / [[Nature]]  / [[Physique]] / [[Society]] / [[Tech]] roll (depending on steeds), for every 5 above 10, you gain 1 Handling point that must be used within that travel time period. 
 
 # Hex Crawl
 
 Handling points can be spent to:
+- 0 Points to set a Travel Speed for today.
 - 1 Point to Increase the [[Rules/Exploration/index#Travel Clock|Travel Clock]] by 1 per point for every 4 [[Speed]]. (Repeatable)
 - 1 Point to Reduce the [[Rules/Exploration/index#Danger Clock|Danger Clock]] by 1 per point and Hide your tracks. (Repeatable)
+- 0 Points to move the [[Fortress]] from its [[Normal Move]] and any movement from the [[Rules/Exploration/index#Travel Clock|Travel Clock]].
+
+Travel Speed:
+- Fast Speed: Add +1d6 to the [[Rules/Exploration/index#Danger Clock|Danger Clock]] and double the [[Speed]] of the [[Fortress]] today.
+- Normal Speed.
+- Slow Speed: Subtract -1d4 from the [[Rules/Exploration/index#Danger Clock|Danger Clock]] and half the [[Speed]] of the [[Fortress]] today.
 
 ---
 
