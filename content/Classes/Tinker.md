@@ -59,9 +59,16 @@ The Tinker must spend 1 minute every day on each item with a [[#Modifications|Mo
 If the Tinker crafts an [[Items/index|Item]], they can choose to add a [[#Modifications|Modification]] to it as part of the crafting, taking the longer duration of the two. 
 
 
+
 # Alter
 
 When the Tinker fires a [[Reload|Reloading]] [[Weapons|Weapon]], they may spend 1 [[Momentum]] to take an [[Extra]]: [[Inventory]] action to reload it this round.
+
+The Tinker may choose to add additional [[#Modifications]] to a target - exceeding their normal Limit momentarily:
+When taking an [[Inventory]] action the Tinker may spend 1 [[Momentum]] for each [[#Modifications|Modification]] already on the target, to apply a new [[#Modifications|Modification]]. 
+At the end of the [[Scenes|Scene]], the Tinker must roll a [[Intelligence|INT]]: [[Tech]] roll vs (10 + 5\*Number of Modifications) for each item 
+- On a failure, the [[Items/index|Item]] becomes ruined and must be repaired.
+- On a success it loses all additional [[#Modifications]].
 
 The Tinker may spend 10 minutes to apply one of the following [[#Modifications]] to [[Technical]] [[Consumables]] or [[Construct|Constructs]].
 - Limit Release: Reduce the duration of a [[Technical]] [[Items/index|Item]] to one use and increase its power.

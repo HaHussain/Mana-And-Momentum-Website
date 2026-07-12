@@ -64,6 +64,8 @@ The Knight gains a Weapon Focus 1 with 2 [[Weapons]] of their choice.
 
 While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] cannot move further away from the Knight.
 
+When the Knight makes a [[Rules/Characters/Skills/index|Skill]] or [[Hit]] roll, they may spend [[Momentum]] to [[Boost]] to add a bonus to the die roll equal to the amount [[Boost|Boosted]].
+
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
 When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll they may add +1d6 to the roll. 
 When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d6 to the [[Hit]] roll of all [[Strike|Strikes]] during that action.

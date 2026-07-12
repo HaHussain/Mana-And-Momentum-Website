@@ -7,4 +7,4 @@ Tempo: 7
 Perform any number of these options:
 - Change from one [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] to another.
 - [[Reclaim]]
-- Only if you have taken the [[Rest & Recover#Rest|Rest]] action this turn: [[Rest & Recover#Recover|Recover]]
+- Only if you have taken the [[Recover]] action this turn: Clear either all [[Mental]] or all [[Elemental Type|Physical]] [[Statuses and Conditions/index|Debuffs]] with a duration of [[Combat]].

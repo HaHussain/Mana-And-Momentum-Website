@@ -48,7 +48,7 @@ The [[Fortress]] gains +1 [[Speed]].
 # Abilities
 ## Animal Companion
 The Pathfinder gains a [[Beast]] [[Companion]], choose one of the three following companions:
-The Pathfinder's [[Companion]] gains 1 [[Animal Companion#Traits|Trait]].
+The Pathfinder's [[Companion]] gains 1 [[Companion#Traits|Trait]].
 If the Pathfinder's [[Companion]] has any [[Movement Types]], then the Pathfinder is considered as having them for [[Navigating]] and [[Scouting]].
 
 A [[Size]] 1/2 [[Fly|Flying]] scouting animal:

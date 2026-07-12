@@ -103,7 +103,7 @@ The Commander may make rolls to advance [[Clock|Clocks]] in absence if their sub
 ## Level 1
 
 **Bear Crest:**
-When an [[Ally]] in this Aura takes the [[Rest & Recover#Rest|Rest]] action, they may immediately clear 1 [[Statuses and Conditions/index|Debuff]],
+When an [[Ally]] in this Aura takes the [[Recover]] action, they may immediately clear 1 [[Statuses and Conditions/index|Debuff]] with a duration of [[Combat]].
 When an [[Ally]] in this Aura performs a [[Physique]] roll, you may as a [[Rules/Actions/Tags/Reaction|Reaction]] give [[Teamwork#Assist|Assistance]] with [[Physique]].
 
 **Butterfly Crest:**
