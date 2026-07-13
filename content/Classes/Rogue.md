@@ -52,10 +52,13 @@ The [[Fortress]]
 When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
+If the Rogue finds Shelter while [[Scouting]], the [[Fortress]] becomes [[Hidden]].
+
 While [[Hidden]] you gain the following benefits:
 - You can lip read [[Rules/Characters/index|Characters]] in your [[Seek]].
 - You may sense clearly though standard objects adjacent to you that would muffle (but not completely block) what you would normally sense.
 - You have [[Advantage]] on checks to spread rumours and misinformation to a [[Crowd]].
+- Your [[Fortress]] rolls twice on any rolls effecting the [[Rules/Exploration/index#Danger Clock|Danger Clock]] and may take either result.
 
 
 ## One Step Ahead

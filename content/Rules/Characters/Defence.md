@@ -7,7 +7,7 @@ Defence is a statistic that represents how hard it is to land a solid [[Hit]] on
 A [[Hit]] roll must equal to your Defence or exceed it in order to be successful. 
 If the [[Hit]] roll exceeds your Defence by 10, it is a [[Critical Strike|Crit]].
 
-While unarmoured it is: 8 + [[Dexterity|DEX]] + [[Level Bonus]]
+While unarmoured it is: 6 + [[Dexterity|DEX]] + [[Level Bonus]]
 
 [[Armour]] and some abilities can give a different equation to follow. 
 You may not mix these equations, but may choose which applies at any time.

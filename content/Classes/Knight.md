@@ -56,7 +56,7 @@ When the Knight performs a great kindness for someone or a small kindness in the
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
 
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
-The Knight ignores their [[Weight]] when calculating their [[Rules/Exploration/index#Travel Speed|Travel Speed]] and the [[Weight Penalty]] of [[Shields]].
+The Knight ignores their [[Weight]] one [[Armour]], [[Shields|Shield]] and two [[Weapons]].
 
 
 ## Effort
@@ -67,7 +67,7 @@ While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] cannot
 When the Knight makes a [[Rules/Characters/Skills/index|Skill]] or [[Hit]] roll, they may spend [[Momentum]] to [[Boost]] to add a bonus to the die roll equal to the amount [[Boost|Boosted]].
 
 The Knight may [[Exert]] once per [[Scenes|Scene]] without suffering any negative consequences.
-When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll they may add +1d6 to the roll. 
+When the Knight [[Exert|Exerts]] to retry a [[Rules/Characters/Skills/index|Skill]] roll, they may add +1d6 to the roll. 
 When the Knight [[Exert|Exerts]] to take the [[Attack]] action, they may add +1d6 to the [[Hit]] roll of all [[Strike|Strikes]] during that action.
 
 
