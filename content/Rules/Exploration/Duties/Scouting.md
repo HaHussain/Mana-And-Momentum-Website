@@ -5,10 +5,10 @@ Scouting is an [[Awareness|AWR]] : [[Search]] roll, for every 5 above 10, you ga
 # Hex Crawl
 
 Scouting points can be spent to:
-- x points to reveal a hex [[Range]] (x+1) away. Spend an additional 1 point to know any weather and small terrain features. (Repeatable)
-- 2 points to create a [[Rules/Exploration/index#Paths|Path]] between any two adjacent hexes where one is [[Range]] 1 away. (Repeatable)
-- 1 point to know exact location, intensity, and number of individuals of danger that the [[Rules/Exploration/index#Danger Clock|Danger Clock]] represents.
-- 1 point to find Shelter in the area.
+- x Points - [[Scan]]: Reveal a hex [[Range]] (x+1) away. Spend an additional 1 point to know any weather and small terrain features. (Repeatable)
+- 2 Points - [[Guard]]: to create a [[Rules/Exploration/index#Paths|Path]] between any two adjacent hexes where one is [[Range]] 1 away. (Repeatable)
+- 1 Point - [[Mark]]: Discover the exact location, intensity, and number of individuals of danger that the [[Rules/Exploration/index#Danger Clock|Danger Clock]] represents.
+- 1 Point - [[Hide]]: Find Shelter in the area.
 
 Scouting helps discover the interesting things around the party as they travel and stops the dangerous things from attacking the party as they travel.
 
