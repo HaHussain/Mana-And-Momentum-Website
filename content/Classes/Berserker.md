@@ -67,6 +67,7 @@ The Berserker can either take [[Piercing]] damage equal to their [[Level Bonus|L
 - [[Normal Move]] or [[Move]]: [[Speed]] + 1 for this turn. [[Bloodied]]: Instead, [[Speed]] + [[Level Bonus|LB]].
 - [[Guard]]: Gain [[Retaliate]] 2. [[Bloodied]] Instead, Gain [[Retaliate]] (Missing [[Health Points|HP]] / 10).
 - [[Strength|STR]] or [[Fortitude|FOR]] [[Rules/Rolls/index|roll]]: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10).
+- [[Coerce]] or [[Physique]] roll: [[Advantage]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10).
 - [[Foraging|Forage]] or [[Handling]] roll: May use [[Fortitude|FOR]]. [[Bloodied]]: Bonus equal to (Missing [[Health Points|HP]] / 10).
 - [[Overwhelmed]] Check: Ignore [[Overwhelmed]] and become [[Enraged]] for [[Scenes|Scene]] if you deal damage this round. [[Bloodied]]: You lose control of your character for this round, your actions must be towards the goal of dealing as much damage as possible to the closest [[Rules/Characters/index|Characters]] to you. You may and must make a [[Free]] [[Attack]]. 
 

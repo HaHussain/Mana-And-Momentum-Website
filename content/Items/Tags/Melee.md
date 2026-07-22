@@ -28,3 +28,4 @@ Hands: [[Weak]]
 Item: Disarms the Item
 Stomach: [[Shocked]]
 Legs: [[Restricted]]
+Feet: [[Prone]]
