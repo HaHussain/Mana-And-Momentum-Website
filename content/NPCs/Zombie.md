@@ -23,6 +23,8 @@
 | **Active Abilities**              | <                                                                                                                                                                                                                            | <                  | <                  | <                     | <                 |
 | ![[#Bite]]                        | <                                                                                                                                                                                                                            | <                  | <                  | <                     | <                 |
 |                                   | <                                                                                                                                                                                                                            | <                  | <                  | <                     | <                 |
+| ![[#Attack]]                      | <                                                                                                                                                                                                                            |                    | <                  |                       | <                 |
+|                                   | <                                                                                                                                                                                                                            | <                  | <                  | <                     | <                 |
 | **Tags:** <tags>[[Undead]]</tags> | <                                                                                                                                                                                                                            | <                  | <                  | <                     | <                 |
 
 
@@ -41,3 +43,15 @@
 | **Special:** [[Grappling]] counts if any [[Ally]] is [[Grappled\|Grappling]] the target | <                       |
 | **Tags:** <tags>[[Natural]] [[Melee]] 1 [[Grappling]]</tags>                            | <                       |
 </hidden>
+
+## Attack
+```mermaid
+flowchart TB
+    A["**4: Move**<br/>Move to closest Grappled Character"]
+    B["**5: Attack**<br/>Bite"]
+    A --> B
+    click A "[[Move]]"
+    click B "[[Attack]]"
+    %% mermaid-flow:pos A=300,110 B=300,220
+```
+
