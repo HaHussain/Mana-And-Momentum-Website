@@ -63,6 +63,32 @@ export function pageResources(
   return resources
 }
 
+function trimOuterBreaks(children: ElementContent[]): ElementContent[] {
+  const isBoundaryNode = (node: ElementContent) => {
+    if (node.type === "text") {
+      return node.value.trim() === ""
+    }
+
+    return (
+      node.type === "element" &&
+      (node as Element).tagName === "br"
+    )
+  }
+
+  let start = 0
+  let end = children.length
+
+  while (start < end && isBoundaryNode(children[start])) {
+    start++
+  }
+
+  while (end > start && isBoundaryNode(children[end - 1])) {
+    end--
+  }
+
+  return children.slice(start, end)
+}
+
 function renderTranscludes(
   root: Root,
   cfg: GlobalConfiguration,
@@ -97,15 +123,7 @@ function renderTranscludes(
             }
 
             node.children = [
-              normalizeHastElement(blockNode, slug, transcludeTarget),
-              {
-                type: "element",
-                tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-                children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-                ],
-              },
+              normalizeHastElement(blockNode, slug, transcludeTarget)
             ]
           }
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
@@ -139,47 +157,20 @@ function renderTranscludes(
           }
 
           node.children = [
-            ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
+            ...trimOuterBreaks(
+              page.htmlAst.children.slice(startIdx + 1, endIdx) as ElementContent[],
+            ).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
-            ),
-            {
-              type: "element",
-              tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-              children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-              ],
-            },
+            )
           ]
         } else if (page.htmlAst) {
-          // page transclude
+          // page transcludeS
           node.children = [
-            {
-              type: "element",
-              tagName: "h1",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value:
-                    page.frontmatter?.title ??
-                    i18n(cfg.locale).components.transcludes.transcludeOf({
-                      targetSlug: page.slug!,
-                    }),
-                },
-              ],
-            },
-            ...(page.htmlAst.children as ElementContent[]).map((child) =>
+            ...trimOuterBreaks(
+              page.htmlAst.children as ElementContent[],
+            ).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
             ),
-            {
-              type: "element",
-              tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-              children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-              ],
-            },
           ]
         }
       }
