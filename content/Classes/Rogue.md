@@ -49,7 +49,7 @@ The [[Fortress]]
 
 # Abilities
 ## Opportunity Hunter
-When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
+When the Rogue [[Hit|Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
 If the Rogue finds Shelter while [[Scouting]], the [[Fortress]] becomes [[Hidden]].
@@ -155,7 +155,7 @@ Criminal:
 
 ## List of Potential Abilities
 
-- When the Rogue [[Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts).
+- When the Rogue [[Hit|Hits]] a [[Rules/Characters/index|Character]], deal 1d4 additional damage for each of [[Statuses and Conditions/index|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts).
 - Against [[Isolated]] targets, when you [[Critical Strike|Crit]], you deal 3x [[Rules/Rolls/index#Roll Parts|Dice Damage]].
 - When you [[Critical Strike|Crit]] against a non-[[Elite]] enemy outside of combat, they die.
 - While [[Attack|Attacking]] with a [[Quick]] weapon make +1 [[Strike|Strikes]].
