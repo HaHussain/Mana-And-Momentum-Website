@@ -5,13 +5,12 @@
 
 | <center>Zombie</center>                                                                                                                                                                                                                     | <                  | <                  | <                  | <                     | <                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | --------------------- | ----------------- |
-| [[Health Points\|Max HP]]                                                                                                                                                                                                                   | <                  | 15                 | <                  | <                     | <                 |
-| [[AI]]: [[Robotic]]                                                                                                                                                                                                                         | <                  | [[Speed]]: 3       | <                  | [[Seek]]: 1           | <                 |
+| [[Health Points\|Max HP]]                                                                                                                                                                                                                   | <                  | 15                 | <                  | [[Willpower\|Will]]   | -                 |
+| [[AI]]: [[Robotic]]                                                                                                                                                                                                                         | <                  | Starting [[PP]]:   | <                  | 0                     | <                 |
+| [[Speed]]: 3                                                                                                                                                                                                                                | <                  | [[Seek]]: 1        | <                  | <                     | <                 |
 |                                                                                                                                                                                                                                             | <                  | <                  | <                  | <                     | <                 |
-| [[Defence]]                                                                                                                                                                                                                                 | <                  | [[Resolve]]        | <                  |                       | <                 |
-| 6                                                                                                                                                                                                                                           | <                  | 6                  | <                  |                       | <                 |
-| [[Deflection]]                                                                                                                                                                                                                              | <                  | [[Sturdy]]         | <                  | [[Willpower\|Will]]   | <                 |
-| 0                                                                                                                                                                                                                                           | <                  | 0                  | <                  | -                     | <                 |
+| [[Defence]]                                                                                                                                                                                                                                 | <                  | 6                  | [[Resolve]]        | <                     | 6                 |
+| [[Deflection]]                                                                                                                                                                                                                              | <                  | 0                  | [[Sturdy]]         | <                     | 0                 |
 |                                                                                                                                                                                                                                             | <                  | <                  | <                  | <                     | <                 |
 | [[Strength\|STR]]                                                                                                                                                                                                                           | [[Dexterity\|DEX]] | [[Fortitude\|FOR]] | [[Awareness\|AWR]] | [[Intelligence\|INT]] | [[Instinct\|INS]] |
 | +3                                                                                                                                                                                                                                          | -2                 | +4                 | 0                  | -2                    | -2                |
@@ -42,14 +41,14 @@
 | **[[Hit]]:** +4                                                                         | **[[Damage]]:** 1d4 + 3 |
 | **Special:** [[Grappling]] counts if any [[Ally]] is [[Grappled\|Grappling]] the target | <                       |
 | **Tags:** <tags>[[Natural]] [[Melee]] 1 [[Grappling]]</tags>                            | <                       |
-</hidden>
+
 
 ## Action Sets
 ### Attack
 ```mermaid
 flowchart TB
-    A["**4: Move**<br/>Move to closest Grappled Character"]
-    B["**5: Attack**<br/>Bite"]
+    A["**4: Move**<br/>Move to closest Character"]
+    B["**5: Attack**<br/>Grapple<br>Bite - Called Shot"]
     A --> B
     click A "[[Move]]"
     click B "[[Attack]]"
