@@ -7,10 +7,10 @@
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | --------------------- | ----------------- |
 | [[Health Points\|Max HP]]         | <                                                                                                                                                                                                                                           | 10                 | <                  | [[Willpower\|Will]]   | -                 |
 | [[AI]]: [[Robotic]]               | <                                                                                                                                                                                                                                           | <                  | Starting [[PP]]: 0 | <                     | <                 |
-|                                   | [[Speed]]: 3                                                                                                                                                                                                                                | <                  | <                  | [[Seek]]: 1           | <                 |
 |                                   | <                                                                                                                                                                                                                                           | <                  | <                  | <                     | <                 |
 | [[Defence]]                       | <                                                                                                                                                                                                                                           | 6                  | [[Resolve]]        | <                     | 6                 |
 | [[Deflection]]                    | <                                                                                                                                                                                                                                           | 0                  | [[Sturdy]]         | <                     | 0                 |
+| [[Speed]]: 3                      | <                                                                                                                                                                                                                                           | [[Seek]]: 1        | <                  |                       | <                 |
 |                                   | <                                                                                                                                                                                                                                           | <                  | <                  | <                     | <                 |
 | [[Strength\|STR]]                 | [[Dexterity\|DEX]]                                                                                                                                                                                                                          | [[Fortitude\|FOR]] | [[Awareness\|AWR]] | [[Intelligence\|INT]] | [[Instinct\|INS]] |
 | +3                                | -2                                                                                                                                                                                                                                          | +4                 | 0                  | -4                    | -2                |
@@ -47,11 +47,8 @@
 ### Attack
 ```mermaid
 flowchart TB
-    A["**4: Move**<br/>Move to closest Character"]
-    B["**5: Attack**<br/>Grapple<br>Bite - Called Shot"]
-    A --> B
-    click A "[[Move]]"
-    click B "[[Attack]]"
+  A["**4: Move**<br>Towards closest target"]
+  B["**5: Attack**<br>Grapple or Bite<br>**Mob:** Called Shot"]
+  A --> B
     %% mermaid-flow:pos A=300,110 B=300,220
 ```
-
