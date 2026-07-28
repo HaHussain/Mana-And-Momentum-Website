@@ -31,7 +31,7 @@
 # Lore
 
 
-# Hidden
+# Quartz:Hidden
 
 ## Bite
 
