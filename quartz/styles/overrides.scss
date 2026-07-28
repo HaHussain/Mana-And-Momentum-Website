@@ -80,3 +80,24 @@ tbody {
 table .transclude-src {
   display: none;
 }
+
+// hiddenQuartzSection.ts css for hiding Quartz:Hidden headers
+.quartz-hidden {
+  display: none;
+
+  blockquote & {
+    display: revert;
+  }
+}
+
+// Tables in tables are slightly smaller
+.table-container > table table th,
+.table-container > table table td  {
+  font-size: small;
+  padding: 0.1rem;
+}
+
+// Remove margins padding from nested mermaid diagrams
+td:has(blockquote.transclude):has(pre) {
+  padding: 0;
+}
