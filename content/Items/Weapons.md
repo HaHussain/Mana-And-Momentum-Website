@@ -7,25 +7,52 @@ aliases:
 # Melee Weapons
 ## Table
 
-| Weapon                                                                         | Damage | Summary                                                                            |
-| ------------------------------------------------------------------------------ | ------ | ---------------------------------------------------------------------------------- |
-| **[[#Dagger]]**                                                                | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
-| <tags>[[Quick]] [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Grappling]]</tags> | <      | <                                                                                  |
-|                                                                                | <      | <                                                                                  |
-| **[[#Gauntlets]]**                                                             | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
-| **[[#Sword]]**                                                                 | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
-| **[[#Axe]]**                                                                   | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
-| **[[#Hammer]]**                                                                | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
-| **[[#Spear]]**                                                                 | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
-| **[[#Foil]]**                                                                  | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
-|                                                                                |        |                                                                                    |
-| **[[#Quarterstaff]]**                                                          | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
-| **Great-Sword**                                                                | Large  |                                                                                    |
-| **Great-Axe**                                                                  | Large  |                                                                                    |
-| **Great-Hammer**                                                               | Large  |                                                                                    |
-| **Longspear**                                                                  | Large  |                                                                                    |
-| **[[#Flail]]**                                                                 | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
-| **Epee**                                                                       | Large  |                                                                                    |
+| Weapon                                                                           | Damage | Summary                                                                            |
+| -------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **[[#Dagger]]**                                                                  | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
+| <tags>[[Quick]] [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Grappling]]</tags>   | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Gauntlets]]**                                                               | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
+| [[Quick]], [[Melee]] 1 [[Orthogonal]], [[Push]] 1, [[One-Handed]], [[Grappling]] | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Sword]]**                                                                   | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
+| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Axe]]**                                                                     | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
+| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Hammer]]**                                                                  | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
+| [[Melee]] 1, [[One-Handed]], [[Push]] 1                                          | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Spear]]**                                                                   | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
+| [[Melee]] 2 [[Orthogonal]], [[One-Handed]]                                       | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Foil]]**                                                                    | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
+| [[Quick]], [[Melee]] 1, [[One-Handed]]                                           | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Quarterstaff]]**                                                            | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **Great-Sword**                                                                  | Large  |                                                                                    |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **Great-Axe**                                                                    | Large  |                                                                                    |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **Great-Hammer**                                                                 | Large  |                                                                                    |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **Longspear**                                                                    | Large  |                                                                                    |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **[[#Flail]]**                                                                   | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
+| **Epee**                                                                         | Large  |                                                                                    |
+|                                                                                  | <      | <                                                                                  |
+|                                                                                  | <      | <                                                                                  |
 
 
 ## Stats
@@ -105,18 +132,38 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Ranged Weapons
 ## Table
 
-| Weapon                     | Damage | Summary                                                                                                                    |
-| -------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **[[#Boomerang]]**         | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
-| **[[#Hook and Chain]]**    | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
-| **[[#Shortbow]]**          | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
-| **[[#Longbow]]**           | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
-| **[[#Crossbow]]**          | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
-| **[[#Volley Crossbow]]**   | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
-| **[[#Repeater Crossbow]]** | Small  | A weak AoE ranged weapon that effects large number of enemies.<br>Focus: Apply poison and                                  |
-| **[[#Pistol]]**            | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
-| **[[#Rifle]]**             | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
-| **[[#Hand-Cannon]]**       | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
+| Weapon                                                                               | Damage | Summary                                                                                                                    |
+| ------------------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **[[#Boomerang]]**                                                                   | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
+| [[Ranged]] #, [[One-Handed]]                                                         | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Hook and Chain]]**                                                              | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
+| [[Melee]] 1 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2. | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Shortbow]]**                                                                    | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
+| [[Ranged]], [[Two-Handed]], [[Arcing]], [[Quick]]                                    | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Longbow]]**                                                                     | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
+| [[Ranged]], [[Two-Handed]], [[Arcing]]                                               | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Crossbow]]**                                                                    | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
+| [[Ranged]] #, [[Two-Handed]]                                                         | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Volley Crossbow]]**                                                             | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
+| [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]                    | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Repeater Crossbow]]**                                                           | Small  | A weak AoE ranged weapon that effects large number of enemies.<br>Focus: Apply poison and                                  |
+| [[Ranged]], [[Line]] 8 / [[Cone]] 4, [[Two-Handed]], [[Reload]]                      | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Pistol]]**                                                                      | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
+| [[Ranged]], [[One-Handed]], [[Quick]], [[Reload]]                                    | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Rifle]]**                                                                       | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
+| [[Ranged]], [[Two-Handed]], [[Reload]]                                               | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
+| **[[#Hand-Cannon]]**                                                                 | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
+| [[Ranged]], [[Two-Handed]], [[Slow]], [[Reload]]                                     | <      | <                                                                                                                          |
+|                                                                                      | <      | <                                                                                                                          |
 
 
 ## Stats

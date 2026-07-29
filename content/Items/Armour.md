@@ -7,19 +7,19 @@ icon: GiPlastron
 | --------------------------- | ------------------------------------------------------------------ | -------------------------------------- |
 | **[[#Hide Leather]]**       | **[[Defence]]**: 8 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]      | <                                      |
 | ^                           | -                                                                  | -                                      |
-|                             |                                                                    |                                        |
+|                             | <                                                                  | <                                      |
 | **[[#Brigandine Leather]]** | **[[Defence]]**: 9 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]      | <                                      |
 | ^                           | **[[Deflection]]:** 1                                              | **[[Speed]]** -1                       |
-|                             |                                                                    |                                        |
+|                             | <                                                                  | <                                      |
 | **[[#Chain Mail]]**         | **[[Defence]]**: 10 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]]<br> | <                                      |
 | ^                           | **[[Sturdy]]:** 1                                                  | **[[Orthogonal]]**                     |
-|                             |                                                                    |                                        |
+|                             | <                                                                  | <                                      |
 | **[[#Scale Mail]]**         | **[[Defence]]**: 12 + [[Level Bonus\|LB]]                          | <                                      |
 | ^                           | **[[Deflection]]:** 2                                              | **[[Speed]]** -1                       |
-|                             |                                                                    |                                        |
+|                             | <                                                                  | <                                      |
 | **[[#Titan Plate]]**        | **[[Defence]]**: 13 + [[Level Bonus\|LB]]                          | <                                      |
 | ^                           | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1                         | **[[Orthogonal]]**                     |
-|                             |                                                                    |                                        |
+|                             | <                                                                  | <                                      |
 | **[[#Juggernaut Plate]]**   | **[[Defence]]**: 15 + [[Level Bonus\|LB]]                          | <                                      |
 | ^                           | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 2                         | **[[Speed]]** -1<br>**[[Orthogonal]]** |
 
@@ -81,11 +81,11 @@ Outfits are an alternative to Armour that can be changed into or worn, and provi
 | **[[#Stealth Outfit]]**                                                       | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Blind]]<br>[[Deaf]]<br>[[Charmed]]            |
 | ^                                                                             | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | ^                                               |
 | **1:** [[Advantage]] on rolls to avoid being perceived or intuited.<br>**2:** | <                                          | <                                               |
-|                                                                               |                                            |                                                 |
+|                                                                               | <                                          | <                                               |
 | **[[#Diva Outfit]]**                                                          | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Chilled]]<br>[[Fascinated]]<br>[[Restricted]] |
-|                                                                               | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                               |
+| ^                                                                             | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                               |
 | **1:** [[Advantage]] on rolls to get or keep attention on you<br>**2:**       | <                                          | <                                               |
-|                                                                               |                                            |                                                 |
+|                                                                               | <                                          | <                                               |
 | **[[#Rock Outfit]]**                                                          | **[[Defence]]:** 9 + [[Dexterity\|DEX]]    | [[Condemned]]<br>[[Shocked]]<br>[[Weak]]        |
 | ^                                                                             | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | ^                                               |
 | **1:** [[Advantage]] on rolls to avoid being moved or changed<br>**2:**       | <                                          | <                                               |
