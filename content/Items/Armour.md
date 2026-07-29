@@ -76,7 +76,7 @@ Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Charac
 
 Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
 
-| Outfits                                                                       | Abilities                                  | Immunitys                                       |
+| Outfits                                                                       | Abilities                                  | Immunities                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
 | **[[#Stealth Outfit]]**                                                       | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Blind]]<br>[[Deaf]]<br>[[Charmed]]            |
 | ^                                                                             | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | ^                                               |
@@ -86,9 +86,13 @@ Outfits are an alternative to Armour that can be changed into or worn, and provi
 | ^                                                                             | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                               |
 | **1:** [[Advantage]] on rolls to get or keep attention on you<br>**2:**       | <                                          | <                                               |
 |                                                                               | <                                          | <                                               |
-| **[[#Rock Outfit]]**                                                          | **[[Defence]]:** 9 + [[Dexterity\|DEX]]    | [[Condemned]]<br>[[Shocked]]<br>[[Weak]]        |
+| **[[#Rock Outfit]]**                                                          | **[[Defence]]:** 9 + [[Dexterity\|DEX]]    | [[Condemned]]<br>[[Shocked]]<br>[[Vulnerable]]  |
 | ^                                                                             | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | ^                                               |
 | **1:** [[Advantage]] on rolls to avoid being moved or changed<br>**2:**       | <                                          | <                                               |
+|                                                                               | <                                          | <                                               |
+| **[[#Something Outfit]]**                                                     | **[[Defence]]:** ? + [[Dexterity\|DEX]]    | [[Corroded]]<br>[[Numb]]<br>[[Weak]]            |
+| ^                                                                             | **[[Deflection]]:** ?<br>**[[Sturdy]]:** ? | ^                                               |
+| **1:** [[Advantage]] on rolls to<br>**2:**                                    | <                                          | <                                               |
 
 # Stats
 ## Defence
