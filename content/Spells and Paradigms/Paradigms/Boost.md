@@ -4,5 +4,9 @@ aliases:
   - Boosts
 ---
 When a [[Rules/Characters/index|Character]] uses a [[Spells and Paradigms/Paradigms/index#Techniques|Technique]] they can spend additional [[Momentum]] beyond the initial cost to increase the power of that Technique.
+A character may Boost up to a maximum of 2 and Max Boost increases every 6 levels:
 
-A character may Boost an additional amount equal to ([[TL]] / 6 + 1)?
+At Level 7: Max Boost 3
+--- Level 13: Max Boost 4
+----- Level 19: Max Boost 5
+------- Level 25: Max Boost 6

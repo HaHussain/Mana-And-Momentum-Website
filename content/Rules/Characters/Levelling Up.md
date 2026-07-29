@@ -16,25 +16,25 @@ Gaining abilities from levelling up can be performed in any order.
 | 4           | [[#Techniques]] 2                                 |
 | 5           | [[#Fortitude]] + [[#Stat Points]]                 |
 | 6           | [[#Skill Points]] + [[#LB Skill Max Up]]          |
-| 7           | [[#Spellcasting]] 2                               |
+| 7           | [[#Spellcasting]] 2 + [[#Max Boost Up]] 3         |
 | 8           | [[#Fortitude]] + [[#Feat]]                        |
 | 9           | [[#Skill Points]] + [[#LB Auto Max Up]]           |
 | 10          | [[#Dual Class Feat]] + [[#Techniques]] 3          |
 | 11          | [[#Fortitude]] + [[#Stat Points]]                 |
 | 12          | [[#Skill Points]] + [[#LB Up]]                    |
-| 13          | [[#Spellcasting]] 3                               |
+| 13          | [[#Spellcasting]] 3 + [[#Max Boost Up]] 4         |
 | 14          | [[#Fortitude]] + [[#Feat]]                        |
 | 15          | [[#Skill Points]] + [[#LB Skill Max Up]]          |
 | 16          | [[#Techniques]] 4                                 |
 | 17          | [[#Fortitude]] + [[#Stat Points]]                 |
 | 18          | [[#Skill Points]] + [[#LB Auto Max Up]]           |
-| 19          | [[#Spellcasting]] 4                               |
+| 19          | [[#Spellcasting]] 4 + [[#Max Boost Up]] 5         |
 | 20          | [[#Dual Class Feat]] + [[#Fortitude]] + [[#Feat]] |
 | 21          | [[#Skill Points]] + [[#LB Up]]                    |
 | 22          | [[#Techniques]] 5                                 |
 | 23          | [[#Fortitude]] + [[#Stat Points]]                 |
 | 24          | [[#Skill Points]] + [[#LB Skill Max Up]]          |
-| 25          | [[#Spellcasting]] 5                               |
+| 25          | [[#Spellcasting]] 5 + [[#Max Boost Up]] 6         |
 | 26          | [[#Fortitude]] + [[#Feat]]                        |
 | 27          | [[#Skill Points]] + [[#LB Auto Max Up]]           |
 | 28          | [[#Techniques]] 6                                 |
@@ -69,6 +69,10 @@ Every 6 levels you gain access to a new tier of spellcasting, and can now learn 
 # Techniques
 
 Every 6 levels you gain access to a new tier of techniques, and automatically learn and can use those techniques belonging to paradigms you know.
+
+# Max Boost Up
+
+Every 6 levels the maximum amount you can [[Boost]] increases by 1.
 
 # Feat
 

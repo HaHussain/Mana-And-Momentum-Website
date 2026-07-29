@@ -7,23 +7,25 @@ aliases:
 # Melee Weapons
 ## Table
 
-| Weapon                | Damage | Summary                                                                            |
-| --------------------- | ------ | ---------------------------------------------------------------------------------- |
-| **[[#Dagger]]**       | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
-| **[[#Gauntlets]]**    | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
-| **[[#Sword]]**        | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
-| **[[#Axe]]**          | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
-| **[[#Hammer]]**       | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
-| **[[#Spear]]**        | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
-| **[[#Foil]]**         | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
-|                       |        |                                                                                    |
-| **[[#Quarterstaff]]** | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
-| **Great-Sword**       | Large  |                                                                                    |
-| **Great-Axe**         | Large  |                                                                                    |
-| **Great-Hammer**      | Large  |                                                                                    |
-| **Longspear**         | Large  |                                                                                    |
-| **[[#Flail]]**        | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
-| **Epee**              | Large  |                                                                                    |
+| Weapon                                                                         | Damage | Summary                                                                            |
+| ------------------------------------------------------------------------------ | ------ | ---------------------------------------------------------------------------------- |
+| **[[#Dagger]]**                                                                | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
+| <tags>[[Quick]] [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Grappling]]</tags> | <      | <                                                                                  |
+|                                                                                | <      | <                                                                                  |
+| **[[#Gauntlets]]**                                                             | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
+| **[[#Sword]]**                                                                 | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
+| **[[#Axe]]**                                                                   | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
+| **[[#Hammer]]**                                                                | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
+| **[[#Spear]]**                                                                 | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
+| **[[#Foil]]**                                                                  | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
+|                                                                                |        |                                                                                    |
+| **[[#Quarterstaff]]**                                                          | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
+| **Great-Sword**                                                                | Large  |                                                                                    |
+| **Great-Axe**                                                                  | Large  |                                                                                    |
+| **Great-Hammer**                                                               | Large  |                                                                                    |
+| **Longspear**                                                                  | Large  |                                                                                    |
+| **[[#Flail]]**                                                                 | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
+| **Epee**                                                                       | Large  |                                                                                    |
 
 
 ## Stats
