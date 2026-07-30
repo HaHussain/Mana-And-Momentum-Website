@@ -36,18 +36,18 @@ Gaining abilities from levelling up can be performed in any order.
 | 24          | [[#Skill Points]] + [[#LB Skill Max Up]]          |
 | 25          | [[#Spellcasting]] 5 + [[#Max Boost Up]] 6         |
 | 26          | [[#Fortitude]] + [[#Feat]]                        |
-| 27          | [[#Skill Points]] + [[#LB Auto Max Up]]           |
+| 27          | [[#Skill Points]]                                 |
 | 28          | [[#Techniques]] 6                                 |
 | 29          | [[#Fortitude]] + [[#Stat Points]]                 |
 | 30          | [[#Dual Class Feat]]                              |
 
 # Fortitude
 
-Every 3 levels, you add [[Fortitude]] to your [[Health Points|Max HP]].
+Every 3 levels - you add [[Fortitude]] to your [[Health Points|Max HP]] an additional time.
 
 # Skill Points
 
-Gain 2 Skill Points to add to [[Rules/Characters/Skills/index|Skills]] of your choice. 
+Every 3 Levels - Gain 2 Skill Points to add to [[Rules/Characters/Skills/index|Skills]] of your choice. 
 Each Skill Point invested allows you to add your [[Level Bonus]] to rolls with that skill.
 
 # LB Up
@@ -60,27 +60,27 @@ At Levels 6, 15, and 24, the maximum [[#Skill Points]] you can invest in your [[
 
 # LB Auto Max Up
 
-At Levels 9, 18 and 27, you may add your [[Level Bonus]] one additional time for [[Hit]] rolls and [[Defence]]
+At Levels 9 and 18, you may add your [[Level Bonus]] one additional time for [[Hit]] rolls and [[Defence]]
 
 # Spellcasting
 
-Every 6 levels you gain access to a new tier of spellcasting, and can now learn and cast spells of that tier.
+Every 6 levels - At levels 7, 13, 19, 25 - you gain access to a new tier of spellcasting, and can now learn and cast spells of that tier.
 
 # Techniques
 
-Every 6 levels you gain access to a new tier of techniques, and automatically learn and can use those techniques belonging to paradigms you know.
+Every 6 levels - At levels 4, 10, 16, 22, 28 - you gain access to a new tier of techniques, and automatically learn and can use those techniques belonging to paradigms you know.
 
 # Max Boost Up
 
-Every 6 levels the maximum amount you can [[Boost]] increases by 1.
+Every 6 levels - At levels 7, 13, 19, 25 - the maximum amount you can [[Boost]] increases by 1.
 
 # Feat
 
-Every 6 levels you may gain a [[Rules/Characters/Feats/index|Feat]] from the list of Feats.
+Every 6 levels - At levels 2, 8, 14, 20, 26 - you may gain a [[Rules/Characters/Feats/index|Feat]] from the list of Feats.
 
 # Stat Points
 
-Every 6 levels you may add +1 to any two of your [[Rules/Characters/index#Stats|Stats]].
+Every 6 levels - At levels 5, 11, 17, 23, 29 - you may add +1 to any two of your [[Rules/Characters/index#Stats|Stats]].
 
 # Dual Class Feat
 

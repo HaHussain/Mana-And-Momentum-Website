@@ -78,20 +78,20 @@ Outfits are an alternative to Armour that can be changed into or worn, and provi
 
 | Outfits                      | Abilities                                  | Immunities                                  |
 | ---------------------------- | ------------------------------------------ | ------------------------------------------- |
-| **[[#Non-Descript Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
-| ^                            | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | [[Deaf]]<br>[[Vulnerable]]<br>[[Charmed]]   |
+| **[[#Non-Descript Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Deaf]]<br>[[Vulnerable]]<br>[[Charmed]]   |
+| ^                            | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | ^                                           |
 | **1:**<br>**2:**             | <                                          | <                                           |
 |                              | <                                          | <                                           |
-| **[[#Eye-Catching Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
-| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | [[Chilled]]<br>[[Fascinated]]<br>[[Numb]]   |
+| **[[#Eye-Catching Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Chilled]]<br>[[Fascinated]]<br>[[Numb]]   |
+| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                           |
 | **1:**<br>**2:**             | <                                          | <                                           |
 |                              | <                                          | <                                           |
-| **[[#Relaxed Outfit]]**      | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
-| ^                            | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | [[Blind]]<br>[[Corroded]]<br>[[Shocked]]    |
+| **[[#Relaxed Outfit]]**      | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Blind]]<br>[[Corroded]]<br>[[Shocked]]    |
+| ^                            | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | ^                                           |
 | **1:**<br>**2:**             | <                                          | <                                           |
 |                              | <                                          | <                                           |
-| **[[#Imposing Outfit]]**     | **[[Defence]]:** 10 + [[Dexterity\|DEX]]   | <                                           |
-| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 0 | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
+| **[[#Imposing Outfit]]**     | **[[Defence]]:** 10 + [[Dexterity\|DEX]]   | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
+| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 0 | ^                                           |
 | **1:**<br>**2:**             | <                                          | <                                           |
 
 # Stats
