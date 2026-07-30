@@ -76,23 +76,23 @@ Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Charac
 
 Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
 
-| Outfits                      | Abilities                                  | Immunities                                  |
-| ---------------------------- | ------------------------------------------ | ------------------------------------------- |
-| **[[#Non-Descript Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Deaf]]<br>[[Vulnerable]]<br>[[Charmed]]   |
-| ^                            | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | ^                                           |
-| **1:**<br>**2:**             | <                                          | <                                           |
-|                              | <                                          | <                                           |
-| **[[#Eye-Catching Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Chilled]]<br>[[Fascinated]]<br>[[Numb]]   |
-| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                           |
-| **1:**<br>**2:**             | <                                          | <                                           |
-|                              | <                                          | <                                           |
-| **[[#Relaxed Outfit]]**      | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Blind]]<br>[[Corroded]]<br>[[Shocked]]    |
-| ^                            | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | ^                                           |
-| **1:**<br>**2:**             | <                                          | <                                           |
-|                              | <                                          | <                                           |
-| **[[#Imposing Outfit]]**     | **[[Defence]]:** 10 + [[Dexterity\|DEX]]   | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
-| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 0 | ^                                           |
-| **1:**<br>**2:**             | <                                          | <                                           |
+| Outfit                                                                                                                                                 | Defences                                   | Immunities                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------- |
+| **[[#Non-Descript Outfit]]**                                                                                                                           | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Deaf]]<br>[[Vulnerable]]<br>[[Charmed]]   |
+| ^                                                                                                                                                      | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | ^                                           |
+| **1:** [[Rules/Characters/index\|Characters]] pay you no heed or attention by default.<br>**2:**                                                       | <                                          | <                                           |
+|                                                                                                                                                        | <                                          | <                                           |
+| **[[#Eye-Catching Outfit]]**                                                                                                                           | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Chilled]]<br>[[Fascinated]]<br>[[Numb]]   |
+| ^                                                                                                                                                      | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | ^                                           |
+| **1:** When you enter a room, everyone is briefly [[Fascinated]] by you for a round.<br>**2:**                                                         | <                                          | <                                           |
+|                                                                                                                                                        | <                                          | <                                           |
+| **[[#Relaxed Outfit]]**                                                                                                                                | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | [[Blind]]<br>[[Corroded]]<br>[[Shocked]]    |
+| ^                                                                                                                                                      | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | ^                                           |
+| **1:** [[Ally\|Allies]] cannot be prevented from seeing you or moving towards you by any standard [[Statuses and Conditions/index\|Debuff]].<br>**2:** | <                                          | <                                           |
+|                                                                                                                                                        | <                                          | <                                           |
+| **[[#Imposing Outfit]]**                                                                                                                               | **[[Defence]]:** 10 + [[Dexterity\|DEX]]   | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
+| ^                                                                                                                                                      | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 0 | ^                                           |
+| **1:** <br>**2:**                                                                                                                                      | <                                          | <                                           |
 
 # Stats
 ## Defence

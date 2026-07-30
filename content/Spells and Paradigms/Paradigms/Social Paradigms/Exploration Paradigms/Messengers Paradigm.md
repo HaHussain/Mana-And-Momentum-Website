@@ -11,13 +11,13 @@
 
 ## Fast Travel
 
-| Fast Travel                                                                                                                                    | <                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Tempo:** [[Move]]                                                                                                                            | **Cost:** 1 + [[Boost]]                                                                |
-| **Target:** Self or [[Fortress]]                                                                                                               | **Duration:** Until you or the [[Fortress]] stop taking the [[Move]] action each round |
-|                                                                                                                                                | <                                                                                      |
-| While you follow a [[Rules/Exploration/index#Paths\|Path]] or Road, double your [[Speed]] until you stop moving (Instead of 1.5x from a Path). | <                                                                                      |
-| [[Rules/Actions/index\|Action]]                                                                                                                | <                                                                                      |
+| Fast Travel                                                                                                                                                                           | <                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Tempo:** [[Move]]                                                                                                                                                                   | **Cost:** 1 + [[Boost]]                                                                |
+| **Target:** Self or [[Fortress]]                                                                                                                                                      | **Duration:** Until you or the [[Fortress]] stop taking the [[Move]] action each round |
+|                                                                                                                                                                                       | <                                                                                      |
+| While you follow a [[Rules/Exploration/index#Paths\|Path]] or Road, double your [[Speed]] until you stop moving (Instead of 1.5x from a Path).<br><br>[[Boost]]: +0.5x per [[Boost]]. | <                                                                                      |
+| [[Rules/Actions/index\|Action]]                                                                                                                                                       | <                                                                                      |
 
 
 
