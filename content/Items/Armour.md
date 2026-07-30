@@ -76,23 +76,23 @@ Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Charac
 
 Outfits are an alternative to Armour that can be changed into or worn, and provide a beneficial effect.
 
-| Outfits                                                                       | Abilities                                                     | Immunities                                      |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- |
-| **[[#Stealth Outfit]]**                                                       | **[[Defence]]:** 8 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]] | <                                               |
-| ^                                                                             | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0                    | [[Blind]]<br>[[Deaf]]<br>[[Charmed]]            |
-| **1:** [[Advantage]] on rolls to avoid being perceived or intuited.<br>**2:** | <                                                             | <                                               |
-|                                                                               | <                                                             | <                                               |
-| **[[#Diva Outfit]]**                                                          | **[[Defence]]:** 8 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]] | <                                               |
-| ^                                                                             | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1                    | [[Chilled]]<br>[[Fascinated]]<br>[[Restricted]] |
-| **1:** [[Advantage]] on rolls to get or keep attention on you<br>**2:**       | <                                                             | <                                               |
-|                                                                               | <                                                             | <                                               |
-| **[[#Rock Outfit]]**                                                          | **[[Defence]]:** 9 + [[Level Bonus\|LB]] + [[Dexterity\|DEX]] | <                                               |
-| ^                                                                             | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2                    | [[Condemned]]<br>[[Shocked]]<br>[[Vulnerable]]  |
-| **1:** [[Advantage]] on rolls to avoid being moved or changed<br>**2:**       | <                                                             | <                                               |
-|                                                                               | <                                                             | <                                               |
-| **[[#Something Outfit]]**                                                     | **[[Defence]]:** ? + [[Level Bonus\|LB]] + [[Dexterity\|DEX]] | <                                               |
-| ^                                                                             | **[[Deflection]]:** ?<br>**[[Sturdy]]:** ?                    | [[Corroded]]<br>[[Numb]]<br>[[Weak]]            |
-| **1:** [[Advantage]] on rolls to<br>**2:**                                    | <                                                             | <                                               |
+| Outfits                      | Abilities                                  | Immunities                                  |
+| ---------------------------- | ------------------------------------------ | ------------------------------------------- |
+| **[[#Non-Descript Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
+| ^                            | **[[Deflection]]:** 2<br>**[[Sturdy]]:** 0 | [[Deaf]]<br>[[Vulnerable]]<br>[[Charmed]]   |
+| **1:**<br>**2:**             | <                                          | <                                           |
+|                              | <                                          | <                                           |
+| **[[#Eye-Catching Outfit]]** | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
+| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 1 | [[Chilled]]<br>[[Fascinated]]<br>[[Numb]]   |
+| **1:**<br>**2:**             | <                                          | <                                           |
+|                              | <                                          | <                                           |
+| **[[#Relaxed Outfit]]**      | **[[Defence]]:** 8 + [[Dexterity\|DEX]]    | <                                           |
+| ^                            | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2 | [[Blind]]<br>[[Corroded]]<br>[[Shocked]]    |
+| **1:**<br>**2:**             | <                                          | <                                           |
+|                              | <                                          | <                                           |
+| **[[#Imposing Outfit]]**     | **[[Defence]]:** 10 + [[Dexterity\|DEX]]   | <                                           |
+| ^                            | **[[Deflection]]:** 1<br>**[[Sturdy]]:** 0 | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
+| **1:**<br>**2:**             | <                                          | <                                           |
 
 # Stats
 ## Defence
