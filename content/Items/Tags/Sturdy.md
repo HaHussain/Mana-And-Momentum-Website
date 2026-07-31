@@ -6,6 +6,6 @@ When you are [[Push|Pushed]] or [[Pull|Pulled]], you are [[Push|Pushed]] or [[Pu
 When you roll to avoid being knocked [[Prone]], you may add your Sturdy.
 
 With an [[Outfit]]:
-You may add your [[Sturdy]] to your [[Willpower]].
+You may add your [[Sturdy]] to your [[Resolve]].
 
 Multiple Sturdy tags stack.

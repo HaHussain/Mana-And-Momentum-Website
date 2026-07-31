@@ -236,7 +236,7 @@ When you perform [[Teamwork]], as a [[Rules/Actions/Tags/Reaction|Reaction]], yo
 
 **Wave Crest:**
 *Requirement: Commander Level 5*
-All [[Ally|Allies]] in this Aura have +1 [[Willpower]].
+All [[Ally|Allies]] in this Aura have +1 [[Resolve]].
 
 **Void Crest:**
 *Requirement: Commander Level 10*
@@ -292,7 +292,7 @@ The Commander's tactics targeting hexes targets a cluster of 3 all adjacent hexe
 | **Tempo:** [[Charge]]: 1 - [[Scan]]: 4                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Cost:** 1 [[Momentum]] |
 | **Target:** [[#Tactics Square]] in [[Seek]]                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Duration:** 1 Round    |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | <                        |
-| [[Scan]] each [[Rules/Characters/index\|Character]] of your choice in the area. <br>You must ask the same question of all of them and may choose from the following options in addition:<br>- Which [[Rules/Characters/index\|Character]] in the area has the highest [[Strength\|STR]] / [[Dexterity\|DEX]] / [[Fortitude\|FOR]] / [[Awareness\|AWR]] / [[Intelligence\|INT]] / [[Instinct\|INS]]?<br>- Which [[Rules/Characters/index\|Character]] in the area has the lowest [[Willpower]]? | <                        |
+| [[Scan]] each [[Rules/Characters/index\|Character]] of your choice in the area. <br>You must ask the same question of all of them and may choose from the following options in addition:<br>- Which [[Rules/Characters/index\|Character]] in the area has the highest [[Strength\|STR]] / [[Dexterity\|DEX]] / [[Fortitude\|FOR]] / [[Awareness\|AWR]] / [[Intelligence\|INT]] / [[Instinct\|INS]]?<br>- Which [[Rules/Characters/index\|Character]] in the area has the lowest [[Resolve]]? | <                        |
 | [[Charge]] [[Rules/Actions/index\|Action]] [[Mark]]                                                                                                                                                                                                                                                                                                                                                                                                                                            | <                        |
 
 

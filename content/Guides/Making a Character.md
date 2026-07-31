@@ -16,7 +16,7 @@ Your [[Seek]] is [[Awareness]] squares (minimum 1), if your [[Awareness]] is les
 Your [[Item Points|Max Item Points]] is equal to 2 + [[Intelligence]] (min 0).
 Your [[Weight|Max Weight]] is equal to 10 + 2 * [[Strength]].
 Your [[Exert#Exertion|Maximum Exertion]] is equal to 2 + [[Fortitude]] (min 1).
-Your [[Willpower]] is equal to [[Level Bonus|LB]] + [[Instinct]] / 2 (min 1).
+Your [[Resolve]] is equal to [[Level Bonus|LB]] + [[Instinct]] / 2 (min 1).
 Your [[Level Bonus]] is +2.
 
 Grab [[Items/index|Items]] up to your [[Weight|Max Weight]] 

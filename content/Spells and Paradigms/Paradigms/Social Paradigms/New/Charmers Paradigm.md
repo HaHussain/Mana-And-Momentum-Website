@@ -48,5 +48,5 @@
 | **Target:**   | 1 [[Rules/Characters/index\|Character]] in [[Seek]]                                                     |
 | **Duration:** | 1 Time Period                                                                                           |
 |               |                                                                                                         |
-| **Action:**   | Reduce the targets [[Willpower]] by [[Boost]] and immediately make an [[Overwhelmed\|Overwhelm]] check. |
+| **Action:**   | Reduce the targets [[Resolve]] by [[Boost]] and immediately make an [[Overwhelmed\|Overwhelm]] check. |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                                         |
