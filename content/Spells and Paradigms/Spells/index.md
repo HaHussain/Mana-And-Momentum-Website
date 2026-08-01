@@ -9,7 +9,7 @@ title: Spells
 ---
 # Mana
 
-Mana is the resource that fuels spellcasting. In general spellcasters will start the day with a stockpile of mana and a number of spells.
+Mana is the type of [[Power Point|Power Points]] that fuels spellcasting. In general spellcasters will start the day with a stockpile of mana and a number of spells.
 
 Each spell will have a [[Tempo]] and a Mana cost, and the duration for that cost. Eg.
 
