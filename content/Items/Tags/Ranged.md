@@ -19,10 +19,10 @@ However when target next to u, it no worky good :(
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                           |
 ## Overwatch Reaction
 
-|              | Overwatch Reaction                                                                        |
-| ------------ | ----------------------------------------------------------------------------------------- |
-| **Tempo:**   | 0                                                                                         |
-| **Special:** | This reaction can be taken as many as it is triggered.                                    |
-| **Trigger:** | A [[Rules/Characters/index\|Character]] moves into a square in the Overwatch target area. |
-| **Action:**  | [[Strike]] target with chosen weapon.                                                     |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                                                 |
+| Overwatch Reaction                                               | <                                                                                         |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Tempo:** 1                                                     | After Trigger                                                                             |
+| **Special:**                                                     | This reaction can be taken as many as it is triggered.                                    |
+| **Trigger:**                                                     | A [[Rules/Characters/index\|Character]] moves into a square in the Overwatch target area. |
+| **Action:**                                                      | [[Strike]] target with chosen weapon.                                                     |
+| **Tags:** <tags>[[Rules/Actions/Tags/Reaction\|Reaction]]</tags> | <                                                                                         |
