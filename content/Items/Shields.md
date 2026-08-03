@@ -82,17 +82,17 @@ When you are included in a non-[[Arcing]] AoE ability, you can choose to take ma
 
 ## Mage Ward
 
-| Mage Ward    | <                                                              |
-| ------------ | -------------------------------------------------------------- |
-| **Tempo:** 4 | Before Trigger                                                 |
-| **Trigger:** | You take [[Damage]]                                            |
-| **Action:**  | Gain [[Deflection]] equal to your [[Willpower]] for this turn. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                      |
+| Mage Ward    | <                                                              | <              |
+| ------------ | -------------------------------------------------------------- | -------------- |
+| **Tempo:**   | 4                                                              | Before Trigger |
+| **Trigger:** | You take [[Damage]]                                            | <              |
+| **Action:**  | Gain [[Deflection]] equal to your [[Willpower]] for this turn. | <              |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                      | <              |
 ## Arcane Shield
 
-| Mage Ward    | <                                                           |
-| ------------ | ----------------------------------------------------------- |
-| **Tempo:** 4 | Before Trigger                                              |
-| **Trigger:** | You are [[Hit]]                                             |
-| **Action:**  | Gain [[Defence]] equal to your [[Willpower]] for this turn. |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                   |
+| Arcane Shield | <                                                           | <              |
+| ------------- | ----------------------------------------------------------- | -------------- |
+| **Tempo:**    | 4                                                           | Before Trigger |
+| **Trigger:**  | You are [[Hit]]                                             | <              |
+| **Action:**   | Gain [[Defence]] equal to your [[Willpower]] for this turn. | <              |
+| **Tags:**     | [[Rules/Actions/Tags/Reaction\|Reaction]]                   | <              |
