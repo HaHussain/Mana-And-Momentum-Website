@@ -4,24 +4,29 @@ aliases:
   - Shield
 ---
 
-| Item Name              | Effect                                                                                                                     |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-|                        |                                                                                                                            |
-| **[[#Buckler]]**       | Gain +2 [[Defence]] as a [[Rules/Actions/Tags/Reaction\|Reaction]]<br><br>[[One-Handed]]                                   |
-|                        | **1:** Disarm<br>**2:** Riposte                                                                                            |
-|                        |                                                                                                                            |
-| **[[#Heater Shield]]** | +1 [[Defence]]<br><br>[[One-Handed]]                                                                                       |
-|                        | **1:** +1 [[Sturdy]]<br>**2:** +1 [[Deflection]]                                                                           |
-|                        |                                                                                                                            |
-| **[[#Kite Shield]]**   | +1 [[Deflection]]<br><br>[[One-Handed]]                                                                                    |
-|                        | **1:** Effect section also effects your mount<br>**2:** Mount cant take damage                                             |
-|                        |                                                                                                                            |
-| **[[#Hoplon Shield]]** | +2 [[Defence]]<br><br>[[Orthogonal]]<br><br>[[Two-Handed]]<br>[[Strength\|STR]] > 1: [[One-Handed]]                        |
-|                        | **1:** Doubled effect against [[Rules/Actions/Tags/Reaction\|Reactions]]<br>**2:** [[Extra]]: [[Guard]] for 1 [[Momentum]] |
-|                        |                                                                                                                            |
-| **[[#Tower Shield]]**  | +2 [[Defence]]<br>+1 [[Deflection]]<br><br>-1 [[Speed]]<br><br>[[Two-Handed]]<br>[[Strength\|STR]] > 2: [[One-Handed]]     |
-|                        | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                  |
-|                        |                                                                                                                            |
+| Item Name                                                                                                                  | Effect                                                             | Weight Penalty |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------- |
+|                                                                                                                            | <                                                                  | <              |
+| **[[#Buckler]]**                                                                                                           | Gain +2 [[Defence]] as a [[Rules/Actions/Tags/Reaction\|Reaction]] |                |
+| **1:** Disarm<br>**2:** Riposte                                                                                            | <                                                                  |                |
+| <tags>[[One-Handed]]</tags>                                                                                                | <                                                                  |                |
+|                                                                                                                            | <                                                                  | <              |
+| **[[#Heater Shield]]**                                                                                                     | +1 [[Defence]]                                                     |                |
+| **1:** +1 [[Sturdy]]<br>**2:** +1 [[Deflection]]                                                                           | <                                                                  |                |
+| <tags>[[One-Handed]]</tags>                                                                                                | <                                                                  |                |
+|                                                                                                                            | <                                                                  | <              |
+| **[[#Kite Shield]]**                                                                                                       | +1 [[Deflection]]                                                  |                |
+| **1:** Effect section also effects your mount<br>**2:** Mount cant take damage                                             | <                                                                  |                |
+| <tags>[[One-Handed]]</tags>                                                                                                | <                                                                  |                |
+|                                                                                                                            | <                                                                  | <              |
+| **[[#Hoplon Shield]]**                                                                                                     | +2 [[Defence]]                                                     | [[Orthogonal]] |
+| **1:** Doubled effect against [[Rules/Actions/Tags/Reaction\|Reactions]]<br>**2:** [[Extra]]: [[Guard]] for 1 [[Momentum]] | <                                                                  |                |
+| <tags>[[Two-Handed]]<br>[[Strength\|STR]] > 1: [[One-Handed]]<tags>                                                        | <                                                                  |                |
+|                                                                                                                            | <                                                                  | <              |
+| **[[#Tower Shield]]**                                                                                                      | +2 [[Defence]]<br>+1 [[Deflection]]                                | -1 [[Speed]]   |
+| **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                  | <                                                                  |                |
+| <tags>[[Two-Handed]]<br>[[Strength\|STR]] > 2: [[One-Handed]]</tags>                                                       | <                                                                  |                |
+|                                                                                                                            | <                                                                  | <              |
 # Buckler
 **Effect:** You gain the following Shield Block reaction.
 **Focus 1:** 
