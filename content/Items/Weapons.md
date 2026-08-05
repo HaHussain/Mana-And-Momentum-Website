@@ -77,7 +77,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
 **Damage**: Medium
-**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] 2.
+**Weapon Focus 1**: On a [[Critical Strike]], apply [[Pain]] equal to your [[Level Bonus|LB]].
 **Weapon Focus 2**: [[Strike|Strikes]] with this weapon target 3 contiguous squares.
 **Tags**: [[Melee]] 1, [[One-Handed]]
 
@@ -228,15 +228,37 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 2**: When this weapon [[Hit|Hits]], deal [[Rules/Rolls/index#Roll Parts|Dice Damage]] to all targets in [[Range]] 1 [[Orthogonal]].
 **Tags**: [[Ranged]], [[Two-Handed]], [[Slow]], [[Reload]]
 
-# Magic Weapons
 
-| Item Name | Damage | Summary                                                   |
-| --------- | ------ | --------------------------------------------------------- |
-| Wand      |        | **1:** Faster?<br>**2:**                                  |
-| Tome      |        | **1:** Get access to a spell you didn't bring?<br>**2:**  |
-| Staff     |        | **1:** Increased range? Extended Seek?<br>**2:**          |
-| Orb       |        | **1:** Concentrate a spell to be more effective<br>**2:** |
-| Censer    |        |                                                           |
+
+# Magic Weapons
+## Table
+
+| Item Name                                                                  | Damage | Summary                                                   |                                          |
+| -------------------------------------------------------------------------- | ------ | --------------------------------------------------------- | ---------------------------------------- |
+| **[[#Palm Cuff]]**                                                         | Small  | **1:** <br>**2:**                                         | Should be like claws or percy diplomacy  |
+| [[Conduit]] [[One-Handed]] [[Grappling]] [[Melee\|Melee 1]] [[Orthogonal]] | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Wand]]**                                                              | Small  | **1:** Faster?<br>**2:**                                  | Quick draw, fairly standard, short range |
+| <tags>[[Conduit]] [[One-Handed]] [[Quick]]</tags>                          | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Scepter]]**                                                           | Large  | **1:** Faster?<br>**2:**                                  | Wand but charged up, maybe beams         |
+| <tags>[[Conduit]] [[One-Handed]] [[Reload]]</tags>                         | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Tome]]**                                                              | Medium | **1:** Get access to a spell you didn't bring?<br>**2:**  | Get bonus metamagics                     |
+| <tags>[[Conduit]] [[Two-Handed]] [[Slow]]</tags>                           | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Staff]]**                                                             | Large  | **1:** Increased range? Extended Seek?<br>**2:**          | Very standard weapon, good range         |
+| <tags>[[Conduit]] [[Two-Handed]]</tags>                                    | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Orb]]**                                                               | Medium | **1:** Concentrate a spell to be more effective<br>**2:** | Deploy orb, fire at it from far away,    |
+| <tags>[[Conduit]] [[Two-Handed]] [[Deployable]]</tags>                     | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+| **[[#Censer]]**                                                            | Medium | **1:** <br>**2:**                                         | Melee attacks,                           |
+| <tags>[[Conduit]] [[Melee\|Melee 1]] [[One-Handed]]</tags>                 | <      | <                                                         |                                          |
+|                                                                            | <      | <                                                         |                                          |
+## Stats
+
+### Wand
 
 
 

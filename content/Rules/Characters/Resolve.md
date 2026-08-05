@@ -1,4 +1,4 @@
 ---
 icon: GiLevelThreeAdvanced
 ---
-Resolve = [[Instinct]] / 2 + [[Level Bonus]]
+Resolve = 1 + [[Instinct]] / 2 + [[Level Bonus]]

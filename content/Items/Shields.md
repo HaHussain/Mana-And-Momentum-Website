@@ -27,7 +27,11 @@ aliases:
 | **1:** Block AOEs for people behind you<br>**2:** Plant tower shield, increase [[Sturdy]]                                                                                            | <                                                |                |
 | <tags>[[Strength\|STR]] < 3: [[Two-Handed]]<br>[[Strength\|STR]] > 2: [[One-Handed]]</tags>                                                                                          | <                                                | <              |
 |                                                                                                                                                                                      | <                                                | <              |
-| **[[#Wardstone]]**                                                                                                                                                                   | +2 [[Willpower]]                                 | -1 [[Speed]]   |
+| **[[#Keystone Ward]]**                                                                                                                                                               | +2 [[Willpower]]                                 | [[Orthogonal]] |
+| **1:**<br>**2:**                                                                                                                                                                     | <                                                | <              |
+| <tags>[[One-Handed]] [[Conduit]]</tags>                                                                                                                                              | <                                                | <              |
+|                                                                                                                                                                                      |                                                  |                |
+| **[[#Lodestone Ward]]**                                                                                                                                                              | +2 [[Willpower]]<br>+1 [[Deflection]]            | -1 [[Speed]]   |
 | **1:** [[Rules/Actions/Tags/Reaction\|Reaction]]: Gain [[Deflection]] equal to [[Resolve]]<br>**2:** [[Rules/Actions/Tags/Reaction\|Reaction]] Gain [[Defence]] equal to [[Resolve]] | <                                                | <              |
 | <tags>[[One-Handed]] [[Conduit]]</tags>                                                                                                                                              | <                                                | <              |
 # Buckler
@@ -79,10 +83,17 @@ When you are included in a non-[[Arcing]] AoE ability, you can choose to take ma
 [[Strength|STR]] < 3: [[Two-Handed]]
 [[Strength|STR]] > 2: [[One-Handed]]
 
-# Wardstone
+# Keystone Ward
 **Effect:** +2 [[Willpower]]
+**Weight Penalty:** [[Orthogonal]]
+**Focus 1:** 
+**Focus 2:** 
+**Tags:** [[One-Handed]] [[Conduit]]
+
+# Lodestone Ward
+**Effect:** +2 [[Willpower]], +1 [[Deflection]]
 **Weight Penalty:** -1 [[Speed]]
-**Focus 1:** Gain the [[#Mage Ward]] [[Rules/Actions/Tags/Reaction|Reaction]]:
+**Focus 1:** Gain the [[#Mage Ward]] [[Rules/Actions/Tags/Reaction|Reaction]]
 **Focus 2:** Gain the [[#Arcane Shield]] [[Rules/Actions/Tags/Reaction|Reaction]]
 **Tags:** [[One-Handed]] [[Conduit]]
 
@@ -93,7 +104,7 @@ When you are included in a non-[[Arcing]] AoE ability, you can choose to take ma
 | **Tempo:**   | 4                                                              | Before Trigger |
 | **Trigger:** | You take [[Damage]]                                            | <              |
 | **Action:**  | Gain [[Deflection]] equal to your [[Willpower]] for this turn. | <              |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]]                      | <              |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Magic]]            | <              |
 ## Arcane Shield
 
 | Arcane Shield | <                                                           | <              |
@@ -101,4 +112,4 @@ When you are included in a non-[[Arcing]] AoE ability, you can choose to take ma
 | **Tempo:**    | 4                                                           | Before Trigger |
 | **Trigger:**  | You are [[Hit]]                                             | <              |
 | **Action:**   | Gain [[Defence]] equal to your [[Willpower]] for this turn. | <              |
-| **Tags:**     | [[Rules/Actions/Tags/Reaction\|Reaction]]                   | <              |
+| **Tags:**     | [[Rules/Actions/Tags/Reaction\|Reaction]] [[Magic]]         | <              |

@@ -93,6 +93,7 @@ Outfits are an alternative to Armour that can be changed into or worn, and provi
 | **[[#Imposing Outfit]]**                                                                                                                               | **[[Willpower]]:** 10 + [[Level Bonus\|LB]] + [[Intelligence\|INT]] | <                                           |
 | ^                                                                                                                                                      | **[[Deflection]]:** 0<br>**[[Sturdy]]:** 2                          | [[Condemned]]<br>[[Restricted]]<br>[[Weak]] |
 | **1:** <br>**2:**                                                                                                                                      | <                                                                   | <                                           |
+|                                                                                                                                                        |                                                                     |                                             |
 
 # Stats
 ## Defence
