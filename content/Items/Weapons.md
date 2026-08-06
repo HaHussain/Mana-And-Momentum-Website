@@ -141,28 +141,28 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | [[Melee]] 1 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2. | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Shortbow]]**                                                                    | Small  | A fast weapon made to pop up from stealth and hide.<br>Focus: Stealth shot and hide after shots                            |
-| [[Ranged]], [[Two-Handed]], [[Arcing]], [[Quick]]                                    | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 10]], [[Two-Handed]], [[Arcing]], [[Quick]]                         | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Longbow]]**                                                                     | Medium | A well rounded weapon<br>Focus: More powerful from elevation and empowers Marked                                           |
-| [[Ranged]], [[Two-Handed]], [[Arcing]]                                               | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 20]], [[Two-Handed]], [[Arcing]]                                    | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Crossbow]]**                                                                    | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
-| [[Ranged]] #, [[Two-Handed]]                                                         | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]] [[Two-Handed]]                                                  | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Volley Crossbow]]**                                                             | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
-| [[Ranged]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]                    | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]          | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Repeater Crossbow]]**                                                           | Small  | A weak AoE ranged weapon that effects large number of enemies.<br>Focus: Apply poison and                                  |
-| [[Ranged]], [[Line]] 8 / [[Cone]] 4, [[Two-Handed]], [[Reload]]                      | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]], [[Line]] 8 / [[Cone]] 4, [[Two-Handed]], [[Reload]]            | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Pistol]]**                                                                      | Medium | A quick good damage weapon that needs reloading<br>Focus: Shoot and swap out and a quick shot before combat begins         |
-| [[Ranged]], [[One-Handed]], [[Quick]], [[Reload]]                                    | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 15]], [[One-Handed]], [[Quick]], [[Reload]]                         | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Rifle]]**                                                                       | Large  | High damage long range reloading weapon<br>Focus: Hits harder when unseen and out of range and increased range             |
-| [[Ranged]], [[Two-Handed]], [[Reload]]                                               | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 30]], [[Two-Handed]], [[Reload]]                                    | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Hand-Cannon]]**                                                                 | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
-| [[Ranged]], [[Two-Handed]], [[Slow]], [[Reload]]                                     | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 10]], [[Two-Handed]], [[Slow]], [[Reload]]                          | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 
 
@@ -233,33 +233,38 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Magic Weapons
 ## Table
 
-| Item Name                                                                  | Damage | Summary                                                   |                                          |
-| -------------------------------------------------------------------------- | ------ | --------------------------------------------------------- | ---------------------------------------- |
-| **[[#Palm Cuff]]**                                                         | Small  | **1:** <br>**2:**                                         | Should be like claws or percy diplomacy  |
-| [[Conduit]] [[One-Handed]] [[Grappling]] [[Melee\|Melee 1]] [[Orthogonal]] | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Wand]]**                                                              | Small  | **1:** Faster?<br>**2:**                                  | Quick draw, fairly standard, short range |
-| <tags>[[Conduit]] [[One-Handed]] [[Quick]]</tags>                          | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Scepter]]**                                                           | Large  | **1:** Faster?<br>**2:**                                  | Wand but charged up, maybe beams         |
-| <tags>[[Conduit]] [[One-Handed]] [[Reload]]</tags>                         | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Tome]]**                                                              | Medium | **1:** Get access to a spell you didn't bring?<br>**2:**  | Get bonus metamagics                     |
-| <tags>[[Conduit]] [[Two-Handed]] [[Slow]]</tags>                           | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Staff]]**                                                             | Large  | **1:** Increased range? Extended Seek?<br>**2:**          | Very standard weapon, good range         |
-| <tags>[[Conduit]] [[Two-Handed]]</tags>                                    | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Orb]]**                                                               | Medium | **1:** Concentrate a spell to be more effective<br>**2:** | Deploy orb, fire at it from far away,    |
-| <tags>[[Conduit]] [[Two-Handed]] [[Deployable]]</tags>                     | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
-| **[[#Censer]]**                                                            | Medium | **1:** <br>**2:**                                         | Melee attacks,                           |
-| <tags>[[Conduit]] [[Melee\|Melee 1]] [[One-Handed]]</tags>                 | <      | <                                                         |                                          |
-|                                                                            | <      | <                                                         |                                          |
+| Item Name                                                  | Damage | Summary                                                   |                                                                 |
+| ---------------------------------------------------------- | ------ | --------------------------------------------------------- | --------------------------------------------------------------- |
+| **[[#Palm Cuff]]**                                         | Small  | **1:** <br>**2:**                                         | Should be like claws or percy diplomacy<br>Range 1              |
+| [[Conduit]] [[One-Handed]] [[Grappling]]  [[Orthogonal]]   | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Wand]]**                                              | Small  | **1:** Faster?<br>**2:**                                  | Quick draw, fairly standard, short range<br>Range 8             |
+| <tags>[[Conduit]] [[One-Handed]] [[Quick]]</tags>          | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Scepter]]**                                           | Large  | **1:** Faster?<br>**2:**                                  | Wand but charged up, maybe beams<br>Range 15, Range 10 - Line 5 |
+| <tags>[[Conduit]] [[One-Handed]] [[Reload]]</tags>         | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Tome]]**                                              | Medium | **1:** Get access to a spell you didn't bring?<br>**2:**  | Get bonus metamagics<br>Range 15                                |
+| <tags>[[Conduit]] [[Two-Handed]] [[Slow]]</tags>           | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Staff]]**                                             | Large  | **1:** Increased range? Extended Seek?<br>**2:**          | Very standard weapon, good range<br>Range 20                    |
+| <tags>[[Conduit]] [[Two-Handed]]</tags>                    | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Orb]]**                                               | Medium | **1:** Concentrate a spell to be more effective<br>**2:** | Deploy orb, fire at it from far away,<br>Range 5?               |
+| <tags>[[Conduit]] [[Two-Handed]] [[Deployable]]</tags>     | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
+| **[[#Censer]]**                                            | Medium | **1:** <br>**2:**                                         | Melee attacks,                                                  |
+| <tags>[[Conduit]] [[Melee\|Melee 1]] [[One-Handed]]</tags> | <      | <                                                         |                                                                 |
+|                                                            | <      | <                                                         |                                                                 |
 ## Stats
 
 ### Wand
-
+**Damage**: Small
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Water]], [[Elemental Type|Air]], [[Elemental Type|Earth]]
+**[[Conduit#Additional Spells|Additional Spells]]:** [[Magic Missile]], [[Genera]]
+**Weapon Focus 1**: 
+**Weapon Focus 2**:
+**Tags**: [[Conduit|Conduit 8]], [[One-Handed]]
 
 
 # Custom Weapons

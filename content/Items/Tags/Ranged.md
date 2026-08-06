@@ -10,13 +10,15 @@ However when target next to u, it no worky good :(
 
 ## Overwatch Action
 
-|               | Overwatch                                                                                 |
+| Overwatch     | <                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------- |
 | **Tempo:**    | [[Attack]]                                                                                |
 | **Target:**   | If [[One-Handed]]: [[Ranged]] [[Circle]] 3,<br>If [[Two-Handed]]: [[Ranged]] [[Circle]] 5 |
 | **Duration:** | Until Tempo 5 next Round.                                                                 |
-| **Action:**   | Choose a [[Ranged]] weapon you are holding and gain:<br>[[#Overwatch Reaction]]           |
+| **Action:**   | Choose a [[Ranged]] weapon you are holding and gain:<br>![[#Overwatch Reaction]]          |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                           |
+
+# Quartz:Hidden
 ## Overwatch Reaction
 
 | Overwatch Reaction                                               | <                                                                                         | <             |
