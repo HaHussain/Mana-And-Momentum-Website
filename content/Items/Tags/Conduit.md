@@ -15,5 +15,4 @@ When an [[Consumables#Affluent|Affluent]] is applied to a Conduit Item, this can
 
 # Additional Spells
 
-Conduit [[Weapons]] provide the user with a small collection of additional spells that substitute the default [[Strike]] of that weapon.
-Conduit [[Shields]] provide the user with a small collection of additional spells that substitute the default [[Guard]] of that weapon.
+Conduit Equipment provide the user with a small collection of additional spells that they can cast without expending [[Spells and Paradigms/Spells/index|Mana]].
