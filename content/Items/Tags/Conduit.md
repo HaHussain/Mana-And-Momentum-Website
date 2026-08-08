@@ -1,5 +1,10 @@
 ---
 icon: GiOrbWand
+aliases:
+  - Conduit Element
+  - Conduit Spell
+  - Conduit Elements
+  - Conduit Spells
 ---
 A Conduit Item allows a [[Rules/Characters/index|Character]] to take the [[Magic]] action to cast [[Arts/Spells/index|Spells]].
 

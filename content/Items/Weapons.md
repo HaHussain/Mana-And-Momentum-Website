@@ -7,52 +7,50 @@ aliases:
 # Melee Weapons
 ## Table
 
-| Weapon                                                                           | Damage | Summary                                                                            |
-| -------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
-| **[[#Dagger]]**                                                                  | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                        |
-| <tags>[[Quick]] [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Grappling]]</tags>   | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Gauntlets]]**                                                               | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                    |
-| [[Quick]], [[Melee]] 1 [[Orthogonal]], [[Push]] 1, [[One-Handed]], [[Grappling]] | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Sword]]**                                                                   | Medium | Simple weapon.<br>Focus: Faster and simpler                                        |
-| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Axe]]**                                                                     | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes          |
-| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Hammer]]**                                                                  | Medium | Pushing weapon.<br>Focus: Push more and harder                                     |
-| [[Melee]] 1, [[One-Handed]], [[Push]] 1                                          | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Spear]]**                                                                   | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                   |
-| [[Melee]] 2 [[Orthogonal]], [[One-Handed]]                                       | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Foil]]**                                                                    | Medium | Dueling weapon:<br>Focus: Reactions to parry and riposte                           |
-| [[Quick]], [[Melee]] 1, [[One-Handed]]                                           | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Quarterstaff]]**                                                            | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                 |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **Great-Sword**                                                                  | Large  |                                                                                    |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **Great-Axe**                                                                    | Large  |                                                                                    |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **Great-Hammer**                                                                 | Large  |                                                                                    |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **Longspear**                                                                    | Large  |                                                                                    |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **[[#Flail]]**                                                                   | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
-| **Epee**                                                                         | Large  |                                                                                    |
-|                                                                                  | <      | <                                                                                  |
-|                                                                                  | <      | <                                                                                  |
+| Weapon                                                                           | Damage | Summary                                                                                             |
+| -------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------- |
+| **[[#Dagger]]**                                                                  | Small  | Fast close combat weapon.<br>Focus: Debuffs and Crit chance                                         |
+| <tags>[[Quick]] [[Melee]] 1 [[Orthogonal]] [[One-Handed]] [[Grappling]]</tags>   | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Gauntlets]]**                                                               | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                                     |
+| [[Quick]], [[Melee]] 1 [[Orthogonal]], [[Push]] 1, [[One-Handed]], [[Grappling]] | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Sword]]**                                                                   | Medium | Simple weapon.<br>Focus: Faster and simpler                                                         |
+| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Axe]]**                                                                     | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes                           |
+| [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Hammer]]**                                                                  | Medium | Pushing weapon.<br>Focus: Push more and harder                                                      |
+| [[Melee]] 1, [[One-Handed]], [[Push]] 1                                          | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Spear]]**                                                                   | Medium | Long range melee weapon.<br>Focus: Line strikes and longer reach                                    |
+| [[Melee]] 2 [[Orthogonal]], [[One-Handed]]                                       | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Rapier]]**                                                                  | Medium | Dueling weapon:<br>Focus: [[Rules/Actions/Tags/Reaction\|Reactions]] to [[#Parry]] and [[#Riposte]] |
+| [[Quick]], [[Melee]] 1, [[One-Handed]]                                           | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Quarterstaff]]**                                                            | Medium | Medium range innocuous grappling weapon.<br>Focus: Knock prone and                                  |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **Great-Sword**                                                                  | Large  |                                                                                                     |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **Great-Axe**                                                                    | Large  |                                                                                                     |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **Great-Hammer**                                                                 | Large  |                                                                                                     |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **Longspear**                                                                    | Large  |                                                                                                     |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+| **[[#Flail]]**                                                                   | Large  | Heavy duty grappling push weapon <br>Focus: Multidirectional and devastating crits                  |
+|                                                                                  | <      | <                                                                                                   |
+|                                                                                  | <      | <                                                                                                   |
+
 
 
 ## Stats
@@ -93,9 +91,12 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Weapon Focus 2**: +1 [[Melee|Melee Range]].
 **Tags**: [[Melee]] 2 [[Orthogonal]], [[One-Handed]]
 
-### Foil
+### Rapier
 **Damage**: Medium
-**Weapon Focus 1**: Gain the Parry Reaction
+**Weapon Focus 1**: Gain the [[#Parry]] Reaction
+**Weapon Focus 2**: Gain the [[#Riposte]] Reaction
+**Tags**: [[Quick]], [[Melee]] 1, [[One-Handed]]
+#### Parry
 
 | Parry                                                                                          |
 | ---------------------------------------------------------------------------------------------- |
@@ -103,8 +104,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | **Trigger:** You are [[Hit]] by a [[Strike]] from a target in your [[Melee\|Melee Range]]      |
 | [[Strike]] your attacker, on [[Hit]] you cause them to [[Miss]] instead of any normal effects. |
 | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                          |
-
-**Weapon Focus 2**: Gain the Riposte Reaction
+#### Riposte
 
 | Riposte                                                                                            |
 | -------------------------------------------------------------------------------------------------- |
@@ -113,7 +113,6 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | [[Strike]] the triggerer.                                                                          |
 | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                              |
 
-**Tags**: [[Quick]], [[Melee]] 1, [[One-Handed]]
 
 ### Quarterstaff
 **Damage**: Medium
@@ -233,29 +232,29 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Magic Weapons
 ## Table
 
-| Item Name                                                                    | Damage | Summary                                                                                                                    |
-| ---------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **[[#Palm Cuff]]**                                                           | Small  | **1:** <br>**2:**                                                                                                          |
-| [[Conduit\|Conduit 1]] [[One-Handed]] [[Grappling]]  [[Orthogonal]]          | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Wand]]**                                                                | Small  | **1:** [[Quick]]<br>**2:** All [[Strike]] [[Arts/index\|Arts]] become [[Quick\|Quicker]]                                   |
-| <tags>[[Conduit\|Conduit 8]] [[One-Handed]]</tags>                           | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Scepter]]**                                                             | Large  | **1:** Gains [[Line\|Line 5]] <br>**2:** Change [[Conduit#Elements\|Element]] as part of [[Reload\|Reloading]].            |
-| <tags>[[Conduit\|Conduit 10]] [[One-Handed]] [[Reload]]</tags>               | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Tome]]**                                                                | Medium | **1:** Each [[Deep Rest]] select a [[Metamagic]] to learn.<br>**2:** Add 1 [[Metamagic]] to each [[Arts/index\|Art]] used. |
-| <tags>[[Conduit\|Conduit 15]] [[One-Handed]] [[Slow]]</tags>                 | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Staff]]**                                                               | Medium | **1:** All [[Arts/index\|Arts]] use Staff range.<br>**2:**                                                                 |
-| <tags>[[Conduit\|Conduit 15]] [[Two-Handed]]</tags>                          | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Orb]]**                                                                 | Medium | **1:** Target from Orb<br>**2:** Can [[Normal Move]] when you [[Move]]                                                     |
-| <tags>[[Conduit\|Conduit 5]] [[Two-Handed]] [[Arcing]] [[Deployable]]</tags> | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
-| **[[#Censer]]**                                                              | Medium | **1:** <br>**2:**                                                                                                          |
-| <tags>[[Conduit\|Conduit 1]] [[Melee\|Melee 1]] [[One-Handed]]</tags>        | <      | <                                                                                                                          |
-|                                                                              | <      | <                                                                                                                          |
+| Item Name                                                                    | Damage | Summary                                                                                                   |
+| ---------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
+| **[[#Palm Cuff]]**                                                           | Small  | **1:** <br>**2:**                                                                                         |
+| [[Conduit\|Conduit 1]] [[One-Handed]] [[Grappling]]  [[Orthogonal]]          | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Wand]]**                                                                | Small  | **1:** [[Quick]]<br>**2:** All [[Strike]] [[Arts/index\|Arts]] become [[Quick\|Quicker]]                  |
+| <tags>[[Conduit\|Conduit 8]] [[One-Handed]]</tags>                           | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Scepter]]**                                                             | Large  | **1:** Gains [[Line\|Line 5]] <br>**2:** Change [[Conduit#Elements\|Element]] when [[Reload\|Reloading]]. |
+| <tags>[[Conduit\|Conduit 10]] [[One-Handed]] [[Reload]]</tags>               | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Tome]]**                                                                | Medium | **1:** Learn a [[Metamagic]].<br>**2:** Add 1 [[Metamagic]] to each [[Arts/index\|Art]] used.             |
+| <tags>[[Conduit\|Conduit 15]] [[One-Handed]] [[Slow]]</tags>                 | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Staff]]**                                                               | Medium | **1:** All [[Arts/index\|Arts]] can use Staff range.<br>**2:**                                            |
+| <tags>[[Conduit\|Conduit 15]] [[Two-Handed]]</tags>                          | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Orb]]**                                                                 | Medium | **1:** Target from Orb<br>**2:** [[Normal Move\|Moves]] when you [[Move]]                                 |
+| <tags>[[Conduit\|Conduit 5]] [[Two-Handed]] [[Arcing]] [[Deployable]]</tags> | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
+| **[[#Censer]]**                                                              | Medium | **1:** <br>**2:**                                                                                         |
+| <tags>[[Conduit\|Conduit 1]] [[Melee\|Melee 1]] [[One-Handed]]</tags>        | <      | <                                                                                                         |
+|                                                                              | <      | <                                                                                                         |
 ## Stats
 
 ### Wand
