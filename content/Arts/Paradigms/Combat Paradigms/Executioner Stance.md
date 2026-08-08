@@ -5,7 +5,7 @@ The Executioner's Paradigm aims to target weakened and hurt enemies and crush th
 | ------------- | -------------------------------------------------------------------------------------------- |
 | **Passive:**  | When you [[Hit]] a [[Rules/Characters/index\|Character]], they become immune to [[Healing]]. |
 | **Momentum:** | When you kill a character, gain 2 [[Momentum]] for normals, 4 for elites and 10 for bosses.  |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]]                                           |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]]                                           |
 
 # Techniques
 ## Execute

@@ -4,7 +4,7 @@
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**                                                                                          | You cannot get lost while [[Navigating]] and you are immune to the negative effects of normal weather.                |
 | **Momentum:**                                                                                         | Each time you study the stars or weather with a tool, gain 1 [[Momentum]], if with a observatory, gain 2 [[Momentum]] |
-| [[Elemental Type\|Light]] [[Elemental Type\|Dark]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                     |
+| [[Elemental Type\|Light]] [[Elemental Type\|Dark]] [[Arts/Paradigms/index\|Paradigm]] | <                                                                                                                     |
 
 
 # Techniques

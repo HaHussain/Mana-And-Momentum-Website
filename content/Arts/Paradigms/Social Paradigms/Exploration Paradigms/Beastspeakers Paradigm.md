@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**                                                                                         | You may speak to natural beasts and animals. <br>They do not understand nuance but the general feeling of your words.<br>By default they are willing to help you, more than they would the average person. |
 | **Momentum:**                                                                                        | When you assist an animal to achieve something it wants gain 2 [[Momentum]].                                                                                                                               |
-| [[Elemental Type\|Air]] [[Elemental Type\|Water]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                          |
+| [[Elemental Type\|Air]] [[Elemental Type\|Water]] [[Arts/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                          |
 
 
 # Techniques

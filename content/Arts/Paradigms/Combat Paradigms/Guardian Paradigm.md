@@ -4,7 +4,7 @@
 | ------------- | ----------------------------------------------------------------------------------- |
 | **Passive:**  | Each of your [[Rules/Actions/Tags/Reaction\|Reactions]] can be used twice per round |
 | **Momentum:** | When you take damage gain 1 [[Momentum]]                                            |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]] [[Locked]]: [[Knight]]           |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]] [[Locked]]: [[Knight]]           |
 
 # Techniques
 

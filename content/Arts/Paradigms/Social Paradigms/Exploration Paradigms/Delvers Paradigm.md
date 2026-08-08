@@ -4,7 +4,7 @@
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**                                                                                          | You can feel the vibrations of movement and breathing through the earth of things within your [[Seek]].<br>This is transmitted through solid and liquid [[Object\|Objects]] and [[Terrain]]. |
 | **Momentum:**                                                                                         | When you identify structural weakness or a new path, gain 1 [[Momentum]]                                                                                                                     |
-| [[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                            |
+| [[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                            |
 
 
 # Techniques

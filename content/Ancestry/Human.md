@@ -29,5 +29,5 @@
 
 **Ancestry Feats:**
 - +1 [[Speed]] and your [[Jump]] uses your [[Dexterity|DEX]] instead of [[Strength|STR]].
-- Gain +1 [[Spells and Paradigms/Spells/index|Max Mana]] and one Tier 1 [[Spells and Paradigms/Spells/index|Spell]] of your choice.
+- Gain +1 [[Arts/Spells/index|Max Mana]] and one Tier 1 [[Arts/Spells/index|Spell]] of your choice.
 - You may speak to animals?

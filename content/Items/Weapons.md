@@ -89,7 +89,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Spear
 **Damage**: Medium
-**Weapon Focus 1**: The Spear's [[Strike|Strikes]] targets all targets in a straight line from you to its [[Melee|Melee Range]].
+**Weapon Focus 1**: Can replace [[Melee]] with [[Line]] [[Melee|Melee Range]]. (The Spear's [[Strike|Strikes]] targets all targets in a straight line from you to its [[Melee|Melee Range]]).
 **Weapon Focus 2**: +1 [[Melee|Melee Range]].
 **Tags**: [[Melee]] 2 [[Orthogonal]], [[One-Handed]]
 
@@ -135,7 +135,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | Weapon                                                                               | Damage | Summary                                                                                                                    |
 | ------------------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------- |
 | **[[#Boomerang]]**                                                                   | Small  | A weak weapon made to hit multiple targets<br>Focus: Ricochet more and missed attacks also ricochet                        |
-| [[Ranged]] #, [[One-Handed]]                                                         | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]], [[One-Handed]]                                                 | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Hook and Chain]]**                                                              | Small  | Very low damage weapon made to pull far enemies close<br>Focus: Swing mobility and chain restraining                       |
 | [[Melee]] 1 [[Orthogonal]], [[Ranged]] 5 [[Orthogonal]], [[One-Handed]], [[Pull]] 2. | <      | <                                                                                                                          |
@@ -162,7 +162,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | [[Ranged\|Ranged 30]], [[Two-Handed]], [[Reload]]                                    | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Hand-Cannon]]**                                                                 | Large  | High damage, high push short ranged weapon<br>Focus: Rocket jump and splash damage                                         |
-| [[Ranged\|Ranged 10]], [[Two-Handed]], [[Slow]], [[Reload]]                          | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 8]], [[Two-Handed]], [[Slow]], [[Reload]]                           | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 
 
@@ -233,38 +233,74 @@ Tags: [[Melee]] 1, [[One-Handed]]
 # Magic Weapons
 ## Table
 
-| Item Name                                                  | Damage | Summary                                                   |                                                                 |
-| ---------------------------------------------------------- | ------ | --------------------------------------------------------- | --------------------------------------------------------------- |
-| **[[#Palm Cuff]]**                                         | Small  | **1:** <br>**2:**                                         | Should be like claws or percy diplomacy<br>Range 1              |
-| [[Conduit]] [[One-Handed]] [[Grappling]]  [[Orthogonal]]   | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Wand]]**                                              | Small  | **1:** Faster?<br>**2:**                                  | Quick draw, fairly standard, short range<br>Range 8             |
-| <tags>[[Conduit]] [[One-Handed]] [[Quick]]</tags>          | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Scepter]]**                                           | Large  | **1:** Faster?<br>**2:**                                  | Wand but charged up, maybe beams<br>Range 15, Range 10 - Line 5 |
-| <tags>[[Conduit]] [[One-Handed]] [[Reload]]</tags>         | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Tome]]**                                              | Medium | **1:** Get access to a spell you didn't bring?<br>**2:**  | Get bonus metamagics<br>Range 15                                |
-| <tags>[[Conduit]] [[Two-Handed]] [[Slow]]</tags>           | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Staff]]**                                             | Large  | **1:** Increased range? Extended Seek?<br>**2:**          | Very standard weapon, good range<br>Range 20                    |
-| <tags>[[Conduit]] [[Two-Handed]]</tags>                    | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Orb]]**                                               | Medium | **1:** Concentrate a spell to be more effective<br>**2:** | Deploy orb, fire at it from far away,<br>Range 5?               |
-| <tags>[[Conduit]] [[Two-Handed]] [[Deployable]]</tags>     | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
-| **[[#Censer]]**                                            | Medium | **1:** <br>**2:**                                         | Melee attacks,                                                  |
-| <tags>[[Conduit]] [[Melee\|Melee 1]] [[One-Handed]]</tags> | <      | <                                                         |                                                                 |
-|                                                            | <      | <                                                         |                                                                 |
+| Item Name                                                                    | Damage | Summary                                                                                                                    |
+| ---------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **[[#Palm Cuff]]**                                                           | Small  | **1:** <br>**2:**                                                                                                          |
+| [[Conduit\|Conduit 1]] [[One-Handed]] [[Grappling]]  [[Orthogonal]]          | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Wand]]**                                                                | Small  | **1:** [[Quick]]<br>**2:** All [[Strike]] [[Arts/index\|Arts]] become [[Quick\|Quicker]]                                   |
+| <tags>[[Conduit\|Conduit 8]] [[One-Handed]]</tags>                           | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Scepter]]**                                                             | Large  | **1:** Gains [[Line\|Line 5]] <br>**2:** Change [[Conduit#Elements\|Element]] as part of [[Reload\|Reloading]].            |
+| <tags>[[Conduit\|Conduit 10]] [[One-Handed]] [[Reload]]</tags>               | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Tome]]**                                                                | Medium | **1:** Each [[Deep Rest]] select a [[Metamagic]] to learn.<br>**2:** Add 1 [[Metamagic]] to each [[Arts/index\|Art]] used. |
+| <tags>[[Conduit\|Conduit 15]] [[One-Handed]] [[Slow]]</tags>                 | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Staff]]**                                                               | Medium | **1:** All [[Arts/index\|Arts]] use Staff range.<br>**2:**                                                                 |
+| <tags>[[Conduit\|Conduit 15]] [[Two-Handed]]</tags>                          | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Orb]]**                                                                 | Medium | **1:** Target from Orb<br>**2:** Can [[Normal Move]] when you [[Move]]                                                     |
+| <tags>[[Conduit\|Conduit 5]] [[Two-Handed]] [[Arcing]] [[Deployable]]</tags> | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
+| **[[#Censer]]**                                                              | Medium | **1:** <br>**2:**                                                                                                          |
+| <tags>[[Conduit\|Conduit 1]] [[Melee\|Melee 1]] [[One-Handed]]</tags>        | <      | <                                                                                                                          |
+|                                                                              | <      | <                                                                                                                          |
 ## Stats
 
 ### Wand
 **Damage**: Small
 **[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Water]], [[Elemental Type|Air]], [[Elemental Type|Earth]]
 **[[Conduit#Additional Spells|Additional Spells]]:** [[Magic Missile]], [[Genera]]
-**Weapon Focus 1**: 
-**Weapon Focus 2**:
+**Weapon Focus 1**: [[Quick]]
+**Weapon Focus 2**: Any [[Strike]] [[Arts/index|Art]] gains [[Quick]]
 **Tags**: [[Conduit|Conduit 8]], [[One-Handed]]
+
+### Scepter
+**Damage**: Large
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Air]], [[Elemental Type|Light]]
+**[[Conduit#Additional Spells|Additional Spells]]:** 
+**Weapon Focus 1**: This weapon [[Conduit|Conduit 10]] [[Line|Line 5]]
+**Weapon Focus 2**: When [[Reload|Reloading]] this weapon, you may change its [[Conduit#Elements|Element]]
+**Tags**: [[Conduit|Conduit 10]], [[One-Handed]], [[Reload]]
+
+### Tome
+**Damage**: Medium
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Light]], [[Elemental Type|Dark]]
+**[[Conduit#Additional Spells|Additional Spells]]:**
+**Weapon Focus 1**: When you take a [[Deep Rest]], select a [[Metamagic]], you learn it while this weapon is equipped.
+**Weapon Focus 2**: When you use an [[Arts/index|Art]], you gain 1 [[Temporary Mana]] to immediately use on a [[Metamagic]] of your choice.
+**Tags**: [[Conduit|Conduit 15]] [[One-Handed]] [[Slow]]
+
+### Staff
+**Damage**: Medium
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Water]], [[Elemental Type|Air]], [[Elemental Type|Earth]], [[Elemental Type|Light]], [[Elemental Type|Dark]]
+**[[Conduit#Additional Spells|Additional Spells]]:** [[Genera]]
+**Weapon Focus 1**: All [[Arts/index|Arts]] with [[Range]] may use this weapon's [[Conduit|Conduit Range]] for targeting.
+**Weapon Focus 2**: 
+**Tags**: [[Conduit|Conduit 15]] [[Two-Handed]]
+
+### Orb
+**Damage**: Medium
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Water]], [[Elemental Type|Earth]], [[Elemental Type|Dark]]
+**[[Conduit#Additional Spells|Additional Spells]]:** [[Glimpse]]
+**Special:** 
+This weapon can be Deployed as an [[Inventory]] action as a [[Size|Size 1/2]] \[[[Health Points|1]], [[Defence|15]], [[Deflection|5]], [[Sturdy|0]]] [[Object]]
+While you have both hands free, you may use it as a [[Conduit]] as if you were in its location.
+**Weapon Focus 1**: Your [[Seek]] and [[Range]] for [[Arts/index|Arts]] includes the this weapon's [[Conduit|Conduit Range]] for targeting.
+**Weapon Focus 2**: This weapon gains [[Speed|Speed 3]] and may [[Normal Move]] when you take the [[Move]] action.
+**Tags**: [[Conduit|Conduit 5]] [[Two-Handed]] [[Arcing]] [[Deployable]]
+
 
 
 # Custom Weapons

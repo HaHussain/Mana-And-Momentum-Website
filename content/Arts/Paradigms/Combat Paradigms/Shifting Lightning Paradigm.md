@@ -4,7 +4,7 @@
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | When you [[Hit]] with a [[Strike]], regain 1 [[Speed]] up to your max.                                          |
 | **Momentum:** | For each different target you [[Hit]] in a turn, gain a [[Momentum]].                                           |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]], [[Offensive]], [[Elemental Type\|Lightning]], [[Imbuement]] |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]], [[Offensive]], [[Elemental Type\|Lightning]], [[Imbuement]] |
 
 # Techniques
 

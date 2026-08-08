@@ -84,7 +84,7 @@ When this ability is gained, it is applied retroactively to all that have at lea
 ## B
 The Knight may [[Exert]] twice per [[Scenes|Scene]] without suffering any negative consequences.
 
-When the Knight uses a [[Spells and Paradigms/Paradigms/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Shift]] action.
+When the Knight uses a [[Arts/Paradigms/index#Techniques|Technique]] they may immediately take an [[Extra]]: [[Shift]] action.
 
 ## C
 The Knight may consider ally [[Rules/Characters/index|Characters]] within [[Range]] 2 of them as adjacent.
@@ -100,7 +100,7 @@ When the Knight uses a Technique, the cost of that Technique is reduced by 1?
 
 When the Knight [[Miss|Misses]] with an [[Strike]], they still deal damage equal to their [[Strength|STR]]/[[Dexterity|DEX]]
 ## Final
-The Knight can be in 2 [[Spells and Paradigms/Paradigms/index|Paradigms]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
+The Knight can be in 2 [[Arts/Paradigms/index|Paradigms]] at the same time, but if they are, they must spend a [[Momentum]] at the start of each of their turns.
 
 
 # Class Focuses

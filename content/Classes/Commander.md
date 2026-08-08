@@ -65,7 +65,7 @@ The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Cha
 
 ## Tactician and Strategist
 
-The Commander learns a number of [[#Tactics]], which are specific [[Technique|Techniques]] without a [[Spells and Paradigms/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
+The Commander learns a number of [[#Tactics]], which are specific [[Technique|Techniques]] without a [[Arts/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
 The Commander knows **(Commander Level / 3) + ([[TL]] / 10)** Tactics that they can freely change during a [[Deep Rest]].
 
 

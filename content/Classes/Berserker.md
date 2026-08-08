@@ -15,7 +15,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 
 | Level | Class Abilities       | Martial Abilities                                                                                       |
 | ----- | --------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Bestial Instinct]] | [[Spells and Paradigms/Paradigms/Social Paradigms/New/index\|Social Paradigm]], [[Boost\|Max Boost]]: 2 |
+| 1     | [[#Bestial Instinct]] | [[Arts/Paradigms/Social Paradigms/New/index\|Social Paradigm]], [[Boost\|Max Boost]]: 2 |
 | 2     | [[#Rage]]             |                                                                                                         |
 | 3     |                       |                                                                                                         |
 | 4     |                       |                                                                                                         |

@@ -4,7 +4,7 @@
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | At the start of each of your turns, you may move a same [[Size]] [[Object]] that was created this [[Scenes\|Scene]] within [[Range]] 5, to an adjacent square. |
 | **Momentum:** | Gain 1 [[Momentum]] for each same [[Size]] or larger [[Object]] adjacent to you at the end of each of your turns.                                              |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]], [[Defensive]], [[Elemental Type\|Earth]], [[Imbuement]]                                                    |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]], [[Defensive]], [[Elemental Type\|Earth]], [[Imbuement]]                                                    |
 
 # Techniques
 

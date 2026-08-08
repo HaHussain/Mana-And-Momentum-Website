@@ -4,7 +4,7 @@
 | ------------- | ----------------------------------------------------------------------------------------------------- |
 | **Passive:**  | Each time you [[Strike]] you may move 1 without triggering [[Rules/Actions/Tags/Reaction\|Reactions]] |
 | **Momentum:** | When you [[Strike]] an [[Isolated]] [[Rules/Characters/index\|Character]], gain a [[Momentum]]        |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]]                                                    |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]]                                                    |
 
 # Techniques
 

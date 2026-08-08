@@ -4,7 +4,7 @@
 | ------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  |                                                                                                                  |
 | **Momentum:** |                                                                                                                  |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Light]] [[Social]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] |
+| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Light]] [[Social]] [[Arts/Paradigms/index\|Paradigm]] |
 
 # Techniques
 

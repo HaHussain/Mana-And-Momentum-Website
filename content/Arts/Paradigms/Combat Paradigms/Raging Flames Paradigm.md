@@ -4,7 +4,7 @@
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | After you apply [[Pain]] to a [[Rules/Characters/index\|Character]], all [[Rules/Characters/index\|Characters]] in [[Range]] 1 take [[Elemental Type\|Fire]] damage equal to the [[Pain]] applied. |
 | **Momentum:** | Every time a [[Rules/Characters/index\|Character]] in your [[Seek]] takes [[Pain]] damage, gain 1 [[Momentum]].                                                                                    |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]], [[Offensive]], [[Elemental Type\|Fire]], [[Imbuement]]                                                                                         |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]], [[Offensive]], [[Elemental Type\|Fire]], [[Imbuement]]                                                                                         |
 
 # Techniques
 

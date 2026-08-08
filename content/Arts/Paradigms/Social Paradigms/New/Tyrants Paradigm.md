@@ -4,7 +4,7 @@
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  |                                                                                                                   |
 | **Momentum:** | When you assert yourself over another character or cause them to feel fear, respect, or awe; gain 1 [[Momentum]]. |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Spells and Paradigms/Paradigms/index\|Paradigm]]   |
+| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Arts/Paradigms/index\|Paradigm]]   |
 
 # Techniques
 

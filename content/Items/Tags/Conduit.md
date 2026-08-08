@@ -1,10 +1,10 @@
 ---
 icon: GiOrbWand
 ---
-A Conduit Item allows a [[Rules/Characters/index|Character]] to take the [[Magic]] action to cast [[Spells and Paradigms/Spells/index|Spells]].
+A Conduit Item allows a [[Rules/Characters/index|Character]] to take the [[Magic]] action to cast [[Arts/Spells/index|Spells]].
 
-A Conduit [[Weapons|Weapon]] can [[Strike]] to cast [[Spells and Paradigms/Spells/index|Spells]] at targets up to the listed [[Range]].
-Any [[Strike]] from this weapon is considered to be a [[Spells and Paradigms/Spells/index|Spell]] and gains the [[Magic]] tag.
+A Conduit [[Weapons|Weapon]] can [[Strike]] to cast [[Arts/Spells/index|Spells]] at targets up to the listed [[Range]].
+Any [[Strike]] from this weapon is considered to be a [[Arts/Spells/index|Spell]] and gains the [[Magic]] tag.
 
 
 # Elements
@@ -15,4 +15,4 @@ When an [[Consumables#Affluent|Affluent]] is applied to a Conduit Item, this can
 
 # Additional Spells
 
-Conduit Equipment provide the user with a small collection of additional spells that they can cast without expending [[Spells and Paradigms/Spells/index|Mana]].
+Conduit Equipment provide the user with a small collection of additional spells that they can cast without expending [[Arts/Spells/index|Mana]].

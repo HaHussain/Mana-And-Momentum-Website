@@ -4,7 +4,7 @@
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**                                                                                        | You gain [[Climb]] and [[Swim]] and you ignore the [[Uneasy]] tag on [[Terrain]] whilst you have Rope, a [[Grappling Hook]], a [[Weapons#Hook and Chain\|Hook and Chain]], or similar on your person. |
 | **Momentum:**                                                                                       | When you set up a mechanism, contraption, or a trap, gain 1 [[Momentum]]                                                                                                                              |
-| [[Elemental Type\|Fire]] [[Elemental Type\|Air]] [[Spells and Paradigms/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                     |
+| [[Elemental Type\|Fire]] [[Elemental Type\|Air]] [[Arts/Paradigms/index\|Paradigm]] | <                                                                                                                                                                                                     |
 
 
 # Techniques

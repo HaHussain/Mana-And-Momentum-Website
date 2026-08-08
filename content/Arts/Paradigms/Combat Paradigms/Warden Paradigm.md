@@ -5,7 +5,7 @@ The Warden's Paradigm and Techniques are about reducing the damage you and your 
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Passive:**  | Your [[Rules/Actions/Tags/Reaction\|Reaction]] [[Strike\|Strikes]] have [[Advantage]] to [[Hit]] and reduce [[Speed]] to 0 |
 | **Momentum:** | Each time you reduce the damage your allies would have taken in a turn, you gain 1 [[Momentum]].                           |
-| **Tags:**     | [[Spells and Paradigms/Paradigms/index\|Paradigm]], [[Locked]]: [[Knight]]                                                 |
+| **Tags:**     | [[Arts/Paradigms/index\|Paradigm]], [[Locked]]: [[Knight]]                                                 |
 
 # Techniques
 

@@ -29,6 +29,6 @@ Record your [[Class Keywords|Class Keyword]] for each class.
 Choose one of the three [[Class Trigger|Class Triggers]] for each class.
 Gain one of the two [[Fortress]] bonus by deciding between your two classes.
 
-Finally record the abilities gained by each class including any [[Spells and Paradigms/Paradigms/index|Paradigms]] and [[Spells and Paradigms/Spells/index|Spells]] gained.
+Finally record the abilities gained by each class including any [[Arts/Paradigms/index|Paradigms]] and [[Arts/Spells/index|Spells]] gained.
 
 Assign at least one [[Bond]] to a [[Rules/Characters/index|Character]] or a [[Factions|Faction]].

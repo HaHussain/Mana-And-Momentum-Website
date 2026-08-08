@@ -58,7 +58,7 @@ If an ability increases the Mana commitment of a spell,
 
 # Spells
 
-Spells come in Spell Schools, which is a list of increasingly powerful spells, often 3 spells per school.
+Spells are [[Arts/index|Arts]] that come in Spell Lists, which is a list of increasingly powerful spells.
 To learn a spell, you must first learn the lower level spells in the same school.
 Some classes will have restrictions on when they can learn a new spell school, others will not.
 

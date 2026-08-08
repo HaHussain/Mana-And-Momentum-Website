@@ -14,7 +14,7 @@ Holding a Melee weapon gives you the following [[Rules/Actions/Tags/Reaction|Rea
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------- |
 | **Tempo:**                                                                  | 3                                                                                                                    | Before Trigger |
 | **Trigger:**                                                                | A [[Rules/Characters/index\|Character]] in your Melee Range moves further away from you (based on your Melee Range). | <              |
-| **Action:**                                                                 | Make a [[Strike]] against that character before they move.                                                           | <              |
+| **Action:**                                                                 | Make a [[Strike]] against that character.                                                                            | <              |
 | **Tags:** <tags>[[Rules/Actions/Tags/Reaction\|Reaction]] [[Strike]]</tags> | <                                                                                                                    | <              |
 
 
