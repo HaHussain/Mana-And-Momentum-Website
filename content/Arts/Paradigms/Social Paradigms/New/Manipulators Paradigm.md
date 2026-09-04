@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                          | Manipulator's Paradigm                                                                                                                                           |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                             | When you use [[Arts/Spells/index\|Spells]] or [[Technique\|Techniques]], you do so in a way that is undetectable unless someone was specifically looking for it. |
-| **Momentum:**                                                            | When you lie as an answer to a question, mislead due to a half-truth, or omit key information, gain a [[Momentum]].                                              |
-| [[Elemental Type\|Dark]] [[Elemental Type\|Air]] [[Social]] [[Paradigm]] | <                                                                                                                                                                |
+|                                                                          | Manipulator's Paradigm                                                                                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**                                                             | When you use [[Arts/index\|Arts]], you do so in a way that is undetectable unless someone was specifically looking for it. |
+| **Momentum:**                                                            | When you lie as an answer to a question, mislead due to a half-truth, or omit key information, gain a [[Momentum]].        |
+| [[Elemental Type\|Dark]] [[Elemental Type\|Air]] [[Social]] [[Paradigm]] | <                                                                                                                          |
 
 # Techniques
 
@@ -60,5 +60,5 @@
 | **Trigger:** You succeed on a [[Deceive]] check against the target                                                                                                                                                                                                                                                          | <                       |
 |                                                                                                                                                                                                                                                                                                                             | <                       |
 | You are so convincing about your lie that you truly convince your target that what you said was true, overriding their own sensibilities and memories. The target believes your lie deeply.<br><br>[[Boost]] 3: The target will consider attempts to convince them that you lied to them to be part of a deeper conspiracy. | <                       |
-| [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                                                                                   | <                       |
+| [[Rules/Actions/Tags/Reaction\|Reaction]] [[Curse]]                                                                                                                                                                                                                                                                         | <                       |
 
