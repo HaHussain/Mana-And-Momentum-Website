@@ -30,7 +30,7 @@
 | Choose to specify your own condition or choose 'Any hostile action' as the trigger to the following [[Rules/Actions/Tags/Reaction\|Reaction]].<br>If you specify your own condition, announce it to all targets.<br><br>You gain the following Reaction with the chosen trigger:<br>![[#Watchdog]] | <                               |
 | <tags>[[Rules/Actions/index\|Action]]</tags>                                                                                                                                                                                                                                                       | <                               |
 
-
+## Humiliate
 ## Demonise
 
 

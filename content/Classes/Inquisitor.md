@@ -21,6 +21,11 @@ Inquisitor's hold the domain over connection and minds, they use their psychic a
 
 # Features
 
+## Ability
+
+When the Inquisitor [[Hit|Hits]] a [[Rules/Characters/index|Character]] with a [[Strike]] or applies a [[Statuses and Conditions/index|Debuff]] that [[Rules/Characters/index|Character]] loses 1 [[Power Point|PP]] if it can, and if it does the Inquisitor gains 1 [[Momentum]].
+The Inquisitor may spend 1 [[Momentum]] to instead gain 1 [[Temporary Mana]].
+
 # Class Focuses
 
 # Ideas
