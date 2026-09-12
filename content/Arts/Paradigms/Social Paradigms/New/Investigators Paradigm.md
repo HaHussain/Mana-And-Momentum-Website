@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Investigator's Paradigm                                                                                                                                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | You immediately detect the casting of any spells or usage of any techniques within your [[Seek]] and know what the name is. If you are looking out for something specific, you immediately become aware of it when it and the details of it. |
-| **Momentum:** |                                                                                                                                                                                                                                              |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Water]] [[Social]] [[Paradigm]]                                                                                                                                                                   |
+|               | Investigator's Paradigm                                                                                                                                                                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | You immediately detect the use of any [[Arts/index\|Arts]] within your [[Seek]] and know what the name is.<br>You can instead focus on a specific [[Arts/index\|Art]] [[tag]], if you do you also immediately know the details of the [[Arts/index\|Art]]. |
+| **Momentum:** | When you study, research, or cross-reference, gain 1 [[Momentum]].                                                                                                                                                                                         |
+| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Water]] [[Social]] [[Paradigm]]                                                                                                                                                                                 |
 
 # Techniques
 

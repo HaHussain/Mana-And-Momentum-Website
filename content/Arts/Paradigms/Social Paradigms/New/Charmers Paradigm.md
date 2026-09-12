@@ -8,14 +8,16 @@
 
 # Techniques
 
-| Trendsetter                                                                         | <                       |
-| ----------------------------------------------------------------------------------- | ----------------------- |
-| **Tempo:**                                                                          | **Cost:** 3 + [[Boost]] |
-| **Target:** 1 [[Rules/Characters/index\|Character]] in your [[Seek]] or a [[Crowd]] | <                       |
-|                                                                                     | <                       |
-|                                                                                     | <                       |
-| [[Rules/Actions/index\|Action]]                                                     | <                       |
 
+## Proliferate
+
+| Proliferate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **Tempo:** 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Cost:** 1 + [[Boost]]   |
+| **Target:** 1 [[Rules/Characters/index\|Character]] in [[Range]] 1 and [[Crowd]]                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Duration:** [[Instant]] |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | <                         |
+| Leverage your good or bad will with someone to spread rumours about you.<br>Make a [[Mental]] [[Strike]]: The target loses a [[Statuses and Conditions/index\|Debuff]] of your choice and the [[Crowd]] gains it.<br><br>**[[Boost]] 2:** [[Crowd]] gains that two ticks of the [[Statuses and Conditions/index\|Debuff]].<br>**[[Boost]] 3:** The target does not lose the [[Statuses and Conditions/index\|Debuff]].<br>**[[Boost]] 4:** [[Crowd]] gains that three ticks of the [[Statuses and Conditions/index\|Debuff]]. | <                         |
+| <tags>[[Rules/Actions/index\|Action]]</tags>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | <                         |
 
 
 ## Foot in the Door
@@ -29,17 +31,7 @@
 | [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | <                         |
 
 
-## Convincing a Turncoat
-
-| Convincing a Turncoat                                                                                                                                                                                                                                                  | <                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Tempo:**                                                                                                                                                                                                                                                             | **Cost:** 3 + [[Boost]] |
-| **Target:** 1 [[Charmed]] [[Rules/Characters/index\|Character]] in your [[Seek]]                                                                                                                                                                                       | <                       |
-| **Trigger:** The target is [[Overwhelmed]] and chooses to Surrender                                                                                                                                                                                                    | <                       |
-|                                                                                                                                                                                                                                                                        | <                       |
-| Convince the target to join your side instead if there is no risk to them by helping you.<br><br>[[Boost]] 2: The target is willing to join your team if there is some reasonable risk.<br>[[Boost]] 5: The target is willing to risk anything and everything for you. | <                       |
-| [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                              | <                       |
-
+## ???
 
 |               |                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------- |
@@ -50,3 +42,17 @@
 |               |                                                                                                         |
 | **Action:**   | Reduce the targets [[Resolve]] by [[Boost]] and immediately make an [[Overwhelmed\|Overwhelm]] check. |
 | **Tags:**     | [[Rules/Actions/index\|Action]]                                                                         |
+
+## Convincing a Turncoat
+
+| Convincing a Turncoat                                                                                                                                                                                                                                              | <                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| **Tempo:** 3                                                                                                                                                                                                                                                       | **Cost:** 3 + [[Boost]] |
+| **Target:** 1 [[Charmed]] [[Rules/Characters/index\|Character]] in your [[Seek]]                                                                                                                                                                                   | <                       |
+| **Trigger:** The target is [[Overwhelmed]] and chooses to Surrender                                                                                                                                                                                                | After Trigger           |
+|                                                                                                                                                                                                                                                                    | <                       |
+| Convince the target to do another task in addition if there is no risk to them by helping you.<br><br>[[Boost]] 2: The target is willing to do it if there is some reasonable risk.<br>[[Boost]] 5: The target is willing to risk anything and everything for you. | <                       |
+| [[Rules/Actions/Tags/Reaction\|Reaction]]                                                                                                                                                                                                                          | <                       |
+
+
+
