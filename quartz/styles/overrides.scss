@@ -51,6 +51,7 @@ p > br {
     padding: .2rem 1.4rem;
     //min-width: 4rem;
     font-size: 14px;
+    vertical-align: text-top;
     :has(.transclude) {
       padding: 0;
     }
