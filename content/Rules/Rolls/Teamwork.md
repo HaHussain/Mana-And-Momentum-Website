@@ -1,3 +1,8 @@
+---
+aliases:
+  - Assist
+  - Backup
+---
 If a character wishes to help a character on a [[Rules/Characters/Skills/index|Skill]] roll, they can do so in different ways, each character can choose one of two ways to assist.
 The character performing the roll is considered the Leader.
 
