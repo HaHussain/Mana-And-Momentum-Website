@@ -8,12 +8,14 @@
 
 # Techniques
 
-|               |                                 |
-| ------------- | ------------------------------- |
-| **Tempo:**    |                                 |
-| **Cost:**     |                                 |
-| **Target:**   |                                 |
-| **Duration:** |                                 |
-|               |                                 |
-| **Action:**   |                                 |
-| **Tags:**     | [[Rules/Actions/index\|Action]] |
+## 
+
+## Reconstruct Scene
+
+| Reconstruct Scene                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | <                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Tempo:** [[Scan]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Cost:** 2 + [[Boost]]         |
+| **Target:** [[Terrain]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Duration:** [[Scenes\|Scene]] |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | <                               |
+| You specify an event that took place in this location in the past day.<br>You reconstruct the scene, learning how many [[Rules/Characters/index\|Characters]] were involved and what they did during that [[Scenes\|Scene]].<br><br>**[[Boost]] 1:** You reconstruct what each [[Rules/Characters/index\|Character]] wore and held.<br>**[[Boost]] 3:** You reconstruct an overview of what was said.<br>**[[Boost]] 5:** You reconstruct the identities of each person, and exactly what they said.<br>**[[Boost]] 2/4/6:** The event can occur in the past \[Week, Year, Any Time]. | <                               |
+| [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | <                               |

@@ -3,12 +3,12 @@ icon: LiSword
 aliases:
   - Melee Range
 ---
-A Melee weapon is used in close combat and has some amount of [[Range]] from you that it can hit targets from.
+A Melee [[Weapons|Weapon]] is used in close combat and has some amount of [[Range]] from you that it can hit targets from.
 
 
 ## Attack of Opportunity
 
-Holding a Melee weapon gives you the following [[Rules/Actions/Tags/Reaction|Reaction]]:
+Holding a Melee [[Weapons|Weapon]] gives you the following [[Rules/Actions/Tags/Reaction|Reaction]]:
 
 | Attack of Opportunity                                                       | <                                                                                                                    | <              |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -20,9 +20,9 @@ Holding a Melee weapon gives you the following [[Rules/Actions/Tags/Reaction|Rea
 
 # Called Shot
 
-A character with a Melee weapon can make a called shot against a certain body part of a creature if it has it.
+A character with a Melee [[Weapons|Weapon]] can make a called shot against a certain body part of a creature if it has it.
 The target makes the [[Strike]] with [[Disadvantage]].
-On a success they, apply one of the following [[Statuses and Conditions/index|Debuffs]] for this [[Combat]] depending on target location.
+On a [[Hit]] they, apply one of the following [[Statuses and Conditions/index|Debuffs]] for this [[Combat]] depending on target location.
 
 Head: [[Dazed]]
 Eyes: [[Blind]]
