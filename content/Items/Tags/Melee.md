@@ -22,6 +22,9 @@ Holding a Melee [[Weapons|Weapon]] gives you the following [[Rules/Actions/Tags/
 
 A character with a Melee [[Weapons|Weapon]] can make a called shot against a certain body part of a creature if it has it.
 The target makes the [[Strike]] with [[Disadvantage]].
+
+A [[Rules/Characters/index|Character]] cannot choose to make a Called Shot if they have [[Disadvantage]] on a [[Strike]], and if they gain [[Disadvantage]] on that [[Strike]], the effect does not trigger.
+
 On a [[Hit]] they, apply one of the following [[Statuses and Conditions/index|Debuffs]] for this [[Combat]] depending on target location.
 
 Head: [[Dazed]]
