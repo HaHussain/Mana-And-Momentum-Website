@@ -16,7 +16,7 @@
 | **Target:** Any number of [[Ally\|Allies]] in your [[Seek]]<br>[[Boost]] 3+: Any number of [[Rules/Characters/index\|Characters]] in your [[Seek]]                                                                                                                                     | <                       |
 |                                                                                                                                                                                                                                                                                        | <                       |
 | You can speak up to 1 + [[Boost]] sentences in hidden codes that only your chosen can decipher. <br>Everyone else listening cannot grasp the real meaning of what you said and will dismiss it, though they may become suspicious of its use if used too often in a [[Scenes\|Scene]]. | <                       |
-| [[Rules/Actions/index\|Action]]                                                                                                                                                                                                                                                        | <                       |
+| <tags>[[Rules/Actions/index\|Action]]</tags>                                                                                                                                                                                                                                           | <                       |
 
 ## Extract Information
 
