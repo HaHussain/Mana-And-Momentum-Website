@@ -4,7 +4,7 @@ tags:
   - Class
 ---
 # Overview
-Masters of life and death, the necromancer fuels their spells with their own life force. Rising hordes of undead to their command.
+Masters of life and death, the occultist fuels their spells with their own life force. Rising hordes of undead to their command.
 
 | Level | Feature |
 | ----- | ------- |
@@ -24,6 +24,8 @@ Masters of life and death, the necromancer fuels their spells with their own lif
 # Class Focuses
 
 # Ideas
+
+Physique based caster
 
 Necromancer
 - Summon undead spell, necromancy spells are more powerful, undead are more powerful?

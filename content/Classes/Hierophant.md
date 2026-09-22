@@ -4,7 +4,7 @@ tags:
 icon: RaMoonSun
 ---
 # Overview
-The Font is a wellspring of magic, able to conjure up massive amounts of mana and distribute them to their allies. Focusing on a specific element allows them to fulfil whichever role they wish.
+The Hierophant is a social caster that uses the magic of emotion to summon angels and demons onto the battlefield.
 
 | Level | Class Abilities                   |
 | ----- | --------------------------------- |
@@ -34,6 +34,14 @@ The [[Fortress]]
 
 # Ideas
 
+Use up Buffs and Debuffs to summon angels and demons.
+- Consume 3 cold debuffs in an area to summon a cold spirit
+- Buffs summon angels which help their allies
+- Debuffs summon demons which hurt enemies
+- Instant spirits that are one-time, and long-term spirits that do their effects.
+
+Use up Buffs and Debuffs to do other things.
+
 Cast a spell from one of their allies location.
 Cast a spell using one of their allies traits?
 Use metamagic on allies spells.
@@ -44,8 +52,3 @@ Healer
 - Resurrection
 
 Teacher
-
-Guardian from a distance?
-Censer
-
-Could replace this with Font - a pure elementalist blaster?
