@@ -1,12 +1,14 @@
 # Paradigm
 
-|               | Leader's Paradigm                                                                                                                                                                                                |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | When you direct, command or order a [[Rules/Characters/index\|Character]], you may [[Teamwork#Backup\|Backup]] that character on the first roll they make to follow those orders, regardless of distance to you. |
-| **Momentum:** |                                                                                                                                                                                                                  |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Paradigm]]                                                                                                                                        |
+|               | Leader's Paradigm                                                                                                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | When you direct, command, or order a [[Rules/Characters/index\|Character]], you may [[Teamwork]] that character on the first roll they make to follow those orders, regardless of distance to you. |
+| **Momentum:** | When you do logistical or clerical work, plan, or support your subordinates - gain 1 [[Momentum]].                                                                                                 |
+| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Paradigm]]                                                                                                                          |
 
 # Techniques
+
+## Recruit
 
 | Recruit                                                                                                                                                                                                                                                                                                              | <                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -15,6 +17,8 @@
 |                                                                                                                                                                                                                                                                                                                      | <                               |
 | Make a [[Persuade]] or [[Coerce]] roll against the target. %%This reduces a recruit into a single roll.%%<br>On a success, the target allies itself to you for the duration as a subordinate but won't take risk to themselves.<br><br>**[[Boost]] 1:**<br>**[[Boost]] 2:** Willing to take some risk to themselves? | <                               |
 |                                                                                                                                                                                                                                                                                                                      | <                               |
+
+## Aura of Authority
 
 | Aura of Authority                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | <                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |

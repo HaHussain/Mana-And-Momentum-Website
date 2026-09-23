@@ -3,10 +3,10 @@ aliases:
   - Assist
   - Backup
 ---
-If a character wishes to help a character on a [[Rules/Characters/Skills/index|Skill]] roll, they can do so in different ways, each character can choose one of two ways to assist.
-The character performing the roll is considered the Leader.
+If a [[Rules/Characters/index|Character]] wishes to help a [[Rules/Characters/index|Character]] on a [[Rules/Characters/Skills/index|Skill]] roll, they can do so in different ways, each character can choose one of two ways to assist.
+The [[Rules/Characters/index|Character]] performing the roll is considered the Leader.
 
-Each player can either:
+Each [[Rules/Characters/index|Character]] performing Teamwork can either:
 
 # Backup
 Roll the same [[Rules/Characters/Skills/index|Skill]], the Leader takes the highest final value of all players rolling that [[Rules/Characters/Skills/index|Skill]] as if performing that themselves.

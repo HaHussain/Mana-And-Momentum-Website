@@ -57,10 +57,7 @@ While on a [[Fortress]] the banner continuously effects all [[Ally|Allies]] and 
 | **Banner** | Deploy the banner in an Empty space or an [[Ally\|Allies]] space in [[Range]] 1:<br>It is a [[Size]] 1/2 [[Object]]<br>\[[[Health Points\|5]], [[Defence\|5]]]<br><br>It has an [[Aura]] equal to the Commander's [[Seek]] |
 |            | [[One-Handed]] [[Deployable]]<br>[[Weight]]: 0 [[Item Points]]: 1                                                                                                                                                          |
 
-%%The Commander may choose to succeed on a [[Persuade]] or [[Coerce]] roll to induct an [[Overwhelmed]] [[Rules/Characters/index|Character]] as a subordinate as long as the character can be convinced. By default they have \[[[Strength\|0]], [[Dexterity\|0]], [[Fortitude\|0]], [[Awareness\|0]], [[Intelligence\|0]], [[Instinct\|0]]].
 
-When the Commander directs a subordinate [[NPC]] [[Rules/Characters/index|Character]], that Character may use the Commander's [[Level Bonus|LB]] in the appropriate [[Rules/Characters/Skills/index|Skill]] on their first roll to complete that task.
-The Commander may have up to [[Intelligence|INT]] / [[Instinct|INS]] [[Rules/Characters/index|Characters]] with this benefit at any one time.%%
 
 
 ## Tactician and Strategist
@@ -98,6 +95,11 @@ When the Commander rolls to advance a Project [[Clock]], they may assign an addi
 - ... and so on
 The Commander may make rolls to advance [[Clock|Clocks]] in absence if their subordinates are working on it, but may only add their [[Level Bonus|LB]] in that [[Rules/Characters/Skills/index|Skill]] to the roll and the clock ticks up 1 less.
 
+
+%%The Commander gives each of his subordinates a minimum stat value of +1 in one stat.
+
+When the Commander directs a subordinate [[NPC]] [[Rules/Characters/index|Character]], that Character may use the Commander's [[Level Bonus|LB]] in the appropriate [[Rules/Characters/Skills/index|Skill]] on their first roll to complete that task.
+%%
 # Banner Crests
 
 ## Level 1
