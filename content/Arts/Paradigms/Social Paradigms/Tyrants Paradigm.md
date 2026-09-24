@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Tyrant's Paradigm                                                                                                 |
-| ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | All of your [[Strike\|Strikes]] gain [[Reliable]] 2 [[Elemental Type\|Dark]]. This damage is undetectable.        |
-| **Momentum:** | When you assert yourself over another character or cause them to feel fear, respect, or awe; gain 1 [[Momentum]]. |
-| **Tags:**     | [[Elemental Type\|Fire]] [[Elemental Type\|Light]] [[Social]] [[Arts/Paradigms/index\|Paradigm]]                  |
+|               | Tyrant's Paradigm                                                                                                                                                |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive:**  | All of your [[Strike\|Strikes]] and [[Coerce]] attempts gain [[Reliable]] 2 [[Elemental Type\|Dark]] on [[Miss]] / Failure. This damage is unnoticed by default. |
+| **Momentum:** | When you assert yourself over another character or cause them to feel fear, respect, or awe; gain 1 [[Momentum]].                                                |
+| **Tags:**     | [[Elemental Type\|Fire]] [[Elemental Type\|Light]] [[Social]] [[Arts/Paradigms/index\|Paradigm]]                                                                 |
 
 # Techniques
 

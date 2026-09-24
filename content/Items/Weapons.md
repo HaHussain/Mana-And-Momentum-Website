@@ -269,7 +269,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Damage**: Large
 **[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Air]], [[Elemental Type|Light]]
 **[[Conduit#Additional Spells|Additional Spells]]:** 
-**Weapon Focus 1**: This weapon [[Conduit|Conduit 10]] [[Line|Line 5]]
+**Weapon Focus 1**: This weapon becomes [[Conduit|Conduit 10]] [[Line|Line 5]]
 **Weapon Focus 2**: When [[Reload|Reloading]] this weapon, you may change its [[Conduit#Elements|Element]]
 **Tags**: [[Conduit|Conduit 10]], [[One-Handed]], [[Reload]]
 
@@ -295,12 +295,18 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **[[Conduit#Additional Spells|Additional Spells]]:** [[Glimpse]]
 **Special:** 
 This weapon can be Deployed as an [[Inventory]] action as a [[Size|Size 1/2]] \[[[Health Points|1]], [[Defence|15]], [[Deflection|5]], [[Sturdy|0]]] [[Object]]
-While you have both hands free, you may use it as a [[Conduit]] as if you were in its location.
-**Weapon Focus 1**: Your [[Seek]] and [[Range]] for [[Arts/index|Arts]] includes the this weapon's [[Conduit|Conduit Range]] for targeting.
-**Weapon Focus 2**: This weapon gains [[Speed|Speed 3]] and may [[Normal Move]] when you take the [[Move]] action.
+While you have both hands free, you may use it as a [[Conduit]] to cast [[Arts/index|Arts]] as if you were in its location.
+**Weapon Focus 1**: This weapon gains [[Speed|Speed 3]] and may [[Normal Move]] when you take the [[Move]] action.
+**Weapon Focus 2**: 
 **Tags**: [[Conduit|Conduit 5]] [[Two-Handed]] [[Arcing]] [[Deployable]]
 
-
+### Censer
+**Damage**: Medium
+**[[Conduit#Elements|Elements]]:** [[Elemental Type|Fire]], [[Elemental Type|Water]], [[Elemental Type|Air]], [[Elemental Type|Earth]]
+**[[Conduit#Additional Spells|Additional Spells]]:** Based on [[Conduit#Elements|Conduit Element]]: [[Imbuement Fire]], [[Imbuement Water]], [[Imbuement Air]], [[Imbuement Earth]]
+**Weapon Focus 1**: When drawn you may take a [[Extra]]: [[Magic]] action to cast the [[Imbuement]] [[Arts/Spells/index|Spell]] granted by this weapon targeting this weapon.
+**Weapon Focus 2**: 
+**Tags**: [[Conduit|Conduit 1]] [[Melee|Melee 1]] [[One-Handed]]
 
 # Custom Weapons
 
