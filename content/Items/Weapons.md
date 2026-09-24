@@ -15,7 +15,7 @@ aliases:
 | **[[#Gauntlets]]**                                                               | Small  | Fast close combat weapon.<br>Focus: Grappling and multiple hits                                     |
 | [[Quick]], [[Melee]] 1 [[Orthogonal]], [[Push]] 1, [[One-Handed]], [[Grappling]] | <      | <                                                                                                   |
 |                                                                                  | <      | <                                                                                                   |
-| **[[#Sword]]**                                                                   | Medium | Simple weapon.<br>Focus: Faster and simpler                                                         |
+| **[[#Sword]]**                                                                   | Medium | Simple weapon.<br>Focus: Faster and always deals damage                                             |
 | [[Melee]] 1, [[One-Handed]]                                                      | <      | <                                                                                                   |
 |                                                                                  | <      | <                                                                                                   |
 | **[[#Axe]]**                                                                     | Medium | Pull weapon without much reach.<br>Focus: Apply Pain and sweeping strikes                           |
@@ -70,7 +70,7 @@ aliases:
 ### Sword
 Damage: Medium
 Weapon Focus 1: [[Quick]].
-Weapon Focus 2: [[Piercing]].
+Weapon Focus 2: [[Reliable]] 4.
 Tags: [[Melee]] 1, [[One-Handed]]
 
 ### Axe
