@@ -28,7 +28,7 @@ When a Condition is applied it can have one of many durations,
 
 Buffs are positive conditions that can effect a character.
 
-The following buffs exist:
+The following standard buffs exist:
 ### Hasted
 ![[Hasted]]
 
@@ -36,7 +36,7 @@ The following buffs exist:
 
 Debuffs are negative conditions that can effect a character.
 
-The following debuffs exist:
+The following standard debuffs exist:
 ### Blind
 ![[Blind]]
 ### Charmed

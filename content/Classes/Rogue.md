@@ -49,7 +49,7 @@ The [[Fortress]]
 
 # Abilities
 ## Opportunity Hunter
-When the Rogue [[Hit|Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each [[Statuses and Conditions/index#Status|Status]] and each [[Statuses and Conditions/index#Debuffs|Debuff]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
+When the Rogue [[Hit|Hits]] a [[Rules/Characters/index|Character]], they deal 1d4 additional damage for each negative [[Statuses and Conditions/index#Status|Status and Condition]] on the target, (If you consume [[Marked]] for this [[Strike]], it still counts). 
 If the target is [[Overwhelmed]] and not in combat, this kills the character instead.
 
 If the Rogue finds Shelter while [[Scouting]], the [[Fortress]] becomes [[Hidden]].

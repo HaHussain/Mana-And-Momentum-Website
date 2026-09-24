@@ -71,7 +71,7 @@ A [[Size]] 2 riding animal:
 The Pathfinder gains +1 [[Speed]] and when they roll a [[Traverse]] roll to climb, any [[Rules/Rolls/index#Dice Value|roll]] on a d20 less than a 10 is considered to be a 10.
 
 When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].
-When the Pathfinder applies [[Marked]], it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they, or their [[#Animal Companion|Companion]] has seen before, if they do, it lasts for a day.
+When the Pathfinder applies [[Marked]], the action gains the [[Curse]] tag, it lasts for an hour, and they can spend a [[Momentum]] to apply [[Marked]] to a [[Rules/Characters/index|Character]] or [[Object]] they, or their [[#Animal Companion|Companion]] has seen before, if they do, it lasts for a day.
 
 The Pathfinder spends 1 less point creating a [[Rules/Exploration/index#Paths|Path]] and while [[Navigating]] the Pathfinder spends 1 less Navigation Point to not get lost.
 
