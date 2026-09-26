@@ -22,6 +22,11 @@ Science and Study will figure out the mysteries of the universe. The wizard bend
 # Health
 When you gain a Level in Wizard, you gain +1 [[Health Points|Max HP]].
 
+# Spellcasting
+Your base [[Arts/Spells/index|Max Mana]] is 2. Then gain +1 [[Arts/Spells/index|Max Mana]].
+You start with 4 known Spell lists and 6 known spells.
+When you gain a Level in Wizard, you learn 2 spells.
+
 # Custom Trigger
 Choose 1 of:
 - When the Wizard solves an issue by using study, intelligence, and / or book-smarts, gain 1 [[Temporary Mana]].

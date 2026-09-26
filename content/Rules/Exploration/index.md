@@ -12,6 +12,22 @@ Travel out into the wilds can occur as a hex-crawl or point-crawl while travel i
 For smaller local maps, 1 hex represents a distance of 5 or 10km, where each hex is 1 or 2 hours of travel at standard walking speed respectively.
 For larger maps, 1 hex represents 40km, where each hex is 1 day of travel at standard speed by a starting [[Fortress]].
 
+%%
+
+If we use 20km hexes:
+++ Every Uneasy (of which there are more) terrain becomes normal, and every normal hex becomes Easy/Quick.
+++ Move at least 1 hex per day, 2 along roads
+++ Super uneasy terrain (swamps?) becomes uneasy
+++ Roads doubling speed makes more sense and is more accurate
+++ More accurate to a village every hex in civilised locations
+?? Bigger / More zoomed in / More detailed / More dense map
+-- No longer accurately represents 'normal' travel speed. Halved - wilderness speed - becomes the norm.
+-- Need to adjust small hexes to 3km or 2.5km, to keep the 8x multiplier, but one is more clean, the other is more exact Could keep small hexes at 5km but that breaks 8x multiplier.
+-- Small hexes become 30m walk in town, is that weird?
+-- Travel clock becomes weirder - or more effective?
+
+%%
+
 When starting out on a journey, the players choose a [[#Travel Speed]], a route and assign [[#Travel Duties]].
 Then each travel period each [[Rules/Characters/index|Character]] assigned to a Duty, rolls, discusses with their group, assigns what they were able to perform with their duty and evaluates their results.
 
