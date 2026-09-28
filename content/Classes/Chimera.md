@@ -10,6 +10,7 @@ Chimera is about partial and full animal transformations and communication with 
 **Complexity:** Medium
 **Stats:** [[Instinct|INS]] and [[Fortitude|FOR]]
 **Mechanics:** [[Attack]], [[Magic]], [[Shift]], [[Transformation]], [[Ancestry]]
+**Role:** Any / #Spy / #Handler 
 **Combat Strategy:** ???
 **Social Strategy:** Sneak into places, get information and spread that information.
 

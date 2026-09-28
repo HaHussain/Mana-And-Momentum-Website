@@ -10,6 +10,7 @@ The Pathfinder is all about mobility and movement and scouting.
 **Complexity:** Medium
 **Stats:** [[Dexterity|DEX]] and [[Awareness|AWR]]
 **Mechanics:** [[Mark]], [[Seek]], [[Companion]], [[Traps]], [[Move]]
+**Role:** #Ranger / #Spy / #Scout + #Navigator
 **Combat Strategy:** [[Mark]] and [[Attack]] with ranged weapons and [[Move]] to find optimal positions. 
 Use your companion to help you do one of these things.
 **Social Strategy:** Track individuals wherever they go, listen into them on their conversations from a distance or from your [[Companion]].

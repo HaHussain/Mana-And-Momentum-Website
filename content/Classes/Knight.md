@@ -10,6 +10,7 @@ Knight is a simple class of defending themselves and their allies. Knight have p
 **Complexity:** Low
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
 **Mechanics:** [[Guard]], [[Exert]], [[Items/index|Items]]
+**Role:** #Defender / #Distracter / #Handler
 **Combat Strategy:** [[Guard]] any allies being [[Mark|Marked]] or out of position, Stand next to enemies to hit them with [[Melee#Attack of Opportunity|Attack of Opportunities]] to stop them from moving.
 **Social Strategy:** Build relationships and use your allies and favours to your advantage.
 

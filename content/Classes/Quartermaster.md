@@ -10,6 +10,7 @@ Quartermaster is specialised on being armed with a lot of tools and being able t
 **Complexity:** Medium
 **Stats:** [[Strength|STR]] and [[Awareness|AWR]]
 **Mechanics:** [[Teamwork]], [[Items/index|Items]], [[Item Points]]
+**Role:** #Support / #Inducer / #Navigator 
 **Combat Strategy:** Use [[Inventory]] actions to throw [[Items/index|Items]] to all your allies, using specific Item Focuses for the different situations. The more unique items you carry, the more versatility, choices, and power you gain.
 **Social Strategy:** Give gifts, bribe people, have a stash of equipment to collect info.
 
@@ -54,10 +55,10 @@ When the Quartermaster takes an [[Inventory]] action to draw an item, they may t
 - If the Item is an [[Armour]], the Character can immediately stow their armour and equip the tossed item as a [[Rules/Actions/Tags/Reaction|Reaction]].
 - If the Item is a [[Consumables|Consumable]], then the Character can immediately consume it as a [[Rules/Actions/Tags/Reaction|Reaction]].
 
-While [[Scouting]] the Quartermaster automatically reveals any settlements in their [[Seek]].
+While [[Navigating]] the Quartermaster automatically reveals any settlements in their [[Seek]].
 When the Quartermaster links two unlinked settlements together via a [[Rules/Exploration/index#Path|Path]], improve or worsen a quality of either settlement based on how this helps or hinders the community.
 When the Quartermaster links an unlinked settlement to a resource via a [[Rules/Exploration/index#Path|Path]], gain a [[Contact]] in the settlement based on how this helps or hinders the community.
-
+%% You can spend [[Item Points]] to detect new locations in Civilised areas. %%
 
 ## Trader
 

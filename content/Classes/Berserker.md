@@ -10,6 +10,7 @@ Berserkers are offensive based, lose control to gain benefits, take penalties to
 **Complexity:** Low
 **Stats:** [[Strength|STR]] and [[Fortitude|FOR]]
 **Mechanics:** [[Attack]], [[Exert]]
+**Role:** #Striker / #Inducer / #Forager + #Handler
 **Combat Strategy:** Run up to enemies and [[Attack]] them till they die. Or throw enemies and objects around.
 **Social Strategy:** Take risks. Get in people's faces, use your overwhelming physique to frighten them to fleeing or anger them into fighting you.
 

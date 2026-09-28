@@ -10,6 +10,7 @@ Rogues are all about stealth and often criminal networks
 **Complexity:** Low
 **Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
 **Mechanics:** [[Tempo]], [[Statuses and Conditions/index#Debuffs|Debuffs]], [[Hide]], [[Teamwork]]
+**Role:** #Striker / #Spy / #Scout
 **Combat Strategy:** Attack as many times as possible to kill [[Statuses and Conditions/index|Debuffed]] and [[Isolated]] enemies. Be opportunistic in your targets.
 Apply [[Statuses and Conditions/index|Debuffs]] to enemies with [[Consumables]] and [[Critical Strike|Crits]].
 [[Slow]] attack to move in one turn and then [[Quick]] attack to move out on the next to avoid being hit. 
@@ -59,6 +60,7 @@ While [[Hidden]] you gain the following benefits:
 - You may sense clearly though standard objects adjacent to you that would muffle (but not completely block) what you would normally sense.
 - You have [[Advantage]] on checks to spread rumours and misinformation to a [[Crowd]].
 - Your [[Fortress]] rolls twice on any rolls effecting the [[Rules/Exploration/index#Danger Clock|Danger Clock]] and may take either result.
+- Any [[Combat]] started by you on the [[Rules/Exploration/index|Danger Clock]] is an ambush, you cannot be ambushed by the [[Rules/Exploration/index|Danger Clock]].
 
 
 ## One Step Ahead

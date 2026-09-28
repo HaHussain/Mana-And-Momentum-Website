@@ -10,6 +10,7 @@ Tinkers are technological minded, creating custom items and unlocking potential 
 **Complexity:** High
 **Stats:** [[Dexterity|DEX]] and [[Intelligence|INT]]
 **Mechanics:** [[Items/index|Items]], [[Item Points]]
+**Role:** #Ranger / #Spy / Any
 **Combat Strategy:** Customise any item to support any play-style, then give them to your allies. Use [[Inventory]] actions to make [[Consumables]] on the fly.
 **Social Strategy:** 
 
