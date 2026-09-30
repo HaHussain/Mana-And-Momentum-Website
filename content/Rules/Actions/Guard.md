@@ -1,5 +1,5 @@
 ---
-icon: LiShield
+icon: GiCheckedShield
 ---
 Tempo: 4
 
