@@ -8,3 +8,7 @@ When you take a Help action choose an [[Ally]] in [[Range]] 1 and perform one of
 - Clear the [[Prone]] status and the [[Marked]] status if it has duration of [[Combat]]
 - Perform [[Teamwork]] on the [[Ally]]'s next [[Rules/Characters/Skills/index|Skill]] roll this round as a [[Rules/Actions/Tags/Reaction|Reaction]]
 - Transfer up to 2 [[Momentum]], [[Item Points]] or [[Temporary Mana]]
+
+Outside of [[Combat]], if you and an [[Ally]] can take the [[Scenes|Scene]] to console, decompress, or vent to: 
+- You each clear a [[Statuses and Conditions/index|Debuff]] ( + [[Deflection]] if wearing an [[Outfit]] ) with the duration of [[Scenes|Scene]] or [[Day]].
+- And also perform any number of the above.
