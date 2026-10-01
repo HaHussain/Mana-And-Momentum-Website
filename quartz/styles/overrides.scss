@@ -102,3 +102,11 @@ table .transclude-src {
 td:has(blockquote.transclude):has(pre) {
   padding: 0;
 }
+
+// tags in tables
+tags > a {
+  border-radius: 8px;
+  background-color: var(--highlight);
+  padding: 0.2rem 0.4rem;
+  margin: 0 0.1rem;
+}
