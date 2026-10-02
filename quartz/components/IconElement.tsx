@@ -12,6 +12,8 @@ export function IconElement({ icon, className = '' }: {
   
   if (type === 'lucide') {
     return <i class={`lucide icon-${name} ${className}`}></i>;
+  } else if (type.startsWith('fa-')) {
+    return <i class={`fa ${type} fa-${name} ${className}`}></i>;
   } else if (type === 'gi') { 
     const svgData = getSvg(name)
     if (!svgData) {

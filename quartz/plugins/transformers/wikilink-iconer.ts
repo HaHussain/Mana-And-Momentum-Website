@@ -40,8 +40,10 @@ export const wikilinkIconer: QuartzTransformerPlugin = () => {
               // Extract clean slug from href
               const cleanHref = href
                 .replace(/\.\.\//g, "")
+                .replace(/#.*$/, "")
                 .replace(/\.html$/, "")
-                .replace(/#.*$/, "");
+                .replace(/\/$/, "/index");
+
               
               // Find matching icon
               const icon = slugIconMap.get(cleanHref) || 

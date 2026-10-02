@@ -1,4 +1,4 @@
-type IconType = 'lucide' | 'ri' | 'ra' | 'gi';
+type IconType = 'lucide' | 'ri' | 'ra' | 'gi' | 'fa-solid' | 'fa-regular';
 
 interface NormalizedIcon {
   type: IconType;
@@ -11,6 +11,8 @@ const ICON_PREFIX_MAP: Record<string, IconType> = {
   'ra': 'ra',
   'li': 'lucide',
   'gi' : 'gi',
+  'fas' : 'fa-solid',
+  'far' : 'fa-regular'
 };
 
 let iconCache = new Map<string, NormalizedIcon>();
@@ -25,13 +27,20 @@ export function normalizeIcon(iconString: string): NormalizedIcon {
   if (cachedIcon) {
     return cachedIcon
   }
-  const prefixKey = iconString.slice(0, 2).toLowerCase();
+  const prefixMatch = iconString.match(/^[A-Z][a-z]*?(?=[A-Z])/)
+  const prefixKey = prefixMatch?.[0].toLowerCase() ?? iconString.toLowerCase()
+
   const type = ICON_PREFIX_MAP[prefixKey] || 'custom';
-  const name = camelToKebab(iconString.slice(2));
+  if (type === 'custom') {
+    console.warn(`IconString ${iconString} could not be found`);
+  }
+  const name = camelToKebab(iconString.slice(prefixMatch?.[0].length ?? 0))
   let value;
 
   switch (type) {
     case 'lucide': value = `lucide icon-${name}`; break;
+    case 'fa-solid': value = `fa fa-solid fa-${name}`; break;
+    case 'fa-regular': value = `fa fa-regular fa-${name}`; break; 
     default: value = `${prefixKey} ${prefixKey}-${name}`
   }
 
