@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: FasCircleHalfStroke
 aliases:
   - Actions
   - Unique Action Restriction
