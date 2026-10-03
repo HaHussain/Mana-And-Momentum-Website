@@ -57,7 +57,7 @@ When the Knight performs a great kindness for someone or a small kindness in the
 - [[Free]]: [[Scan]] with an additional option: What does the target hold dear?
 
 While the Knight is wearing [[Armour]], that Armour is also considered an [[Armour#Outfits|Outfit]].
-The Knight ignores their [[Weight]] one [[Armour]], [[Shields|Shield]] and two [[Weapons]].
+The Knight ignores the [[Weight]] of one [[Armour]], [[Shields|Shield]] and two [[Weapons]].
 
 
 ## Effort

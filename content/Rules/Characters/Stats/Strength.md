@@ -8,4 +8,5 @@ Raw power, Strength defines the sheer power you can output with your physical bo
 
 # Effects
 It effects:
-- Carrying Capacity
+- [[Hit]] and Damage rolls with [[Weapons#Melee Weapons|Melee Weapons]]
+- [[Weight|Max Weight]]

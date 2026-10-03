@@ -55,15 +55,15 @@ If the Pathfinder's [[Companion]] has any [[Movement Types]], then the Pathfinde
 A [[Size]] 1/2 [[Fly|Flying]] scouting animal:
 - The [[Companion]] can take the [[Extra]]: [[Mark]] action.
 - While the Pathfinder's [[Companion]] is in their [[Seek]], the [[Companion]]'s [[Seek]] counts as theirs.
-- While [[Scouting]], your scouting [[Range]] +1 without spending points.
+- While [[Scouting]], your scouting [[Range]] increases by +1 without spending points.
 
 A [[Size]] 1 [[Climb|Climbing]] battle animal:
 - The [[Companion]] can take the [[Extra]]: Standard [[Attack]] action.
 - The [[Companion]] can use any of your [[Technique|Techniques]].
-- While [[Foraging]], you may feed +1 additional [[Rules/Characters/index|Character]].
+- While [[Navigating]], it costs -1 points less to track; and you may spend 1 Point - [[Help]] to give all other roles 1 point.
 
 A [[Size]] 2 riding animal:
-- The [[Companion]] can take the [[Free]]: [[Move]] action.
+- The [[Companion]] can take the [[Extra]]: [[Move]] action.
 - While riding your [[Companion]], any of your Movement bonuses apply to it.
 - While [[Handling]], any of your Movement bonuses apply to your steeds.
 

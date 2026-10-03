@@ -70,7 +70,7 @@ Armour Focus 2:
 Weight Penalty: -1 [[Speed]], [[Orthogonal]]
 Tags: [[Heavy]]
 Armour Focus 1:
-Armour Focus 2: You may enter the squares occupied but non-allied [[Rules/Characters/index|Characters]] and perform [[Push]] 1.
+Armour Focus 2: You may enter the squares occupied by non-allied [[Rules/Characters/index|Characters]] and perform [[Push]] 1.
 
 # Outfits
 

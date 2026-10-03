@@ -23,8 +23,12 @@ If we use 20km hexes:
 ?? Bigger / More zoomed in / More detailed / More dense map
 -- No longer accurately represents 'normal' travel speed. Halved - wilderness speed - becomes the norm.
 -- Need to adjust small hexes to 3km or 2.5km, to keep the 8x multiplier, but one is more clean, the other is more exact Could keep small hexes at 5km but that breaks 8x multiplier.
--- Small hexes become 30m walk in town, is that weird?
+-- Small hexes become 30min walk in town, is that weird?
 -- Travel clock becomes weirder - or more effective?
+
+Could use 25km hexes
+++ 3km small hexes for roughly 8x multiplier
+-- A lot weirder rounding
 
 %%
 
