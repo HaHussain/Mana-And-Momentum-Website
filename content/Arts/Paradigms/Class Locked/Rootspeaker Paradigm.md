@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Rootspeaker Paradigm                                                                   |
-| ------------- | -------------------------------------------------------------------------------------- |
-| **Passive:**  |                                                                                        |
-| **Momentum:** |                                                                                        |
-| **Tags:**     | <tags>[[Social]] [[Arts/Paradigms/index\|Paradigm]] [[Locked]] : [[Pathfinder]]</tags> |
+| Rootspeaker Paradigm                                                                   | <   |
+| -------------------------------------------------------------------------------------- | --- |
+| **Passive:**                                                                           | <   |
+| **Momentum:**                                                                          |     |
+| <tags>[[Social]] [[Arts/Paradigms/index\|Paradigm]] [[Locked]] : [[Pathfinder]]</tags> | <   |
 
 # Techniques
 

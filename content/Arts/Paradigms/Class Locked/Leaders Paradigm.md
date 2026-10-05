@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Leader's Paradigm                                                                                                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | When you direct, command, or order a [[Rules/Characters/index\|Character]], you may [[Teamwork]] that character on the first roll they make to follow those orders, regardless of distance to you. |
-| **Momentum:** | When an [[NPC]] follows your order or request, and when you reward or punish them for their results, gain 1 [[Momentum]].                                                                          |
-| **Tags:**     | <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Commander]] </tags>                                                                                                                                   |
+| Leader's Paradigm                                                                                                                                                                                  | <                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| When you direct, command, or order a [[Rules/Characters/index\|Character]], you may [[Teamwork]] that character on the first roll they make to follow those orders, regardless of distance to you. | <                                                                                                                         |
+| **Momentum:**                                                                                                                                                                                      | When an [[NPC]] follows your order or request, and when you reward or punish them for their results, gain 1 [[Momentum]]. |
+| <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Commander]] </tags>                                                                                                                                   | <                                                                                                                         |
 
 # Techniques
 

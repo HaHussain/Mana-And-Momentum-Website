@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Charmer's Paradigm                                                                              |
-| ------------- | ----------------------------------------------------------------------------------------------- |
-| **Passive:**  | [[Rules/Characters/index\|Characters]] [[Charmed]] by you are considered [[Fascinated]] by you. |
-| **Momentum:** | When you make someone feel happy, appreciated or similarly good, gain a [[Momentum]].           |
-| **Tags:**     | [[Elemental Type\|Air]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]                       |
+| Charmer's Paradigm                                                                              | <                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[Rules/Characters/index\|Characters]] [[Charmed]] by you are considered [[Fascinated]] by you. | <                                                                                     |
+| **Momentum:**                                                                                   | When you make someone feel happy, appreciated or similarly good, gain a [[Momentum]]. |
+| <tags>[[Elemental Type\|Air]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]</tags>          | <                                                                                     |
 
 # Techniques
 

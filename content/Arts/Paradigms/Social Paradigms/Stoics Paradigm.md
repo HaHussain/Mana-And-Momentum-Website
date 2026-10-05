@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Stoic's Paradigm                                                                        |
-| ------------- | --------------------------------------------------------------------------------------- |
-| **Passive:**  | You become immune to Poison, [[Pain]], and any compulsions.                             |
-| **Momentum:** | Each time you remain unswayed by argument or resist mental effects, gain 1 [[Momentum]] |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Earth]] [[Social]] [[Paradigm]]              |
+| Stoic's Paradigm                                                                        | <                                                                                       |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| You become immune to Poison, [[Pain]], and any compulsions.                             | <                                                                                       |
+| **Momentum:**                                                                           | Each time you remain unswayed by argument or resist mental effects, gain 1 [[Momentum]] |
+| <tags>[[Elemental Type\|Dark]] [[Elemental Type\|Earth]] [[Social]] [[Paradigm]]</tags> | <                                                                                       |
 
 # Techniques
 

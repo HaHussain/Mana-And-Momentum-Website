@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Performer's Paradigm                                                                                                    |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | [[Rules/Characters/index\|Characters]] [[Fascinated]] by also have their [[Seek]] limited to a [[Cone]] centred on you. |
-| **Momentum:** | When you captivate someone's attention, gain 1 [[Momentum]].                                                            |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Light]] [[Social]] [[Arts/Paradigms/index\|Paradigm]]                        |
+| Performer's Paradigm                                                                                                    | <                                                            |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [[Rules/Characters/index\|Characters]] [[Fascinated]] by also have their [[Seek]] limited to a [[Cone]] centred on you. | <                                                            |
+| **Momentum:**                                                                                                           | When you captivate someone's attention, gain 1 [[Momentum]]. |
+| <tags>[[Elemental Type\|Dark]] [[Elemental Type\|Light]] [[Social]] [[Arts/Paradigms/index\|Paradigm]]</tags>           | <                                                            |
 
 # Techniques
 

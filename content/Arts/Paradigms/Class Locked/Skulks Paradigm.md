@@ -1,9 +1,9 @@
 # Paradigm
 
-|               | Juggernaut Paradigm                                          |
-| ------------- | ------------------------------------------------------------ |
-| **Passive:**  |                                                              |
-| **Momentum:** |                                                              |
-| **Tags:**     | <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Rogue]] </tags> |
+| Skulks Paradigm                                             | <   |
+| ----------------------------------------------------------- | --- |
+| **Passive:**                                                | <   |
+| **Momentum:**                                               |     |
+| <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Rogue]]</tags> | <   |
 
 # Techniques

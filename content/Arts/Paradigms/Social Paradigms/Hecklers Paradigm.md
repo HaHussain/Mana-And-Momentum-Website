@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Heckler's Paradigm                                                                                                         |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | When you [[Guard]] an [[Ally]], any [[Strike]] / [[Coerce]] / [[Persuade]] rolls against them takes a - 1d4 penalty.       |
-| **Momentum:** | When you support a [[Rules/Characters/index\|Character]] to enhance the tension or mood, they may grant you 1 [[Momentum]] |
-| **Tags:**     | [[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Paradigm]]                                                  |
+| Heckler's Paradigm                                                                                                   | <                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| When you [[Guard]] an [[Ally]], any [[Strike]] / [[Coerce]] / [[Persuade]] rolls against them takes a - 1d4 penalty. | <                                                                                                                          |
+| **Momentum:**                                                                                                        | When you support a [[Rules/Characters/index\|Character]] to enhance the tension or mood, they may grant you 1 [[Momentum]] |
+| <tags>[[Elemental Type\|Dark]] [[Elemental Type\|Fire]] [[Social]] [[Paradigm]]</tags>                               | <                                                                                                                          |
 
 # Techniques
 

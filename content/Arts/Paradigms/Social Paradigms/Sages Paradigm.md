@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Sage's Paradigm                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------- |
-| **Passive:**  | While your [[Ally\|Allies]] can draw [[Line of Sight]] to you, they cannot be [[Isolated]]. |
-| **Momentum:** | When you give substantial and helpful advise to an [[Ally]], gain 1 [[Momentum]].           |
-| **Tags:**     | [[Elemental Type\|Earth]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]                 |
+| Sage's Paradigm                                                                             | <                                                                                 |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| While your [[Ally\|Allies]] can draw [[Line of Sight]] to you, they cannot be [[Isolated]]. | <                                                                                 |
+| **Momentum:**                                                                               | When you give substantial and helpful advise to an [[Ally]], gain 1 [[Momentum]]. |
+| <tags>[[Elemental Type\|Earth]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]</tags>    | <                                                                                 |
 
 # Techniques
 

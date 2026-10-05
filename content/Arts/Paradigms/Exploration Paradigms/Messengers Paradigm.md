@@ -1,10 +1,10 @@
 # Paradigm
 
-|                                                                                                      | Messenger's Paradigm                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**                                                                                         | Unless they are actively perceiving you, [[Rules/Characters/index\|Characters]] do not notice your presence nor any identifying features. |
-| **Momentum:**                                                                                        | When you courier information or cargo from a person or place to another person or place, gain 1 [[Momentum]]                              |
-| [[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]] | <                                                                                                                                         |
+| Messenger's Paradigm                                                                                                                      | <                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Unless they are actively perceiving you, [[Rules/Characters/index\|Characters]] do not notice your presence nor any identifying features. | <                                                                                                            |
+| **Momentum:**                                                                                                                             | When you courier information or cargo from a person or place to another person or place, gain 1 [[Momentum]] |
+| <tags>[[Elemental Type\|Air]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]]</tags>                                         | <                                                                                                            |
 
 
 # Techniques

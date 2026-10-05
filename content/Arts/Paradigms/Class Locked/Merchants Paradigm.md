@@ -1,9 +1,9 @@
 # Paradigm
 
-|               | Juggernaut Paradigm                                                 |
-| ------------- | ------------------------------------------------------------------- |
-| **Passive:**  |                                                                     |
-| **Momentum:** |                                                                     |
-| **Tags:**     | <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Quartermaster]]</tags> |
+| Juggernaut Paradigm                                                 | <   |
+| ------------------------------------------------------------------- | --- |
+|                                                                     | <   |
+| **Momentum:**                                                       |     |
+| <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Quartermaster]]</tags> | <   |
 
 # Techniques

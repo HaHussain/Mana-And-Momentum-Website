@@ -1,10 +1,10 @@
 # Paradigm
 
-|               | Empath's Paradigm                                                                                                          |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Passive:**  | When you consume [[Vulnerable]] to heal or buff a [[Rules/Characters/index\|Character]], you may choose to not consume it. |
-| **Momentum:** | When a [[Rules/Characters/index\|Character]] opens up to you, and speaks openly or honestly, gain 2 [[Momentum]].          |
-| **Tags:**     | [[Elemental Type\|Water]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]                                                |
+| Empath's Paradigm                                                                                                          | <                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| When you consume [[Vulnerable]] to heal or buff a [[Rules/Characters/index\|Character]], you may choose to not consume it. | <                                                                                                                 |
+| **Momentum:**                                                                                                              | When a [[Rules/Characters/index\|Character]] opens up to you, and speaks openly or honestly, gain 2 [[Momentum]]. |
+| <tags>[[Elemental Type\|Water]] [[Elemental Type\|Light]] [[Social]] [[Paradigm]]</tags>                                   | <                                                                                                                 |
 
 # Techniques
 
