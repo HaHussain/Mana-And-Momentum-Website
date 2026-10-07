@@ -1,6 +1,6 @@
 # Paradigm
 
-| Messenger's Paradigm                                                                                                                      | <                                                                                                            |
+| Courier's Paradigm                                                                                                                        | <                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Unless they are actively perceiving you, [[Rules/Characters/index\|Characters]] do not notice your presence nor any identifying features. | <                                                                                                            |
 | **Momentum:**                                                                                                                             | When you courier information or cargo from a person or place to another person or place, gain 1 [[Momentum]] |

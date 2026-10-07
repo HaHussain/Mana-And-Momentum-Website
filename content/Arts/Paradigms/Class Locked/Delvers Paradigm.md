@@ -1,10 +1,10 @@
 # Paradigm
 
-| Delver's Paradigm                                                                                                                                                                            | <                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| You can feel the vibrations of movement and breathing through the earth of things within your [[Seek]].<br>This is transmitted through solid and liquid [[Object\|Objects]] and [[Terrain]]. | <                                                                        |
-| **Momentum:**                                                                                                                                                                                | When you identify structural weakness or a new path, gain 1 [[Momentum]] |
-| <tags>[[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]]</tags>                                                                                           | <                                                                        |
+| Delver's Paradigm                                                                                  | <                                                                        |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+|                                                                                                    | <                                                                        |
+| **Momentum:**                                                                                      | When you identify structural weakness or a new path, gain 1 [[Momentum]] |
+| <tags>[[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]]</tags> | <                                                                        |
 
 
 # Techniques

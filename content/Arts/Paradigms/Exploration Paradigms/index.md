@@ -14,14 +14,14 @@ aliases:
 | [[Beastspeakers Paradigm\|Beastspeaker]]                      | Work with beasts and animals to do jobs for you.                                                                      |
 | **Tags:** [[Elemental Type\|Air]] [[Elemental Type\|Water]]   | <                                                                                                                     |
 |                                                               |                                                                                                                       |
+| [[Couriers Paradigm\|Courier]]                                | Run far and fast whilst remaining unnoticeable and subtle.                                                            |
+| **Tags:** [[Elemental Type\|Air]] [[Elemental Type\|Earth]]   | <                                                                                                                     |
+|                                                               |                                                                                                                       |
 | [[Delvers Paradigm\|Delver]]                                  | Manipulate your [[Size]] to open up holes and slip through gaps.                                                      |
 | **Tags:** [[Elemental Type\|Fire]] [[Elemental Type\|Earth]]  | <                                                                                                                     |
 |                                                               |                                                                                                                       |
 | [[Hearthmakers Paradigm\|Hearthmaker]]                        | Create a comfortable area for your team to rest and plan, and manipulate people with your excellent cooking.          |
 | **Tags:** [[Elemental Type\|Earth]] [[Elemental Type\|Water]] | <                                                                                                                     |
-|                                                               |                                                                                                                       |
-| [[Messengers Paradigm\|Messenger]]                            | Run far and fast whilst remaining unnoticeable and subtle.                                                            |
-| **Tags:** [[Elemental Type\|Air]] [[Elemental Type\|Earth]]   | <                                                                                                                     |
 |                                                               |                                                                                                                       |
 | [[Renders Paradigm\|Render]]                                  | Use the corpses of animals to hunt and stalk foes endlessly.                                                          |
 | **Tags:** [[Elemental Type\|Fire]] [[Elemental Type\|Water]]  | <                                                                                                                     |
