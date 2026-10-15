@@ -1,10 +1,10 @@
 # Paradigm
 
-| Delver's Paradigm                                                                                  | <                                                                        |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-|                                                                                                    | <                                                                        |
-| **Momentum:**                                                                                      | When you identify structural weakness or a new path, gain 1 [[Momentum]] |
-| <tags>[[Elemental Type\|Fire]] [[Elemental Type\|Earth]] [[Arts/Paradigms/index\|Paradigm]]</tags> | <                                                                        |
+| Delver's Paradigm                                               | <                                                                        |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------ |
+|                                                                 | <                                                                        |
+| **Momentum:**                                                   | When you identify structural weakness or a new path, gain 1 [[Momentum]] |
+| <tags>[[Social]] [[Paradigm]] [[Locked]] : [[Berserker]]</tags> | <                                                                        |
 
 
 # Techniques

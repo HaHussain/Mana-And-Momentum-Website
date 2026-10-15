@@ -1,6 +1,6 @@
 # Paradigm
 
-| Juggernaut Paradigm                                                 | <   |
+| Mechant's Paradigm                                                  | <   |
 | ------------------------------------------------------------------- | --- |
 |                                                                     | <   |
 | **Momentum:**                                                       |     |
