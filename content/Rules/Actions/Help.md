@@ -10,5 +10,5 @@ When you take a Help action choose an [[Ally]] in [[Range]] 1 and perform one of
 - Transfer up to 2 [[Momentum]], [[Item Points]] or [[Temporary Mana]]
 
 Outside of [[Combat]], if you and an [[Ally]] can take the [[Scenes|Scene]] to console, decompress, or vent to: 
-- You each clear a [[Statuses and Conditions/index|Debuff]] ( + [[Deflection]] if wearing an [[Outfit]] ) with the duration of [[Scenes|Scene]] or [[Day]].
+- You each clear a [[Statuses and Conditions/index|Debuff]] with the duration of [[Scenes|Scene]] or [[Day]].
 - And also perform any number of the above.

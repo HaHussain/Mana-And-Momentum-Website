@@ -35,14 +35,14 @@ The Warden's Paradigm and Techniques are about reducing the damage you and your 
 
 ### Monitor Strike
 
-|              | Monitor Strike                                                                  |
-| ------------ | ------------------------------------------------------------------------------- |
-| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: Same as [[#Retaliate]]               |
-| **Special:** | You may use this Reaction a number of times per Round equal to (1 + [[Boost]])  |
-|              |                                                                                 |
-| **Trigger:** | The [[Marked]] enemy attempts a hostile action on an ally in [[Line of Sight]]. |
-| **Action:**  | [[Strike]] that enemy.                                                          |
-| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                           |
+|              | Monitor Strike                                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**   | [[Rules/Actions/Tags/Reaction\|Reaction]]: Same as [[#Retaliate]]                                                                                 |
+| **Special:** | You may use this Reaction a number of times per Round equal to (1 + [[Boost]])                                                                    |
+|              |                                                                                                                                                   |
+| **Trigger:** | The [[Marked]] enemy attempts a hostile action on an ally in [[Line of Sight]].                                                                   |
+| **Action:**  | [[Strike]] that enemy.<br>**[[Boost]] 3:** You may [[Normal Move]] towards the trigger as part of this [[Rules/Actions/Tags/Reaction\|Reaction]]. |
+| **Tags:**    | [[Rules/Actions/Tags/Reaction\|Reaction]], [[Strike]]                                                                                             |
 
 
 ## Shutdown Zone
@@ -57,15 +57,15 @@ The Warden's Paradigm and Techniques are about reducing the damage you and your 
 
 ## Dark Star Prison
 
-|               | Dark Star Prison                                                                                                                                                                                                                              |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tempo:**    | [[Guard]]                                                                                                                                                                                                                                     |
-| **Cost:**     | 4 + [[Boost]]                                                                                                                                                                                                                                 |
-|               |                                                                                                                                                                                                                                               |
-| **Target:**   | [[Seek]] + [[Boost]]                                                                                                                                                                                                                          |
-| **Duration:** | End of this Round                                                                                                                                                                                                                             |
-| **Action:**   | While they are in the affected area:<br>All [[Rules/Characters/index\|Characters]] of your choice can only move to squares closer to you.<br>All non-[[Arcing]] [[Ranged]] [[Strike\|Strikes]] that pass through the area target you instead. |
-| **Tags:**     | [[Rules/Actions/index\|Action]] [[Elemental Type\|Dark]]                                                                                                                                                                                      |
+|               | Dark Star Prison                                                                                                                                                                                                  |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tempo:**    | [[Guard]]                                                                                                                                                                                                         |
+| **Cost:**     | 2 + 2*[[Boost]]                                                                                                                                                                                                   |
+|               |                                                                                                                                                                                                                   |
+| **Target:**   | [[Seek]]                                                                                                                                                                                                          |
+| **Duration:** | End of this Round + [[Boost]] Rounds                                                                                                                                                                              |
+| **Action:**   | All [[Rules/Characters/index\|Characters]] of your choice in the area can only move to squares closer to you.<br>Any non-[[Arcing]] [[Ranged]] [[Strike\|Strikes]] that pass through the area target you instead. |
+| **Tags:**     | [[Rules/Actions/index\|Action]] [[Elemental Type\|Dark]]                                                                                                                                                          |
 
 ## Break Weapon
 

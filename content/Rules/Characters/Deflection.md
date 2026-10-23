@@ -7,4 +7,4 @@ When you are hit by a [[Strike]], you can reduce it by your Deflection before ta
 When you are hit by a [[Mob]], you apply Deflection for each member of that [[Mob]].
 
 With an [[Outfit]]:
-You may add your Deflection to your [[Statuses and Conditions/index|Debuff]] recovery from the [[Help]] action.
+You may choose that number of Standard [[Statuses and Conditions/index|Debuffs]] to become immune to.

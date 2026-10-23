@@ -61,7 +61,7 @@ The Knight ignores the [[Weight]] of one [[Armour]], [[Shields|Shield]] and two 
 
 
 ## Effort
-The Knight gains a Weapon Focus 1 with 2 [[Weapons]] of their choice.
+The Knight gains Weapon Focus 1 with 2 [[Weapons]] of their choice.
 
 While [[Fascinated]] by the Knight, [[Rules/Characters/index|Characters]] cannot move further away from the Knight.
 

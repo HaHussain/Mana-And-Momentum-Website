@@ -30,7 +30,7 @@ Chimera is about partial and full animal transformations and communication with 
 When you gain Level in Chimera, you gain +2 [[Health Points|Max HP]].
 
 # Spellcasting
-Your base [[Arts/Spells/index|Max Mana]] is 2.
+Your base [[Arts/Spells/index|Max Mana]] is 3.
 You start with 2 known Spell lists and 3 known spells.
 When you gain a Level in Chimera, you learn 1 spell.
 

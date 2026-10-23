@@ -19,12 +19,33 @@ Inquisitor's hold the domain over connection and minds, they use their psychic a
 | 9     |         |
 | 10    |         |
 
+# Health
+When you gain Level in Chimera, you gain +2 [[Health Points|Max HP]].
+
+# Spellcasting
+Your base [[Arts/Spells/index|Max Mana]] is 3.
+You start with 2 known Spell lists and 3 known spells.
+When you gain a Level in Chimera, you learn 1 spell.
+
 # Features
 
 ## Ability
 
-When the Inquisitor [[Hit|Hits]] a [[Rules/Characters/index|Character]] with a [[Strike]] or applies a [[Statuses and Conditions/index|Debuff]] that [[Rules/Characters/index|Character]] loses 1 [[Power Point|PP]] if it can, and if it does the Inquisitor gains 1 [[Momentum]].
-The Inquisitor may spend 1 [[Momentum]] to instead gain 1 [[Temporary Mana]].
+When the Inquisitor [[Hit|Hits]] a [[Rules/Characters/index|Character]] with a [[Strike]] or applies a [[Statuses and Conditions/index|Debuff]] that [[Rules/Characters/index|Character]] loses 1 [[Power Point|PP]].
+When the Inquisitor causes a [[Rules/Characters/index|Character]] to lose a [[Power Point|PP]], it may either gain 1 [[Momentum]] or spend 1 [[Momentum]] to instead gain 1 [[Temporary Mana]].
+
+## Psychometry
+
+The Inquisitor gains access to this spell:
+
+| **Psychometry**                                                                                                                    | **Tier 1**                  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Tempo:** [[Magic]]: 6                                                                                                            | **Mana:** [[Scenes\|Scene]] |
+| **Target**: 1 [[Rules/Characters/index\|Character]] or [[Object]] in [[Range]] 1                                                   | **Duration:** [[Instant]]   |
+|                                                                                                                                    | <                           |
+| If the target is a [[Rules/Characters/index\|Character]], make a [[Mental]] [[Strike]].<br><br>You read the memories of the target | <                           |
+| <tags>[[Unique]]: [[Inquisitor]] [[Mental]] [[Elemental Type\|Light]]</tags>                                                       | <                           |
+
 
 ## Psychometry
 

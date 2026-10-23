@@ -69,6 +69,7 @@ A [[Size]] 2 riding animal:
 
 
 ## Tracker
+The Pathfinder gains Weapon Focus 1 with 2 [[Ranged]] [[Weapons]] of their choice.
 The Pathfinder gains +1 [[Speed]] and when they roll a [[Traverse]] roll to climb, any [[Rules/Rolls/index#Dice Value|roll]] on a d20 less than a 10 is considered to be a 10.
 
 When the Pathfinder consumes [[Marked]] for a [[Strike]] and [[Miss|Misses]], they do not consume [[Marked]].

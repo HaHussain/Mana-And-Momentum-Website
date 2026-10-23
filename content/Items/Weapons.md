@@ -146,10 +146,10 @@ Tags: [[Melee]] 1, [[One-Handed]]
 | [[Ranged\|Ranged 20]], [[Two-Handed]], [[Arcing]]                                    | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Crossbow]]**                                                                    | Medium | A simple smaller ranged weapon<br>Focus: Usable in melee and pierce through armour                                         |
-| [[Ranged\|Ranged 5]] [[Two-Handed]]                                                  | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]] [[Two-Handed]] [[Push\|Push 2]]                                 | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Volley Crossbow]]**                                                             | Small  | A weak AoE ranged weapon that creates control zones<br>Focus: Ignores reloading on reactions and creates hazardous terrain |
-| [[Ranged\|Ranged 5]] x [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]          | <      | <                                                                                                                          |
+| [[Ranged\|Ranged 5]] [[Circle]] 3, [[Arcing]], [[Two-Handed]], [[Reload]]            | <      | <                                                                                                                          |
 |                                                                                      | <      | <                                                                                                                          |
 | **[[#Repeater Crossbow]]**                                                           | Small  | A weak AoE ranged weapon that effects large number of enemies.<br>Focus: Apply poison and                                  |
 | [[Ranged\|Ranged 5]], [[Line]] 8 / [[Cone]] 4, [[Two-Handed]], [[Reload]]            | <      | <                                                                                                                          |
@@ -195,7 +195,7 @@ Tags: [[Melee]] 1, [[One-Handed]]
 **Damage**: Medium
 **Weapon Focus 1**: This weapon ignores the penalties of using a Ranged weapon in Melee range.
 **Weapon Focus 2**: This weapon gains [[Piercing]] and deals additional damage on [[Hit]] equal to the target's [[Deflection]].
-**Tags**: [[Ranged]] #, [[Two-Handed]]
+**Tags**: [[Ranged]] #, [[Two-Handed]], [[Push|Push 2]]
 
 ### Volley Crossbow
 **Damage**: Small

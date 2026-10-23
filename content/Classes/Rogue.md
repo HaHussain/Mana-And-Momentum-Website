@@ -64,6 +64,8 @@ While [[Hidden]] you gain the following benefits:
 
 
 ## One Step Ahead
+The Rogue gains Weapon Focus 1 with 2 [[Quick]] [[Weapons]] of their choice.
+
 When the Rogue takes an [[Rules/Actions/index|Action]], they can spend a [[Momentum]] to add +/-1 to the Tempo of that action.
 
 When the Rogue first enters a [[Locations|Location]], the Rogue may [[Exert]] to gain a [[Contact]] in this location.

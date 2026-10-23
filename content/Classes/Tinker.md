@@ -63,6 +63,7 @@ If the Tinker crafts an [[Items/index|Item]], they can choose to add a [[#Modifi
 
 # Alter
 
+The Tinker gains Weapon Focus 1 with 2 [[Reload]] [[Weapons]] of their choice.
 When the Tinker fires a [[Reload|Reloading]] [[Weapons|Weapon]], they may spend 1 [[Momentum]] to take an [[Extra]]: [[Inventory]] action to reload it this round.
 
 The Tinker may choose to add additional [[#Modifications]] to a target - exceeding their normal Limit momentarily:
