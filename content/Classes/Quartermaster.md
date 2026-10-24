@@ -62,7 +62,7 @@ When the Quartermaster links an unlinked settlement to a resource via a [[Rules/
 
 ## Trader
 
-The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to **Quartermaster Level + ( [[TL]] / 3 )** and [[Item Points]] [[Weight|Weigh]]: 0.
+The Quartermaster gains an additional number of [[Item Points|Max Item Points]] equal to **[[Class Level|Quartermaster Level]] + ( [[Total Level|TL]] / 3 )** and [[Item Points]] [[Weight|Weigh]]: 0.
 
 When the Quartermaster successfully completes a deal, they may gain one of the following benefits in addition:
 - Apply the [[Charmed]], [[Restricted]], or [[Corroded]] to the target (if all are applied, apply any [[Statuses and Conditions/index|Debuff]])

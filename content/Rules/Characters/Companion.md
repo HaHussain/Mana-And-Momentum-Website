@@ -2,7 +2,7 @@ A Companion is a [[Rules/Characters/index|Character]] that operates under the co
 The Companion can take a [[Normal Move]] on each of its leader's normal turns.
 
 A Companion starts with 
-A Companion Gains +1 [[Health Points|HP]] for each its leader [[TL]].
+A Companion Gains +1 [[Health Points|HP]] for each its leader's [[Total Level|TL]].
 
 # Companion Base
 

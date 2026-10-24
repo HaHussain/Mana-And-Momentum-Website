@@ -49,7 +49,7 @@ The [[Fortress]]
 
 The Commander gets a unique Banner.
 If the Banner is destroyed, the Commander may expend 1 [[Item Points|Item Point]] to restore it. The Commander can only have 1 Banner at a time.
-The Commander may choose **(Commander Level / 3) + ([[TL]] / 10)** [[#Banner Crests|Crests]] for their banner.
+The Commander may choose **([[Class Level|Commander Level]] / 3) + ([[Total Level|TL]] / 10)** [[#Banner Crests|Crests]] for their banner.
 The banner has an [[Aura]] while being planted that has a size equal the Commander's [[Seek]]. While [[Rules/Characters/index|Characters]] are in this aura, they are affected by the abilities of the banner. If the Commander does not move for a round while holding the banner, they also emanate this [[Aura]].
 While on a [[Fortress]] the banner continuously effects all [[Ally|Allies]] and while [[Handling]], the banner continuously effects also all [[Steeds]].
 
@@ -64,7 +64,7 @@ While on a [[Fortress]] the banner continuously effects all [[Ally|Allies]] and 
 ## Tactician and Strategist
 
 The Commander learns a number of [[#Tactics]], which are specific [[Technique|Techniques]] without a [[Arts/Paradigms/index#Paradigms|Paradigm]] and are performed by all [[Ally|Allies]] in [[Seek]].
-The Commander knows **(Commander Level / 3) + ([[TL]] / 10)** Tactics that they can freely change during a [[Deep Rest]].
+The Commander knows **([[Class Level|Commander Level]] / 3) + ([[Total Level|TL]] / 10)** Tactics that they can freely change during a [[Deep Rest]].
 
 
 
