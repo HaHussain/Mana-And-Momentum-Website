@@ -36,6 +36,7 @@ The following standard buffs exist:
 
 Debuffs are negative conditions that can effect a character.
 
+When a [[Rules/Characters/index|Character]] with [[Arts/Spells/index|Mana]] committed gains a debuff, they must commit [[Arts/Spells/index|Mana]] to nothing. If they can't they must move an already committed mana to nothing.
 The following standard debuffs exist:
 ### Blind
 ![[Blind]]

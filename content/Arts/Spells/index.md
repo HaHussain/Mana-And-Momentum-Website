@@ -40,7 +40,13 @@ You can take the [[Reclaim]] action whenever you wish, if you do:
 - First - Reclaim any mana committed indefinitely.
 - Second - If you reclaimed any mana, commit one mana for the scene.
 
+## Debuffs
 
+When a [[Rules/Characters/index|Character]] with Mana committed has a Standard [[Statuses and Conditions/index|Debuff]] applied to them, they must Commit one mana indefinitely to nothing.
+If the [[Rules/Characters/index|Character]] has no available mana to Commit, they must move one already Committed mana to nothing at the duration same tier.
+
+
+## Temporary Mana
 ![[Temporary Mana]]
 
 ## Tier Down
